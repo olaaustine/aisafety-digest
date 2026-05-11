@@ -1,0 +1,196 @@
+[
+  {
+    "name": "LessWrong",
+    "url": "https://www.lesswrong.com",
+    "articles": [
+      {
+        "title": "RFDiffusion3: A Brief Exploration",
+        "url": "https://www.lesswrong.com/posts/jk4mLhka5GbdZKzNB/rfdiffusion3-a-brief-exploration"
+      },
+      {
+        "title": "Childhood And Education #17: Is Our Children Reading",
+        "url": "https://www.lesswrong.com/posts/dm2vQZPZcSKb8FhWw/childhood-and-education-17-is-our-children-reading"
+      },
+      {
+        "title": "The Iliad Intensive Course Materials",
+        "url": "https://www.lesswrong.com/posts/dWQnLi7AoKo3paBXF/the-iliad-intensive-course-materials"
+      },
+      {
+        "title": "[Linkpost] Language Models Can Autonomously Hack and Self-Replicate",
+        "url": "https://www.lesswrong.com/posts/JuoDNYDG8CgiQaCcz/linkpost-language-models-can-autonomously-hack-and-self"
+      },
+      {
+        "title": "Empowerment, corrigibility, etc. are simple abstractions (of a messed-up ontology)",
+        "url": "https://www.lesswrong.com/posts/vzHtHHBJoKATi5SeK/empowerment-corrigibility-etc-are-simple-abstractions-of-a"
+      },
+      {
+        "title": "A Field Guide To Learning",
+        "url": "https://www.lesswrong.com/posts/avnkAySMAhxEgmDm5/a-field-guide-to-learning"
+      },
+      {
+        "title": "Leading and Trailing Edge of Development",
+        "url": "https://www.lesswrong.com/posts/n3LztyjwmfeYEAvCG/leading-and-trailing-edge-of-development"
+      },
+      {
+        "title": "How useful is the information you get from working inside an AI company?",
+        "url": "https://www.lesswrong.com/posts/84TtjdeLcDTtCLYaP/how-useful-is-the-information-you-get-from-working-inside-an-2"
+      },
+      {
+        "title": "Anthropic\u2019s strange fixation on hyperstition",
+        "url": "https://www.lesswrong.com/posts/xhpktBLttPc6uXcHP/anthropic-s-strange-fixation-on-hyperstition"
+      },
+      {
+        "title": "Anti-civicality",
+        "url": "https://www.lesswrong.com/posts/fQvkuJwkTEw7wsDEb/anti-civicality"
+      }
+    ]
+  },
+  {
+    "name": "Alignment Forum",
+    "url": "https://www.alignmentforum.org",
+    "articles": [
+      {
+        "title": "Empowerment, corrigibility, etc. are simple abstractions (of a messed-up ontology)",
+        "url": "https://www.alignmentforum.org/posts/vzHtHHBJoKATi5SeK/empowerment-corrigibility-etc-are-simple-abstractions-of-a"
+      },
+      {
+        "title": "Clarifying the role of the behavioral selection model",
+        "url": "https://www.alignmentforum.org/posts/nBjo6yniFjmy2uaYa/clarifying-the-role-of-the-behavioral-selection-model"
+      },
+      {
+        "title": "Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations",
+        "url": "https://www.alignmentforum.org/posts/oeYesesaxjzMAktCM/natural-language-autoencoders-produce-unsupervised"
+      },
+      {
+        "title": "Mechanistic estimation for wide random MLPs",
+        "url": "https://www.alignmentforum.org/posts/fsG4m6sRMpomd7Rk6/mechanistic-estimation-for-wide-random-mlps"
+      },
+      {
+        "title": "[Linkpost] Interpreting Language Model Parameters",
+        "url": "https://www.alignmentforum.org/posts/eAQZaiC3PcBhS4HjM/linkpost-interpreting-language-model-parameters"
+      },
+      {
+        "title": "Motivated reasoning, confirmation bias, and AI risk theory",
+        "url": "https://www.alignmentforum.org/posts/QpgmEhBvJQxAfFMP2/motivated-reasoning-confirmation-bias-and-ai-risk-theory"
+      },
+      {
+        "title": "Exploration Hacking: Can LLMs Learn to Resist RL Training?",
+        "url": "https://www.alignmentforum.org/posts/eeFFpKCDWE9gjfzsk/exploration-hacking-can-llms-learn-to-resist-rl-training-2"
+      },
+      {
+        "title": "Risk from fitness-seeking AIs: mechanisms and mitigations",
+        "url": "https://www.alignmentforum.org/posts/9YCJZBtqr3FYL8rDp/risk-from-fitness-seeking-ais-mechanisms-and-mitigations"
+      },
+      {
+        "title": "Research Sabotage in ML Codebases",
+        "url": "https://www.alignmentforum.org/posts/LByP4qsF8a4g7Pz3p/research-sabotage-in-ml-codebases"
+      },
+      {
+        "title": "Recursive forecasting: Eliciting long-term forecasts from myopic fitness-seekers",
+        "url": "https://www.alignmentforum.org/posts/q2zYtNsh62SCphitt/recursive-forecasting-eliciting-long-term-forecasts-from"
+      }
+    ]
+  },
+  {
+    "name": "BlueDot Blog",
+    "url": "https://blog.bluedot.org",
+    "articles": []
+  },
+  {
+    "name": "Forethought",
+    "url": "https://forethought.org",
+    "articles": []
+  },
+  {
+    "name": "arXiv AI",
+    "url": "https://arxiv.org",
+    "articles": [
+      {
+        "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
+        "url": "https://arxiv.org/abs/2605.06671"
+      },
+      {
+        "title": "More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models",
+        "url": "https://arxiv.org/abs/2605.06672"
+      },
+      {
+        "title": "Fast and Effective Redistricting Optimization via Composite-Move Tabu Search",
+        "url": "https://arxiv.org/abs/2605.06682"
+      },
+      {
+        "title": "State Representation and Termination for Recursive Reasoning Systems",
+        "url": "https://arxiv.org/abs/2605.06690"
+      },
+      {
+        "title": "Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations",
+        "url": "https://arxiv.org/abs/2605.06696"
+      },
+      {
+        "title": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment",
+        "url": "https://arxiv.org/abs/2605.06702"
+      },
+      {
+        "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
+        "url": "https://arxiv.org/abs/2605.06716"
+      },
+      {
+        "title": "When Does a Language Model Commit? A Finite-Answer Theory of Pre-Verbalization Commitment",
+        "url": "https://arxiv.org/abs/2605.06723"
+      },
+      {
+        "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
+        "url": "https://arxiv.org/abs/2605.06761"
+      },
+      {
+        "title": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning",
+        "url": "https://arxiv.org/abs/2605.06772"
+      }
+    ]
+  },
+  {
+    "name": "Anthropic News",
+    "url": "https://www.anthropic.com/news",
+    "articles": [
+      {
+        "title": "Introducing Claude Opus 4.7ProductApr 16, 2026Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most.",
+        "url": "https://www.anthropic.com/news/news/claude-opus-4-7"
+      },
+      {
+        "title": "ProductApr 17, 2026Introducing Claude Design by Anthropic LabsToday, we\u2019re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
+        "url": "https://www.anthropic.com/news/news/claude-design-anthropic-labs"
+      },
+      {
+        "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe\u2019ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+        "url": "https://www.anthropic.com/news/news/claude-is-a-space-to-think"
+      },
+      {
+        "title": "May 6, 2026AnnouncementsHigher usage limits for Claude and a compute deal with SpaceX",
+        "url": "https://www.anthropic.com/news/news/higher-limits-spacex"
+      },
+      {
+        "title": "May 5, 2026AnnouncementsAgents for financial services",
+        "url": "https://www.anthropic.com/news/news/finance-agents"
+      },
+      {
+        "title": "May 4, 2026AnnouncementsBuilding a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+        "url": "https://www.anthropic.com/news/news/enterprise-ai-services-company"
+      },
+      {
+        "title": "Apr 28, 2026AnnouncementsClaude for Creative Work",
+        "url": "https://www.anthropic.com/news/news/claude-for-creative-work"
+      },
+      {
+        "title": "Apr 27, 2026AnnouncementsAnthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
+        "url": "https://www.anthropic.com/news/news/theo-hourmouzis-general-manager-australia-new-zealand"
+      },
+      {
+        "title": "Apr 24, 2026AnnouncementsAn update on our election safeguards",
+        "url": "https://www.anthropic.com/news/news/election-safeguards-update"
+      },
+      {
+        "title": "Apr 24, 2026AnnouncementsAnthropic and NEC collaborate to build Japan\u2019s largest AI engineering workforce",
+        "url": "https://www.anthropic.com/news/news/anthropic-nec"
+      }
+    ]
+  }
+]
