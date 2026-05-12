@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "RFDiffusion3: A Brief Exploration",
-        "url": "https://www.lesswrong.com/posts/jk4mLhka5GbdZKzNB/rfdiffusion3-a-brief-exploration"
+        "title": "Reinforcement Learning, Agency and Taste",
+        "url": "https://www.lesswrong.com/posts/ZLrBLW69CRF42wuNc/reinforcement-learning-agency-and-taste"
       },
       {
-        "title": "Childhood And Education #17: Is Our Children Reading",
-        "url": "https://www.lesswrong.com/posts/dm2vQZPZcSKb8FhWw/childhood-and-education-17-is-our-children-reading"
+        "title": "Childhood and Education #18: Do The Math",
+        "url": "https://www.lesswrong.com/posts/ZGGgxy6SNPAy9Hj7v/childhood-and-education-18-do-the-math"
       },
       {
-        "title": "The Iliad Intensive Course Materials",
-        "url": "https://www.lesswrong.com/posts/dWQnLi7AoKo3paBXF/the-iliad-intensive-course-materials"
+        "title": "The Owned Ones",
+        "url": "https://www.lesswrong.com/posts/xmWSnxJ5qfYRD9PfR/the-owned-ones"
       },
       {
-        "title": "[Linkpost] Language Models Can Autonomously Hack and Self-Replicate",
-        "url": "https://www.lesswrong.com/posts/JuoDNYDG8CgiQaCcz/linkpost-language-models-can-autonomously-hack-and-self"
+        "title": "On Having Good Hot Takes",
+        "url": "https://www.lesswrong.com/posts/rKykopZ6mJthfKQ8g/on-having-good-hot-takes"
       },
       {
-        "title": "Empowerment, corrigibility, etc. are simple abstractions (of a messed-up ontology)",
-        "url": "https://www.lesswrong.com/posts/vzHtHHBJoKATi5SeK/empowerment-corrigibility-etc-are-simple-abstractions-of-a"
+        "title": "Optimisation: Selective versus Predictive",
+        "url": "https://www.lesswrong.com/posts/GhhNswGB6butBhmE6/optimisation-selective-versus-predictive"
       },
       {
-        "title": "A Field Guide To Learning",
-        "url": "https://www.lesswrong.com/posts/avnkAySMAhxEgmDm5/a-field-guide-to-learning"
+        "title": "The Lies and Fallacies of the Buyer and Seller",
+        "url": "https://www.lesswrong.com/posts/wFbGzm5dNA33PDYke/the-lies-and-fallacies-of-the-buyer-and-seller"
       },
       {
-        "title": "Leading and Trailing Edge of Development",
-        "url": "https://www.lesswrong.com/posts/n3LztyjwmfeYEAvCG/leading-and-trailing-edge-of-development"
+        "title": "When should an AI incident trigger an international response? Criteria for international escalation and implications for the design of AI incident frameworks",
+        "url": "https://www.lesswrong.com/posts/6jRpMGEYb2fyY96D9/when-should-an-ai-incident-trigger-an-international-response"
       },
       {
-        "title": "How useful is the information you get from working inside an AI company?",
-        "url": "https://www.lesswrong.com/posts/84TtjdeLcDTtCLYaP/how-useful-is-the-information-you-get-from-working-inside-an-2"
+        "title": "Verbalised evaluation awareness in language models has little effect on their behaviour",
+        "url": "https://www.lesswrong.com/posts/YXPAjK6keLuebpjz2/verbalised-evaluation-awareness-in-language-models-has"
       },
       {
-        "title": "Anthropic\u2019s strange fixation on hyperstition",
-        "url": "https://www.lesswrong.com/posts/xhpktBLttPc6uXcHP/anthropic-s-strange-fixation-on-hyperstition"
+        "title": "Fibonacci Structure in Harmonic Series Partitions",
+        "url": "https://www.lesswrong.com/posts/mtmWd4uqFbxkkYvGG/fibonacci-structure-in-harmonic-series-partitions"
       },
       {
-        "title": "Anti-civicality",
-        "url": "https://www.lesswrong.com/posts/fQvkuJwkTEw7wsDEb/anti-civicality"
+        "title": "Hedging global oil supply shocks?",
+        "url": "https://www.lesswrong.com/posts/wBmhDiT9FFxizNf3b/hedging-global-oil-supply-shocks"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
-        "url": "https://arxiv.org/abs/2605.06671"
+        "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
+        "url": "https://arxiv.org/abs/2605.08200"
       },
       {
-        "title": "More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models",
-        "url": "https://arxiv.org/abs/2605.06672"
+        "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
+        "url": "https://arxiv.org/abs/2605.08220"
       },
       {
-        "title": "Fast and Effective Redistricting Optimization via Composite-Move Tabu Search",
-        "url": "https://arxiv.org/abs/2605.06682"
+        "title": "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria",
+        "url": "https://arxiv.org/abs/2605.08354"
       },
       {
-        "title": "State Representation and Termination for Recursive Reasoning Systems",
-        "url": "https://arxiv.org/abs/2605.06690"
+        "title": "Embeddings for Preferences, Not Semantics",
+        "url": "https://arxiv.org/abs/2605.08360"
       },
       {
-        "title": "Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations",
-        "url": "https://arxiv.org/abs/2605.06696"
+        "title": "On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective",
+        "url": "https://arxiv.org/abs/2605.08368"
       },
       {
-        "title": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment",
-        "url": "https://arxiv.org/abs/2605.06702"
+        "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
+        "url": "https://arxiv.org/abs/2605.08374"
       },
       {
-        "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
-        "url": "https://arxiv.org/abs/2605.06716"
+        "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
+        "url": "https://arxiv.org/abs/2605.08386"
       },
       {
-        "title": "When Does a Language Model Commit? A Finite-Answer Theory of Pre-Verbalization Commitment",
-        "url": "https://arxiv.org/abs/2605.06723"
+        "title": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams",
+        "url": "https://arxiv.org/abs/2605.08388"
       },
       {
-        "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
-        "url": "https://arxiv.org/abs/2605.06761"
+        "title": "CoCoDA: Co-evolving Compositional DAG for Tool-Augmented Agents",
+        "url": "https://arxiv.org/abs/2605.08399"
       },
       {
-        "title": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning",
-        "url": "https://arxiv.org/abs/2605.06772"
+        "title": "Belief or Circuitry? Causal Evidence for In-Context Graph Learning",
+        "url": "https://arxiv.org/abs/2605.08405"
       }
     ]
   },
