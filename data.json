@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Reinforcement Learning, Agency and Taste",
-        "url": "https://www.lesswrong.com/posts/ZLrBLW69CRF42wuNc/reinforcement-learning-agency-and-taste"
+        "title": "A lack of introspective ability is not a lack of corrigibility",
+        "url": "https://www.lesswrong.com/posts/5jbD2WQDy4yWHTtwL/a-lack-of-introspective-ability-is-not-a-lack-of"
       },
       {
-        "title": "Childhood and Education #18: Do The Math",
-        "url": "https://www.lesswrong.com/posts/ZGGgxy6SNPAy9Hj7v/childhood-and-education-18-do-the-math"
+        "title": "Cyber Lack of Security and AI Governance",
+        "url": "https://www.lesswrong.com/posts/pzjGXSKrkHGdGbtrW/cyber-lack-of-security-and-ai-governance"
       },
       {
-        "title": "The Owned Ones",
-        "url": "https://www.lesswrong.com/posts/xmWSnxJ5qfYRD9PfR/the-owned-ones"
+        "title": "Stickiness in AI Behavioral Design",
+        "url": "https://www.lesswrong.com/posts/x7nqxW5YmCstpA4DN/stickiness-in-ai-behavioral-design"
       },
       {
-        "title": "On Having Good Hot Takes",
-        "url": "https://www.lesswrong.com/posts/rKykopZ6mJthfKQ8g/on-having-good-hot-takes"
+        "title": "Predicting Rare LLM Failures with 30\u00d7 Fewer Rollouts",
+        "url": "https://www.lesswrong.com/posts/CempXdo6cx5yseRLt/predicting-rare-llm-failures-with-30-fewer-rollouts"
       },
       {
-        "title": "Optimisation: Selective versus Predictive",
-        "url": "https://www.lesswrong.com/posts/GhhNswGB6butBhmE6/optimisation-selective-versus-predictive"
+        "title": "Most \"inner work\" looks like entertainment.",
+        "url": "https://www.lesswrong.com/posts/KnvAXDyLAbs3iKkgf/most-inner-work-looks-like-entertainment-1"
       },
       {
-        "title": "The Lies and Fallacies of the Buyer and Seller",
-        "url": "https://www.lesswrong.com/posts/wFbGzm5dNA33PDYke/the-lies-and-fallacies-of-the-buyer-and-seller"
+        "title": "A Research Agenda for Secret Loyalties",
+        "url": "https://www.lesswrong.com/posts/ugBoeexGYvNLxZKA7/a-research-agenda-for-secret-loyalties"
       },
       {
-        "title": "When should an AI incident trigger an international response? Criteria for international escalation and implications for the design of AI incident frameworks",
-        "url": "https://www.lesswrong.com/posts/6jRpMGEYb2fyY96D9/when-should-an-ai-incident-trigger-an-international-response"
+        "title": "Apollo Update May 2026",
+        "url": "https://www.lesswrong.com/posts/4acQRDNyPs7tD8EED/apollo-update-may-2026"
       },
       {
-        "title": "Verbalised evaluation awareness in language models has little effect on their behaviour",
-        "url": "https://www.lesswrong.com/posts/YXPAjK6keLuebpjz2/verbalised-evaluation-awareness-in-language-models-has"
+        "title": "The case for fine-grained tracking of compute for AI",
+        "url": "https://www.lesswrong.com/posts/LFkzAxGCzEz2r4CtE/the-case-for-fine-grained-tracking-of-compute-for-ai"
       },
       {
-        "title": "Fibonacci Structure in Harmonic Series Partitions",
-        "url": "https://www.lesswrong.com/posts/mtmWd4uqFbxkkYvGG/fibonacci-structure-in-harmonic-series-partitions"
+        "title": "Vibe Excel and the Future of White-Collar Work",
+        "url": "https://www.lesswrong.com/posts/6jfPvEzM9C6P5sYqk/vibe-excel-and-the-future-of-white-collar-work"
       },
       {
-        "title": "Hedging global oil supply shocks?",
-        "url": "https://www.lesswrong.com/posts/wBmhDiT9FFxizNf3b/hedging-global-oil-supply-shocks"
+        "title": "\"Community organizer\" is a double oxymoron",
+        "url": "https://www.lesswrong.com/posts/oqpvYXHxSzuPxcact/community-organizer-is-a-double-oxymoron"
       }
     ]
   },
@@ -164,6 +164,10 @@
         "url": "https://www.anthropic.com/news/news/claude-is-a-space-to-think"
       },
       {
+        "title": "May 13, 2026AnnouncementsIntroducing Claude for Small Business",
+        "url": "https://www.anthropic.com/news/news/claude-for-small-business"
+      },
+      {
         "title": "May 6, 2026AnnouncementsHigher usage limits for Claude and a compute deal with SpaceX",
         "url": "https://www.anthropic.com/news/news/higher-limits-spacex"
       },
@@ -186,10 +190,6 @@
       {
         "title": "Apr 24, 2026AnnouncementsAn update on our election safeguards",
         "url": "https://www.anthropic.com/news/news/election-safeguards-update"
-      },
-      {
-        "title": "Apr 24, 2026AnnouncementsAnthropic and NEC collaborate to build Japan\u2019s largest AI engineering workforce",
-        "url": "https://www.anthropic.com/news/news/anthropic-nec"
       }
     ]
   }
