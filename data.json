@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "A lack of introspective ability is not a lack of corrigibility",
-        "url": "https://www.lesswrong.com/posts/5jbD2WQDy4yWHTtwL/a-lack-of-introspective-ability-is-not-a-lack-of"
+        "title": "2B scoring model flags out-of-domain misalignment, suggesting specialist judges have potential for audits",
+        "url": "https://www.lesswrong.com/posts/Bh4pBdAQfgoJ7CFoP/2b-scoring-model-flags-out-of-domain-misalignment-suggesting"
       },
       {
-        "title": "Cyber Lack of Security and AI Governance",
-        "url": "https://www.lesswrong.com/posts/pzjGXSKrkHGdGbtrW/cyber-lack-of-security-and-ai-governance"
+        "title": "The safe-to-dangerous shift is a fundamental problem for eval realism; but also for measuring awareness",
+        "url": "https://www.lesswrong.com/posts/tK8vqHDxaRGcysNJQ/the-safe-to-dangerous-shift-is-a-fundamental-problem-for-1"
       },
       {
-        "title": "Stickiness in AI Behavioral Design",
-        "url": "https://www.lesswrong.com/posts/x7nqxW5YmCstpA4DN/stickiness-in-ai-behavioral-design"
+        "title": "Most \"inner work\" is not optimized for results.",
+        "url": "https://www.lesswrong.com/posts/h4FYFksd23rf96KNa/most-inner-work-is-not-optimized-for-results"
       },
       {
-        "title": "Predicting Rare LLM Failures with 30\u00d7 Fewer Rollouts",
-        "url": "https://www.lesswrong.com/posts/CempXdo6cx5yseRLt/predicting-rare-llm-failures-with-30-fewer-rollouts"
+        "title": "AI #168: Not Leading the Future",
+        "url": "https://www.lesswrong.com/posts/E4uEiMSpnYRotfzJX/ai-168-not-leading-the-future"
       },
       {
-        "title": "Most \"inner work\" looks like entertainment.",
-        "url": "https://www.lesswrong.com/posts/KnvAXDyLAbs3iKkgf/most-inner-work-looks-like-entertainment-1"
+        "title": "Why Ensuring Flourishing Is Not About Alignment",
+        "url": "https://www.lesswrong.com/posts/uabjqAemPKkGSndfv/why-ensuring-flourishing-is-not-about-alignment"
       },
       {
-        "title": "A Research Agenda for Secret Loyalties",
-        "url": "https://www.lesswrong.com/posts/ugBoeexGYvNLxZKA7/a-research-agenda-for-secret-loyalties"
+        "title": "Intervening on Sparse, Anchored Concepts",
+        "url": "https://www.lesswrong.com/posts/sGskzx7LgsDkMLvcv/intervening-on-sparse-anchored-concepts"
       },
       {
-        "title": "Apollo Update May 2026",
-        "url": "https://www.lesswrong.com/posts/4acQRDNyPs7tD8EED/apollo-update-may-2026"
+        "title": "Algorithmic Perfection",
+        "url": "https://www.lesswrong.com/posts/HkYCeWbuRPvjEwTHy/algorithmic-perfection"
       },
       {
-        "title": "The case for fine-grained tracking of compute for AI",
-        "url": "https://www.lesswrong.com/posts/LFkzAxGCzEz2r4CtE/the-case-for-fine-grained-tracking-of-compute-for-ai"
+        "title": "Models finding software vulnerabilities is not the primary source of cybersecurity risk",
+        "url": "https://www.lesswrong.com/posts/gutiw8MBrYDiD2u5z/models-finding-software-vulnerabilities-is-not-the-primary"
       },
       {
-        "title": "Vibe Excel and the Future of White-Collar Work",
-        "url": "https://www.lesswrong.com/posts/6jfPvEzM9C6P5sYqk/vibe-excel-and-the-future-of-white-collar-work"
+        "title": "Claude is Now Alignment-Pretrained",
+        "url": "https://www.lesswrong.com/posts/Xqh9bDw7Ei5bExC6h/claude-is-now-alignment-pretrained-1"
       },
       {
-        "title": "\"Community organizer\" is a double oxymoron",
-        "url": "https://www.lesswrong.com/posts/oqpvYXHxSzuPxcact/community-organizer-is-a-double-oxymoron"
+        "title": "MATS Autumn 2026 Fellowship Applications Now Open\u2014Apply by June 7",
+        "url": "https://www.lesswrong.com/posts/GufBJNg62gkpbnE4Q/mats-autumn-2026-fellowship-applications-now-open-apply-by"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "The safe-to-dangerous shift is a fundamental problem for eval realism; but also for measuring awareness",
+        "url": "https://www.alignmentforum.org/posts/tK8vqHDxaRGcysNJQ/the-safe-to-dangerous-shift-is-a-fundamental-problem-for-1"
+      },
       {
         "title": "Empowerment, corrigibility, etc. are simple abstractions (of a messed-up ontology)",
         "url": "https://www.alignmentforum.org/posts/vzHtHHBJoKATi5SeK/empowerment-corrigibility-etc-are-simple-abstractions-of-a"
@@ -84,10 +88,6 @@
       {
         "title": "Research Sabotage in ML Codebases",
         "url": "https://www.alignmentforum.org/posts/LByP4qsF8a4g7Pz3p/research-sabotage-in-ml-codebases"
-      },
-      {
-        "title": "Recursive forecasting: Eliciting long-term forecasts from myopic fitness-seekers",
-        "url": "https://www.alignmentforum.org/posts/q2zYtNsh62SCphitt/recursive-forecasting-eliciting-long-term-forecasts-from"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
-        "url": "https://arxiv.org/abs/2605.08200"
+        "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
+        "url": "https://arxiv.org/abs/2605.12620"
       },
       {
-        "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
-        "url": "https://arxiv.org/abs/2605.08220"
+        "title": "Macro-Action Based Multi-Agent Instruction Following through Value Cancellation",
+        "url": "https://arxiv.org/abs/2605.12655"
       },
       {
-        "title": "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria",
-        "url": "https://arxiv.org/abs/2605.08354"
+        "title": "Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchmarks with BenchJack",
+        "url": "https://arxiv.org/abs/2605.12673"
       },
       {
-        "title": "Embeddings for Preferences, Not Semantics",
-        "url": "https://arxiv.org/abs/2605.08360"
+        "title": "Revealing Interpretable Failure Modes of VLMs",
+        "url": "https://arxiv.org/abs/2605.12674"
       },
       {
-        "title": "On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective",
-        "url": "https://arxiv.org/abs/2605.08368"
+        "title": "Learning Transferable Latent User Preferences for Human-Aligned Decision Making",
+        "url": "https://arxiv.org/abs/2605.12682"
       },
       {
-        "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
-        "url": "https://arxiv.org/abs/2605.08374"
+        "title": "On the Size Complexity and Decidability of First-Order Progression",
+        "url": "https://arxiv.org/abs/2605.12691"
       },
       {
-        "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
-        "url": "https://arxiv.org/abs/2605.08386"
+        "title": "DisaBench: A Participatory Evaluation Framework for Disability Harms in Language Models",
+        "url": "https://arxiv.org/abs/2605.12702"
       },
       {
-        "title": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams",
-        "url": "https://arxiv.org/abs/2605.08388"
+        "title": "CHAL: Council of Hierarchical Agentic Language",
+        "url": "https://arxiv.org/abs/2605.12718"
       },
       {
-        "title": "CoCoDA: Co-evolving Compositional DAG for Tool-Augmented Agents",
-        "url": "https://arxiv.org/abs/2605.08399"
+        "title": "BEHAVE: A Hybrid AI Framework for Real-Time Modeling of Collective Human Dynamics",
+        "url": "https://arxiv.org/abs/2605.12730"
       },
       {
-        "title": "Belief or Circuitry? Causal Evidence for In-Context Graph Learning",
-        "url": "https://arxiv.org/abs/2605.08405"
+        "title": "State-Centric Decision Process",
+        "url": "https://arxiv.org/abs/2605.12755"
       }
     ]
   },
@@ -162,6 +162,10 @@
       {
         "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe\u2019ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
         "url": "https://www.anthropic.com/news/news/claude-is-a-space-to-think"
+      },
+      {
+        "title": "May 14, 2026AnnouncementsAnthropic forms $200 million partnership with the Gates Foundation",
+        "url": "https://www.anthropic.com/news/news/gates-foundation-partnership"
       },
       {
         "title": "May 13, 2026AnnouncementsIntroducing Claude for Small Business",
@@ -186,10 +190,6 @@
       {
         "title": "Apr 27, 2026AnnouncementsAnthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
         "url": "https://www.anthropic.com/news/news/theo-hourmouzis-general-manager-australia-new-zealand"
-      },
-      {
-        "title": "Apr 24, 2026AnnouncementsAn update on our election safeguards",
-        "url": "https://www.anthropic.com/news/news/election-safeguards-update"
       }
     ]
   }
