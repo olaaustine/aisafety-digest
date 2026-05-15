@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "2B scoring model flags out-of-domain misalignment, suggesting specialist judges have potential for audits",
-        "url": "https://www.lesswrong.com/posts/Bh4pBdAQfgoJ7CFoP/2b-scoring-model-flags-out-of-domain-misalignment-suggesting"
+        "title": "Critical Thinking as a Gym Schedule",
+        "url": "https://www.lesswrong.com/posts/m4ahNJo6NyMiyEjf2/critical-thinking-as-a-gym-schedule"
       },
       {
-        "title": "The safe-to-dangerous shift is a fundamental problem for eval realism; but also for measuring awareness",
-        "url": "https://www.lesswrong.com/posts/tK8vqHDxaRGcysNJQ/the-safe-to-dangerous-shift-is-a-fundamental-problem-for-1"
+        "title": "Why I am not too worried about AIpocalypse: \nScott Alexander vs Nicolaus Copernicus",
+        "url": "https://www.lesswrong.com/posts/oyTQpqBtdawjAnfcm/why-i-am-not-too-worried-about-aipocalypse-scott-alexander"
       },
       {
-        "title": "Most \"inner work\" is not optimized for results.",
-        "url": "https://www.lesswrong.com/posts/h4FYFksd23rf96KNa/most-inner-work-is-not-optimized-for-results"
+        "title": "Risk reports need to\u00a0address deployment-time spread of misalignment",
+        "url": "https://www.lesswrong.com/posts/cNymohcWtGHzW7AjK/risk-reports-need-to-address-deployment-time-spread-of"
       },
       {
-        "title": "AI #168: Not Leading the Future",
-        "url": "https://www.lesswrong.com/posts/E4uEiMSpnYRotfzJX/ai-168-not-leading-the-future"
+        "title": "Monthly Roundup #42: May 2026",
+        "url": "https://www.lesswrong.com/posts/gZHNLmHkQ7GjnWsYh/monthly-roundup-42-may-2026"
       },
       {
-        "title": "Why Ensuring Flourishing Is Not About Alignment",
-        "url": "https://www.lesswrong.com/posts/uabjqAemPKkGSndfv/why-ensuring-flourishing-is-not-about-alignment"
+        "title": "Mechanistic estimation for expectations of random products",
+        "url": "https://www.lesswrong.com/posts/7RyAefESvb6BQ3tMz/mechanistic-estimation-for-expectations-of-random-products"
       },
       {
-        "title": "Intervening on Sparse, Anchored Concepts",
-        "url": "https://www.lesswrong.com/posts/sGskzx7LgsDkMLvcv/intervening-on-sparse-anchored-concepts"
+        "title": "Clarifying the Darwinian Honeymoon",
+        "url": "https://www.lesswrong.com/posts/sFMrzD58Cnjo7tSqb/clarifying-the-darwinian-honeymoon"
       },
       {
-        "title": "Algorithmic Perfection",
-        "url": "https://www.lesswrong.com/posts/HkYCeWbuRPvjEwTHy/algorithmic-perfection"
+        "title": "Announcing the Center for Shared AI Prosperity",
+        "url": "https://www.lesswrong.com/posts/CtRNmAQXmSotpAi9j/announcing-the-center-for-shared-ai-prosperity"
       },
       {
-        "title": "Models finding software vulnerabilities is not the primary source of cybersecurity risk",
-        "url": "https://www.lesswrong.com/posts/gutiw8MBrYDiD2u5z/models-finding-software-vulnerabilities-is-not-the-primary"
+        "title": "MATS 9 Retrospective & Advice",
+        "url": "https://www.lesswrong.com/posts/eFD3rozNCZKMe4rTs/mats-9-retrospective-and-advice"
       },
       {
-        "title": "Claude is Now Alignment-Pretrained",
-        "url": "https://www.lesswrong.com/posts/Xqh9bDw7Ei5bExC6h/claude-is-now-alignment-pretrained-1"
+        "title": "Data Quality is Way Underrated, and We Should Start Funding It.",
+        "url": "https://www.lesswrong.com/posts/n6G553yQvAysStsvw/data-quality-is-way-underrated-and-we-should-start-funding"
       },
       {
-        "title": "MATS Autumn 2026 Fellowship Applications Now Open\u2014Apply by June 7",
-        "url": "https://www.lesswrong.com/posts/GufBJNg62gkpbnE4Q/mats-autumn-2026-fellowship-applications-now-open-apply-by"
+        "title": "Don\u2019t be too Clever to Take Obvious Advice",
+        "url": "https://www.lesswrong.com/posts/J5L3PxKYv7XctQyQK/don-t-be-too-clever-to-take-obvious-advice"
       }
     ]
   },
@@ -49,6 +49,14 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Risk reports need to\u00a0address deployment-time spread of misalignment",
+        "url": "https://www.alignmentforum.org/posts/cNymohcWtGHzW7AjK/risk-reports-need-to-address-deployment-time-spread-of"
+      },
+      {
+        "title": "Mechanistic estimation for expectations of random products",
+        "url": "https://www.alignmentforum.org/posts/7RyAefESvb6BQ3tMz/mechanistic-estimation-for-expectations-of-random-products"
+      },
       {
         "title": "The safe-to-dangerous shift is a fundamental problem for eval realism; but also for measuring awareness",
         "url": "https://www.alignmentforum.org/posts/tK8vqHDxaRGcysNJQ/the-safe-to-dangerous-shift-is-a-fundamental-problem-for-1"
@@ -80,14 +88,6 @@
       {
         "title": "Exploration Hacking: Can LLMs Learn to Resist RL Training?",
         "url": "https://www.alignmentforum.org/posts/eeFFpKCDWE9gjfzsk/exploration-hacking-can-llms-learn-to-resist-rl-training-2"
-      },
-      {
-        "title": "Risk from fitness-seeking AIs: mechanisms and mitigations",
-        "url": "https://www.alignmentforum.org/posts/9YCJZBtqr3FYL8rDp/risk-from-fitness-seeking-ais-mechanisms-and-mitigations"
-      },
-      {
-        "title": "Research Sabotage in ML Codebases",
-        "url": "https://www.alignmentforum.org/posts/LByP4qsF8a4g7Pz3p/research-sabotage-in-ml-codebases"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
-        "url": "https://arxiv.org/abs/2605.12620"
+        "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
+        "url": "https://arxiv.org/abs/2605.13848"
       },
       {
-        "title": "Macro-Action Based Multi-Agent Instruction Following through Value Cancellation",
-        "url": "https://arxiv.org/abs/2605.12655"
+        "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity",
+        "url": "https://arxiv.org/abs/2605.13849"
       },
       {
-        "title": "Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchmarks with BenchJack",
-        "url": "https://arxiv.org/abs/2605.12673"
+        "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
+        "url": "https://arxiv.org/abs/2605.13850"
       },
       {
-        "title": "Revealing Interpretable Failure Modes of VLMs",
-        "url": "https://arxiv.org/abs/2605.12674"
+        "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
+        "url": "https://arxiv.org/abs/2605.13851"
       },
       {
-        "title": "Learning Transferable Latent User Preferences for Human-Aligned Decision Making",
-        "url": "https://arxiv.org/abs/2605.12682"
+        "title": "PREPING: Building Agent Memory without Tasks",
+        "url": "https://arxiv.org/abs/2605.13880"
       },
       {
-        "title": "On the Size Complexity and Decidability of First-Order Progression",
-        "url": "https://arxiv.org/abs/2605.12691"
+        "title": "PolitNuggets: Benchmarking Agentic Discovery of Long-Tail Political Facts",
+        "url": "https://arxiv.org/abs/2605.14002"
       },
       {
-        "title": "DisaBench: A Participatory Evaluation Framework for Disability Harms in Language Models",
-        "url": "https://arxiv.org/abs/2605.12702"
+        "title": "Conditional Attribute Estimation with Autoregressive Sequence Models",
+        "url": "https://arxiv.org/abs/2605.14004"
       },
       {
-        "title": "CHAL: Council of Hierarchical Agentic Language",
-        "url": "https://arxiv.org/abs/2605.12718"
+        "title": "Sheaf-Theoretic Transport and Obstruction for Detecting Scientific Theory Shift in AI Agents",
+        "url": "https://arxiv.org/abs/2605.14033"
       },
       {
-        "title": "BEHAVE: A Hybrid AI Framework for Real-Time Modeling of Collective Human Dynamics",
-        "url": "https://arxiv.org/abs/2605.12730"
+        "title": "From Descriptive to Prescriptive: Uncover the Social Value Alignment of LLM-based Agents",
+        "url": "https://arxiv.org/abs/2605.14034"
       },
       {
-        "title": "State-Centric Decision Process",
-        "url": "https://arxiv.org/abs/2605.12755"
+        "title": "Enhanced and Efficient Reasoning in Large Learning Models",
+        "url": "https://arxiv.org/abs/2605.14036"
       }
     ]
   },
@@ -162,6 +162,10 @@
       {
         "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe\u2019ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
         "url": "https://www.anthropic.com/news/news/claude-is-a-space-to-think"
+      },
+      {
+        "title": "May 14, 2026AnnouncementsPwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+        "url": "https://www.anthropic.com/news/news/pwc-expanded-partnership"
       },
       {
         "title": "May 14, 2026AnnouncementsAnthropic forms $200 million partnership with the Gates Foundation",
@@ -186,10 +190,6 @@
       {
         "title": "Apr 28, 2026AnnouncementsClaude for Creative Work",
         "url": "https://www.anthropic.com/news/news/claude-for-creative-work"
-      },
-      {
-        "title": "Apr 27, 2026AnnouncementsAnthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
-        "url": "https://www.anthropic.com/news/news/theo-hourmouzis-general-manager-australia-new-zealand"
       }
     ]
   }
