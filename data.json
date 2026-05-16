@@ -4,8 +4,32 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Critical Thinking as a Gym Schedule",
-        "url": "https://www.lesswrong.com/posts/m4ahNJo6NyMiyEjf2/critical-thinking-as-a-gym-schedule"
+        "title": "Benchmarking Real Work",
+        "url": "https://www.lesswrong.com/posts/NbDjD47u6WmthgiDC/benchmarking-real-work"
+      },
+      {
+        "title": "Trying to use NLAs to find out how Qwen 2.5 7B does multiplication",
+        "url": "https://www.lesswrong.com/posts/XN6CrJDiZvphGCC2e/trying-to-use-nlas-to-find-out-how-qwen-2-5-7b-does"
+      },
+      {
+        "title": "A Year Late, Claude Finally Beats Pok\u00e9mon",
+        "url": "https://www.lesswrong.com/posts/sehJYg5Yny9fvpbpt/a-year-late-claude-finally-beats-pokemon"
+      },
+      {
+        "title": "NLA Verbalizations on AuditBench: Llama 70B",
+        "url": "https://www.lesswrong.com/posts/xmmBTkogixvAbyQFk/nla-verbalizations-on-auditbench-llama-70b"
+      },
+      {
+        "title": "An Introduction to Exemplar Partitioning for Mechanistic Interpretability",
+        "url": "https://www.lesswrong.com/posts/RroeHBSkBXXDsrryq/an-introduction-to-exemplar-partitioning-for-mechanistic-1"
+      },
+      {
+        "title": "An Argument for Analogies\u2014Polymaths 1/3",
+        "url": "https://www.lesswrong.com/posts/XcjKmpgtu2ijPToiz/an-argument-for-analogies-polymaths-1-3-1"
+      },
+      {
+        "title": "Incriminating misaligned AI models via distillation",
+        "url": "https://www.lesswrong.com/posts/BYH6ebmfZb3Eggzer/incriminating-misaligned-ai-models-via-distillation"
       },
       {
         "title": "Why I am not too worried about AIpocalypse: \nScott Alexander vs Nicolaus Copernicus",
@@ -18,30 +42,6 @@
       {
         "title": "Monthly Roundup #42: May 2026",
         "url": "https://www.lesswrong.com/posts/gZHNLmHkQ7GjnWsYh/monthly-roundup-42-may-2026"
-      },
-      {
-        "title": "Mechanistic estimation for expectations of random products",
-        "url": "https://www.lesswrong.com/posts/7RyAefESvb6BQ3tMz/mechanistic-estimation-for-expectations-of-random-products"
-      },
-      {
-        "title": "Clarifying the Darwinian Honeymoon",
-        "url": "https://www.lesswrong.com/posts/sFMrzD58Cnjo7tSqb/clarifying-the-darwinian-honeymoon"
-      },
-      {
-        "title": "Announcing the Center for Shared AI Prosperity",
-        "url": "https://www.lesswrong.com/posts/CtRNmAQXmSotpAi9j/announcing-the-center-for-shared-ai-prosperity"
-      },
-      {
-        "title": "MATS 9 Retrospective & Advice",
-        "url": "https://www.lesswrong.com/posts/eFD3rozNCZKMe4rTs/mats-9-retrospective-and-advice"
-      },
-      {
-        "title": "Data Quality is Way Underrated, and We Should Start Funding It.",
-        "url": "https://www.lesswrong.com/posts/n6G553yQvAysStsvw/data-quality-is-way-underrated-and-we-should-start-funding"
-      },
-      {
-        "title": "Don\u2019t be too Clever to Take Obvious Advice",
-        "url": "https://www.lesswrong.com/posts/J5L3PxKYv7XctQyQK/don-t-be-too-clever-to-take-obvious-advice"
       }
     ]
   },
