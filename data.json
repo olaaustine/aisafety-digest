@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
+        "title": "How to Quit Fandom: Apostasy",
+        "url": "https://www.lesswrong.com/posts/4xtmJGeSbCoDEbR2x/how-to-quit-fandom-apostasy"
+      },
+      {
+        "title": "Engineering a Safer World: Risk Modelling \u2014 and Safety Engineering? \u2014 for AI Loss of Control",
+        "url": "https://www.lesswrong.com/posts/mL5asdegoa56CkqgJ/engineering-a-safer-world-risk-modelling-and-safety"
+      },
+      {
+        "title": "Next Token Prediction is a Misleading Term",
+        "url": "https://www.lesswrong.com/posts/9FWuxzTqvzMa3TqCF/next-token-prediction-is-a-misleading-term"
+      },
+      {
+        "title": "Can ELK be brute-forced? Intertheoretic reduction",
+        "url": "https://www.lesswrong.com/posts/gZMLnaTYTwwrjmgfa/can-elk-be-brute-forced-intertheoretic-reduction"
+      },
+      {
+        "title": "James C. Scott: Seeing Like a State",
+        "url": "https://www.lesswrong.com/posts/iiDzt5qhesmQZiNAj/james-c-scott-seeing-like-a-state"
+      },
+      {
+        "title": "How to Reason about Your Health Issues",
+        "url": "https://www.lesswrong.com/posts/WiRrHDd3EiaRd6gsu/how-to-reason-about-your-health-issues"
+      },
+      {
+        "title": "Falling for the statistical parrot",
+        "url": "https://www.lesswrong.com/posts/zrYTzNeo6wPBSKrHR/falling-for-the-statistical-parrot"
+      },
+      {
+        "title": "On getting unstuck",
+        "url": "https://www.lesswrong.com/posts/q9HoBo6LCkCkxavLZ/on-getting-unstuck"
+      },
+      {
+        "title": "A relatively brief explanation of Boltzmann Brains",
+        "url": "https://www.lesswrong.com/posts/v8MSczS3CuoqMmTFw/a-relatively-brief-explanation-of-boltzmann-brains"
+      },
+      {
         "title": "Benchmarking Real Work",
         "url": "https://www.lesswrong.com/posts/NbDjD47u6WmthgiDC/benchmarking-real-work"
-      },
-      {
-        "title": "Trying to use NLAs to find out how Qwen 2.5 7B does multiplication",
-        "url": "https://www.lesswrong.com/posts/XN6CrJDiZvphGCC2e/trying-to-use-nlas-to-find-out-how-qwen-2-5-7b-does"
-      },
-      {
-        "title": "A Year Late, Claude Finally Beats Pok\u00e9mon",
-        "url": "https://www.lesswrong.com/posts/sehJYg5Yny9fvpbpt/a-year-late-claude-finally-beats-pokemon"
-      },
-      {
-        "title": "NLA Verbalizations on AuditBench: Llama 70B",
-        "url": "https://www.lesswrong.com/posts/xmmBTkogixvAbyQFk/nla-verbalizations-on-auditbench-llama-70b"
-      },
-      {
-        "title": "An Introduction to Exemplar Partitioning for Mechanistic Interpretability",
-        "url": "https://www.lesswrong.com/posts/RroeHBSkBXXDsrryq/an-introduction-to-exemplar-partitioning-for-mechanistic-1"
-      },
-      {
-        "title": "An Argument for Analogies\u2014Polymaths 1/3",
-        "url": "https://www.lesswrong.com/posts/XcjKmpgtu2ijPToiz/an-argument-for-analogies-polymaths-1-3-1"
-      },
-      {
-        "title": "Incriminating misaligned AI models via distillation",
-        "url": "https://www.lesswrong.com/posts/BYH6ebmfZb3Eggzer/incriminating-misaligned-ai-models-via-distillation"
-      },
-      {
-        "title": "Why I am not too worried about AIpocalypse: \nScott Alexander vs Nicolaus Copernicus",
-        "url": "https://www.lesswrong.com/posts/oyTQpqBtdawjAnfcm/why-i-am-not-too-worried-about-aipocalypse-scott-alexander"
-      },
-      {
-        "title": "Risk reports need to\u00a0address deployment-time spread of misalignment",
-        "url": "https://www.lesswrong.com/posts/cNymohcWtGHzW7AjK/risk-reports-need-to-address-deployment-time-spread-of"
-      },
-      {
-        "title": "Monthly Roundup #42: May 2026",
-        "url": "https://www.lesswrong.com/posts/gZHNLmHkQ7GjnWsYh/monthly-roundup-42-may-2026"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
-        "url": "https://arxiv.org/abs/2605.13848"
-      },
-      {
-        "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity",
-        "url": "https://arxiv.org/abs/2605.13849"
-      },
-      {
-        "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
-        "url": "https://arxiv.org/abs/2605.13850"
-      },
-      {
-        "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
-        "url": "https://arxiv.org/abs/2605.13851"
-      },
-      {
-        "title": "PREPING: Building Agent Memory without Tasks",
-        "url": "https://arxiv.org/abs/2605.13880"
-      },
-      {
-        "title": "PolitNuggets: Benchmarking Agentic Discovery of Long-Tail Political Facts",
-        "url": "https://arxiv.org/abs/2605.14002"
-      },
-      {
-        "title": "Conditional Attribute Estimation with Autoregressive Sequence Models",
-        "url": "https://arxiv.org/abs/2605.14004"
-      },
-      {
-        "title": "Sheaf-Theoretic Transport and Obstruction for Detecting Scientific Theory Shift in AI Agents",
-        "url": "https://arxiv.org/abs/2605.14033"
-      },
-      {
-        "title": "From Descriptive to Prescriptive: Uncover the Social Value Alignment of LLM-based Agents",
-        "url": "https://arxiv.org/abs/2605.14034"
-      },
-      {
-        "title": "Enhanced and Efficient Reasoning in Large Learning Models",
-        "url": "https://arxiv.org/abs/2605.14036"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
