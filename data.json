@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "How to Quit Fandom: Apostasy",
-        "url": "https://www.lesswrong.com/posts/4xtmJGeSbCoDEbR2x/how-to-quit-fandom-apostasy"
+        "title": "Coordinal: A Postmortem.",
+        "url": "https://www.lesswrong.com/posts/LuKCepxdb8HpEd9TF/coordinal-a-postmortem"
       },
       {
-        "title": "Engineering a Safer World: Risk Modelling \u2014 and Safety Engineering? \u2014 for AI Loss of Control",
-        "url": "https://www.lesswrong.com/posts/mL5asdegoa56CkqgJ/engineering-a-safer-world-risk-modelling-and-safety"
+        "title": "Noticing Confusion: A practice in staying curious",
+        "url": "https://www.lesswrong.com/posts/ByzpfjM5uirnepXdA/noticing-confusion-a-practice-in-staying-curious"
       },
       {
-        "title": "Next Token Prediction is a Misleading Term",
-        "url": "https://www.lesswrong.com/posts/9FWuxzTqvzMa3TqCF/next-token-prediction-is-a-misleading-term"
+        "title": "Dating Roundup #12: Sex and Violence",
+        "url": "https://www.lesswrong.com/posts/znzZyvxAvSSkep4tL/dating-roundup-12-sex-and-violence"
       },
       {
-        "title": "Can ELK be brute-forced? Intertheoretic reduction",
-        "url": "https://www.lesswrong.com/posts/gZMLnaTYTwwrjmgfa/can-elk-be-brute-forced-intertheoretic-reduction"
+        "title": "Negation Neglect: When models fail to learn negations in training",
+        "url": "https://www.lesswrong.com/posts/kYzcevrxer6SJPEdG/negation-neglect-when-models-fail-to-learn-negations-in"
       },
       {
-        "title": "James C. Scott: Seeing Like a State",
-        "url": "https://www.lesswrong.com/posts/iiDzt5qhesmQZiNAj/james-c-scott-seeing-like-a-state"
+        "title": "So are you some kind of communist?",
+        "url": "https://www.lesswrong.com/posts/xKhKfmAc6ChjhXrCQ/so-are-you-some-kind-of-communist"
       },
       {
-        "title": "How to Reason about Your Health Issues",
-        "url": "https://www.lesswrong.com/posts/WiRrHDd3EiaRd6gsu/how-to-reason-about-your-health-issues"
+        "title": "Thoughts on interviewing candidates for AI safety fellowships",
+        "url": "https://www.lesswrong.com/posts/jmGvMSnkemSPLs6qv/thoughts-on-interviewing-candidates-for-ai-safety"
       },
       {
-        "title": "Falling for the statistical parrot",
-        "url": "https://www.lesswrong.com/posts/zrYTzNeo6wPBSKrHR/falling-for-the-statistical-parrot"
+        "title": "PauseAI Munich Local Group Kickoff",
+        "url": "https://www.lesswrong.com/events/fBQju3sZhbgsk7Nas/pauseai-munich-local-group-kickoff"
       },
       {
-        "title": "On getting unstuck",
-        "url": "https://www.lesswrong.com/posts/q9HoBo6LCkCkxavLZ/on-getting-unstuck"
+        "title": "Classifier Context Rot: Monitor Performance Degrades with Context Length",
+        "url": "https://www.lesswrong.com/posts/7vpvNM7viJqNWAdG7/classifier-context-rot-monitor-performance-degrades-with"
       },
       {
-        "title": "A relatively brief explanation of Boltzmann Brains",
-        "url": "https://www.lesswrong.com/posts/v8MSczS3CuoqMmTFw/a-relatively-brief-explanation-of-boltzmann-brains"
+        "title": "How useful is cross-domain generalization for training LLM monitors?",
+        "url": "https://www.lesswrong.com/posts/NxGHQ6DWqnrjm9r6F/how-useful-is-cross-domain-generalization-for-training-llm-2"
       },
       {
-        "title": "Benchmarking Real Work",
-        "url": "https://www.lesswrong.com/posts/NbDjD47u6WmthgiDC/benchmarking-real-work"
+        "title": "Jhana Quick Start Guide",
+        "url": "https://www.lesswrong.com/posts/eZGJiaPJATTEZ49h8/jhana-quick-start-guide"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "DeepSlide: From Artifacts to Presentation Delivery",
+        "url": "https://arxiv.org/abs/2605.15202"
+      },
+      {
+        "title": "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch",
+        "url": "https://arxiv.org/abs/2605.15204"
+      },
+      {
+        "title": "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations",
+        "url": "https://arxiv.org/abs/2605.15205"
+      },
+      {
+        "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces",
+        "url": "https://arxiv.org/abs/2605.15215"
+      },
+      {
+        "title": "Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions",
+        "url": "https://arxiv.org/abs/2605.15217"
+      },
+      {
+        "title": "CAX-Agent: A Lightweight Agent Harness for Reliable APDL Automation",
+        "url": "https://arxiv.org/abs/2605.15218"
+      },
+      {
+        "title": "NOVA: Fundamental Limits of Knowledge Discovery Through AI",
+        "url": "https://arxiv.org/abs/2605.15219"
+      },
+      {
+        "title": "ICRL: Learning to Internalize Self-Critique with Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2605.15224"
+      },
+      {
+        "title": "NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol",
+        "url": "https://arxiv.org/abs/2605.15227"
+      },
+      {
+        "title": "Verifiable Agentic Infrastructure: Proof-Derived Authorization for Sovereign AI Systems",
+        "url": "https://arxiv.org/abs/2605.15228"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
@@ -121,6 +162,10 @@
       {
         "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe\u2019ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
         "url": "https://www.anthropic.com/news/news/claude-is-a-space-to-think"
+      },
+      {
+        "title": "May 18, 2026AnnouncementsAnthropic acquires Stainless",
+        "url": "https://www.anthropic.com/news/news/anthropic-acquires-stainless"
       },
       {
         "title": "May 14, 2026AnnouncementsPwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
@@ -145,10 +190,6 @@
       {
         "title": "May 4, 2026AnnouncementsBuilding a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
         "url": "https://www.anthropic.com/news/news/enterprise-ai-services-company"
-      },
-      {
-        "title": "Apr 28, 2026AnnouncementsClaude for Creative Work",
-        "url": "https://www.anthropic.com/news/news/claude-for-creative-work"
       }
     ]
   }
