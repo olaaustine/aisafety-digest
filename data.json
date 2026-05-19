@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Coordinal: A Postmortem.",
-        "url": "https://www.lesswrong.com/posts/LuKCepxdb8HpEd9TF/coordinal-a-postmortem"
+        "title": "Leaving DCA to the North on Foot",
+        "url": "https://www.lesswrong.com/posts/G7owAYQKtJ7Xe9QoB/leaving-dca-to-the-north-on-foot"
       },
       {
-        "title": "Noticing Confusion: A practice in staying curious",
-        "url": "https://www.lesswrong.com/posts/ByzpfjM5uirnepXdA/noticing-confusion-a-practice-in-staying-curious"
+        "title": "A Visual Guide to Natural Latents",
+        "url": "https://www.lesswrong.com/posts/oeaYxA85tBvtJB2a5/a-visual-guide-to-natural-latents"
       },
       {
-        "title": "Dating Roundup #12: Sex and Violence",
-        "url": "https://www.lesswrong.com/posts/znzZyvxAvSSkep4tL/dating-roundup-12-sex-and-violence"
+        "title": "Humans are not automatically strategic \u2014\u00a0\"inner work\" edition",
+        "url": "https://www.lesswrong.com/posts/YgwjwMx3royRmiTF2/humans-are-not-automatically-strategic-inner-work-edition"
       },
       {
-        "title": "Negation Neglect: When models fail to learn negations in training",
-        "url": "https://www.lesswrong.com/posts/kYzcevrxer6SJPEdG/negation-neglect-when-models-fail-to-learn-negations-in"
+        "title": "We Need to Get Serious about Uplift Studies",
+        "url": "https://www.lesswrong.com/posts/Xq2DecsGBRy7ELNcN/we-need-to-get-serious-about-uplift-studies"
       },
       {
-        "title": "So are you some kind of communist?",
-        "url": "https://www.lesswrong.com/posts/xKhKfmAc6ChjhXrCQ/so-are-you-some-kind-of-communist"
+        "title": "Brain Structure and IQ: How Myelin Elevates Intelligence",
+        "url": "https://www.lesswrong.com/posts/uYXjSHmHyjbNzuZqk/brain-structure-and-iq-how-myelin-elevates-intelligence"
       },
       {
-        "title": "Thoughts on interviewing candidates for AI safety fellowships",
-        "url": "https://www.lesswrong.com/posts/jmGvMSnkemSPLs6qv/thoughts-on-interviewing-candidates-for-ai-safety"
+        "title": "Sealing Conditional Misalignment in Inoculation Prompting with Consistency Training",
+        "url": "https://www.lesswrong.com/posts/LjBAPcY33EKZ7SuuN/sealing-conditional-misalignment-in-inoculation-prompting-1"
       },
       {
-        "title": "PauseAI Munich Local Group Kickoff",
-        "url": "https://www.lesswrong.com/events/fBQju3sZhbgsk7Nas/pauseai-munich-local-group-kickoff"
+        "title": "Let's have more partial insiders.",
+        "url": "https://www.lesswrong.com/posts/ezE6iaifkMSwPdrG8/let-s-have-more-partial-insiders"
       },
       {
-        "title": "Classifier Context Rot: Monitor Performance Degrades with Context Length",
-        "url": "https://www.lesswrong.com/posts/7vpvNM7viJqNWAdG7/classifier-context-rot-monitor-performance-degrades-with"
+        "title": "Roadmap through AI safety programs for early-career technical researchers",
+        "url": "https://www.lesswrong.com/posts/muH6H9i8CtNAubcoo/roadmap-through-ai-safety-programs-for-early-career"
       },
       {
-        "title": "How useful is cross-domain generalization for training LLM monitors?",
-        "url": "https://www.lesswrong.com/posts/NxGHQ6DWqnrjm9r6F/how-useful-is-cross-domain-generalization-for-training-llm-2"
+        "title": "When Fluency Is Free",
+        "url": "https://www.lesswrong.com/posts/k5By7jgukZ8dZukky/when-fluency-is-free"
       },
       {
-        "title": "Jhana Quick Start Guide",
-        "url": "https://www.lesswrong.com/posts/eZGJiaPJATTEZ49h8/jhana-quick-start-guide"
+        "title": "Should Rationalists Looksmaxx?",
+        "url": "https://www.lesswrong.com/posts/6Jb8hs4ZsxkhFasyG/should-rationalists-looksmaxx"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "DeepSlide: From Artifacts to Presentation Delivery",
-        "url": "https://arxiv.org/abs/2605.15202"
+        "title": "AgentWall: A Runtime Safety Layer for Local AI Agents",
+        "url": "https://arxiv.org/abs/2605.16265"
       },
       {
-        "title": "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch",
-        "url": "https://arxiv.org/abs/2605.15204"
+        "title": "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning",
+        "url": "https://arxiv.org/abs/2605.16309"
       },
       {
-        "title": "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations",
-        "url": "https://arxiv.org/abs/2605.15205"
+        "title": "From Prompts to Protocols: An AI Agent for Laboratory Automation",
+        "url": "https://arxiv.org/abs/2605.16552"
       },
       {
-        "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces",
-        "url": "https://arxiv.org/abs/2605.15215"
+        "title": "Skim: Speculative Execution for Fast and Efficient Web Agents",
+        "url": "https://arxiv.org/abs/2605.16565"
       },
       {
-        "title": "Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions",
-        "url": "https://arxiv.org/abs/2605.15217"
+        "title": "Scalable Uncertainty Reasoning in Knowledge Graphs",
+        "url": "https://arxiv.org/abs/2605.16568"
       },
       {
-        "title": "CAX-Agent: A Lightweight Agent Harness for Reliable APDL Automation",
-        "url": "https://arxiv.org/abs/2605.15218"
+        "title": "Counterparty Modeling is Not Strategy: The Limits of LLM Negotiators",
+        "url": "https://arxiv.org/abs/2605.16575"
       },
       {
-        "title": "NOVA: Fundamental Limits of Knowledge Discovery Through AI",
-        "url": "https://arxiv.org/abs/2605.15219"
+        "title": "PRISMat: Policy-Driven, Permutation-Invariant Autoregressive Material Generation",
+        "url": "https://arxiv.org/abs/2605.16612"
       },
       {
-        "title": "ICRL: Learning to Internalize Self-Critique with Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2605.15224"
+        "title": "TTE-Flash: Accelerating Reasoning-based Multimodal Representations via Think-Then-Embed Tokens",
+        "url": "https://arxiv.org/abs/2605.16638"
       },
       {
-        "title": "NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol",
-        "url": "https://arxiv.org/abs/2605.15227"
+        "title": "Sustainable Intelligence for the Wild: Democratizing Ecological Monitoring via Knowledge-Adaptive Edge Expert Agents",
+        "url": "https://arxiv.org/abs/2605.16671"
       },
       {
-        "title": "Verifiable Agentic Infrastructure: Proof-Derived Authorization for Sovereign AI Systems",
-        "url": "https://arxiv.org/abs/2605.15228"
+        "title": "LinAlg-Bench: A Forensic Benchmark Revealing Structural Failure Modes in LLM Mathematical Reasoning",
+        "url": "https://arxiv.org/abs/2605.16675"
       }
     ]
   },
@@ -162,6 +162,10 @@
       {
         "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe\u2019ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
         "url": "https://www.anthropic.com/news/news/claude-is-a-space-to-think"
+      },
+      {
+        "title": "May 19, 2026AnnouncementsKPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+        "url": "https://www.anthropic.com/news/news/anthropic-kpmg"
       },
       {
         "title": "May 18, 2026AnnouncementsAnthropic acquires Stainless",
@@ -186,10 +190,6 @@
       {
         "title": "May 5, 2026AnnouncementsAgents for financial services",
         "url": "https://www.anthropic.com/news/news/finance-agents"
-      },
-      {
-        "title": "May 4, 2026AnnouncementsBuilding a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
-        "url": "https://www.anthropic.com/news/news/enterprise-ai-services-company"
       }
     ]
   }
