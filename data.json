@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Leaving DCA to the North on Foot",
-        "url": "https://www.lesswrong.com/posts/G7owAYQKtJ7Xe9QoB/leaving-dca-to-the-north-on-foot"
+        "title": "Singular Learning Theory Comprehensive - 1",
+        "url": "https://www.lesswrong.com/posts/XyJDPDvvq9AmgBwpx/singular-learning-theory-comprehensive-1"
       },
       {
-        "title": "A Visual Guide to Natural Latents",
-        "url": "https://www.lesswrong.com/posts/oeaYxA85tBvtJB2a5/a-visual-guide-to-natural-latents"
+        "title": "Sparse Efficiency vs. Superposition: The Interpretability Tradeoff",
+        "url": "https://www.lesswrong.com/posts/w32ptvwibxPCJB57P/sparse-efficiency-vs-superposition-the-interpretability"
       },
       {
-        "title": "Humans are not automatically strategic \u2014\u00a0\"inner work\" edition",
-        "url": "https://www.lesswrong.com/posts/YgwjwMx3royRmiTF2/humans-are-not-automatically-strategic-inner-work-edition"
+        "title": "The Case for Evaluating Model Behaviors",
+        "url": "https://www.lesswrong.com/posts/J5KkwYnnaeNX7hL2s/the-case-for-evaluating-model-behaviors"
       },
       {
-        "title": "We Need to Get Serious about Uplift Studies",
-        "url": "https://www.lesswrong.com/posts/Xq2DecsGBRy7ELNcN/we-need-to-get-serious-about-uplift-studies"
+        "title": "Toward Interoperability of Minimal Programs",
+        "url": "https://www.lesswrong.com/posts/Fxv3qvjk65Pehpbea/toward-interoperability-of-minimal-programs"
       },
       {
-        "title": "Brain Structure and IQ: How Myelin Elevates Intelligence",
-        "url": "https://www.lesswrong.com/posts/uYXjSHmHyjbNzuZqk/brain-structure-and-iq-how-myelin-elevates-intelligence"
+        "title": "Fundamental Uncertainty $2,000 Essay Contest",
+        "url": "https://www.lesswrong.com/posts/vMJbnnvvrHNw728NC/fundamental-uncertainty-usd2-000-essay-contest"
       },
       {
-        "title": "Sealing Conditional Misalignment in Inoculation Prompting with Consistency Training",
-        "url": "https://www.lesswrong.com/posts/LjBAPcY33EKZ7SuuN/sealing-conditional-misalignment-in-inoculation-prompting-1"
+        "title": "Synthetic Persona Pretraining: Alignment from Token Zero",
+        "url": "https://www.lesswrong.com/posts/3xQQK9i8mhJDE2uMg/synthetic-persona-pretraining-alignment-from-token-zero"
       },
       {
-        "title": "Let's have more partial insiders.",
-        "url": "https://www.lesswrong.com/posts/ezE6iaifkMSwPdrG8/let-s-have-more-partial-insiders"
+        "title": "Give my children minds",
+        "url": "https://www.lesswrong.com/posts/EfuN2HNNtSL5rqFBM/give-my-children-minds"
       },
       {
-        "title": "Roadmap through AI safety programs for early-career technical researchers",
-        "url": "https://www.lesswrong.com/posts/muH6H9i8CtNAubcoo/roadmap-through-ai-safety-programs-for-early-career"
+        "title": "Check out my technological uplifting, civilization-building, and science in a magic world fiction!",
+        "url": "https://www.lesswrong.com/posts/GCLJqEvYpqXGXoeMu/check-out-my-technological-uplifting-civilization-building"
       },
       {
-        "title": "When Fluency Is Free",
-        "url": "https://www.lesswrong.com/posts/k5By7jgukZ8dZukky/when-fluency-is-free"
+        "title": "Power-seeking agents will likely be developed",
+        "url": "https://www.lesswrong.com/posts/CtnHpECuoq6eLL8fu/power-seeking-agents-will-likely-be-developed"
       },
       {
-        "title": "Should Rationalists Looksmaxx?",
-        "url": "https://www.lesswrong.com/posts/6Jb8hs4ZsxkhFasyG/should-rationalists-looksmaxx"
+        "title": "Apply now to Human-Aligned AI Summer School 2026",
+        "url": "https://www.lesswrong.com/posts/EjnHp6GGicomLqmfM/apply-now-to-human-aligned-ai-summer-school-2026"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "The Case for Evaluating Model Behaviors",
+        "url": "https://www.alignmentforum.org/posts/J5KkwYnnaeNX7hL2s/the-case-for-evaluating-model-behaviors"
+      },
       {
         "title": "Risk reports need to\u00a0address deployment-time spread of misalignment",
         "url": "https://www.alignmentforum.org/posts/cNymohcWtGHzW7AjK/risk-reports-need-to-address-deployment-time-spread-of"
@@ -84,10 +88,6 @@
       {
         "title": "Motivated reasoning, confirmation bias, and AI risk theory",
         "url": "https://www.alignmentforum.org/posts/QpgmEhBvJQxAfFMP2/motivated-reasoning-confirmation-bias-and-ai-risk-theory"
-      },
-      {
-        "title": "Exploration Hacking: Can LLMs Learn to Resist RL Training?",
-        "url": "https://www.alignmentforum.org/posts/eeFFpKCDWE9gjfzsk/exploration-hacking-can-llms-learn-to-resist-rl-training-2"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "AgentWall: A Runtime Safety Layer for Local AI Agents",
-        "url": "https://arxiv.org/abs/2605.16265"
+        "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
+        "url": "https://arxiv.org/abs/2605.18801"
       },
       {
-        "title": "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning",
-        "url": "https://arxiv.org/abs/2605.16309"
+        "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
+        "url": "https://arxiv.org/abs/2605.18818"
       },
       {
-        "title": "From Prompts to Protocols: An AI Agent for Laboratory Automation",
-        "url": "https://arxiv.org/abs/2605.16552"
+        "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
+        "url": "https://arxiv.org/abs/2605.18937"
       },
       {
-        "title": "Skim: Speculative Execution for Fast and Efficient Web Agents",
-        "url": "https://arxiv.org/abs/2605.16565"
+        "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
+        "url": "https://arxiv.org/abs/2605.19008"
       },
       {
-        "title": "Scalable Uncertainty Reasoning in Knowledge Graphs",
-        "url": "https://arxiv.org/abs/2605.16568"
+        "title": "AgentNLQ: A General-Purpose Agent for Natural Language to SQL",
+        "url": "https://arxiv.org/abs/2605.19010"
       },
       {
-        "title": "Counterparty Modeling is Not Strategy: The Limits of LLM Negotiators",
-        "url": "https://arxiv.org/abs/2605.16575"
+        "title": "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition",
+        "url": "https://arxiv.org/abs/2605.19031"
       },
       {
-        "title": "PRISMat: Policy-Driven, Permutation-Invariant Autoregressive Material Generation",
-        "url": "https://arxiv.org/abs/2605.16612"
+        "title": "Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On",
+        "url": "https://arxiv.org/abs/2605.19035"
       },
       {
-        "title": "TTE-Flash: Accelerating Reasoning-based Multimodal Representations via Think-Then-Embed Tokens",
-        "url": "https://arxiv.org/abs/2605.16638"
+        "title": "Interference-Aware Multi-Task Unlearning",
+        "url": "https://arxiv.org/abs/2605.19042"
       },
       {
-        "title": "Sustainable Intelligence for the Wild: Democratizing Ecological Monitoring via Knowledge-Adaptive Edge Expert Agents",
-        "url": "https://arxiv.org/abs/2605.16671"
+        "title": "Embedding by Elicitation: Dynamic Representations for Bayesian Optimization of System Prompts",
+        "url": "https://arxiv.org/abs/2605.19093"
       },
       {
-        "title": "LinAlg-Bench: A Forensic Benchmark Revealing Structural Failure Modes in LLM Mathematical Reasoning",
-        "url": "https://arxiv.org/abs/2605.16675"
+        "title": "DecisionBench: A Benchmark for Emergent Delegation in Long-Horizon Agentic Workflows",
+        "url": "https://arxiv.org/abs/2605.19099"
       }
     ]
   },
@@ -162,6 +162,10 @@
       {
         "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe\u2019ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
         "url": "https://www.anthropic.com/news/news/claude-is-a-space-to-think"
+      },
+      {
+        "title": "May 19, 2026AnnouncementsWidening the conversation on frontier AI",
+        "url": "https://www.anthropic.com/news/news/widening-conversation-ai"
       },
       {
         "title": "May 19, 2026AnnouncementsKPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
@@ -186,10 +190,6 @@
       {
         "title": "May 6, 2026AnnouncementsHigher usage limits for Claude and a compute deal with SpaceX",
         "url": "https://www.anthropic.com/news/news/higher-limits-spacex"
-      },
-      {
-        "title": "May 5, 2026AnnouncementsAgents for financial services",
-        "url": "https://www.anthropic.com/news/news/finance-agents"
       }
     ]
   }
