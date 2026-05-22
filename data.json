@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
+        "title": "Which technical AI safety fields are going to be automated first?",
+        "url": "https://www.lesswrong.com/posts/EnBCpnZooXdMaERbZ/which-technical-ai-safety-fields-are-going-to-be-automated"
+      },
+      {
+        "title": "Gemini 3.5 Flash Looks Good For How Fast It Is",
+        "url": "https://www.lesswrong.com/posts/WMZpPxqWEkZBBcaxf/gemini-3-5-flash-looks-good-for-how-fast-it-is"
+      },
+      {
+        "title": "The AI Industrial Explosion \u2014 Part 3: Going faster",
+        "url": "https://www.lesswrong.com/posts/drvdPzHysdiDEpoQE/the-ai-industrial-explosion-part-3-going-faster"
+      },
+      {
+        "title": "Notes on Collaborating with Claude Opus",
+        "url": "https://www.lesswrong.com/posts/5abm94pmRn8pXiHtw/notes-on-collaborating-with-claude-opus"
+      },
+      {
+        "title": "Proposal for \"Timelines to what\": DIAL distribution",
+        "url": "https://www.lesswrong.com/posts/tXyu3kFkXdhP8jJKB/proposal-for-timelines-to-what-dial-distribution"
+      },
+      {
+        "title": "AI is Not Normal Technology",
+        "url": "https://www.lesswrong.com/posts/F2mwKxFRhjqizA89p/ai-is-not-normal-technology"
+      },
+      {
+        "title": "Counting Arguments in AI Safety",
+        "url": "https://www.lesswrong.com/posts/jkrSyy3pC6eDrurDQ/counting-arguments-in-ai-safety"
+      },
+      {
+        "title": "Insurance Premiums To The Moon",
+        "url": "https://www.lesswrong.com/posts/4qHAarKCr3ANpAAgj/insurance-premiums-to-the-moon"
+      },
+      {
         "title": "Moderator's Principle of Least Surprise",
         "url": "https://www.lesswrong.com/posts/qeEMmd7LYHvBn7yrX/moderator-s-principle-of-least-surprise"
       },
       {
         "title": "You can opt out of allergies",
         "url": "https://www.lesswrong.com/posts/MqTwaZDZDgNGRaXus/you-can-opt-out-of-allergies"
-      },
-      {
-        "title": "Apr-May 2026 AI Security via Formal Methods",
-        "url": "https://www.lesswrong.com/posts/AKEGLDXeY4ZkSrpPn/apr-may-2026-ai-security-via-formal-methods"
-      },
-      {
-        "title": "An Introduction to Neo-Fatalism",
-        "url": "https://www.lesswrong.com/posts/4wKQKo3q5w23zNypA/an-introduction-to-neo-fatalism"
-      },
-      {
-        "title": "Loss of Oversight: How AI Systems May Become Harder to Audit, Monitor, and Investigate",
-        "url": "https://www.lesswrong.com/posts/JvZxp554WxcZ8BQvM/loss-of-oversight-how-ai-systems-may-become-harder-to-audit-1"
-      },
-      {
-        "title": "AI #169: New Knowledge",
-        "url": "https://www.lesswrong.com/posts/xWsBwrboYDEMdj8TC/ai-169-new-knowledge"
-      },
-      {
-        "title": "What am I, if not an AI?",
-        "url": "https://www.lesswrong.com/posts/xsDWd7e2yrPdtXMSu/what-am-i-if-not-an-ai-1"
-      },
-      {
-        "title": "Learned Chain-of-Thought Obfuscation Generalises to Unseen Tasks",
-        "url": "https://www.lesswrong.com/posts/HPqRsgSzgQd5HQsrB/learned-chain-of-thought-obfuscation-generalises-to-unseen"
-      },
-      {
-        "title": "Numb mental state shifts",
-        "url": "https://www.lesswrong.com/posts/3uDvQivMiGAtn5qen/numb-mental-state-shifts"
-      },
-      {
-        "title": "Women should be able to open things",
-        "url": "https://www.lesswrong.com/posts/bB5EDwcYH3GwoRWZf/women-should-be-able-to-open-things"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
-        "url": "https://arxiv.org/abs/2605.18801"
+        "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
+        "url": "https://arxiv.org/abs/2605.20189"
       },
       {
-        "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
-        "url": "https://arxiv.org/abs/2605.18818"
+        "title": "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration",
+        "url": "https://arxiv.org/abs/2605.20190"
       },
       {
-        "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
-        "url": "https://arxiv.org/abs/2605.18937"
+        "title": "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind",
+        "url": "https://arxiv.org/abs/2605.20423"
       },
       {
-        "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
-        "url": "https://arxiv.org/abs/2605.19008"
+        "title": "AgentCo-op: Retrieval-Based Synthesis of Interoperable Multi-Agent Workflows",
+        "url": "https://arxiv.org/abs/2605.20425"
       },
       {
-        "title": "AgentNLQ: A General-Purpose Agent for Natural Language to SQL",
-        "url": "https://arxiv.org/abs/2605.19010"
+        "title": "High Quality Embeddings for Horn Logic Reasoning",
+        "url": "https://arxiv.org/abs/2605.20467"
       },
       {
-        "title": "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition",
-        "url": "https://arxiv.org/abs/2605.19031"
+        "title": "$ECUAS_n$: A family of metrics for principled evaluation of uncertainty-augmented systems",
+        "url": "https://arxiv.org/abs/2605.20490"
       },
       {
-        "title": "Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On",
-        "url": "https://arxiv.org/abs/2605.19035"
+        "title": "Open-World Evaluations for Measuring Frontier AI Capabilities",
+        "url": "https://arxiv.org/abs/2605.20520"
       },
       {
-        "title": "Interference-Aware Multi-Task Unlearning",
-        "url": "https://arxiv.org/abs/2605.19042"
+        "title": "AgentAtlas: Beyond Outcome Leaderboards for LLM Agents",
+        "url": "https://arxiv.org/abs/2605.20530"
       },
       {
-        "title": "Embedding by Elicitation: Dynamic Representations for Bayesian Optimization of System Prompts",
-        "url": "https://arxiv.org/abs/2605.19093"
+        "title": "Personality Engineering with AI Agents: A New Methodology for Negotiation Research",
+        "url": "https://arxiv.org/abs/2605.20554"
       },
       {
-        "title": "DecisionBench: A Benchmark for Emergent Delegation in Long-Horizon Agentic Workflows",
-        "url": "https://arxiv.org/abs/2605.19099"
+        "title": "Mahjax: A GPU-Accelerated Mahjong Simulator for Reinforcement Learning in JAX",
+        "url": "https://arxiv.org/abs/2605.20577"
       }
     ]
   },
