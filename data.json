@@ -4,6 +4,26 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
+        "title": "A (Slightly) Mechanistic Theory for Exponentially Increasing AI Time Horizons?",
+        "url": "https://www.lesswrong.com/posts/zT76JcomKkdqo8tC6/a-slightly-mechanistic-theory-for-exponentially-increasing"
+      },
+      {
+        "title": "Neurogastronomic Phenomenology for Advanced Beginners, Applied and Pure",
+        "url": "https://www.lesswrong.com/posts/c8Qivx9TxhR6phHSQ/neurogastronomic-phenomenology-for-advanced-beginners"
+      },
+      {
+        "title": "Heretical Pasta",
+        "url": "https://www.lesswrong.com/posts/bG4ZhaH5NoxExiEDv/heretical-pasta"
+      },
+      {
+        "title": "Veganism is Virtuous, not Obligatory",
+        "url": "https://www.lesswrong.com/posts/ap9YxHmis8b5mjL8G/veganism-is-virtuous-not-obligatory"
+      },
+      {
+        "title": "Low Expectancy is Not a Confidence Problem",
+        "url": "https://www.lesswrong.com/posts/EPq866HecprKJN3Y2/low-expectancy-is-not-a-confidence-problem"
+      },
+      {
         "title": "Basic principles for dressing better.",
         "url": "https://www.lesswrong.com/posts/vHtouRBd8JNm2tNLH/basic-principles-for-dressing-better"
       },
@@ -22,26 +42,6 @@
       {
         "title": "How should we update on AI-enabled coups post-Mythos?",
         "url": "https://www.lesswrong.com/posts/R2JusihMx2eq3Mzxj/how-should-we-update-on-ai-enabled-coups-post-mythos"
-      },
-      {
-        "title": "PLA Daily Translation: Reflections on Warfare Brought by AGI",
-        "url": "https://www.lesswrong.com/posts/J3A6xauFQnvxPb9Y2/pla-daily-translation-reflections-on-warfare-brought-by-agi"
-      },
-      {
-        "title": "Can Large Language Models Identify Novel Threats? Part 1: Mirror Life and the Classification Gap",
-        "url": "https://www.lesswrong.com/posts/KmraQdRkQ7AxFfzcd/can-large-language-models-identify-novel-threats-part-1"
-      },
-      {
-        "title": "The Leaky AI Safety Pipeline",
-        "url": "https://www.lesswrong.com/posts/QZiotGqFG24gP5Pgy/the-leaky-ai-safety-pipeline"
-      },
-      {
-        "title": "The Fundamentals of Cogitism: Grounding Ethics in the Nature of Consciousness",
-        "url": "https://www.lesswrong.com/posts/M6Pvwfk5xb5qYY7Sz/the-fundamentals-of-cogitism-grounding-ethics-in-the-nature"
-      },
-      {
-        "title": "Looking for backdoors in Jane Street LLMs",
-        "url": "https://www.lesswrong.com/posts/a98MFPmqH54J2ayBn/looking-for-backdoors-in-jane-street-llms-1"
       }
     ]
   },
