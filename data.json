@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Cognitive Security as an AI Safety Cause Area",
-        "url": "https://www.lesswrong.com/posts/KGcE7eAdfxHchk25X/cognitive-security-as-an-ai-safety-cause-area"
+        "title": "Practical Learnings from Synthetic Document Finetuning",
+        "url": "https://www.lesswrong.com/posts/7zGgFPLaTXJwCJccB/practical-learnings-from-synthetic-document-finetuning"
       },
       {
-        "title": "Sentient Welfare Across Three Futures",
-        "url": "https://www.lesswrong.com/posts/N7sCXKfJ7RCJ9toyK/sentient-welfare-across-three-futures"
+        "title": "Claude, Author of the Humanitas",
+        "url": "https://www.lesswrong.com/posts/wRNJZz2iYrfDaSDdz/claude-author-of-the-humanitas"
       },
       {
-        "title": "Linkpost: New Vatican Encyclical on AI Governance",
-        "url": "https://www.lesswrong.com/posts/ehdv7z7L7ESxtKL4j/linkpost-new-vatican-encyclical-on-ai-governance"
+        "title": "When does debate help a weak judge? Evidence from code and logic",
+        "url": "https://www.lesswrong.com/posts/qt7ENbKdQihBKNjh7/when-does-debate-help-a-weak-judge-evidence-from-code-and"
       },
       {
-        "title": "How AI Will Save Prediction Markets",
-        "url": "https://www.lesswrong.com/posts/Ab3NKBkrLhm6ssszH/how-ai-will-save-prediction-markets"
+        "title": "ACX Atlanta June 2026 Meetup",
+        "url": "https://www.lesswrong.com/events/qzuudZzyXDr6YgsrX/acx-atlanta-june-2026-meetup"
       },
       {
-        "title": "Character-trained models can struggle to generalise",
-        "url": "https://www.lesswrong.com/posts/EWsLQbGCfuCpXaBiP/character-trained-models-can-struggle-to-generalise-1"
+        "title": "RTMH: Pope Leo\u2019s Magnifica Humanitas on AI",
+        "url": "https://www.lesswrong.com/posts/RZeg98Tdrq47vbjva/rtmh-pope-leo-s-magnifica-humanitas-on-ai"
       },
       {
-        "title": "Applications open for the Secure Program Synthesis Fellowship",
-        "url": "https://www.lesswrong.com/posts/RmKGiB8xmPK2hGmB9/applications-open-for-the-secure-program-synthesis"
+        "title": "The Fatal AGI Hardware Gap",
+        "url": "https://www.lesswrong.com/posts/QSrEfE3aJYB4uXqZL/the-fatal-agi-hardware-gap"
       },
       {
-        "title": "Announcing the Frontier Biodefense Fellowship (deadline 2 June)",
-        "url": "https://www.lesswrong.com/posts/D2BkWLA5mfhxTnHCW/announcing-the-frontier-biodefense-fellowship-deadline-2"
+        "title": "Many portions of Magnifica Humanitas appear to be AI-written",
+        "url": "https://www.lesswrong.com/posts/GbWwesBnetyiomxEH/many-portions-of-magnifica-humanitas-appear-to-be-ai-written"
       },
       {
-        "title": "Taxing Small Cars To Improve MPG",
-        "url": "https://www.lesswrong.com/posts/7K8Bnn6Pwh5ciXpKR/taxing-small-cars-to-improve-mpg"
+        "title": "Brain transfers might be the easiest path to life extension",
+        "url": "https://www.lesswrong.com/posts/oL2ABPZx6ZLBFzB7H/brain-transfers-might-be-the-easiest-path-to-life-extension"
       },
       {
-        "title": "A (Slightly) Mechanistic Theory for Exponentially Increasing AI Time Horizons?",
-        "url": "https://www.lesswrong.com/posts/zT76JcomKkdqo8tC6/a-slightly-mechanistic-theory-for-exponentially-increasing"
+        "title": "Some Thoughts on Bengio's Scientist AI",
+        "url": "https://www.lesswrong.com/posts/382m7ATXELt5eBgr3/some-thoughts-on-bengio-s-scientist-ai"
       },
       {
-        "title": "Neurogastronomic Phenomenology for Advanced Beginners, Applied and Pure",
-        "url": "https://www.lesswrong.com/posts/c8Qivx9TxhR6phHSQ/neurogastronomic-phenomenology-for-advanced-beginners"
+        "title": "Brackets Are a Bad Way to Regulate",
+        "url": "https://www.lesswrong.com/posts/FDxvpznjMzGNHjDRS/brackets-are-a-bad-way-to-regulate"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
-        "url": "https://arxiv.org/abs/2605.22866"
+        "title": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
+        "url": "https://arxiv.org/abs/2605.23908"
       },
       {
-        "title": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic",
-        "url": "https://arxiv.org/abs/2605.22874"
+        "title": "Confidence Calibration in Large Language Models",
+        "url": "https://arxiv.org/abs/2605.23909"
       },
       {
-        "title": "RMA: an Agentic System for Research-Level Mathematical Problems",
-        "url": "https://arxiv.org/abs/2605.22875"
+        "title": "How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Reasoning",
+        "url": "https://arxiv.org/abs/2605.23926"
       },
       {
-        "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
-        "url": "https://arxiv.org/abs/2605.22878"
+        "title": "Context: Proactive Goal-Directed Intelligence via Composable Sandboxed Programs, Declarative Wiring, and Structured Interaction",
+        "url": "https://arxiv.org/abs/2605.23928"
       },
       {
-        "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
-        "url": "https://arxiv.org/abs/2605.22883"
+        "title": "Toward Reliable Design of LLM-Enabled Agentic Workflows: Optimizing Latency-Reliability-Cost Tradeoffs",
+        "url": "https://arxiv.org/abs/2605.23929"
       },
       {
-        "title": "ImProver 2: Iteratively Self-Improving LMs for Neurosymbolic Proof Optimization",
-        "url": "https://arxiv.org/abs/2605.22885"
+        "title": "Quantum Frog: Emergent Cooperation and Difficulty Scaling in a Quantized-Time Cooperative Game",
+        "url": "https://arxiv.org/abs/2605.23930"
       },
       {
-        "title": "Mediative Fuzzy Logic: From Type-1 Foundations to Type-2, Type-3 and Quantum Extensions",
-        "url": "https://arxiv.org/abs/2605.22900"
+        "title": "BODHI: Precise OS Kernel Specification Inference",
+        "url": "https://arxiv.org/abs/2605.23931"
       },
       {
-        "title": "EVE-Agent: Evidence-Verifiable Self-Evolving Agents",
-        "url": "https://arxiv.org/abs/2605.22905"
+        "title": "When Correct Beliefs Collapse: Epistemic Resilience of LLMs under Clinical Pressure",
+        "url": "https://arxiv.org/abs/2605.23932"
       },
       {
-        "title": "The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems",
-        "url": "https://arxiv.org/abs/2605.23024"
+        "title": "Practical Quantum CIM Empowerment via All-Domestic-Core Agentic Large Model",
+        "url": "https://arxiv.org/abs/2605.23934"
       },
       {
-        "title": "PathCal: State-Aware Reflection-Marker Calibration for Efficient Reasoning",
-        "url": "https://arxiv.org/abs/2605.23074"
+        "title": "Operationalizing Reconstructive Authority: Runtime Construction, Dependency Resolution, and Execution Gating in Autonomous Agent Systems",
+        "url": "https://arxiv.org/abs/2605.23935"
       }
     ]
   },
