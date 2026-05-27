@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Practical Learnings from Synthetic Document Finetuning",
-        "url": "https://www.lesswrong.com/posts/7zGgFPLaTXJwCJccB/practical-learnings-from-synthetic-document-finetuning"
+        "title": "LLMs Through the Eyes of Vinge",
+        "url": "https://www.lesswrong.com/posts/tWBd6faBCQJmaFMBT/llms-through-the-eyes-of-vinge"
       },
       {
-        "title": "Claude, Author of the Humanitas",
-        "url": "https://www.lesswrong.com/posts/wRNJZz2iYrfDaSDdz/claude-author-of-the-humanitas"
+        "title": "Biologically Plausible SGD Is Hard",
+        "url": "https://www.lesswrong.com/posts/ewZXQgzaCvzdSvtWE/biologically-plausible-sgd-is-hard"
       },
       {
-        "title": "When does debate help a weak judge? Evidence from code and logic",
-        "url": "https://www.lesswrong.com/posts/qt7ENbKdQihBKNjh7/when-does-debate-help-a-weak-judge-evidence-from-code-and"
+        "title": "Eval Cooperativeness May Be a Scalable Mitigation for Eval Gaming",
+        "url": "https://www.lesswrong.com/posts/j8fkk38B8L7hEcGtg/eval-cooperativeness-may-be-a-scalable-mitigation-for-eval"
       },
       {
-        "title": "ACX Atlanta June 2026 Meetup",
-        "url": "https://www.lesswrong.com/events/qzuudZzyXDr6YgsrX/acx-atlanta-june-2026-meetup"
+        "title": "no, Magnifica Humanitas is not AI-written",
+        "url": "https://www.lesswrong.com/posts/oXCb4vW7doNQEdt4k/no-magnifica-humanitas-is-not-ai-written"
       },
       {
-        "title": "RTMH: Pope Leo\u2019s Magnifica Humanitas on AI",
-        "url": "https://www.lesswrong.com/posts/RZeg98Tdrq47vbjva/rtmh-pope-leo-s-magnifica-humanitas-on-ai"
+        "title": "Albuquerque ACX Meetup",
+        "url": "https://www.lesswrong.com/events/muQ7qvkmHNukNN8xG/albuquerque-acx-meetup"
       },
       {
-        "title": "The Fatal AGI Hardware Gap",
-        "url": "https://www.lesswrong.com/posts/QSrEfE3aJYB4uXqZL/the-fatal-agi-hardware-gap"
+        "title": "Full automation of AI R&D probably yields a large speed up even without a software-only singularity",
+        "url": "https://www.lesswrong.com/posts/jfwhvd43sbpkGTLyn/full-automation-of-ai-r-and-d-probably-yields-a-large-speed"
       },
       {
-        "title": "Many portions of Magnifica Humanitas appear to be AI-written",
-        "url": "https://www.lesswrong.com/posts/GbWwesBnetyiomxEH/many-portions-of-magnifica-humanitas-appear-to-be-ai-written"
+        "title": "Not Prosthetics",
+        "url": "https://www.lesswrong.com/posts/2XCN7rAdMMMeDJGkG/not-prosthetics"
       },
       {
-        "title": "Brain transfers might be the easiest path to life extension",
-        "url": "https://www.lesswrong.com/posts/oL2ABPZx6ZLBFzB7H/brain-transfers-might-be-the-easiest-path-to-life-extension"
+        "title": "BCI Cognition Enhancement is Possible",
+        "url": "https://www.lesswrong.com/posts/GC4HKvTae5arh7FCR/bci-cognition-enhancement-is-possible"
       },
       {
-        "title": "Some Thoughts on Bengio's Scientist AI",
-        "url": "https://www.lesswrong.com/posts/382m7ATXELt5eBgr3/some-thoughts-on-bengio-s-scientist-ai"
+        "title": "The ballad of TIGIT",
+        "url": "https://www.lesswrong.com/posts/iyatrrJaHysuhrqXe/the-ballad-of-tigit"
       },
       {
-        "title": "Brackets Are a Bad Way to Regulate",
-        "url": "https://www.lesswrong.com/posts/FDxvpznjMzGNHjDRS/brackets-are-a-bad-way-to-regulate"
+        "title": "Leveraging Introspection for Alignment",
+        "url": "https://www.lesswrong.com/posts/iXcQj8KkgKnomP9g8/leveraging-introspection-for-alignment"
       }
     ]
   },
@@ -49,6 +49,14 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Eval Cooperativeness May Be a Scalable Mitigation for Eval Gaming",
+        "url": "https://www.alignmentforum.org/posts/j8fkk38B8L7hEcGtg/eval-cooperativeness-may-be-a-scalable-mitigation-for-eval"
+      },
+      {
+        "title": "Full automation of AI R&D probably yields a large speed up even without a software-only singularity",
+        "url": "https://www.alignmentforum.org/posts/jfwhvd43sbpkGTLyn/full-automation-of-ai-r-and-d-probably-yields-a-large-speed"
+      },
       {
         "title": "The Case for Evaluating Model Behaviors",
         "url": "https://www.alignmentforum.org/posts/J5KkwYnnaeNX7hL2s/the-case-for-evaluating-model-behaviors"
@@ -80,14 +88,6 @@
       {
         "title": "Mechanistic estimation for wide random MLPs",
         "url": "https://www.alignmentforum.org/posts/fsG4m6sRMpomd7Rk6/mechanistic-estimation-for-wide-random-mlps"
-      },
-      {
-        "title": "[Linkpost] Interpreting Language Model Parameters",
-        "url": "https://www.alignmentforum.org/posts/eAQZaiC3PcBhS4HjM/linkpost-interpreting-language-model-parameters"
-      },
-      {
-        "title": "Motivated reasoning, confirmation bias, and AI risk theory",
-        "url": "https://www.alignmentforum.org/posts/QpgmEhBvJQxAfFMP2/motivated-reasoning-confirmation-bias-and-ai-risk-theory"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
-        "url": "https://arxiv.org/abs/2605.23908"
+        "title": "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization",
+        "url": "https://arxiv.org/abs/2605.26182"
       },
       {
-        "title": "Confidence Calibration in Large Language Models",
-        "url": "https://arxiv.org/abs/2605.23909"
+        "title": "Can LLMs Introspect? A Reality Check",
+        "url": "https://arxiv.org/abs/2605.26242"
       },
       {
-        "title": "How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Reasoning",
-        "url": "https://arxiv.org/abs/2605.23926"
+        "title": "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory",
+        "url": "https://arxiv.org/abs/2605.26252"
       },
       {
-        "title": "Context: Proactive Goal-Directed Intelligence via Composable Sandboxed Programs, Declarative Wiring, and Structured Interaction",
-        "url": "https://arxiv.org/abs/2605.23928"
+        "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions",
+        "url": "https://arxiv.org/abs/2605.26256"
       },
       {
-        "title": "Toward Reliable Design of LLM-Enabled Agentic Workflows: Optimizing Latency-Reliability-Cost Tradeoffs",
-        "url": "https://arxiv.org/abs/2605.23929"
+        "title": "Constraint acquisition needs better benchmarks",
+        "url": "https://arxiv.org/abs/2605.26279"
       },
       {
-        "title": "Quantum Frog: Emergent Cooperation and Difficulty Scaling in a Quantized-Time Cooperative Game",
-        "url": "https://arxiv.org/abs/2605.23930"
+        "title": "Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems",
+        "url": "https://arxiv.org/abs/2605.26302"
       },
       {
-        "title": "BODHI: Precise OS Kernel Specification Inference",
-        "url": "https://arxiv.org/abs/2605.23931"
+        "title": "Experiments in Agentic AI for Science",
+        "url": "https://arxiv.org/abs/2605.26305"
       },
       {
-        "title": "When Correct Beliefs Collapse: Epistemic Resilience of LLMs under Clinical Pressure",
-        "url": "https://arxiv.org/abs/2605.23932"
+        "title": "Anchor: Mitigating Artifact Drift in Agent Benchmark Generation",
+        "url": "https://arxiv.org/abs/2605.26321"
       },
       {
-        "title": "Practical Quantum CIM Empowerment via All-Domestic-Core Agentic Large Model",
-        "url": "https://arxiv.org/abs/2605.23934"
+        "title": "OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling",
+        "url": "https://arxiv.org/abs/2605.26322"
       },
       {
-        "title": "Operationalizing Reconstructive Authority: Runtime Construction, Dependency Resolution, and Execution Gating in Autonomous Agent Systems",
-        "url": "https://arxiv.org/abs/2605.23935"
+        "title": "JobBench: Aligning Agent Work With Human Will",
+        "url": "https://arxiv.org/abs/2605.26329"
       }
     ]
   },
@@ -162,6 +162,10 @@
       {
         "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe\u2019ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
         "url": "https://www.anthropic.com/news/news/claude-is-a-space-to-think"
+      },
+      {
+        "title": "May 26, 2026AnnouncementsAnthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+        "url": "https://www.anthropic.com/news/news/kiyoung-choi-representative-director-anthropic-korea"
       },
       {
         "title": "May 25, 2026AnnouncementsAnthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
@@ -186,10 +190,6 @@
       {
         "title": "May 14, 2026AnnouncementsAnthropic forms $200 million partnership with the Gates Foundation",
         "url": "https://www.anthropic.com/news/news/gates-foundation-partnership"
-      },
-      {
-        "title": "May 13, 2026AnnouncementsIntroducing Claude for Small Business",
-        "url": "https://www.anthropic.com/news/news/claude-for-small-business"
       }
     ]
   }
