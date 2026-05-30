@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Claude Opus 4.8: The System Card",
-        "url": "https://www.lesswrong.com/posts/Gx6cJ6cG9JfeSNcLB/claude-opus-4-8-the-system-card"
+        "title": "An attempted synthesis on probabilities and infinities",
+        "url": "https://www.lesswrong.com/posts/muHTKiPob2Ry2bmtT/an-attempted-synthesis-on-probabilities-and-infinities"
       },
       {
-        "title": "Testing Gemini models for scheming tendencies",
-        "url": "https://www.lesswrong.com/posts/F3sDngvTL9uyfz53k/testing-gemini-models-for-scheming-tendencies"
+        "title": "Comment on \"Banning Said Achmiz\"",
+        "url": "https://www.lesswrong.com/posts/HaH9mTdKt8pcNAtYn/comment-on-banning-said-achmiz"
       },
       {
-        "title": "How much should we worry about secretly loyal AIs?",
-        "url": "https://www.lesswrong.com/posts/Q3HdtWXMzyYmHD8Kh/how-much-should-we-worry-about-secretly-loyal-ais"
+        "title": "A Formula for Fun",
+        "url": "https://www.lesswrong.com/posts/RjSnkKcbdHzxeszip/a-formula-for-fun"
       },
       {
-        "title": "Data you could have observed but didn't",
-        "url": "https://www.lesswrong.com/posts/jemRvoCop4z4y4zfT/data-you-could-have-observed-but-didn-t"
+        "title": "Open Thread Summer 2026",
+        "url": "https://www.lesswrong.com/posts/MHi9yrQgXupYJni6n/open-thread-summer-2026"
       },
       {
-        "title": "Is Progress Inevitable?",
-        "url": "https://www.lesswrong.com/posts/dgGtiX4pJBymYEq8a/is-progress-inevitable"
+        "title": "Announcing: Iliad's Fall 2026 Programs",
+        "url": "https://www.lesswrong.com/posts/vBhqyeTeKMmLzW73z/announcing-iliad-s-fall-2026-programs"
       },
       {
-        "title": "Retrying vs Resampling in AI Control",
-        "url": "https://www.lesswrong.com/posts/yThJQTJxtmKNeZGwA/retrying-vs-resampling-in-ai-control"
+        "title": "Bloomberg terminals for the rest of us",
+        "url": "https://www.lesswrong.com/posts/prNvmghPQyBivEakM/bloomberg-terminals-for-the-rest-of-us"
       },
       {
-        "title": "When Are Two Networks the Same?\nTensor Similarity for Mechanistic Interpretability",
-        "url": "https://www.lesswrong.com/posts/Yzw6KDQc336CpHmGi/when-are-two-networks-the-same-tensor-similarity-for"
+        "title": "AI as Biology's Digital Microscope",
+        "url": "https://www.lesswrong.com/posts/BxziXpLC22cvSCip5/ai-as-biology-s-digital-microscope"
       },
       {
-        "title": "It takes a village to support a marriage",
-        "url": "https://www.lesswrong.com/posts/sXheXXwn3KQhFwYMp/it-takes-a-village-to-support-a-marriage"
+        "title": "Ablating Induction Heads Leads to an increase in Local Repetition",
+        "url": "https://www.lesswrong.com/posts/nTdcXg7jtLwtvcts7/ablating-induction-heads-leads-to-an-increase-in-local"
       },
       {
-        "title": "AI Researchers, Ask Yourself These 6 Questions to Strengthen Your Moral Muscles",
-        "url": "https://www.lesswrong.com/posts/w4ynu8L57dJP29p5c/ai-researchers-ask-yourself-these-6-questions-to-strengthen"
+        "title": "System Prompts vs. Partner Adaptation in LLMs (or, when LLMs know you're an adult but keep talking like you're seven)",
+        "url": "https://www.lesswrong.com/posts/LipjnC9ZAeCnnwWbN/system-prompts-vs-partner-adaptation-in-llms-or-when-llms"
       },
       {
-        "title": "Maybe we should pretrain on synthetic data about good-but-reward-hacking AIs",
-        "url": "https://www.lesswrong.com/posts/HEbp5xHgfaJ8eRAqz/maybe-we-should-pretrain-on-synthetic-data-about-good-but"
+        "title": "Belief manifolds, and how to steer along them",
+        "url": "https://www.lesswrong.com/posts/oafFQYeJ5QT8nipKn/belief-manifolds-and-how-to-steer-along-them-1"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction",
-        "url": "https://arxiv.org/abs/2605.28849"
-      },
-      {
-        "title": "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction",
-        "url": "https://arxiv.org/abs/2605.28855"
-      },
-      {
-        "title": "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for Language Modeling",
-        "url": "https://arxiv.org/abs/2605.28864"
-      },
-      {
-        "title": "Ultra-Reduced-Impact-Encased-Logging (URIEL): propose a new method for selective sustainable logging and post-harvest silvicultural treatment in tropical forest using airborne robotics systems",
-        "url": "https://arxiv.org/abs/2605.28883"
-      },
-      {
-        "title": "Review Arcade: On the Human Alignment and Gameability of LLM Reviews",
-        "url": "https://arxiv.org/abs/2605.28897"
-      },
-      {
-        "title": "Orthogonal Concept Erasure for Diffusion Models",
-        "url": "https://arxiv.org/abs/2605.28902"
-      },
-      {
-        "title": "Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes",
-        "url": "https://arxiv.org/abs/2605.28965"
-      },
-      {
-        "title": "VFEAgent: A Multimodal Agent Framework for End-to-End Automated Finite Element Analysis",
-        "url": "https://arxiv.org/abs/2605.28978"
-      },
-      {
-        "title": "BEAMS: Benchmarking and Evaluating AI for Modeling and Simulation",
-        "url": "https://arxiv.org/abs/2605.28994"
-      },
-      {
-        "title": "Adopt $\\neq$ Adapt: Longitudinal Analyses of LLM Conversations in the Wild",
-        "url": "https://arxiv.org/abs/2605.29018"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
