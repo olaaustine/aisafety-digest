@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Notes on axes of variation in third-party risk assessment",
-        "url": "https://www.lesswrong.com/posts/oGTajcGwxxFG4Z7eN/notes-on-axes-of-variation-in-third-party-risk-assessment"
+        "title": "Critique of current AI safety bug bounty programs",
+        "url": "https://www.lesswrong.com/posts/hBY7TM7zbLZE7H2KJ/critique-of-current-ai-safety-bug-bounty-programs"
       },
       {
-        "title": "The main impact from automated AI production: concentration of power?",
-        "url": "https://www.lesswrong.com/posts/ocNf6GumA5jzGXyZP/the-main-impact-from-automated-ai-production-concentration"
+        "title": "[Linkpost] Prefixing names with 'secure_' makes agents write more secure code",
+        "url": "https://www.lesswrong.com/posts/75MsWZ9P9ZoL7uZXx/linkpost-prefixing-names-with-secure_-makes-agents-write"
       },
       {
-        "title": "A Song About No",
-        "url": "https://www.lesswrong.com/posts/WdxxdeYWvGAawzMmJ/a-song-about-no"
+        "title": "Can LLMs even teach? \nExploring the Teacher Axis",
+        "url": "https://www.lesswrong.com/posts/PDhZxRsizuGjBu6ze/can-llms-even-teach-exploring-the-teacher-axis"
       },
       {
-        "title": "Financial Costs of an AI Pause?",
-        "url": "https://www.lesswrong.com/posts/YJWe9tT7LDYefK4vE/financial-costs-of-an-ai-pause"
+        "title": "Monitoring computer-use agents in OSWorld-control",
+        "url": "https://www.lesswrong.com/posts/waD3Bn9FZpnp5xqbA/monitoring-computer-use-agents-in-osworld-control"
       },
       {
-        "title": "Links #2: 2026/05 Part 2",
-        "url": "https://www.lesswrong.com/posts/TPn6FufyNvAm939aT/links-2-2026-05-part-2"
+        "title": "Alignment to What?",
+        "url": "https://www.lesswrong.com/posts/9Ks3wfHiLRuDvgQes/alignment-to-what-1"
       },
       {
-        "title": "Outrunning your headlights",
-        "url": "https://www.lesswrong.com/posts/L8YFcCw5ex3qjLyoJ/outrunning-your-headlights"
+        "title": "Popperians, Bayesians and Ramseyians",
+        "url": "https://www.lesswrong.com/posts/aDofGWWoDnT7iDL5b/popperians-bayesians-and-ramseyians"
       },
       {
-        "title": "Food, water and power from thin desert air",
-        "url": "https://www.lesswrong.com/posts/fxHAARDwMtd4doznz/food-water-and-power-from-thin-desert-air"
+        "title": "Systems Dynamics Model for Pausing AI",
+        "url": "https://www.lesswrong.com/posts/osTjiPkL7cwNjfoyv/systems-dynamics-model-for-pausing-ai"
       },
       {
-        "title": "Why AI safety researchers should consider a contract research manager position",
-        "url": "https://www.lesswrong.com/posts/MjFArZa85KydKdivh/why-ai-safety-researchers-should-consider-a-contract"
+        "title": "Companions aren't Coaches: AIs' Effect on Social Skills",
+        "url": "https://www.lesswrong.com/posts/3crmgQbxjzeHc9XeE/companions-aren-t-coaches-ais-effect-on-social-skills"
       },
       {
-        "title": "Visualize Cyclical Structure in Llama Model",
-        "url": "https://www.lesswrong.com/posts/2fYNvfqn5mnN2YATc/visualize-cyclical-structure-in-llama-model"
+        "title": "\"Contagious Humming\" to Silence a Room",
+        "url": "https://www.lesswrong.com/posts/nfcbMeLmSy7LNegoD/contagious-humming-to-silence-a-room"
       },
       {
-        "title": "Features of SAEs are universal - but only up to an unknown random rotation",
-        "url": "https://www.lesswrong.com/posts/JZK2xkedJwA7njKmN/features-of-saes-are-universal-but-only-up-to-an-unknown"
+        "title": "Dissolving the Deep Learning Sample Efficiency Gap",
+        "url": "https://www.lesswrong.com/posts/tmWxDGnuNdaHFDyjf/dissolving-the-deep-learning-sample-efficiency-gap-1"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
+        "url": "https://arxiv.org/abs/2605.30512"
+      },
+      {
+        "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
+        "url": "https://arxiv.org/abs/2605.30542"
+      },
+      {
+        "title": "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)",
+        "url": "https://arxiv.org/abs/2605.30563"
+      },
+      {
+        "title": "Procedural Generation of First Person Shooter Maps using Map-Elites",
+        "url": "https://arxiv.org/abs/2605.30570"
+      },
+      {
+        "title": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving",
+        "url": "https://arxiv.org/abs/2605.30576"
+      },
+      {
+        "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
+        "url": "https://arxiv.org/abs/2605.30621"
+      },
+      {
+        "title": "EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs",
+        "url": "https://arxiv.org/abs/2605.30637"
+      },
+      {
+        "title": "Structure-Induced Information for Rerooting Levin Tree Search",
+        "url": "https://arxiv.org/abs/2605.30664"
+      },
+      {
+        "title": "Healthcare Mechanisms from Policy-as-Code Search under Strategic Provider Response",
+        "url": "https://arxiv.org/abs/2605.30680"
+      },
+      {
+        "title": "MAVEN: Improving Generalization in Agentic Tool Calling",
+        "url": "https://arxiv.org/abs/2605.30738"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
@@ -121,6 +162,10 @@
       {
         "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe\u2019ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
         "url": "https://www.anthropic.com/news/news/claude-is-a-space-to-think"
+      },
+      {
+        "title": "Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC",
+        "url": "https://www.anthropic.com/news/news/confidential-draft-s1-sec"
       },
       {
         "title": "May 28, 2026AnnouncementsAnthropic raises $65B in Series H funding at $965B post-money valuation",
@@ -145,10 +190,6 @@
       {
         "title": "May 19, 2026AnnouncementsKPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
         "url": "https://www.anthropic.com/news/news/anthropic-kpmg"
-      },
-      {
-        "title": "May 18, 2026AnnouncementsAnthropic acquires Stainless",
-        "url": "https://www.anthropic.com/news/news/anthropic-acquires-stainless"
       }
     ]
   }
