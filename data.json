@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Critique of current AI safety bug bounty programs",
-        "url": "https://www.lesswrong.com/posts/hBY7TM7zbLZE7H2KJ/critique-of-current-ai-safety-bug-bounty-programs"
+        "title": "The Origin of Uncertainty",
+        "url": "https://www.lesswrong.com/posts/KkRdNGhH3SEgvLhfD/the-origin-of-uncertainty"
       },
       {
-        "title": "[Linkpost] Prefixing names with 'secure_' makes agents write more secure code",
-        "url": "https://www.lesswrong.com/posts/75MsWZ9P9ZoL7uZXx/linkpost-prefixing-names-with-secure_-makes-agents-write"
+        "title": "LURE: Alignment Evaluations to Reduce Evaluation Awareness",
+        "url": "https://www.lesswrong.com/posts/WKuGzrtCnAAArjj2N/lure-alignment-evaluations-to-reduce-evaluation-awareness"
       },
       {
-        "title": "Can LLMs even teach? \nExploring the Teacher Axis",
-        "url": "https://www.lesswrong.com/posts/PDhZxRsizuGjBu6ze/can-llms-even-teach-exploring-the-teacher-axis"
+        "title": "Why Even Experts Don\u2019t Know What to Do About AI Risk",
+        "url": "https://www.lesswrong.com/posts/tRRkj249gdDL4mued/why-even-experts-don-t-know-what-to-do-about-ai-risk"
       },
       {
-        "title": "Monitoring computer-use agents in OSWorld-control",
-        "url": "https://www.lesswrong.com/posts/waD3Bn9FZpnp5xqbA/monitoring-computer-use-agents-in-osworld-control"
+        "title": "Where does the race to automate AI research end?",
+        "url": "https://www.lesswrong.com/posts/gkbet5Gp7eoAE9bjY/where-does-the-race-to-automate-ai-research-end"
       },
       {
-        "title": "Alignment to What?",
-        "url": "https://www.lesswrong.com/posts/9Ks3wfHiLRuDvgQes/alignment-to-what-1"
+        "title": "A Town Without Children",
+        "url": "https://www.lesswrong.com/posts/wgiHyMEnfRmPRhvAo/a-town-without-children"
       },
       {
-        "title": "Popperians, Bayesians and Ramseyians",
-        "url": "https://www.lesswrong.com/posts/aDofGWWoDnT7iDL5b/popperians-bayesians-and-ramseyians"
+        "title": "Announcing the ARC White-Box Estimation Challenge",
+        "url": "https://www.lesswrong.com/posts/Kben8CzS4awCwNw5c/announcing-the-arc-white-box-estimation-challenge"
       },
       {
-        "title": "Systems Dynamics Model for Pausing AI",
-        "url": "https://www.lesswrong.com/posts/osTjiPkL7cwNjfoyv/systems-dynamics-model-for-pausing-ai"
+        "title": "Agent Foundations Reminds Me of Continental Philosophy",
+        "url": "https://www.lesswrong.com/posts/GykcHo2rfex3YHPuD/agent-foundations-reminds-me-of-continental-philosophy"
       },
       {
-        "title": "Companions aren't Coaches: AIs' Effect on Social Skills",
-        "url": "https://www.lesswrong.com/posts/3crmgQbxjzeHc9XeE/companions-aren-t-coaches-ais-effect-on-social-skills"
+        "title": "Claude Opus 4.8: Capabilities and Reactions",
+        "url": "https://www.lesswrong.com/posts/AfLGv6u9eZNuFHb4c/claude-opus-4-8-capabilities-and-reactions"
       },
       {
-        "title": "\"Contagious Humming\" to Silence a Room",
-        "url": "https://www.lesswrong.com/posts/nfcbMeLmSy7LNegoD/contagious-humming-to-silence-a-room"
+        "title": "Why we're launching the Frontier Biodefense Fellowship",
+        "url": "https://www.lesswrong.com/posts/RgtJPqB6sEoLBe2b7/why-we-re-launching-the-frontier-biodefense-fellowship"
       },
       {
-        "title": "Dissolving the Deep Learning Sample Efficiency Gap",
-        "url": "https://www.lesswrong.com/posts/tmWxDGnuNdaHFDyjf/dissolving-the-deep-learning-sample-efficiency-gap-1"
+        "title": "Wood Screws and the Methods of Rationality",
+        "url": "https://www.lesswrong.com/posts/2mwFLvJBkfitmR2tu/wood-screws-and-the-methods-of-rationality"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Announcing the ARC White-Box Estimation Challenge",
+        "url": "https://www.alignmentforum.org/posts/Kben8CzS4awCwNw5c/announcing-the-arc-white-box-estimation-challenge"
+      },
       {
         "title": "Testing Gemini models for scheming tendencies",
         "url": "https://www.alignmentforum.org/posts/F3sDngvTL9uyfz53k/testing-gemini-models-for-scheming-tendencies"
@@ -84,10 +88,6 @@
       {
         "title": "The safe-to-dangerous shift is a fundamental problem for eval realism; but also for measuring awareness",
         "url": "https://www.alignmentforum.org/posts/tK8vqHDxaRGcysNJQ/the-safe-to-dangerous-shift-is-a-fundamental-problem-for-1"
-      },
-      {
-        "title": "Empowerment, corrigibility, etc. are simple abstractions (of a messed-up ontology)",
-        "url": "https://www.alignmentforum.org/posts/vzHtHHBJoKATi5SeK/empowerment-corrigibility-etc-are-simple-abstractions-of-a"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
-        "url": "https://arxiv.org/abs/2605.30512"
+        "title": "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations",
+        "url": "https://arxiv.org/abs/2606.00002"
       },
       {
-        "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
-        "url": "https://arxiv.org/abs/2605.30542"
+        "title": "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis",
+        "url": "https://arxiv.org/abs/2606.00005"
       },
       {
-        "title": "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)",
-        "url": "https://arxiv.org/abs/2605.30563"
+        "title": "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases",
+        "url": "https://arxiv.org/abs/2606.00007"
       },
       {
-        "title": "Procedural Generation of First Person Shooter Maps using Map-Elites",
-        "url": "https://arxiv.org/abs/2605.30570"
+        "title": "Agents on a Tree: Pathwise Coordination for Multi-Objective Molecular Optimization",
+        "url": "https://arxiv.org/abs/2606.00008"
       },
       {
-        "title": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving",
-        "url": "https://arxiv.org/abs/2605.30576"
+        "title": "Optimal Transport-based Permutation-Invariant Bayesian Optimization of Offshore Wind Farm Layouts",
+        "url": "https://arxiv.org/abs/2606.00009"
       },
       {
-        "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
-        "url": "https://arxiv.org/abs/2605.30621"
+        "title": "MindGames Arena Generalization Track: In2AI Solution with Delayed Per-Step Reward Attribution",
+        "url": "https://arxiv.org/abs/2606.00017"
       },
       {
-        "title": "EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs",
-        "url": "https://arxiv.org/abs/2605.30637"
+        "title": "Universal Quantum Transformer",
+        "url": "https://arxiv.org/abs/2606.00045"
       },
       {
-        "title": "Structure-Induced Information for Rerooting Levin Tree Search",
-        "url": "https://arxiv.org/abs/2605.30664"
+        "title": "Grokers: Bottom-Up Inductive Comprehension and Write-Time Intelligence over Typed Knowledge Graphs",
+        "url": "https://arxiv.org/abs/2606.00050"
       },
       {
-        "title": "Healthcare Mechanisms from Policy-as-Code Search under Strategic Provider Response",
-        "url": "https://arxiv.org/abs/2605.30680"
+        "title": "Product-Aware Deep Autoencoders for Robust Process Monitoring in Multi-Product Cyber-Physical Systems",
+        "url": "https://arxiv.org/abs/2606.00052"
       },
       {
-        "title": "MAVEN: Improving Generalization in Agentic Tool Calling",
-        "url": "https://arxiv.org/abs/2605.30738"
+        "title": "On the evolution of the concept of probability as a mirror of the evolution of reason",
+        "url": "https://arxiv.org/abs/2606.00102"
       }
     ]
   },
@@ -162,6 +162,10 @@
       {
         "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe\u2019ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
         "url": "https://www.anthropic.com/news/news/claude-is-a-space-to-think"
+      },
+      {
+        "title": "Jun 2, 2026AnnouncementsExpanding Project Glasswing",
+        "url": "https://www.anthropic.com/news/news/expanding-project-glasswing"
       },
       {
         "title": "Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC",
@@ -186,10 +190,6 @@
       {
         "title": "May 19, 2026AnnouncementsWidening the conversation on frontier AI",
         "url": "https://www.anthropic.com/news/news/widening-conversation-ai"
-      },
-      {
-        "title": "May 19, 2026AnnouncementsKPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
-        "url": "https://www.anthropic.com/news/news/anthropic-kpmg"
       }
     ]
   }
