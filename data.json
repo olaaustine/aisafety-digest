@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "The Origin of Uncertainty",
-        "url": "https://www.lesswrong.com/posts/KkRdNGhH3SEgvLhfD/the-origin-of-uncertainty"
+        "title": "Sixteen schemes for AI safety",
+        "url": "https://www.lesswrong.com/posts/jTyfbs7GW5rf78adK/sixteen-schemes-for-ai-safety"
       },
       {
-        "title": "LURE: Alignment Evaluations to Reduce Evaluation Awareness",
-        "url": "https://www.lesswrong.com/posts/WKuGzrtCnAAArjj2N/lure-alignment-evaluations-to-reduce-evaluation-awareness"
+        "title": "Aligning Superintelligent Humans",
+        "url": "https://www.lesswrong.com/posts/KWZGTtnMuTHfBMdyX/aligning-superintelligent-humans"
       },
       {
-        "title": "Why Even Experts Don\u2019t Know What to Do About AI Risk",
-        "url": "https://www.lesswrong.com/posts/tRRkj249gdDL4mued/why-even-experts-don-t-know-what-to-do-about-ai-risk"
+        "title": "Beyond Hardcoded Evolutionary Psychology",
+        "url": "https://www.lesswrong.com/posts/AzRmp7NXY4Ethzt5i/beyond-hardcoded-evolutionary-psychology"
       },
       {
-        "title": "Where does the race to automate AI research end?",
-        "url": "https://www.lesswrong.com/posts/gkbet5Gp7eoAE9bjY/where-does-the-race-to-automate-ai-research-end"
+        "title": "Trump Signs Executive Order For AI Testing Prior To Frontier Model Releases",
+        "url": "https://www.lesswrong.com/posts/yDnfHrBzKc2pNQNdw/trump-signs-executive-order-for-ai-testing-prior-to-frontier"
       },
       {
-        "title": "A Town Without Children",
-        "url": "https://www.lesswrong.com/posts/wgiHyMEnfRmPRhvAo/a-town-without-children"
+        "title": "Thoughts on 'Learning Mechanics'",
+        "url": "https://www.lesswrong.com/posts/5cnCF2G6CAYeiYoT5/thoughts-on-learning-mechanics"
       },
       {
-        "title": "Announcing the ARC White-Box Estimation Challenge",
-        "url": "https://www.lesswrong.com/posts/Kben8CzS4awCwNw5c/announcing-the-arc-white-box-estimation-challenge"
+        "title": "Towards Shutdownable Agents: Generalizing Stochastic Choice in RL Agents and LLMs",
+        "url": "https://www.lesswrong.com/posts/HX6YnHZxLWGQhrBix/towards-shutdownable-agents-generalizing-stochastic-choice"
       },
       {
-        "title": "Agent Foundations Reminds Me of Continental Philosophy",
-        "url": "https://www.lesswrong.com/posts/GykcHo2rfex3YHPuD/agent-foundations-reminds-me-of-continental-philosophy"
+        "title": "Society Explained: a tool for efficiently exploring >100 theories of society",
+        "url": "https://www.lesswrong.com/posts/LCrk93DNWSudjp5rd/society-explained-a-tool-for-efficiently-exploring-greater"
       },
       {
-        "title": "Claude Opus 4.8: Capabilities and Reactions",
-        "url": "https://www.lesswrong.com/posts/AfLGv6u9eZNuFHb4c/claude-opus-4-8-capabilities-and-reactions"
+        "title": "Don\u2019t Edit Your Ideas Before Having Them",
+        "url": "https://www.lesswrong.com/posts/p79pNyuPHzW3QtHpy/don-t-edit-your-ideas-before-having-them"
       },
       {
-        "title": "Why we're launching the Frontier Biodefense Fellowship",
-        "url": "https://www.lesswrong.com/posts/RgtJPqB6sEoLBe2b7/why-we-re-launching-the-frontier-biodefense-fellowship"
+        "title": "China won\u2019t win the AI race but would it be much worse if it did?",
+        "url": "https://www.lesswrong.com/posts/nmpzH6sLLtKsQhSPM/china-won-t-win-the-ai-race-but-would-it-be-much-worse-if-it"
       },
       {
-        "title": "Wood Screws and the Methods of Rationality",
-        "url": "https://www.lesswrong.com/posts/2mwFLvJBkfitmR2tu/wood-screws-and-the-methods-of-rationality"
+        "title": "Bear spray expiry dates:\ngood news, and comical\npeer-reviewed pseudoscience",
+        "url": "https://www.lesswrong.com/posts/Mfa4LJoFcyDnsFpAT/bear-spray-expiry-dates-good-news-and-comical-peer-reviewed"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations",
-        "url": "https://arxiv.org/abs/2606.00002"
+        "title": "Visual Graph Scaffolds for Structural Reasoning in Large Language Models",
+        "url": "https://arxiv.org/abs/2606.02673"
       },
       {
-        "title": "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis",
-        "url": "https://arxiv.org/abs/2606.00005"
+        "title": "AURA: Action-Gated Memory for Robot Policies at Constant VRAM",
+        "url": "https://arxiv.org/abs/2606.02775"
       },
       {
-        "title": "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases",
-        "url": "https://arxiv.org/abs/2606.00007"
+        "title": "Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins",
+        "url": "https://arxiv.org/abs/2606.02791"
       },
       {
-        "title": "Agents on a Tree: Pathwise Coordination for Multi-Objective Molecular Optimization",
-        "url": "https://arxiv.org/abs/2606.00008"
+        "title": "BehaviorBench: Modeling Real-World User Decisions from Behavioral Traces",
+        "url": "https://arxiv.org/abs/2606.02798"
       },
       {
-        "title": "Optimal Transport-based Permutation-Invariant Bayesian Optimization of Offshore Wind Farm Layouts",
-        "url": "https://arxiv.org/abs/2606.00009"
+        "title": "ChatHealthAI: Aligning Electronic Health Record Representations with Large Language Models for Grounded Clinical Reasoning",
+        "url": "https://arxiv.org/abs/2606.02802"
       },
       {
-        "title": "MindGames Arena Generalization Track: In2AI Solution with Delayed Per-Step Reward Attribution",
-        "url": "https://arxiv.org/abs/2606.00017"
+        "title": "Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection",
+        "url": "https://arxiv.org/abs/2606.02812"
       },
       {
-        "title": "Universal Quantum Transformer",
-        "url": "https://arxiv.org/abs/2606.00045"
+        "title": "An Exploration of Collision-based Enemy Morphology Generation",
+        "url": "https://arxiv.org/abs/2606.02832"
       },
       {
-        "title": "Grokers: Bottom-Up Inductive Comprehension and Write-Time Intelligence over Typed Knowledge Graphs",
-        "url": "https://arxiv.org/abs/2606.00050"
+        "title": "Thinking Past the Answer: Evaluating Harmful Overthinking in Large Reasoning Models",
+        "url": "https://arxiv.org/abs/2606.02835"
       },
       {
-        "title": "Product-Aware Deep Autoencoders for Robust Process Monitoring in Multi-Product Cyber-Physical Systems",
-        "url": "https://arxiv.org/abs/2606.00052"
+        "title": "Toward a Modular Architecture for Embedded AI Agent Systems at the Edge",
+        "url": "https://arxiv.org/abs/2606.02862"
       },
       {
-        "title": "On the evolution of the concept of probability as a mirror of the evolution of reason",
-        "url": "https://arxiv.org/abs/2606.00102"
+        "title": "Don't Gamble, GAMBLe: An Analytical Framework for AI-Driven Research Systems",
+        "url": "https://arxiv.org/abs/2606.02863"
       }
     ]
   },
@@ -164,6 +164,14 @@
         "url": "https://www.anthropic.com/news/news/claude-is-a-space-to-think"
       },
       {
+        "title": "Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network",
+        "url": "https://www.anthropic.com/news/news/services-track-partner-hub"
+      },
+      {
+        "title": "Jun 3, 2026PolicyWhat we learned mapping a year\u2019s worth of AI-enabled cyber threats",
+        "url": "https://www.anthropic.com/news/news/AI-enabled-cyber-threats-mitre-attack"
+      },
+      {
         "title": "Jun 2, 2026AnnouncementsExpanding Project Glasswing",
         "url": "https://www.anthropic.com/news/news/expanding-project-glasswing"
       },
@@ -182,14 +190,6 @@
       {
         "title": "May 26, 2026AnnouncementsAnthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
         "url": "https://www.anthropic.com/news/news/kiyoung-choi-representative-director-anthropic-korea"
-      },
-      {
-        "title": "May 25, 2026AnnouncementsAnthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
-        "url": "https://www.anthropic.com/news/news/chris-olah-pope-leo-encyclical"
-      },
-      {
-        "title": "May 19, 2026AnnouncementsWidening the conversation on frontier AI",
-        "url": "https://www.anthropic.com/news/news/widening-conversation-ai"
       }
     ]
   }
