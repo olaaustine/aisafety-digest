@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Sixteen schemes for AI safety",
-        "url": "https://www.lesswrong.com/posts/jTyfbs7GW5rf78adK/sixteen-schemes-for-ai-safety"
+        "title": "Rent from oil: a goldmine",
+        "url": "https://www.lesswrong.com/posts/KQpcGSxcHGveWRuek/rent-from-oil-a-goldmine"
       },
       {
-        "title": "Aligning Superintelligent Humans",
-        "url": "https://www.lesswrong.com/posts/KWZGTtnMuTHfBMdyX/aligning-superintelligent-humans"
+        "title": "Book of Cron Job",
+        "url": "https://www.lesswrong.com/posts/mEdYH2uyeHDL4jhhj/book-of-cron-job"
       },
       {
-        "title": "Beyond Hardcoded Evolutionary Psychology",
-        "url": "https://www.lesswrong.com/posts/AzRmp7NXY4Ethzt5i/beyond-hardcoded-evolutionary-psychology"
+        "title": "(Mis)generalization of Helpful-Only Fine-tuning",
+        "url": "https://www.lesswrong.com/posts/ffCFgBsaxg2FyJ9df/mis-generalization-of-helpful-only-fine-tuning-1"
       },
       {
-        "title": "Trump Signs Executive Order For AI Testing Prior To Frontier Model Releases",
-        "url": "https://www.lesswrong.com/posts/yDnfHrBzKc2pNQNdw/trump-signs-executive-order-for-ai-testing-prior-to-frontier"
+        "title": "Defeating Introspection Adapters (and Why Threat Models Matter)",
+        "url": "https://www.lesswrong.com/posts/mhFqC9B5EpaxHNdt6/defeating-introspection-adapters-and-why-threat-models"
       },
       {
-        "title": "Thoughts on 'Learning Mechanics'",
-        "url": "https://www.lesswrong.com/posts/5cnCF2G6CAYeiYoT5/thoughts-on-learning-mechanics"
+        "title": "Building Better Activation Oracles",
+        "url": "https://www.lesswrong.com/posts/heXwuDRfbQQgB5JLP/building-better-activation-oracles"
       },
       {
-        "title": "Towards Shutdownable Agents: Generalizing Stochastic Choice in RL Agents and LLMs",
-        "url": "https://www.lesswrong.com/posts/HX6YnHZxLWGQhrBix/towards-shutdownable-agents-generalizing-stochastic-choice"
+        "title": "What Separates an Optimizer From Something We Merely Describe as Optimizing?",
+        "url": "https://www.lesswrong.com/posts/eQEFAQhWcnrwjbe3w/what-separates-an-optimizer-from-something-we-merely"
       },
       {
-        "title": "Society Explained: a tool for efficiently exploring >100 theories of society",
-        "url": "https://www.lesswrong.com/posts/LCrk93DNWSudjp5rd/society-explained-a-tool-for-efficiently-exploring-greater"
+        "title": "Rohin Shah on AGI Safety",
+        "url": "https://www.lesswrong.com/posts/4JJDvhb8MeBFsEHoC/rohin-shah-on-agi-safety"
       },
       {
-        "title": "Don\u2019t Edit Your Ideas Before Having Them",
-        "url": "https://www.lesswrong.com/posts/p79pNyuPHzW3QtHpy/don-t-edit-your-ideas-before-having-them"
+        "title": "Training Deliberative Monitors for Black-Box Scheming Detection",
+        "url": "https://www.lesswrong.com/posts/BmA5KwzZhLk2rykoz/training-deliberative-monitors-for-black-box-scheming"
       },
       {
-        "title": "China won\u2019t win the AI race but would it be much worse if it did?",
-        "url": "https://www.lesswrong.com/posts/nmpzH6sLLtKsQhSPM/china-won-t-win-the-ai-race-but-would-it-be-much-worse-if-it"
+        "title": "When AI Builds Itself (Anthropic Institute Linkpost)",
+        "url": "https://www.lesswrong.com/posts/SN8dotNhxLo2pa7bp/when-ai-builds-itself-anthropic-institute-linkpost"
       },
       {
-        "title": "Bear spray expiry dates:\ngood news, and comical\npeer-reviewed pseudoscience",
-        "url": "https://www.lesswrong.com/posts/Mfa4LJoFcyDnsFpAT/bear-spray-expiry-dates-good-news-and-comical-peer-reviewed"
+        "title": "Lab Leaks, Black Holes, and Eggs: Epistemic Case Study Competition",
+        "url": "https://www.lesswrong.com/posts/frizRHnA6AZpJSDqw/lab-leaks-black-holes-and-eggs-epistemic-case-study"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Visual Graph Scaffolds for Structural Reasoning in Large Language Models",
-        "url": "https://arxiv.org/abs/2606.02673"
+        "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+        "url": "https://arxiv.org/abs/2606.04037"
       },
       {
-        "title": "AURA: Action-Gated Memory for Robot Policies at Constant VRAM",
-        "url": "https://arxiv.org/abs/2606.02775"
+        "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
+        "url": "https://arxiv.org/abs/2606.04150"
       },
       {
-        "title": "Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins",
-        "url": "https://arxiv.org/abs/2606.02791"
+        "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
+        "url": "https://arxiv.org/abs/2606.04152"
       },
       {
-        "title": "BehaviorBench: Modeling Real-World User Decisions from Behavioral Traces",
-        "url": "https://arxiv.org/abs/2606.02798"
+        "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
+        "url": "https://arxiv.org/abs/2606.04202"
       },
       {
-        "title": "ChatHealthAI: Aligning Electronic Health Record Representations with Large Language Models for Grounded Clinical Reasoning",
-        "url": "https://arxiv.org/abs/2606.02802"
+        "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
+        "url": "https://arxiv.org/abs/2606.04223"
       },
       {
-        "title": "Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection",
-        "url": "https://arxiv.org/abs/2606.02812"
+        "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
+        "url": "https://arxiv.org/abs/2606.04244"
       },
       {
-        "title": "An Exploration of Collision-based Enemy Morphology Generation",
-        "url": "https://arxiv.org/abs/2606.02832"
+        "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
+        "url": "https://arxiv.org/abs/2606.04246"
       },
       {
-        "title": "Thinking Past the Answer: Evaluating Harmful Overthinking in Large Reasoning Models",
-        "url": "https://arxiv.org/abs/2606.02835"
+        "title": "Can Generalist Agents Automate Data Curation?",
+        "url": "https://arxiv.org/abs/2606.04261"
       },
       {
-        "title": "Toward a Modular Architecture for Embedded AI Agent Systems at the Edge",
-        "url": "https://arxiv.org/abs/2606.02862"
+        "title": "Characterizing initial human-AI proof formalization workflows",
+        "url": "https://arxiv.org/abs/2606.04273"
       },
       {
-        "title": "Don't Gamble, GAMBLe: An Analytical Framework for AI-Driven Research Systems",
-        "url": "https://arxiv.org/abs/2606.02863"
+        "title": "The Saturation Trap and the Subjectivity of Intervention Timing: Why Affect-Based Triggers and LLM Judges Fail to Time Interventions on Autonomous Agents",
+        "url": "https://arxiv.org/abs/2606.04296"
       }
     ]
   },
