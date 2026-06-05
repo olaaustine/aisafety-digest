@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Rent from oil: a goldmine",
-        "url": "https://www.lesswrong.com/posts/KQpcGSxcHGveWRuek/rent-from-oil-a-goldmine"
+        "title": "Two More Methods for Consistency Training and Some New Ways to Apply It",
+        "url": "https://www.lesswrong.com/posts/zLERnZYLTPGqyfpqy/two-more-methods-for-consistency-training-and-some-new-ways-1"
       },
       {
-        "title": "Book of Cron Job",
-        "url": "https://www.lesswrong.com/posts/mEdYH2uyeHDL4jhhj/book-of-cron-job"
+        "title": "Revisiting GSM-Symbolic: Do 2026 Frontier Models Still Fail at Confounded Grade School Math?",
+        "url": "https://www.lesswrong.com/posts/Ze4C99Dasj74YKCFh/revisiting-gsm-symbolic-do-2026-frontier-models-still-fail"
       },
       {
-        "title": "(Mis)generalization of Helpful-Only Fine-tuning",
-        "url": "https://www.lesswrong.com/posts/ffCFgBsaxg2FyJ9df/mis-generalization-of-helpful-only-fine-tuning-1"
+        "title": "The Masochistic Prior",
+        "url": "https://www.lesswrong.com/posts/QWZRP7MLgRajDhiRk/the-masochistic-prior"
       },
       {
-        "title": "Defeating Introspection Adapters (and Why Threat Models Matter)",
-        "url": "https://www.lesswrong.com/posts/mhFqC9B5EpaxHNdt6/defeating-introspection-adapters-and-why-threat-models"
+        "title": "Beyond the lexical personality traits: What is the structure of personality?",
+        "url": "https://www.lesswrong.com/posts/aRcZSKYdt26KdqoFw/beyond-the-lexical-personality-traits-what-is-the-structure"
       },
       {
-        "title": "Building Better Activation Oracles",
-        "url": "https://www.lesswrong.com/posts/heXwuDRfbQQgB5JLP/building-better-activation-oracles"
+        "title": "Do not try to write your first research publication as a single author",
+        "url": "https://www.lesswrong.com/posts/M5HGCidR7crf9SnMT/do-not-try-to-write-your-first-research-publication-as-a"
       },
       {
-        "title": "What Separates an Optimizer From Something We Merely Describe as Optimizing?",
-        "url": "https://www.lesswrong.com/posts/eQEFAQhWcnrwjbe3w/what-separates-an-optimizer-from-something-we-merely"
+        "title": "SAE It Across Models: Explaining Features With Foreign NLA Verbalizers",
+        "url": "https://www.lesswrong.com/posts/AtbZQuAn2iY2jCup2/sae-it-across-models-explaining-features-with-foreign-nla"
       },
       {
-        "title": "Rohin Shah on AGI Safety",
-        "url": "https://www.lesswrong.com/posts/4JJDvhb8MeBFsEHoC/rohin-shah-on-agi-safety"
+        "title": "SecureBio Detection is Hiring Software Engineers",
+        "url": "https://www.lesswrong.com/posts/T2zupWDtoofFgozFo/securebio-detection-is-hiring-software-engineers"
       },
       {
-        "title": "Training Deliberative Monitors for Black-Box Scheming Detection",
-        "url": "https://www.lesswrong.com/posts/BmA5KwzZhLk2rykoz/training-deliberative-monitors-for-black-box-scheming"
+        "title": "One Year of PauseAI UK",
+        "url": "https://www.lesswrong.com/posts/i2rCbxuskrarrprwA/one-year-of-pauseai-uk"
       },
       {
-        "title": "When AI Builds Itself (Anthropic Institute Linkpost)",
-        "url": "https://www.lesswrong.com/posts/SN8dotNhxLo2pa7bp/when-ai-builds-itself-anthropic-institute-linkpost"
+        "title": "Learnings from starting an AI safety research team",
+        "url": "https://www.lesswrong.com/posts/4onALBNDff2LFPyNZ/learnings-from-starting-an-ai-safety-research-team"
       },
       {
-        "title": "Lab Leaks, Black Holes, and Eggs: Epistemic Case Study Competition",
-        "url": "https://www.lesswrong.com/posts/frizRHnA6AZpJSDqw/lab-leaks-black-holes-and-eggs-epistemic-case-study"
+        "title": "Preparing for Warning Shots to Catalyze International Cooperation on AGI Risks",
+        "url": "https://www.lesswrong.com/posts/uK7gguNeME5DnmdrL/preparing-for-warning-shots-to-catalyze-international"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "My research agenda and work",
+        "url": "https://www.alignmentforum.org/posts/MuLvZxMcy5WaKJu3H/my-research-agenda-and-work"
+      },
       {
         "title": "Announcing the ARC White-Box Estimation Challenge",
         "url": "https://www.alignmentforum.org/posts/Kben8CzS4awCwNw5c/announcing-the-arc-white-box-estimation-challenge"
@@ -84,10 +88,6 @@
       {
         "title": "Mechanistic estimation for expectations of random products",
         "url": "https://www.alignmentforum.org/posts/7RyAefESvb6BQ3tMz/mechanistic-estimation-for-expectations-of-random-products"
-      },
-      {
-        "title": "The safe-to-dangerous shift is a fundamental problem for eval realism; but also for measuring awareness",
-        "url": "https://www.alignmentforum.org/posts/tK8vqHDxaRGcysNJQ/the-safe-to-dangerous-shift-is-a-fundamental-problem-for-1"
       }
     ]
   },
@@ -156,12 +156,20 @@
         "url": "https://www.anthropic.com/news/news/claude-opus-4-8"
       },
       {
-        "title": "ProductApr 17, 2026Introducing Claude Design by Anthropic LabsToday, we\u2019re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
-        "url": "https://www.anthropic.com/news/news/claude-design-anthropic-labs"
+        "title": "AnnouncementsJun 2, 2026Expanding Project GlasswingWe\u2019re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries.",
+        "url": "https://www.anthropic.com/news/news/expanding-project-glasswing"
       },
       {
-        "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe\u2019ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
-        "url": "https://www.anthropic.com/news/news/claude-is-a-space-to-think"
+        "title": "AnnouncementsMay 25, 2026Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"The full text of Chris Olah's remarks on the Pope's encyclical on AI.",
+        "url": "https://www.anthropic.com/news/news/chris-olah-pope-leo-encyclical"
+      },
+      {
+        "title": "AnnouncementsMay 19, 2026Widening the conversation on frontier AIOver the past several months, we\u2019ve been organizing dialogues with groups whose work and traditions bear on the questions raised by AI.",
+        "url": "https://www.anthropic.com/news/news/widening-conversation-ai"
+      },
+      {
+        "title": "AnnouncementsApr 24, 2026An update on our election safeguardsWe explain what we\u2019re doing to ensure Claude plays a positive role in the US midterms and other major elections around the world this year.",
+        "url": "https://www.anthropic.com/news/news/election-safeguards-update"
       },
       {
         "title": "Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network",
@@ -170,10 +178,6 @@
       {
         "title": "Jun 3, 2026PolicyWhat we learned mapping a year\u2019s worth of AI-enabled cyber threats",
         "url": "https://www.anthropic.com/news/news/AI-enabled-cyber-threats-mitre-attack"
-      },
-      {
-        "title": "Jun 2, 2026AnnouncementsExpanding Project Glasswing",
-        "url": "https://www.anthropic.com/news/news/expanding-project-glasswing"
       },
       {
         "title": "Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC",
@@ -186,10 +190,6 @@
       {
         "title": "May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian enterprise, research, and developers",
         "url": "https://www.anthropic.com/news/news/milan-office-opening"
-      },
-      {
-        "title": "May 26, 2026AnnouncementsAnthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
-        "url": "https://www.anthropic.com/news/news/kiyoung-choi-representative-director-anthropic-korea"
       }
     ]
   }
