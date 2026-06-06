@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Two More Methods for Consistency Training and Some New Ways to Apply It",
-        "url": "https://www.lesswrong.com/posts/zLERnZYLTPGqyfpqy/two-more-methods-for-consistency-training-and-some-new-ways-1"
+        "title": "The Diamond Lemma",
+        "url": "https://www.lesswrong.com/posts/HfApZDaBbcwDxKrgt/the-diamond-lemma"
       },
       {
-        "title": "Revisiting GSM-Symbolic: Do 2026 Frontier Models Still Fail at Confounded Grade School Math?",
-        "url": "https://www.lesswrong.com/posts/Ze4C99Dasj74YKCFh/revisiting-gsm-symbolic-do-2026-frontier-models-still-fail"
+        "title": "Against Corrigibility",
+        "url": "https://www.lesswrong.com/posts/rQTzSuBDLoAbhyS6g/against-corrigibility-1"
       },
       {
-        "title": "The Masochistic Prior",
-        "url": "https://www.lesswrong.com/posts/QWZRP7MLgRajDhiRk/the-masochistic-prior"
+        "title": "The Residual Stream Has a Geometry of Time",
+        "url": "https://www.lesswrong.com/posts/jkEnRkokmzvvKNzzB/the-residual-stream-has-a-geometry-of-time-1"
       },
       {
-        "title": "Beyond the lexical personality traits: What is the structure of personality?",
-        "url": "https://www.lesswrong.com/posts/aRcZSKYdt26KdqoFw/beyond-the-lexical-personality-traits-what-is-the-structure"
+        "title": "Exponential Solitude",
+        "url": "https://www.lesswrong.com/posts/TeEgPdo3HovdbcW29/exponential-solitude"
       },
       {
-        "title": "Do not try to write your first research publication as a single author",
-        "url": "https://www.lesswrong.com/posts/M5HGCidR7crf9SnMT/do-not-try-to-write-your-first-research-publication-as-a"
+        "title": "Freud heard a rumor that Science existed, and had a wonderful dream",
+        "url": "https://www.lesswrong.com/posts/5WEwRjb9isfDCHMF5/freud-heard-a-rumor-that-science-existed-and-had-a-wonderful"
       },
       {
-        "title": "SAE It Across Models: Explaining Features With Foreign NLA Verbalizers",
-        "url": "https://www.lesswrong.com/posts/AtbZQuAn2iY2jCup2/sae-it-across-models-explaining-features-with-foreign-nla"
+        "title": "Coalitional Darwinism and the Instrumental Utility of Individuality",
+        "url": "https://www.lesswrong.com/posts/Tm2dCH6dHE2ber53Y/coalitional-darwinism-and-the-instrumental-utility-of"
       },
       {
-        "title": "SecureBio Detection is Hiring Software Engineers",
-        "url": "https://www.lesswrong.com/posts/T2zupWDtoofFgozFo/securebio-detection-is-hiring-software-engineers"
+        "title": "Why Software Automation Is Hard",
+        "url": "https://www.lesswrong.com/posts/KzXptMbuDsYLrppss/why-software-automation-is-hard"
       },
       {
-        "title": "One Year of PauseAI UK",
-        "url": "https://www.lesswrong.com/posts/i2rCbxuskrarrprwA/one-year-of-pauseai-uk"
+        "title": "What if Anthropic unilaterally paused capabilities development right now?",
+        "url": "https://www.lesswrong.com/posts/SQoBeezisWunLhBqJ/what-if-anthropic-unilaterally-paused-capabilities"
       },
       {
-        "title": "Learnings from starting an AI safety research team",
-        "url": "https://www.lesswrong.com/posts/4onALBNDff2LFPyNZ/learnings-from-starting-an-ai-safety-research-team"
+        "title": "Optimisation over non-stationary distributions creates weirder minds",
+        "url": "https://www.lesswrong.com/posts/bzkQgYhaCcpvKqmAK/optimisation-over-non-stationary-distributions-creates"
       },
       {
-        "title": "Preparing for Warning Shots to Catalyze International Cooperation on AGI Risks",
-        "url": "https://www.lesswrong.com/posts/uK7gguNeME5DnmdrL/preparing-for-warning-shots-to-catalyze-international"
+        "title": "Does robotics capabilities research accelerate AGI timelines?",
+        "url": "https://www.lesswrong.com/posts/HQH2atbxpdts7c49N/does-robotics-capabilities-research-accelerate-agi-timelines"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
-        "url": "https://arxiv.org/abs/2606.04037"
+        "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+        "url": "https://arxiv.org/abs/2606.05256"
       },
       {
-        "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
-        "url": "https://arxiv.org/abs/2606.04150"
+        "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+        "url": "https://arxiv.org/abs/2606.05304"
       },
       {
-        "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
-        "url": "https://arxiv.org/abs/2606.04152"
+        "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
+        "url": "https://arxiv.org/abs/2606.05316"
       },
       {
-        "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
-        "url": "https://arxiv.org/abs/2606.04202"
+        "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
+        "url": "https://arxiv.org/abs/2606.05332"
       },
       {
-        "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
-        "url": "https://arxiv.org/abs/2606.04223"
+        "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
+        "url": "https://arxiv.org/abs/2606.05334"
       },
       {
-        "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
-        "url": "https://arxiv.org/abs/2606.04244"
+        "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
+        "url": "https://arxiv.org/abs/2606.05342"
       },
       {
-        "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
-        "url": "https://arxiv.org/abs/2606.04246"
+        "title": "An interpretable and trustworthy AI framework for large-scale longitudinal structure-pain association studies using data from the Osteoarthritis Initiative (OAI)",
+        "url": "https://arxiv.org/abs/2606.05357"
       },
       {
-        "title": "Can Generalist Agents Automate Data Curation?",
-        "url": "https://arxiv.org/abs/2606.04261"
+        "title": "Synthetic Contrastive Reasoning for Multi-Table Q&A",
+        "url": "https://arxiv.org/abs/2606.05382"
       },
       {
-        "title": "Characterizing initial human-AI proof formalization workflows",
-        "url": "https://arxiv.org/abs/2606.04273"
+        "title": "Stability vs. Manipulability: Evaluating Robustness Under Post-Decision Interaction in LLM Judges",
+        "url": "https://arxiv.org/abs/2606.05384"
       },
       {
-        "title": "The Saturation Trap and the Subjectivity of Intervention Timing: Why Affect-Based Triggers and LLM Judges Fail to Time Interventions on Autonomous Agents",
-        "url": "https://arxiv.org/abs/2606.04296"
+        "title": "Residual Modeling for High-Fidelity Learned Compression of Scientific Data",
+        "url": "https://arxiv.org/abs/2606.05389"
       }
     ]
   },
