@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Mental causation is not load-bearing",
-        "url": "https://www.lesswrong.com/posts/gxBNfoZhHp3Pptr3F/mental-causation-is-not-load-bearing"
+        "title": "How to build a cancer vaccine, and whether they will work this time",
+        "url": "https://www.lesswrong.com/posts/nWwDciCqfodBifvEP/how-to-build-a-cancer-vaccine-and-whether-they-will-work"
       },
       {
-        "title": "How Far Apart Does a Model Think Its Tokens Are?",
-        "url": "https://www.lesswrong.com/posts/Bxju8Fmpo2eW4oj9t/how-far-apart-does-a-model-think-its-tokens-are"
+        "title": "Efficient tradeoffs and the safety-usefulness tradeoff model",
+        "url": "https://www.lesswrong.com/posts/mBsZTZxtjgCdN4CDA/efficient-tradeoffs-and-the-safety-usefulness-tradeoff-model"
       },
       {
-        "title": "Autopilot Thinking",
-        "url": "https://www.lesswrong.com/posts/ErugrAAqjgSLTmi7y/autopilot-thinking"
+        "title": "Accelerated Skill Learning via Dream Engineering and Biofeedback",
+        "url": "https://www.lesswrong.com/posts/uzL9xLj6pwaij5TyK/accelerated-skill-learning-via-dream-engineering-and"
       },
       {
-        "title": "The Alignment Coin",
-        "url": "https://www.lesswrong.com/posts/ysnr5LvZ2d78b6zjY/the-alignment-coin"
+        "title": "How valuable are weak AI safety regulations?",
+        "url": "https://www.lesswrong.com/posts/peHyxRozoQbcMSzxm/how-valuable-are-weak-ai-safety-regulations"
       },
       {
-        "title": "Secret Loyalties Likely Raise Remote-Influenceability",
-        "url": "https://www.lesswrong.com/posts/YpAxXAcAFp4aFJRwf/secret-loyalties-likely-raise-remote-influenceability"
+        "title": "How to reduce capability degradation from off-model SFT",
+        "url": "https://www.lesswrong.com/posts/wBsEFfQFteHSWCtsv/how-to-reduce-capability-degradation-from-off-model-sft"
       },
       {
-        "title": "From One Piece to One Pace -\u00a0\nVision and mission in temporary coordination of agents",
-        "url": "https://www.lesswrong.com/posts/curDKDhmJmMkSCwQt/from-one-piece-to-one-pace-vision-and-mission-in-temporary"
+        "title": "The Next Swan: Frank Ramsey, Variable Hypotheticals, and the Bet on Induction",
+        "url": "https://www.lesswrong.com/posts/AE8ZyzotwcAf6tzcJ/the-next-swan-frank-ramsey-variable-hypotheticals-and-the"
       },
       {
-        "title": "Neglected Basics of AI Alignment",
-        "url": "https://www.lesswrong.com/posts/pzxkHkvzjYkj5nsyb/neglected-basics-of-ai-alignment-1"
+        "title": "Coverage-driven alignment - What \u2018Teaching Claude Why\u2019 can borrow from AV verification",
+        "url": "https://www.lesswrong.com/posts/hsrjuzqokvAErvZ2q/coverage-driven-alignment-what-teaching-claude-why-can"
       },
       {
-        "title": "The Hats of LessOnline",
-        "url": "https://www.lesswrong.com/posts/ePYruMkPjvnSoBGAS/the-hats-of-lessonline"
+        "title": "Bun's Migration from Zig to Rust as a Potential Case Study for Gradual Disempowerment",
+        "url": "https://www.lesswrong.com/posts/qEbqPitYhWHthwFNu/bun-s-migration-from-zig-to-rust-as-a-potential-case-study"
       },
       {
-        "title": "Can activation verbalizers surface an internal chain of thought?",
-        "url": "https://www.lesswrong.com/posts/QQQAcKuWK6k98FivY/can-activation-verbalizers-surface-an-internal-chain-of-1"
+        "title": "Contra Dance at LessOnline",
+        "url": "https://www.lesswrong.com/posts/GtZKzWgAqWrE2tXrQ/contra-dance-at-lessonline"
       },
       {
-        "title": "Frontier Models Still Lag Behind Humans at Robust Belief-State Tracking",
-        "url": "https://www.lesswrong.com/posts/L7pBM9RCnsoJJenkJ/frontier-models-still-lag-behind-humans-at-robust-belief"
+        "title": "Honking is good",
+        "url": "https://www.lesswrong.com/posts/d77rhaPMn9oQaN7Sg/honking-is-good"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Efficient tradeoffs and the safety-usefulness tradeoff model",
+        "url": "https://www.alignmentforum.org/posts/mBsZTZxtjgCdN4CDA/efficient-tradeoffs-and-the-safety-usefulness-tradeoff-model"
+      },
       {
         "title": "My research: a computational cognitive neuroscience perspective on alignment",
         "url": "https://www.alignmentforum.org/posts/MuLvZxMcy5WaKJu3H/my-research-a-computational-cognitive-neuroscience"
@@ -84,10 +88,6 @@
       {
         "title": "Risk reports need to\u00a0address deployment-time spread of misalignment",
         "url": "https://www.alignmentforum.org/posts/cNymohcWtGHzW7AjK/risk-reports-need-to-address-deployment-time-spread-of"
-      },
-      {
-        "title": "Mechanistic estimation for expectations of random products",
-        "url": "https://www.alignmentforum.org/posts/7RyAefESvb6BQ3tMz/mechanistic-estimation-for-expectations-of-random-products"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
+        "url": "https://arxiv.org/abs/2606.06514"
+      },
+      {
+        "title": "DiBS: Diffusion-Informed Branch Selection",
+        "url": "https://arxiv.org/abs/2606.06518"
+      },
+      {
+        "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
+        "url": "https://arxiv.org/abs/2606.06519"
+      },
+      {
+        "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+        "url": "https://arxiv.org/abs/2606.06523"
+      },
+      {
+        "title": "CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions",
+        "url": "https://arxiv.org/abs/2606.06526"
+      },
+      {
+        "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
+        "url": "https://arxiv.org/abs/2606.06529"
+      },
+      {
+        "title": "CARVE-Q: Quantum-Proposed, Classically Certified Interactive Driving Repair",
+        "url": "https://arxiv.org/abs/2606.06531"
+      },
+      {
+        "title": "Position: Don't Just \"Fix it in Post\": A Science of AI Must Study Training Dynamics",
+        "url": "https://arxiv.org/abs/2606.06533"
+      },
+      {
+        "title": "Accelerated Fourier SAT (AFSAT): Fully Realising a GPU-based Symmetric Pseudo-Boolean SAT Solver",
+        "url": "https://arxiv.org/abs/2606.06641"
+      },
+      {
+        "title": "A Study of Parallel Continuous Local Search",
+        "url": "https://arxiv.org/abs/2606.06656"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
