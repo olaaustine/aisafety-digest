@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "How to build a cancer vaccine, and whether they will work this time",
-        "url": "https://www.lesswrong.com/posts/nWwDciCqfodBifvEP/how-to-build-a-cancer-vaccine-and-whether-they-will-work"
+        "title": "\"Self-Control\" Is A (Neurological) Type Error",
+        "url": "https://www.lesswrong.com/posts/iLedFvzdhq3kSYPZq/self-control-is-a-neurological-type-error"
       },
       {
-        "title": "Efficient tradeoffs and the safety-usefulness tradeoff model",
-        "url": "https://www.lesswrong.com/posts/mBsZTZxtjgCdN4CDA/efficient-tradeoffs-and-the-safety-usefulness-tradeoff-model"
+        "title": "Towards a Formal Scientific Epistemology",
+        "url": "https://www.lesswrong.com/posts/NKFtDgSH7iZo8skTK/towards-a-formal-scientific-epistemology"
       },
       {
-        "title": "Accelerated Skill Learning via Dream Engineering and Biofeedback",
-        "url": "https://www.lesswrong.com/posts/uzL9xLj6pwaij5TyK/accelerated-skill-learning-via-dream-engineering-and"
+        "title": "Some Interesting Papers on RLVR",
+        "url": "https://www.lesswrong.com/posts/tjwpdzpPcPbuwqmuP/some-interesting-papers-on-rlvr"
       },
       {
-        "title": "How valuable are weak AI safety regulations?",
-        "url": "https://www.lesswrong.com/posts/peHyxRozoQbcMSzxm/how-valuable-are-weak-ai-safety-regulations"
+        "title": "A Mike's-Eye View of ARC's Research",
+        "url": "https://www.lesswrong.com/posts/M2tD23bvQLBqsEpqu/a-mike-s-eye-view-of-arc-s-research"
       },
       {
-        "title": "How to reduce capability degradation from off-model SFT",
-        "url": "https://www.lesswrong.com/posts/wBsEFfQFteHSWCtsv/how-to-reduce-capability-degradation-from-off-model-sft"
+        "title": "An LLM Flagged My Paper About LLMs Flagging Things.",
+        "url": "https://www.lesswrong.com/posts/Wqd4fozK9KYFqgNmJ/an-llm-flagged-my-paper-about-llms-flagging-things"
       },
       {
-        "title": "The Next Swan: Frank Ramsey, Variable Hypotheticals, and the Bet on Induction",
-        "url": "https://www.lesswrong.com/posts/AE8ZyzotwcAf6tzcJ/the-next-swan-frank-ramsey-variable-hypotheticals-and-the"
+        "title": "The Skeptic, the Bayesian, Empiricism and Claims to Know:",
+        "url": "https://www.lesswrong.com/posts/ipYrizQspfX8nFdFX/the-skeptic-the-bayesian-empiricism-and-claims-to-know"
       },
       {
-        "title": "Coverage-driven alignment - What \u2018Teaching Claude Why\u2019 can borrow from AV verification",
-        "url": "https://www.lesswrong.com/posts/hsrjuzqokvAErvZ2q/coverage-driven-alignment-what-teaching-claude-why-can"
+        "title": "Claude Fable 5 and Mythos 5 [Linkpost]",
+        "url": "https://www.lesswrong.com/posts/kXjtbs7QqavJ7RwNE/claude-fable-5-and-mythos-5-linkpost"
       },
       {
-        "title": "Bun's Migration from Zig to Rust as a Potential Case Study for Gradual Disempowerment",
-        "url": "https://www.lesswrong.com/posts/qEbqPitYhWHthwFNu/bun-s-migration-from-zig-to-rust-as-a-potential-case-study"
+        "title": "The Machines Lack Honour",
+        "url": "https://www.lesswrong.com/posts/oiNaBc4MEAGhzhdXg/the-machines-lack-honour"
       },
       {
-        "title": "Contra Dance at LessOnline",
-        "url": "https://www.lesswrong.com/posts/GtZKzWgAqWrE2tXrQ/contra-dance-at-lessonline"
+        "title": "High Dynamic Range DIY Air Testing",
+        "url": "https://www.lesswrong.com/posts/JkiQq7ySzbDpCuKju/high-dynamic-range-diy-air-testing"
       },
       {
-        "title": "Honking is good",
-        "url": "https://www.lesswrong.com/posts/d77rhaPMn9oQaN7Sg/honking-is-good"
+        "title": "AI Super PAC tracker",
+        "url": "https://www.lesswrong.com/posts/3JQNTRjsngYqg6xBK/ai-super-pac-tracker"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "A Mike's-Eye View of ARC's Research",
+        "url": "https://www.alignmentforum.org/posts/M2tD23bvQLBqsEpqu/a-mike-s-eye-view-of-arc-s-research"
+      },
       {
         "title": "Efficient tradeoffs and the safety-usefulness tradeoff model",
         "url": "https://www.alignmentforum.org/posts/mBsZTZxtjgCdN4CDA/efficient-tradeoffs-and-the-safety-usefulness-tradeoff-model"
@@ -84,10 +88,6 @@
       {
         "title": "The Case for Evaluating Model Behaviors",
         "url": "https://www.alignmentforum.org/posts/J5KkwYnnaeNX7hL2s/the-case-for-evaluating-model-behaviors"
-      },
-      {
-        "title": "Risk reports need to\u00a0address deployment-time spread of misalignment",
-        "url": "https://www.alignmentforum.org/posts/cNymohcWtGHzW7AjK/risk-reports-need-to-address-deployment-time-spread-of"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
-        "url": "https://arxiv.org/abs/2606.06514"
+        "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
+        "url": "https://arxiv.org/abs/2606.07549"
       },
       {
-        "title": "DiBS: Diffusion-Informed Branch Selection",
-        "url": "https://arxiv.org/abs/2606.06518"
+        "title": "OmniMem: Perturbation-aware Memory Compression for Streaming Audio-Visual LLMs",
+        "url": "https://arxiv.org/abs/2606.07577"
       },
       {
-        "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
-        "url": "https://arxiv.org/abs/2606.06519"
+        "title": "Syll: Open-Source Personal Automation with Cross-Surface Execution",
+        "url": "https://arxiv.org/abs/2606.07594"
       },
       {
-        "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
-        "url": "https://arxiv.org/abs/2606.06523"
+        "title": "A case study of evaluating AI agents on a neuroscience data-to-discovery pipeline",
+        "url": "https://arxiv.org/abs/2606.07718"
       },
       {
-        "title": "CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions",
-        "url": "https://arxiv.org/abs/2606.06526"
+        "title": "Why Limit the Residual Stream to Layers and Not Tokens? Persistent Memory for Continuous Latent Reasoning",
+        "url": "https://arxiv.org/abs/2606.07720"
       },
       {
-        "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
-        "url": "https://arxiv.org/abs/2606.06529"
+        "title": "Automatic Extraction of Structured Information from Brain MRI Reports Using an Open-Weight Large Language Model",
+        "url": "https://arxiv.org/abs/2606.07721"
       },
       {
-        "title": "CARVE-Q: Quantum-Proposed, Classically Certified Interactive Driving Repair",
-        "url": "https://arxiv.org/abs/2606.06531"
+        "title": "Some hypotheses on how chatbots work in problem-solving-driven conversations. Large Language Models as confirmation of the Innovation Illusion",
+        "url": "https://arxiv.org/abs/2606.07722"
       },
       {
-        "title": "Position: Don't Just \"Fix it in Post\": A Science of AI Must Study Training Dynamics",
-        "url": "https://arxiv.org/abs/2606.06533"
+        "title": "Land cover and flood type govern the detection limits of satellite-based flood mapping across diverse global flood events",
+        "url": "https://arxiv.org/abs/2606.07780"
       },
       {
-        "title": "Accelerated Fourier SAT (AFSAT): Fully Realising a GPU-based Symmetric Pseudo-Boolean SAT Solver",
-        "url": "https://arxiv.org/abs/2606.06641"
+        "title": "Reconstructing and forecasting disease trajectories of patients with Alzheimer's disease using routine data in resource-constrained settings",
+        "url": "https://arxiv.org/abs/2606.07798"
       },
       {
-        "title": "A Study of Parallel Continuous Local Search",
-        "url": "https://arxiv.org/abs/2606.06656"
+        "title": "Improving Multimodal Reasoning via Worst Dimension Optimization",
+        "url": "https://arxiv.org/abs/2606.07801"
       }
     ]
   },
@@ -152,12 +152,16 @@
     "url": "https://www.anthropic.com/news",
     "articles": [
       {
-        "title": "Introducing Claude Opus 4.8ProductMay 28, 2026An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
-        "url": "https://www.anthropic.com/news/news/claude-opus-4-8"
+        "title": "Claude Fable 5 and Claude Mythos 5AnnouncementsJun 9, 2026Our next generation of intelligence for the hardest knowledge work and coding problems.",
+        "url": "https://www.anthropic.com/news/news/claude-fable-5-mythos-5"
       },
       {
         "title": "AnnouncementsJun 2, 2026Expanding Project GlasswingWe\u2019re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries.",
         "url": "https://www.anthropic.com/news/news/expanding-project-glasswing"
+      },
+      {
+        "title": "ProductMay 28, 2026Introducing Claude Opus 4.8An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
+        "url": "https://www.anthropic.com/news/news/claude-opus-4-8"
       },
       {
         "title": "AnnouncementsMay 25, 2026Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"The full text of Chris Olah's remarks on the Pope's encyclical on AI.",
@@ -166,10 +170,6 @@
       {
         "title": "AnnouncementsMay 19, 2026Widening the conversation on frontier AIOver the past several months, we\u2019ve been organizing dialogues with groups whose work and traditions bear on the questions raised by AI.",
         "url": "https://www.anthropic.com/news/news/widening-conversation-ai"
-      },
-      {
-        "title": "AnnouncementsApr 24, 2026An update on our election safeguardsWe explain what we\u2019re doing to ensure Claude plays a positive role in the US midterms and other major elections around the world this year.",
-        "url": "https://www.anthropic.com/news/news/election-safeguards-update"
       },
       {
         "title": "Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network",
