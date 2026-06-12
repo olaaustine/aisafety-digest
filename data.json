@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Newcomb's problem from the grand-system and petty-system views",
-        "url": "https://www.lesswrong.com/posts/mXeuoxTNMNaQwiheq/newcomb-s-problem-from-the-grand-system-and-petty-system"
+        "title": "The\u00a0Quest\u00a0To Find The Next Big Communicators In\u00a0AI Safety",
+        "url": "https://www.lesswrong.com/posts/ALBdBRas7G3kdbPSq/the-quest-to-find-the-next-big-communicators-in-ai-safety"
       },
       {
-        "title": "[New Paper] Prioritizing Risks from AI: A Delphi Study of 272 Experts",
-        "url": "https://www.lesswrong.com/posts/hjwC4TH4xamt3woZF/new-paper-prioritizing-risks-from-ai-a-delphi-study-of-272"
+        "title": "Extending performative misalignment",
+        "url": "https://www.lesswrong.com/posts/tZSkryA4aygKAbPFz/extending-performative-misalignment"
       },
       {
-        "title": "Telepathy Is (Algorithmically) Easy",
-        "url": "https://www.lesswrong.com/posts/6ouGcnFSyBjJzEA5b/telepathy-is-algorithmically-easy"
+        "title": "Claude Fable 5 and Mythos 5: The System Card",
+        "url": "https://www.lesswrong.com/posts/ixJDkQBncJBshcvwj/claude-fable-5-and-mythos-5-the-system-card"
       },
       {
-        "title": "Mortgage rate: 6.5% If indexed: 1.2%\nWhy not indexed? Superstition.",
-        "url": "https://www.lesswrong.com/posts/ifwz39jBZMbwahE3v/mortgage-rate-6-5-if-indexed-1-2-why-not-indexed"
+        "title": "What's Continual Learning, and Why Might We Expect To See It In Advanced LLM Agents?",
+        "url": "https://www.lesswrong.com/posts/5mCJzimtNZc9o4e26/what-s-continual-learning-and-why-might-we-expect-to-see-it"
       },
       {
-        "title": "Becoming a Researcher in a Non-EA-Priority Field vs Donating $100k / Year to EA Research?",
-        "url": "https://www.lesswrong.com/posts/xcTD7QcorAbELtfxQ/becoming-a-researcher-in-a-non-ea-priority-field-vs-donating-2"
+        "title": "Implications of Continual Learning for LLM Agents: Introduction",
+        "url": "https://www.lesswrong.com/posts/qChDifwpY8znER7cW/implications-of-continual-learning-for-llm-agents"
       },
       {
-        "title": "AI #172: The First Fable",
-        "url": "https://www.lesswrong.com/posts/BHwbunvkgNojAa3HC/ai-172-the-first-fable"
+        "title": "Surplus: for massive public good",
+        "url": "https://www.lesswrong.com/posts/Ln7zPuPoL8oxRYtP4/surplus-for-massive-public-good"
       },
       {
-        "title": "Failing to Ragebait the New Gemma",
-        "url": "https://www.lesswrong.com/posts/FZfY9wEZwEuqQ5ytv/failing-to-ragebait-the-new-gemma"
+        "title": "Reward Hacking at the 1937 World\u2019s Fair",
+        "url": "https://www.lesswrong.com/posts/TTHi7yNheaoepWKfR/reward-hacking-at-the-1937-world-s-fair"
       },
       {
-        "title": "Curating and evaluating high-impact legal research (Unjournal progress, resources)",
-        "url": "https://www.lesswrong.com/posts/gYEuvfm6MGCyrsv62/curating-and-evaluating-high-impact-legal-research-unjournal"
+        "title": "Bunk in AF",
+        "url": "https://www.lesswrong.com/posts/q2hHDjMDwyAHh92ek/bunk-in-af"
       },
       {
-        "title": "Models May Behave Worse When Eval Aware",
-        "url": "https://www.lesswrong.com/posts/aTcsN5ZZDnMFJvRiG/models-may-behave-worse-when-eval-aware"
+        "title": "Building and evaluating model diffing agents",
+        "url": "https://www.lesswrong.com/posts/qi4mNbZYAFDYwfRba/building-and-evaluating-model-diffing-agents"
       },
       {
-        "title": "Becoming a Researcher in a Non-EA-Priority Field vs Donating $100k / Year to EA Research",
-        "url": "https://www.lesswrong.com/posts/Wvk3dDi4SseLxNpeZ/becoming-a-researcher-in-a-non-ea-priority-field-vs-donating"
+        "title": "Rational Animations is a 501(c)(3) nonprofit and is looking for board members",
+        "url": "https://www.lesswrong.com/posts/vT9Cr2BpNtza6xKFX/rational-animations-is-a-501-c-3-nonprofit-and-is-looking"
       }
     ]
   },
@@ -49,6 +49,14 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Building and evaluating model diffing agents",
+        "url": "https://www.alignmentforum.org/posts/qi4mNbZYAFDYwfRba/building-and-evaluating-model-diffing-agents"
+      },
+      {
+        "title": "Sympathy for both sides of the egregious misalignment debate",
+        "url": "https://www.alignmentforum.org/posts/DZaZ3fqHnvfLCftPu/sympathy-for-both-sides-of-the-egregious-misalignment-debate"
+      },
       {
         "title": "Models May Behave Worse When Eval Aware",
         "url": "https://www.alignmentforum.org/posts/aTcsN5ZZDnMFJvRiG/models-may-behave-worse-when-eval-aware"
@@ -80,14 +88,6 @@
       {
         "title": "Testing Gemini models for scheming tendencies",
         "url": "https://www.alignmentforum.org/posts/F3sDngvTL9uyfz53k/testing-gemini-models-for-scheming-tendencies"
-      },
-      {
-        "title": "Advice for making robust-to-training model organisms",
-        "url": "https://www.alignmentforum.org/posts/CmkAxJi83jRv9eXgJ/advice-for-making-robust-to-training-model-organisms-1"
-      },
-      {
-        "title": "Eval Cooperativeness May Be a Scalable Mitigation for Eval Gaming",
-        "url": "https://www.alignmentforum.org/posts/j8fkk38B8L7hEcGtg/eval-cooperativeness-may-be-a-scalable-mitigation-for-eval"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference",
-        "url": "https://arxiv.org/abs/2606.11207"
+        "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
+        "url": "https://arxiv.org/abs/2606.12451"
       },
       {
-        "title": "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
-        "url": "https://arxiv.org/abs/2606.11245"
+        "title": "Arbor: Tree Search as a Cognition Layer for Autonomous Agents",
+        "url": "https://arxiv.org/abs/2606.12563"
       },
       {
-        "title": "Can AI Agents Synthesize Scientific Conclusions?",
-        "url": "https://arxiv.org/abs/2606.11337"
+        "title": "Strategic Decision Support for AI Agents",
+        "url": "https://arxiv.org/abs/2606.12587"
       },
       {
-        "title": "Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents",
-        "url": "https://arxiv.org/abs/2606.11349"
+        "title": "Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation",
+        "url": "https://arxiv.org/abs/2606.12594"
       },
       {
-        "title": "Automated Mediator for Human Negotiation: Pre-Mediation via a Structured LLM Pipeline",
-        "url": "https://arxiv.org/abs/2606.11379"
+        "title": "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation",
+        "url": "https://arxiv.org/abs/2606.12616"
       },
       {
-        "title": "INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration",
-        "url": "https://arxiv.org/abs/2606.11440"
+        "title": "\"Did you lie?\" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms",
+        "url": "https://arxiv.org/abs/2606.12618"
       },
       {
-        "title": "Forecasting Future Behavior as a Learning Task",
-        "url": "https://arxiv.org/abs/2606.11445"
+        "title": "TrajGenAgent: A Hierarchical LLM Agent for Human Mobility Trajectory Generation",
+        "url": "https://arxiv.org/abs/2606.12657"
       },
       {
-        "title": "Search Discipline for Long-Horizon Research Agents",
-        "url": "https://arxiv.org/abs/2606.11522"
+        "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
+        "url": "https://arxiv.org/abs/2606.12674"
       },
       {
-        "title": "MoCA-Agent: A Market-of-Claims Code Agent for Financial and Numerical Reasoning",
-        "url": "https://arxiv.org/abs/2606.11537"
+        "title": "From AGI to ASI",
+        "url": "https://arxiv.org/abs/2606.12683"
       },
       {
-        "title": "SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior",
-        "url": "https://arxiv.org/abs/2606.11543"
+        "title": "Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System",
+        "url": "https://arxiv.org/abs/2606.12702"
       }
     ]
   },
@@ -168,6 +168,14 @@
         "url": "https://www.anthropic.com/news/news/chris-olah-pope-leo-encyclical"
       },
       {
+        "title": "Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record",
+        "url": "https://www.anthropic.com/news/news/anthropic-public-record"
+      },
+      {
+        "title": "Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries",
+        "url": "https://www.anthropic.com/news/news/tcs-anthropic-partnership"
+      },
+      {
         "title": "Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
         "url": "https://www.anthropic.com/news/news/dxc-anthropic-alliance"
       },
@@ -182,14 +190,6 @@
       {
         "title": "Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC",
         "url": "https://www.anthropic.com/news/news/confidential-draft-s1-sec"
-      },
-      {
-        "title": "May 28, 2026AnnouncementsAnthropic raises $65B in Series H funding at $965B post-money valuation",
-        "url": "https://www.anthropic.com/news/news/series-h"
-      },
-      {
-        "title": "May 28, 2026ProductIntroducing Claude Opus 4.8",
-        "url": "https://www.anthropic.com/news/news/claude-opus-4-8"
       }
     ]
   }
