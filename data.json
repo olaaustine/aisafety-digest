@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "The\u00a0Quest\u00a0To Find The Next Big Communicators In\u00a0AI Safety",
-        "url": "https://www.lesswrong.com/posts/ALBdBRas7G3kdbPSq/the-quest-to-find-the-next-big-communicators-in-ai-safety"
+        "title": "Anthropic Is Taking AI Welfare Seriously. I\u2019m Not Sure It Knows What It\u2019s Measuring.",
+        "url": "https://www.lesswrong.com/posts/gNtHHCh363xSGJyz3/anthropic-is-taking-ai-welfare-seriously-i-m-not-sure-it"
       },
       {
-        "title": "Extending performative misalignment",
-        "url": "https://www.lesswrong.com/posts/tZSkryA4aygKAbPFz/extending-performative-misalignment"
+        "title": "A cheap specialist judge gets used by agents but fails to reduce alignment audit costs",
+        "url": "https://www.lesswrong.com/posts/AvyXkzAebPcWLZeju/a-cheap-specialist-judge-gets-used-by-agents-but-fails-to"
       },
       {
-        "title": "Claude Fable 5 and Mythos 5: The System Card",
-        "url": "https://www.lesswrong.com/posts/ixJDkQBncJBshcvwj/claude-fable-5-and-mythos-5-the-system-card"
+        "title": "What is a game?",
+        "url": "https://www.lesswrong.com/posts/3v4LRuML6bSYHgQws/what-is-a-game"
       },
       {
-        "title": "What's Continual Learning, and Why Might We Expect To See It In Advanced LLM Agents?",
-        "url": "https://www.lesswrong.com/posts/5mCJzimtNZc9o4e26/what-s-continual-learning-and-why-might-we-expect-to-see-it"
+        "title": "American Government Takes Down Claude Fable",
+        "url": "https://www.lesswrong.com/posts/DQNSqCzuoeutoQ5RG/american-government-takes-down-claude-fable"
       },
       {
-        "title": "Implications of Continual Learning for LLM Agents: Introduction",
-        "url": "https://www.lesswrong.com/posts/qChDifwpY8znER7cW/implications-of-continual-learning-for-llm-agents"
+        "title": "Not telling is lying",
+        "url": "https://www.lesswrong.com/posts/hpkjqtPnzKRmmHEG4/not-telling-is-lying"
       },
       {
-        "title": "Surplus: for massive public good",
-        "url": "https://www.lesswrong.com/posts/Ln7zPuPoL8oxRYtP4/surplus-for-massive-public-good"
+        "title": "A simple argument for trying less hard",
+        "url": "https://www.lesswrong.com/posts/sv7WezDZyu9Zdxkxb/a-simple-argument-for-trying-less-hard"
       },
       {
-        "title": "Reward Hacking at the 1937 World\u2019s Fair",
-        "url": "https://www.lesswrong.com/posts/TTHi7yNheaoepWKfR/reward-hacking-at-the-1937-world-s-fair"
+        "title": "How might continual learning\u00a0affect safety and alignment?",
+        "url": "https://www.lesswrong.com/posts/j2zBqt7AksoEoHXNp/how-might-continual-learning-affect-safety-and-alignment"
       },
       {
-        "title": "Bunk in AF",
-        "url": "https://www.lesswrong.com/posts/q2hHDjMDwyAHh92ek/bunk-in-af"
+        "title": "Presentfulness: Lucidity, Osmosis, and Dissociation",
+        "url": "https://www.lesswrong.com/posts/cREAEK6d8Q9EBS2uh/presentfulness-lucidity-osmosis-and-dissociation"
       },
       {
-        "title": "Building and evaluating model diffing agents",
-        "url": "https://www.lesswrong.com/posts/qi4mNbZYAFDYwfRba/building-and-evaluating-model-diffing-agents"
+        "title": "How to Suffer Less",
+        "url": "https://www.lesswrong.com/posts/ja37ACj6xsq2pF8Qx/how-to-suffer-less"
       },
       {
-        "title": "Rational Animations is a 501(c)(3) nonprofit and is looking for board members",
-        "url": "https://www.lesswrong.com/posts/vT9Cr2BpNtza6xKFX/rational-animations-is-a-501-c-3-nonprofit-and-is-looking"
+        "title": "Somewhat Contra Ted Chiang on AI Consciousness",
+        "url": "https://www.lesswrong.com/posts/GAvu97c936TTanKSd/somewhat-contra-ted-chiang-on-ai-consciousness"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "SFT Drives Gemini\u2019s Safety Properties",
+        "url": "https://www.alignmentforum.org/posts/nLrrYweeFxgXACSmS/sft-drives-gemini-s-safety-properties-1"
+      },
       {
         "title": "Building and evaluating model diffing agents",
         "url": "https://www.alignmentforum.org/posts/qi4mNbZYAFDYwfRba/building-and-evaluating-model-diffing-agents"
@@ -84,10 +88,6 @@
       {
         "title": "Announcing the ARC White-Box Estimation Challenge",
         "url": "https://www.alignmentforum.org/posts/Kben8CzS4awCwNw5c/announcing-the-arc-white-box-estimation-challenge"
-      },
-      {
-        "title": "Testing Gemini models for scheming tendencies",
-        "url": "https://www.alignmentforum.org/posts/F3sDngvTL9uyfz53k/testing-gemini-models-for-scheming-tendencies"
       }
     ]
   },
@@ -104,56 +104,15 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
-        "url": "https://arxiv.org/abs/2606.12451"
-      },
-      {
-        "title": "Arbor: Tree Search as a Cognition Layer for Autonomous Agents",
-        "url": "https://arxiv.org/abs/2606.12563"
-      },
-      {
-        "title": "Strategic Decision Support for AI Agents",
-        "url": "https://arxiv.org/abs/2606.12587"
-      },
-      {
-        "title": "Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation",
-        "url": "https://arxiv.org/abs/2606.12594"
-      },
-      {
-        "title": "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation",
-        "url": "https://arxiv.org/abs/2606.12616"
-      },
-      {
-        "title": "\"Did you lie?\" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms",
-        "url": "https://arxiv.org/abs/2606.12618"
-      },
-      {
-        "title": "TrajGenAgent: A Hierarchical LLM Agent for Human Mobility Trajectory Generation",
-        "url": "https://arxiv.org/abs/2606.12657"
-      },
-      {
-        "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
-        "url": "https://arxiv.org/abs/2606.12674"
-      },
-      {
-        "title": "From AGI to ASI",
-        "url": "https://arxiv.org/abs/2606.12683"
-      },
-      {
-        "title": "Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System",
-        "url": "https://arxiv.org/abs/2606.12702"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "articles": [
       {
-        "title": "Claude Fable 5 and Claude Mythos 5AnnouncementsJun 9, 2026Our next generation of intelligence for the hardest knowledge work and coding problems.",
-        "url": "https://www.anthropic.com/news/news/claude-fable-5-mythos-5"
+        "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5AnnouncementsJun 12, 2026The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5.",
+        "url": "https://www.anthropic.com/news/news/fable-mythos-access"
       },
       {
         "title": "AnnouncementsJun 11, 2026Introducing Claude CorpsWe\u2019re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
@@ -162,6 +121,10 @@
       {
         "title": "AnnouncementsJun 2, 2026Expanding Project GlasswingWe\u2019re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries.",
         "url": "https://www.anthropic.com/news/news/expanding-project-glasswing"
+      },
+      {
+        "title": "ProductMay 28, 2026Introducing Claude Opus 4.8An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
+        "url": "https://www.anthropic.com/news/news/claude-opus-4-8"
       },
       {
         "title": "AnnouncementsMay 25, 2026Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"The full text of Chris Olah's remarks on the Pope's encyclical on AI.",
@@ -180,16 +143,12 @@
         "url": "https://www.anthropic.com/news/news/dxc-anthropic-alliance"
       },
       {
+        "title": "Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5",
+        "url": "https://www.anthropic.com/news/news/claude-fable-5-mythos-5"
+      },
+      {
         "title": "Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network",
         "url": "https://www.anthropic.com/news/news/services-track-partner-hub"
-      },
-      {
-        "title": "Jun 3, 2026PolicyWhat we learned mapping a year\u2019s worth of AI-enabled cyber threats",
-        "url": "https://www.anthropic.com/news/news/AI-enabled-cyber-threats-mitre-attack"
-      },
-      {
-        "title": "Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC",
-        "url": "https://www.anthropic.com/news/news/confidential-draft-s1-sec"
       }
     ]
   }
