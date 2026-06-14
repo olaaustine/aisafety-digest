@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Anthropic Is Taking AI Welfare Seriously. I\u2019m Not Sure It Knows What It\u2019s Measuring.",
-        "url": "https://www.lesswrong.com/posts/gNtHHCh363xSGJyz3/anthropic-is-taking-ai-welfare-seriously-i-m-not-sure-it"
+        "title": "Why Do Naive SFT Filters For Safety Properties Fail?",
+        "url": "https://www.lesswrong.com/posts/wyZRNgpeiPeRXB6eT/why-do-naive-sft-filters-for-safety-properties-fail"
       },
       {
-        "title": "A cheap specialist judge gets used by agents but fails to reduce alignment audit costs",
-        "url": "https://www.lesswrong.com/posts/AvyXkzAebPcWLZeju/a-cheap-specialist-judge-gets-used-by-agents-but-fails-to"
+        "title": "Why I think a global AI pause (almost) certainly won't happen",
+        "url": "https://www.lesswrong.com/posts/mtNZG7Ee6JfBKhE2H/why-i-think-a-global-ai-pause-almost-certainly-won-t-happen"
       },
       {
-        "title": "What is a game?",
-        "url": "https://www.lesswrong.com/posts/3v4LRuML6bSYHgQws/what-is-a-game"
+        "title": "Gradual disempowerment at the scale of one user",
+        "url": "https://www.lesswrong.com/posts/mcyZbyGYnap9ipA5S/gradual-disempowerment-at-the-scale-of-one-user"
       },
       {
-        "title": "American Government Takes Down Claude Fable",
-        "url": "https://www.lesswrong.com/posts/DQNSqCzuoeutoQ5RG/american-government-takes-down-claude-fable"
+        "title": "How does congressmember use AI?",
+        "url": "https://www.lesswrong.com/posts/8Zo5k2jrK5n7WsvH8/how-does-congressmember-use-ai"
       },
       {
-        "title": "Not telling is lying",
-        "url": "https://www.lesswrong.com/posts/hpkjqtPnzKRmmHEG4/not-telling-is-lying"
+        "title": "The Posture of Thought",
+        "url": "https://www.lesswrong.com/posts/Ks3A7Zcv5esNGjzN2/the-posture-of-thought"
       },
       {
-        "title": "A simple argument for trying less hard",
-        "url": "https://www.lesswrong.com/posts/sv7WezDZyu9Zdxkxb/a-simple-argument-for-trying-less-hard"
+        "title": "Can a stronger model fake being a weaker one? Mostly not",
+        "url": "https://www.lesswrong.com/posts/yFaZ2YhrrPJeTs366/can-a-stronger-model-fake-being-a-weaker-one-mostly-not"
       },
       {
-        "title": "How might continual learning\u00a0affect safety and alignment?",
-        "url": "https://www.lesswrong.com/posts/j2zBqt7AksoEoHXNp/how-might-continual-learning-affect-safety-and-alignment"
+        "title": "The Hidden Structures of Problems",
+        "url": "https://www.lesswrong.com/posts/Cisy9STMoFYwboTsy/the-hidden-structures-of-problems"
       },
       {
-        "title": "Presentfulness: Lucidity, Osmosis, and Dissociation",
-        "url": "https://www.lesswrong.com/posts/cREAEK6d8Q9EBS2uh/presentfulness-lucidity-osmosis-and-dissociation"
+        "title": "Agent Identity Standardisation Efforts",
+        "url": "https://www.lesswrong.com/posts/MSkupCHpEX2XWGBFn/agent-identity-standardisation-efforts"
       },
       {
-        "title": "How to Suffer Less",
-        "url": "https://www.lesswrong.com/posts/ja37ACj6xsq2pF8Qx/how-to-suffer-less"
+        "title": "Wikipedia's national flavors - French",
+        "url": "https://www.lesswrong.com/posts/JyWhgmjPcEY3Cx4ur/wikipedia-s-national-flavors-french"
       },
       {
-        "title": "Somewhat Contra Ted Chiang on AI Consciousness",
-        "url": "https://www.lesswrong.com/posts/GAvu97c936TTanKSd/somewhat-contra-ted-chiang-on-ai-consciousness"
+        "title": "Low-temperature bunk",
+        "url": "https://www.lesswrong.com/posts/jpszhrrvwLwv9uvGd/low-temperature-bunk"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Why Do Naive SFT Filters For Safety Properties Fail?",
+        "url": "https://www.alignmentforum.org/posts/wyZRNgpeiPeRXB6eT/why-do-naive-sft-filters-for-safety-properties-fail"
+      },
       {
         "title": "SFT Drives Gemini\u2019s Safety Properties",
         "url": "https://www.alignmentforum.org/posts/nLrrYweeFxgXACSmS/sft-drives-gemini-s-safety-properties-1"
@@ -82,12 +86,8 @@
         "url": "https://www.alignmentforum.org/posts/mBsZTZxtjgCdN4CDA/efficient-tradeoffs-and-the-safety-usefulness-tradeoff-model"
       },
       {
-        "title": "My research: a computational cognitive neuroscience perspective on alignment",
-        "url": "https://www.alignmentforum.org/posts/MuLvZxMcy5WaKJu3H/my-research-a-computational-cognitive-neuroscience"
-      },
-      {
-        "title": "Announcing the ARC White-Box Estimation Challenge",
-        "url": "https://www.alignmentforum.org/posts/Kben8CzS4awCwNw5c/announcing-the-arc-white-box-estimation-challenge"
+        "title": "Can activation verbalizers surface an internal chain of thought?",
+        "url": "https://www.alignmentforum.org/posts/QQQAcKuWK6k98FivY/can-activation-verbalizers-surface-an-internal-chain-of-1"
       }
     ]
   },
