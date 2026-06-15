@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Why Do Naive SFT Filters For Safety Properties Fail?",
-        "url": "https://www.lesswrong.com/posts/wyZRNgpeiPeRXB6eT/why-do-naive-sft-filters-for-safety-properties-fail"
+        "title": "Finding pi and G in Mathland",
+        "url": "https://www.lesswrong.com/posts/YkqnPFsBdoyprR7Zt/finding-pi-and-g-in-mathland"
       },
       {
-        "title": "Why I think a global AI pause (almost) certainly won't happen",
-        "url": "https://www.lesswrong.com/posts/mtNZG7Ee6JfBKhE2H/why-i-think-a-global-ai-pause-almost-certainly-won-t-happen"
+        "title": "How Matryoshka Sparse AutoEncoders Recover Feature Hierarchies That Vanilla SAEs Lose",
+        "url": "https://www.lesswrong.com/posts/EpLj8FTBdGvt44TTF/how-matryoshka-sparse-autoencoders-recover-feature"
       },
       {
-        "title": "Gradual disempowerment at the scale of one user",
-        "url": "https://www.lesswrong.com/posts/mcyZbyGYnap9ipA5S/gradual-disempowerment-at-the-scale-of-one-user"
+        "title": "In open RLVR, \u201cimprovement\u201d depends on the instrument \u2014 a small GRPO testbed separating what training optimizes, measures, and teaches",
+        "url": "https://www.lesswrong.com/posts/hBjn9rqgjrktH9LL3/in-open-rlvr-improvement-depends-on-the-instrument-a-small-2"
       },
       {
-        "title": "How does congressmember use AI?",
-        "url": "https://www.lesswrong.com/posts/8Zo5k2jrK5n7WsvH8/how-does-congressmember-use-ai"
+        "title": "Can the Safety Tax Be Highly Concentrated?",
+        "url": "https://www.lesswrong.com/posts/ZYe5qNMGqaBHKEW2H/can-the-safety-tax-be-highly-concentrated"
       },
       {
-        "title": "The Posture of Thought",
-        "url": "https://www.lesswrong.com/posts/Ks3A7Zcv5esNGjzN2/the-posture-of-thought"
+        "title": "A frontier AI company should shut down",
+        "url": "https://www.lesswrong.com/posts/bStYDEy8PQPt2c3Za/a-frontier-ai-company-should-shut-down"
       },
       {
-        "title": "Can a stronger model fake being a weaker one? Mostly not",
-        "url": "https://www.lesswrong.com/posts/yFaZ2YhrrPJeTs366/can-a-stronger-model-fake-being-a-weaker-one-mostly-not"
+        "title": "The Once And Future Fable #2",
+        "url": "https://www.lesswrong.com/posts/3fagcqrauaJs32mZZ/the-once-and-future-fable-2"
       },
       {
-        "title": "The Hidden Structures of Problems",
-        "url": "https://www.lesswrong.com/posts/Cisy9STMoFYwboTsy/the-hidden-structures-of-problems"
+        "title": "Links #3: 2026/06 Part 1",
+        "url": "https://www.lesswrong.com/posts/ztdCgHFF9PTvpgLCu/links-3-2026-06-part-1"
       },
       {
-        "title": "Agent Identity Standardisation Efforts",
-        "url": "https://www.lesswrong.com/posts/MSkupCHpEX2XWGBFn/agent-identity-standardisation-efforts"
+        "title": "How reality turns to slop",
+        "url": "https://www.lesswrong.com/posts/j5o4pkCdDsPLxdePP/how-reality-turns-to-slop"
       },
       {
-        "title": "Wikipedia's national flavors - French",
-        "url": "https://www.lesswrong.com/posts/JyWhgmjPcEY3Cx4ur/wikipedia-s-national-flavors-french"
+        "title": "On Responsibility and Death: Can We See Reality for What It Is or Will It Break Us",
+        "url": "https://www.lesswrong.com/posts/LGKLDJobggH2GebAX/on-responsibility-and-death-can-we-see-reality-for-what-it"
       },
       {
-        "title": "Low-temperature bunk",
-        "url": "https://www.lesswrong.com/posts/jpszhrrvwLwv9uvGd/low-temperature-bunk"
+        "title": "VFUSE: Virulent Feature Understanding With Sparse AutoEncoders",
+        "url": "https://www.lesswrong.com/posts/qbg7XzBjMgDfk5DwT/vfuse-virulent-feature-understanding-with-sparse"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
+        "url": "https://arxiv.org/abs/2606.13682"
+      },
+      {
+        "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
+        "url": "https://arxiv.org/abs/2606.13683"
+      },
+      {
+        "title": "History of the Muddy Children Puzzle",
+        "url": "https://arxiv.org/abs/2606.13703"
+      },
+      {
+        "title": "Orchestra-o1: Omnimodal Agent Orchestration",
+        "url": "https://arxiv.org/abs/2606.13707"
+      },
+      {
+        "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
+        "url": "https://arxiv.org/abs/2606.13710"
+      },
+      {
+        "title": "WorkBench Revisited: Workplace Agents Two Years On",
+        "url": "https://arxiv.org/abs/2606.13715"
+      },
+      {
+        "title": "Refusal Beyond a Single Direction: A Preliminary Comparison of Diff-in-Means and INLP",
+        "url": "https://arxiv.org/abs/2606.13720"
+      },
+      {
+        "title": "YeasierAgent: Agentic Social Sandbox as a Canvas for Intent-Driven Creation of Platform-Agnostic Symbiotic Agent-Native Applications",
+        "url": "https://arxiv.org/abs/2606.13722"
+      },
+      {
+        "title": "TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards",
+        "url": "https://arxiv.org/abs/2606.13731"
+      },
+      {
+        "title": "When Sample Selection Bias Precipitates Model Collapse",
+        "url": "https://arxiv.org/abs/2606.13732"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
