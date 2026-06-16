@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Finding pi and G in Mathland",
-        "url": "https://www.lesswrong.com/posts/YkqnPFsBdoyprR7Zt/finding-pi-and-g-in-mathland"
+        "title": "Two Classical Answers to \"What do Two Variables Share?\"",
+        "url": "https://www.lesswrong.com/posts/tTsZzksq5oDxA7kEi/two-classical-answers-to-what-do-two-variables-share"
       },
       {
-        "title": "How Matryoshka Sparse AutoEncoders Recover Feature Hierarchies That Vanilla SAEs Lose",
-        "url": "https://www.lesswrong.com/posts/EpLj8FTBdGvt44TTF/how-matryoshka-sparse-autoencoders-recover-feature"
+        "title": "Predicting LLM Safety Before Release by Simulating Deployment",
+        "url": "https://www.lesswrong.com/posts/xPXJfgqFTvuJxGZbE/predicting-llm-safety-before-release-by-simulating"
       },
       {
-        "title": "In open RLVR, \u201cimprovement\u201d depends on the instrument \u2014 a small GRPO testbed separating what training optimizes, measures, and teaches",
-        "url": "https://www.lesswrong.com/posts/hBjn9rqgjrktH9LL3/in-open-rlvr-improvement-depends-on-the-instrument-a-small-2"
+        "title": "Dean Ball - Leviathan Waking:\nOn Anthropic/USG, and a new era in AI governance",
+        "url": "https://www.lesswrong.com/posts/9poBvmxWHAT9MTNY5/dean-ball-leviathan-waking-on-anthropic-usg-and-a-new-era-in"
       },
       {
-        "title": "Can the Safety Tax Be Highly Concentrated?",
-        "url": "https://www.lesswrong.com/posts/ZYe5qNMGqaBHKEW2H/can-the-safety-tax-be-highly-concentrated"
+        "title": "1 Layer Induction Heads and Some Research",
+        "url": "https://www.lesswrong.com/posts/tiEgivi7crHSnSrH5/1-layer-induction-heads-and-some-research"
       },
       {
-        "title": "A frontier AI company should shut down",
-        "url": "https://www.lesswrong.com/posts/bStYDEy8PQPt2c3Za/a-frontier-ai-company-should-shut-down"
+        "title": "Claims all the way down",
+        "url": "https://www.lesswrong.com/posts/ud6wrLLshsG8Jvkec/claims-all-the-way-down"
       },
       {
-        "title": "The Once And Future Fable #2",
-        "url": "https://www.lesswrong.com/posts/3fagcqrauaJs32mZZ/the-once-and-future-fable-2"
+        "title": "Upcoming CFAR Workshop: September 30th to October 4th, SF Bay Area",
+        "url": "https://www.lesswrong.com/posts/ECAQCmESHfDSfRFLJ/upcoming-cfar-workshop-september-30th-to-october-4th-sf-bay"
       },
       {
-        "title": "Links #3: 2026/06 Part 1",
-        "url": "https://www.lesswrong.com/posts/ztdCgHFF9PTvpgLCu/links-3-2026-06-part-1"
+        "title": "Extreme Rationality: Still Not That Great",
+        "url": "https://www.lesswrong.com/posts/jAebQRmNnyzzqLfbX/extreme-rationality-still-not-that-great"
       },
       {
-        "title": "How reality turns to slop",
-        "url": "https://www.lesswrong.com/posts/j5o4pkCdDsPLxdePP/how-reality-turns-to-slop"
+        "title": "Angles of attack for continual learning safety",
+        "url": "https://www.lesswrong.com/posts/FKggLpnfbpbYvnjfG/angles-of-attack-for-continual-learning-safety"
       },
       {
-        "title": "On Responsibility and Death: Can We See Reality for What It Is or Will It Break Us",
-        "url": "https://www.lesswrong.com/posts/LGKLDJobggH2GebAX/on-responsibility-and-death-can-we-see-reality-for-what-it"
+        "title": "Fable and Mythos: Model Welfare",
+        "url": "https://www.lesswrong.com/posts/Ko9GngKMJ8AccBJA7/fable-and-mythos-model-welfare"
       },
       {
-        "title": "VFUSE: Virulent Feature Understanding With Sparse AutoEncoders",
-        "url": "https://www.lesswrong.com/posts/qbg7XzBjMgDfk5DwT/vfuse-virulent-feature-understanding-with-sparse"
+        "title": "The desire to end the world",
+        "url": "https://www.lesswrong.com/posts/fp6pPQYjyiJ3fLEBZ/the-desire-to-end-the-world-1"
       }
     ]
   },
@@ -49,6 +49,14 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Predicting LLM Safety Before Release by Simulating Deployment",
+        "url": "https://www.alignmentforum.org/posts/xPXJfgqFTvuJxGZbE/predicting-llm-safety-before-release-by-simulating"
+      },
+      {
+        "title": "Synthetic document finetuning for instilling positive traits",
+        "url": "https://www.alignmentforum.org/posts/GTYJRLhqztxKF2v5R/synthetic-document-finetuning-for-instilling-positive-traits"
+      },
       {
         "title": "Why Do Naive SFT Filters For Safety Properties Fail?",
         "url": "https://www.alignmentforum.org/posts/wyZRNgpeiPeRXB6eT/why-do-naive-sft-filters-for-safety-properties-fail"
@@ -80,14 +88,6 @@
       {
         "title": "A Mike's-Eye View of ARC's Research",
         "url": "https://www.alignmentforum.org/posts/M2tD23bvQLBqsEpqu/a-mike-s-eye-view-of-arc-s-research"
-      },
-      {
-        "title": "Efficient tradeoffs and the safety-usefulness tradeoff model",
-        "url": "https://www.alignmentforum.org/posts/mBsZTZxtjgCdN4CDA/efficient-tradeoffs-and-the-safety-usefulness-tradeoff-model"
-      },
-      {
-        "title": "Can activation verbalizers surface an internal chain of thought?",
-        "url": "https://www.alignmentforum.org/posts/QQQAcKuWK6k98FivY/can-activation-verbalizers-surface-an-internal-chain-of-1"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
-        "url": "https://arxiv.org/abs/2606.13682"
+        "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
+        "url": "https://arxiv.org/abs/2606.14838"
       },
       {
-        "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
-        "url": "https://arxiv.org/abs/2606.13683"
+        "title": "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
+        "url": "https://arxiv.org/abs/2606.14885"
       },
       {
-        "title": "History of the Muddy Children Puzzle",
-        "url": "https://arxiv.org/abs/2606.13703"
+        "title": "Relational Structural Causal Models",
+        "url": "https://arxiv.org/abs/2606.14892"
       },
       {
-        "title": "Orchestra-o1: Omnimodal Agent Orchestration",
-        "url": "https://arxiv.org/abs/2606.13707"
+        "title": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems",
+        "url": "https://arxiv.org/abs/2606.14923"
       },
       {
-        "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
-        "url": "https://arxiv.org/abs/2606.13710"
+        "title": "PrologMCP: A Standardized Prolog Tool Interface for LLM Agents",
+        "url": "https://arxiv.org/abs/2606.14935"
       },
       {
-        "title": "WorkBench Revisited: Workplace Agents Two Years On",
-        "url": "https://arxiv.org/abs/2606.13715"
+        "title": "Semantics-Enhanced Retrieval-Augmented Time Series Forecasting",
+        "url": "https://arxiv.org/abs/2606.14941"
       },
       {
-        "title": "Refusal Beyond a Single Direction: A Preliminary Comparison of Diff-in-Means and INLP",
-        "url": "https://arxiv.org/abs/2606.13720"
+        "title": "AI Engram: In Search of Memory Traces in Artificial Intelligence",
+        "url": "https://arxiv.org/abs/2606.14997"
       },
       {
-        "title": "YeasierAgent: Agentic Social Sandbox as a Canvas for Intent-Driven Creation of Platform-Agnostic Symbiotic Agent-Native Applications",
-        "url": "https://arxiv.org/abs/2606.13722"
+        "title": "Metric Match: A Subset Selection Approach to Evaluating LLM Judge Reliability",
+        "url": "https://arxiv.org/abs/2606.15029"
       },
       {
-        "title": "TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards",
-        "url": "https://arxiv.org/abs/2606.13731"
+        "title": "OSGuard: A Benchmark for Safety in Computer-Use Agents",
+        "url": "https://arxiv.org/abs/2606.15034"
       },
       {
-        "title": "When Sample Selection Bias Precipitates Model Collapse",
-        "url": "https://arxiv.org/abs/2606.13732"
+        "title": "Fusion is not one-size-fits-all: Cross-Modal Representation Alignment for Time-to-Event Modeling",
+        "url": "https://arxiv.org/abs/2606.15038"
       }
     ]
   },
