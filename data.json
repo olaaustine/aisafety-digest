@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Two Classical Answers to \"What do Two Variables Share?\"",
-        "url": "https://www.lesswrong.com/posts/tTsZzksq5oDxA7kEi/two-classical-answers-to-what-do-two-variables-share"
+        "title": "Gears for political races",
+        "url": "https://www.lesswrong.com/posts/nSqB3qYP36enJLRq2/gears-for-political-races"
       },
       {
-        "title": "Predicting LLM Safety Before Release by Simulating Deployment",
-        "url": "https://www.lesswrong.com/posts/xPXJfgqFTvuJxGZbE/predicting-llm-safety-before-release-by-simulating"
+        "title": "\u201cDid you lie?\u201d Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms",
+        "url": "https://www.lesswrong.com/posts/xFbMTnmDAucwE8Cdm/did-you-lie-evaluating-lie-detectors-across-model-scale-and"
       },
       {
-        "title": "Dean Ball - Leviathan Waking:\nOn Anthropic/USG, and a new era in AI governance",
-        "url": "https://www.lesswrong.com/posts/9poBvmxWHAT9MTNY5/dean-ball-leviathan-waking-on-anthropic-usg-and-a-new-era-in"
+        "title": "Porting MACHIAVELLI To Inspect",
+        "url": "https://www.lesswrong.com/posts/g2if3iTL2GH2AjHgc/porting-machiavelli-to-inspect"
       },
       {
-        "title": "1 Layer Induction Heads and Some Research",
-        "url": "https://www.lesswrong.com/posts/tiEgivi7crHSnSrH5/1-layer-induction-heads-and-some-research"
+        "title": "Several frontier models are substantially prefill aware",
+        "url": "https://www.lesswrong.com/posts/iMds4tTpMH4pSHEej/several-frontier-models-are-substantially-prefill-aware"
       },
       {
-        "title": "Claims all the way down",
-        "url": "https://www.lesswrong.com/posts/ud6wrLLshsG8Jvkec/claims-all-the-way-down"
+        "title": "Lock-In Risk Needs More Researchers. Here's Where to Start",
+        "url": "https://www.lesswrong.com/posts/ZsrTrxxwgj9spwzaE/lock-in-risk-needs-more-researchers-here-s-where-to-start"
       },
       {
-        "title": "Upcoming CFAR Workshop: September 30th to October 4th, SF Bay Area",
-        "url": "https://www.lesswrong.com/posts/ECAQCmESHfDSfRFLJ/upcoming-cfar-workshop-september-30th-to-october-4th-sf-bay"
+        "title": "A Geometric Account of Activation Steering through Angle\u2013Norm Decomposition",
+        "url": "https://www.lesswrong.com/posts/sap5GsycwFBZfxQec/a-geometric-account-of-activation-steering-through-angle"
       },
       {
-        "title": "Extreme Rationality: Still Not That Great",
-        "url": "https://www.lesswrong.com/posts/jAebQRmNnyzzqLfbX/extreme-rationality-still-not-that-great"
+        "title": "The Once And Future Fable #3: Fix This Code",
+        "url": "https://www.lesswrong.com/posts/HaHzwvhbWam4n8hJB/the-once-and-future-fable-3-fix-this-code"
       },
       {
-        "title": "Angles of attack for continual learning safety",
-        "url": "https://www.lesswrong.com/posts/FKggLpnfbpbYvnjfG/angles-of-attack-for-continual-learning-safety"
+        "title": "Alignment pretraining could backfire",
+        "url": "https://www.lesswrong.com/posts/7KN7PCiEQjrPsEFS8/alignment-pretraining-could-backfire"
       },
       {
-        "title": "Fable and Mythos: Model Welfare",
-        "url": "https://www.lesswrong.com/posts/Ko9GngKMJ8AccBJA7/fable-and-mythos-model-welfare"
+        "title": "Toward a Kantian refutation of Agent Foundations",
+        "url": "https://www.lesswrong.com/posts/j9bCoKHYxynvb7JCv/toward-a-kantian-refutation-of-agent-foundations"
       },
       {
-        "title": "The desire to end the world",
-        "url": "https://www.lesswrong.com/posts/fp6pPQYjyiJ3fLEBZ/the-desire-to-end-the-world-1"
+        "title": "The Financial Ledger Theory of Apologies",
+        "url": "https://www.lesswrong.com/posts/xhePNvxamTKPcobhB/the-financial-ledger-theory-of-apologies"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
-        "url": "https://arxiv.org/abs/2606.14838"
+        "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
+        "url": "https://arxiv.org/abs/2606.17209"
       },
       {
-        "title": "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
-        "url": "https://arxiv.org/abs/2606.14885"
+        "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
+        "url": "https://arxiv.org/abs/2606.17220"
       },
       {
-        "title": "Relational Structural Causal Models",
-        "url": "https://arxiv.org/abs/2606.14892"
+        "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
+        "url": "https://arxiv.org/abs/2606.17266"
       },
       {
-        "title": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems",
-        "url": "https://arxiv.org/abs/2606.14923"
+        "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
+        "url": "https://arxiv.org/abs/2606.17269"
       },
       {
-        "title": "PrologMCP: A Standardized Prolog Tool Interface for LLM Agents",
-        "url": "https://arxiv.org/abs/2606.14935"
+        "title": "Nothing from Something: Can a Language Model Discover 0?",
+        "url": "https://arxiv.org/abs/2606.17289"
       },
       {
-        "title": "Semantics-Enhanced Retrieval-Augmented Time Series Forecasting",
-        "url": "https://arxiv.org/abs/2606.14941"
+        "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
+        "url": "https://arxiv.org/abs/2606.17312"
       },
       {
-        "title": "AI Engram: In Search of Memory Traces in Artificial Intelligence",
-        "url": "https://arxiv.org/abs/2606.14997"
+        "title": "MemTrace: Probing What Final Accuracy Misses in Long-Term Memory",
+        "url": "https://arxiv.org/abs/2606.17328"
       },
       {
-        "title": "Metric Match: A Subset Selection Approach to Evaluating LLM Judge Reliability",
-        "url": "https://arxiv.org/abs/2606.15029"
+        "title": "SpeechDx: A Multi-Task Benchmark for Clinical Speech AI",
+        "url": "https://arxiv.org/abs/2606.17339"
       },
       {
-        "title": "OSGuard: A Benchmark for Safety in Computer-Use Agents",
-        "url": "https://arxiv.org/abs/2606.15034"
+        "title": "Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes",
+        "url": "https://arxiv.org/abs/2606.17368"
       },
       {
-        "title": "Fusion is not one-size-fits-all: Cross-Modal Representation Alignment for Time-to-Event Modeling",
-        "url": "https://arxiv.org/abs/2606.15038"
+        "title": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation",
+        "url": "https://arxiv.org/abs/2606.17405"
       }
     ]
   },
@@ -172,6 +172,10 @@
         "url": "https://www.anthropic.com/news/news/chris-olah-pope-leo-encyclical"
       },
       {
+        "title": "Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+        "url": "https://www.anthropic.com/news/news/seoul-office-partnerships-korean-ai-ecosystem"
+      },
+      {
         "title": "Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record",
         "url": "https://www.anthropic.com/news/news/anthropic-public-record"
       },
@@ -186,10 +190,6 @@
       {
         "title": "Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5",
         "url": "https://www.anthropic.com/news/news/claude-fable-5-mythos-5"
-      },
-      {
-        "title": "Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network",
-        "url": "https://www.anthropic.com/news/news/services-track-partner-hub"
       }
     ]
   }
