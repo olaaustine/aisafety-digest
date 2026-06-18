@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Gears for political races",
-        "url": "https://www.lesswrong.com/posts/nSqB3qYP36enJLRq2/gears-for-political-races"
+        "title": "The distillation double bind: Distilling misaligned models either transfers misalignment or it doesn't",
+        "url": "https://www.lesswrong.com/posts/gsoLoKY4Spzc3PEb6/the-distillation-double-bind-distilling-misaligned-models"
       },
       {
-        "title": "\u201cDid you lie?\u201d Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms",
-        "url": "https://www.lesswrong.com/posts/xFbMTnmDAucwE8Cdm/did-you-lie-evaluating-lie-detectors-across-model-scale-and"
+        "title": "CoT-forcing promptware",
+        "url": "https://www.lesswrong.com/posts/bx69HehbzEhh9drWp/cot-forcing-promptware"
       },
       {
-        "title": "Porting MACHIAVELLI To Inspect",
-        "url": "https://www.lesswrong.com/posts/g2if3iTL2GH2AjHgc/porting-machiavelli-to-inspect"
+        "title": "On \u201cModel Organisms\u201d",
+        "url": "https://www.lesswrong.com/posts/6Zc5tq6z5PjNhHH9T/on-model-organisms-1"
       },
       {
-        "title": "Several frontier models are substantially prefill aware",
-        "url": "https://www.lesswrong.com/posts/iMds4tTpMH4pSHEej/several-frontier-models-are-substantially-prefill-aware"
+        "title": "Introduction: Gaussian Natural Latents",
+        "url": "https://www.lesswrong.com/posts/H8ktAMBv8jQr8JymL/introduction-gaussian-natural-latents"
       },
       {
-        "title": "Lock-In Risk Needs More Researchers. Here's Where to Start",
-        "url": "https://www.lesswrong.com/posts/ZsrTrxxwgj9spwzaE/lock-in-risk-needs-more-researchers-here-s-where-to-start"
+        "title": "GDM AI Control Roadmap",
+        "url": "https://www.lesswrong.com/posts/hEtkyKGoPpFeWnKkX/gdm-ai-control-roadmap"
       },
       {
-        "title": "A Geometric Account of Activation Steering through Angle\u2013Norm Decomposition",
-        "url": "https://www.lesswrong.com/posts/sap5GsycwFBZfxQec/a-geometric-account-of-activation-steering-through-angle"
+        "title": "Contra Pace on When to Apologize",
+        "url": "https://www.lesswrong.com/posts/E9Ff3zkmjG99LBBJH/contra-pace-on-when-to-apologize"
       },
       {
-        "title": "The Once And Future Fable #3: Fix This Code",
-        "url": "https://www.lesswrong.com/posts/HaHzwvhbWam4n8hJB/the-once-and-future-fable-3-fix-this-code"
+        "title": "Your Model Organisms Might Be Fried",
+        "url": "https://www.lesswrong.com/posts/WmEcgcstzYCcMpc7z/your-model-organisms-might-be-fried"
       },
       {
-        "title": "Alignment pretraining could backfire",
-        "url": "https://www.lesswrong.com/posts/7KN7PCiEQjrPsEFS8/alignment-pretraining-could-backfire"
+        "title": "Shard narcissism as delusion of unembededness",
+        "url": "https://www.lesswrong.com/posts/ufhkFuykXoKiqnbsB/shard-narcissism-as-delusion-of-unembededness"
       },
       {
-        "title": "Toward a Kantian refutation of Agent Foundations",
-        "url": "https://www.lesswrong.com/posts/j9bCoKHYxynvb7JCv/toward-a-kantian-refutation-of-agent-foundations"
+        "title": "AI #173: AI Pauses",
+        "url": "https://www.lesswrong.com/posts/P7jBmCeBDq2ebojWY/ai-173-ai-pauses"
       },
       {
-        "title": "The Financial Ledger Theory of Apologies",
-        "url": "https://www.lesswrong.com/posts/xhePNvxamTKPcobhB/the-financial-ledger-theory-of-apologies"
+        "title": "War of Dots: CRUSHING my opponents with FACTS and LOGIC",
+        "url": "https://www.lesswrong.com/posts/fBrm6xp3z7hBxw6uF/war-of-dots-crushing-my-opponents-with-facts-and-logic"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "GDM AI Control Roadmap",
+        "url": "https://www.alignmentforum.org/posts/hEtkyKGoPpFeWnKkX/gdm-ai-control-roadmap"
+      },
       {
         "title": "Predicting LLM Safety Before Release by Simulating Deployment",
         "url": "https://www.alignmentforum.org/posts/xPXJfgqFTvuJxGZbE/predicting-llm-safety-before-release-by-simulating"
@@ -84,10 +88,6 @@
       {
         "title": "Tracing Eval-Awareness Emergence Through Training of OLMo 3",
         "url": "https://www.alignmentforum.org/posts/c2tqL9xPbttisAHtt/tracing-eval-awareness-emergence-through-training-of-olmo-3"
-      },
-      {
-        "title": "A Mike's-Eye View of ARC's Research",
-        "url": "https://www.alignmentforum.org/posts/M2tD23bvQLBqsEpqu/a-mike-s-eye-view-of-arc-s-research"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
-        "url": "https://arxiv.org/abs/2606.17209"
+        "title": "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation",
+        "url": "https://arxiv.org/abs/2606.18271"
       },
       {
-        "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
-        "url": "https://arxiv.org/abs/2606.17220"
+        "title": "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework",
+        "url": "https://arxiv.org/abs/2606.18385"
       },
       {
-        "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
-        "url": "https://arxiv.org/abs/2606.17266"
+        "title": "Searching for Synergy in Shared Workspace Human-AI Collaboration",
+        "url": "https://arxiv.org/abs/2606.18413"
       },
       {
-        "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
-        "url": "https://arxiv.org/abs/2606.17269"
+        "title": "CEO-Bench: Can Agents Play the Long Game?",
+        "url": "https://arxiv.org/abs/2606.18543"
       },
       {
-        "title": "Nothing from Something: Can a Language Model Discover 0?",
-        "url": "https://arxiv.org/abs/2606.17289"
+        "title": "DeFAb: A Verifiable Benchmark for Defeasible Abduction in Foundation Models",
+        "url": "https://arxiv.org/abs/2606.18557"
       },
       {
-        "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
-        "url": "https://arxiv.org/abs/2606.17312"
+        "title": "Optimizing Lithium Production Decisions under Geological, Demand, and Pricing Uncertainties: A POMDP Framework for Multi-Objective Decision Making",
+        "url": "https://arxiv.org/abs/2606.18598"
       },
       {
-        "title": "MemTrace: Probing What Final Accuracy Misses in Long-Term Memory",
-        "url": "https://arxiv.org/abs/2606.17328"
+        "title": "ForecastBench-Sim: A Simulated-World Forecasting Benchmark",
+        "url": "https://arxiv.org/abs/2606.18686"
       },
       {
-        "title": "SpeechDx: A Multi-Task Benchmark for Clinical Speech AI",
-        "url": "https://arxiv.org/abs/2606.17339"
+        "title": "What Must Generalist Agents Remember?",
+        "url": "https://arxiv.org/abs/2606.18746"
       },
       {
-        "title": "Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes",
-        "url": "https://arxiv.org/abs/2606.17368"
+        "title": "R2D-RL: A RoboCup 2D Soccer Environment for Multi-Agent Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2606.18786"
       },
       {
-        "title": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation",
-        "url": "https://arxiv.org/abs/2606.17405"
+        "title": "ProfiLLM: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch",
+        "url": "https://arxiv.org/abs/2606.18803"
       }
     ]
   },
