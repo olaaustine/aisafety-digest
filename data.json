@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
+        "title": "dialog with Gemini: would indexing have rescued most victims of 2008 subprime crisis?",
+        "url": "https://www.lesswrong.com/posts/LfP7wJCyLu3oXZtTM/dialog-with-gemini-would-indexing-have-rescued-most-victims"
+      },
+      {
+        "title": "[Linkpost] How Transparent Is DiffusionGemma (and why it matters)",
+        "url": "https://www.lesswrong.com/posts/zoYXpdaMgFT43Wc24/linkpost-how-transparent-is-diffusiongemma-and-why-it"
+      },
+      {
+        "title": "Animal Futures Forecasting Tournament",
+        "url": "https://www.lesswrong.com/posts/PgLJpLqqHfpgRC4Ks/animal-futures-forecasting-tournament"
+      },
+      {
+        "title": "The Invisible Side of AI Governance",
+        "url": "https://www.lesswrong.com/posts/AWKkDLDnShemNCSzZ/the-invisible-side-of-ai-governance"
+      },
+      {
+        "title": "Would anybody here be interested in a \"mistake postmortem\" discussion group?",
+        "url": "https://www.lesswrong.com/posts/J8L3HoPYAj52x9gCA/would-anybody-here-be-interested-in-a-mistake-postmortem"
+      },
+      {
+        "title": "Unchickenous Apricot Berry Cake",
+        "url": "https://www.lesswrong.com/posts/JtkR9aDd3m2CeRi3J/unchickenous-apricot-berry-cake"
+      },
+      {
+        "title": "The LLM shoggoth meme is weirder than you think",
+        "url": "https://www.lesswrong.com/posts/nhb8AyEcQGjQetgi5/the-llm-shoggoth-meme-is-weirder-than-you-think"
+      },
+      {
+        "title": "How I think developers of frontier AI systems and regulators ought to act in the face of existential AI risk",
+        "url": "https://www.lesswrong.com/posts/qJJyDLrEcKkAf7bnC/how-i-think-developers-of-frontier-ai-systems-and-regulators"
+      },
+      {
         "title": "Hyperstition as the Natural Enemy of Rationality",
         "url": "https://www.lesswrong.com/posts/KDbdkvenK3DCTeL6t/hyperstition-as-the-natural-enemy-of-rationality"
       },
       {
         "title": "World-modeling the US vs. Anthropic Standoff on Claude Fable",
         "url": "https://www.lesswrong.com/posts/zhRe3tdBpsZbGCdDK/world-modeling-the-us-vs-anthropic-standoff-on-claude-fable"
-      },
-      {
-        "title": "AI Safety Ecosystem Research notes",
-        "url": "https://www.lesswrong.com/posts/wWX9ecM5Q7TycpKyX/ai-safety-ecosystem-research-notes"
-      },
-      {
-        "title": "A brief list of ways AI safety efforts could be net negative",
-        "url": "https://www.lesswrong.com/posts/sAfMCpWLfkHqF5Gix/a-brief-list-of-ways-ai-safety-efforts-could-be-net-negative"
-      },
-      {
-        "title": "Online >> real life for spreading ideas",
-        "url": "https://www.lesswrong.com/posts/Digfnw7yDo8vSDxZW/online-greater-than-greater-than-real-life-for-spreading"
-      },
-      {
-        "title": "Typical Minds Aren\u2019t",
-        "url": "https://www.lesswrong.com/posts/GvHmvDaJ2CPoJpLjt/typical-minds-aren-t"
-      },
-      {
-        "title": "San Silvestro",
-        "url": "https://www.lesswrong.com/posts/2DhiEsYMZC9tg6eEz/san-silvestro"
-      },
-      {
-        "title": "Claude Fable 5 and Mythos 5: Capabilities",
-        "url": "https://www.lesswrong.com/posts/kMnobCQp9z2pSbzDB/claude-fable-5-and-mythos-5-capabilities"
-      },
-      {
-        "title": "The one-week sprint",
-        "url": "https://www.lesswrong.com/posts/cmbnqdAJRoWBHmoRT/the-one-week-sprint"
-      },
-      {
-        "title": "Futarchy is insecure without a proposal gatekeeper",
-        "url": "https://www.lesswrong.com/posts/oAKsuX5XpPxFSEoHM/futarchy-is-insecure-without-a-proposal-gatekeeper"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "[Linkpost] How Transparent Is DiffusionGemma (and why it matters)",
+        "url": "https://www.alignmentforum.org/posts/zoYXpdaMgFT43Wc24/linkpost-how-transparent-is-diffusiongemma-and-why-it"
+      },
       {
         "title": "GDM AI Control Roadmap",
         "url": "https://www.alignmentforum.org/posts/hEtkyKGoPpFeWnKkX/gdm-ai-control-roadmap"
@@ -84,10 +88,6 @@
       {
         "title": "Sequent: scale and automation for higher confidence in alignment",
         "url": "https://www.alignmentforum.org/posts/AP7YDke5jjY4v3X9Z/sequent-scale-and-automation-for-higher-confidence-in-1"
-      },
-      {
-        "title": "Tracing Eval-Awareness Emergence Through Training of OLMo 3",
-        "url": "https://www.alignmentforum.org/posts/c2tqL9xPbttisAHtt/tracing-eval-awareness-emergence-through-training-of-olmo-3"
       }
     ]
   },
