@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "dialog with Gemini: would indexing have rescued most victims of 2008 subprime crisis?",
-        "url": "https://www.lesswrong.com/posts/LfP7wJCyLu3oXZtTM/dialog-with-gemini-would-indexing-have-rescued-most-victims"
+        "title": "Introducing MonitoringBench",
+        "url": "https://www.lesswrong.com/posts/2YyEQhFRyaBCgfRWd/introducing-monitoringbench"
       },
       {
-        "title": "[Linkpost] How Transparent Is DiffusionGemma (and why it matters)",
-        "url": "https://www.lesswrong.com/posts/zoYXpdaMgFT43Wc24/linkpost-how-transparent-is-diffusiongemma-and-why-it"
+        "title": "How persona training could fail",
+        "url": "https://www.lesswrong.com/posts/baH8oPkdGCnwxmkFu/how-persona-training-could-fail"
       },
       {
-        "title": "Animal Futures Forecasting Tournament",
-        "url": "https://www.lesswrong.com/posts/PgLJpLqqHfpgRC4Ks/animal-futures-forecasting-tournament"
+        "title": "A high-level model of AI bargaining",
+        "url": "https://www.lesswrong.com/posts/kubuos5qprAHeGWyd/a-high-level-model-of-ai-bargaining"
       },
       {
-        "title": "The Invisible Side of AI Governance",
-        "url": "https://www.lesswrong.com/posts/AWKkDLDnShemNCSzZ/the-invisible-side-of-ai-governance"
+        "title": "Policy changes should be rolled out gradually",
+        "url": "https://www.lesswrong.com/posts/wBPgjip6kdPhAi4Ga/policy-changes-should-be-rolled-out-gradually"
       },
       {
-        "title": "Would anybody here be interested in a \"mistake postmortem\" discussion group?",
-        "url": "https://www.lesswrong.com/posts/J8L3HoPYAj52x9gCA/would-anybody-here-be-interested-in-a-mistake-postmortem"
+        "title": "A\u00a0misalignment taxonomy",
+        "url": "https://www.lesswrong.com/posts/SAJoCCvmqyhba94sa/a-misalignment-taxonomy"
       },
       {
-        "title": "Unchickenous Apricot Berry Cake",
-        "url": "https://www.lesswrong.com/posts/JtkR9aDd3m2CeRi3J/unchickenous-apricot-berry-cake"
+        "title": "The Cookie Monster Explains AI Safety",
+        "url": "https://www.lesswrong.com/posts/AgKnBSxsFvuRCsEye/the-cookie-monster-explains-ai-safety"
       },
       {
-        "title": "The LLM shoggoth meme is weirder than you think",
-        "url": "https://www.lesswrong.com/posts/nhb8AyEcQGjQetgi5/the-llm-shoggoth-meme-is-weirder-than-you-think"
+        "title": "Google Can't Math Parsecs",
+        "url": "https://www.lesswrong.com/posts/BmqzjcD4tGvy3bim8/google-can-t-math-parsecs"
       },
       {
-        "title": "How I think developers of frontier AI systems and regulators ought to act in the face of existential AI risk",
-        "url": "https://www.lesswrong.com/posts/qJJyDLrEcKkAf7bnC/how-i-think-developers-of-frontier-ai-systems-and-regulators"
+        "title": "How are there 0 studies (maybe 1) on sex-concordant hormone therapy?",
+        "url": "https://www.lesswrong.com/posts/J4Lnxi3uJhR8GiGsm/how-are-there-0-studies-maybe-1-on-sex-concordant-hormone"
       },
       {
-        "title": "Hyperstition as the Natural Enemy of Rationality",
-        "url": "https://www.lesswrong.com/posts/KDbdkvenK3DCTeL6t/hyperstition-as-the-natural-enemy-of-rationality"
+        "title": "Against Planet-Eating Nanoreplicators",
+        "url": "https://www.lesswrong.com/posts/meNbYuX9367p43nmX/against-planet-eating-nanoreplicators"
       },
       {
-        "title": "World-modeling the US vs. Anthropic Standoff on Claude Fable",
-        "url": "https://www.lesswrong.com/posts/zhRe3tdBpsZbGCdDK/world-modeling-the-us-vs-anthropic-standoff-on-claude-fable"
+        "title": "How transparent is DiffusionGemma (and why it matters)",
+        "url": "https://www.lesswrong.com/posts/zoYXpdaMgFT43Wc24/how-transparent-is-diffusiongemma-and-why-it-matters"
       }
     ]
   },
@@ -50,8 +50,8 @@
     "url": "https://www.alignmentforum.org",
     "articles": [
       {
-        "title": "[Linkpost] How Transparent Is DiffusionGemma (and why it matters)",
-        "url": "https://www.alignmentforum.org/posts/zoYXpdaMgFT43Wc24/linkpost-how-transparent-is-diffusiongemma-and-why-it"
+        "title": "How transparent is DiffusionGemma (and why it matters)",
+        "url": "https://www.alignmentforum.org/posts/zoYXpdaMgFT43Wc24/how-transparent-is-diffusiongemma-and-why-it-matters"
       },
       {
         "title": "GDM AI Control Roadmap",
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-        "url": "https://arxiv.org/abs/2606.19464"
-      },
-      {
-        "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
-        "url": "https://arxiv.org/abs/2606.19469"
-      },
-      {
-        "title": "Diffusion Language Models: An Experimental Analysis",
-        "url": "https://arxiv.org/abs/2606.19475"
-      },
-      {
-        "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
-        "url": "https://arxiv.org/abs/2606.19494"
-      },
-      {
-        "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
-        "url": "https://arxiv.org/abs/2606.19501"
-      },
-      {
-        "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
-        "url": "https://arxiv.org/abs/2606.19509"
-      },
-      {
-        "title": "REVEAL++: Differentiable Phenotypic Grouping for Vision-Language Retinal Modeling of Alzheimer's Disease Risk",
-        "url": "https://arxiv.org/abs/2606.19522"
-      },
-      {
-        "title": "Emergent Alignment",
-        "url": "https://arxiv.org/abs/2606.19527"
-      },
-      {
-        "title": "ITNet: A Learnable Integral Transform That Subsumes Convolution, Attention, and Recurrence",
-        "url": "https://arxiv.org/abs/2606.19538"
-      },
-      {
-        "title": "Uncertainty Decomposition for Clarification Seeking in LLM Agents",
-        "url": "https://arxiv.org/abs/2606.19559"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
