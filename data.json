@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Functional Emotions and The Pope\u2019s Encyclical on AI \u2014 Digital Minds Newsletter #3",
-        "url": "https://www.lesswrong.com/posts/xDDhrq2eJs5onARBW/functional-emotions-and-the-pope-s-encyclical-on-ai-digital"
+        "title": "Superintelligence vs. The Second Strike",
+        "url": "https://www.lesswrong.com/posts/2kseP9fZghYHKLFno/superintelligence-vs-the-second-strike"
       },
       {
-        "title": "Planning for Preservation in the Age of AI",
-        "url": "https://www.lesswrong.com/posts/arAgLxohnPWRc2qHd/planning-for-preservation-in-the-age-of-ai"
+        "title": "The worthlessness of vitamin D is mildly exaggerated",
+        "url": "https://www.lesswrong.com/posts/sF5gAxnmifQe2TBNt/the-worthlessness-of-vitamin-d-is-mildly-exaggerated"
       },
       {
-        "title": "Advocates Can Influence LLM Values By Editing Wikipedia",
-        "url": "https://www.lesswrong.com/posts/xwGTp23TJB5FmdzHu/advocates-can-influence-llm-values-by-editing-wikipedia"
+        "title": "And what happens next?",
+        "url": "https://www.lesswrong.com/posts/3TpvKNKAvFGDc5b5k/and-what-happens-next"
       },
       {
-        "title": "Long-Term Implants Need To Be Stretchy",
-        "url": "https://www.lesswrong.com/posts/5MYybnsB9NJ9mnPb4/long-term-implants-need-to-be-stretchy"
+        "title": "Monthly Roundup #43: June 2026",
+        "url": "https://www.lesswrong.com/posts/Taa4zmSNtD5S99tJT/monthly-roundup-43-june-2026"
       },
       {
-        "title": "Learning to Understand Evil",
-        "url": "https://www.lesswrong.com/posts/6onvEv63Wr5QBwCBH/learning-to-understand-evil"
+        "title": "Catastrophic Forgetting and Safety Erosion Are Driven by the Same Mechanism and Should Be Monitored by the Same Tools",
+        "url": "https://www.lesswrong.com/posts/PGpyZh78FHGsGz6en/catastrophic-forgetting-and-safety-erosion-are-driven-by-the"
       },
       {
-        "title": "Defeatism as Disempowerment",
-        "url": "https://www.lesswrong.com/posts/yZNG4R97vBJwAejyH/defeatism-as-disempowerment"
+        "title": "A system overview for near-term, low-trust AI compute verification",
+        "url": "https://www.lesswrong.com/posts/fgvmKqRGvBteKeDoc/a-system-overview-for-near-term-low-trust-ai-compute"
       },
       {
-        "title": "A Mechanistic Explanation of Prompt Injection (and why you should study roles)",
-        "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you"
+        "title": "On TEEs for Privacy-Preserving Monitoring in AI Governance",
+        "url": "https://www.lesswrong.com/posts/kauQxzfS7fT5yHN8C/on-tees-for-privacy-preserving-monitoring-in-ai-governance"
       },
       {
-        "title": "The AI Industrial Explosion \u2014 Part 4: Cheap power",
-        "url": "https://www.lesswrong.com/posts/6fgfn72zoRDomgvrT/the-ai-industrial-explosion-part-4-cheap-power"
+        "title": "Is Claude Mythos the most Dishonest or Does the System Card Have Errors",
+        "url": "https://www.lesswrong.com/posts/YogGH6DFZTkhZLb5B/is-claude-mythos-the-most-dishonest-or-does-the-system-card"
       },
       {
-        "title": "Not all features are created equal",
-        "url": "https://www.lesswrong.com/posts/Y5Lv8vafibpo7iYhi/not-all-features-are-created-equal"
+        "title": "An ancient Yudkowsky fragment: \"Against the Adversarial Attitude\"",
+        "url": "https://www.lesswrong.com/posts/3k5LAfhoLAo8oD68t/an-ancient-yudkowsky-fragment-against-the-adversarial"
       },
       {
-        "title": "GLM-5.2 Is The New Best Open Model",
-        "url": "https://www.lesswrong.com/posts/reXkwJbB8GYdeuvDt/glm-5-2-is-the-new-best-open-model"
+        "title": "Model Size Scaling in 2023-2031",
+        "url": "https://www.lesswrong.com/posts/yLHiQGCPdvzL9fBn3/model-size-scaling-in-2023-2031"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "LLM-Driven Feature Discovery",
+        "url": "https://www.alignmentforum.org/posts/WAZWA6FPQvH8okouJ/llm-driven-feature-discovery"
+      },
       {
         "title": "How transparent is DiffusionGemma (and why it matters)",
         "url": "https://www.alignmentforum.org/posts/zoYXpdaMgFT43Wc24/how-transparent-is-diffusiongemma-and-why-it-matters"
@@ -84,10 +88,6 @@
       {
         "title": "Models May Behave Worse When Eval Aware",
         "url": "https://www.alignmentforum.org/posts/aTcsN5ZZDnMFJvRiG/models-may-behave-worse-when-eval-aware"
-      },
-      {
-        "title": "Sequent: scale and automation for higher confidence in alignment",
-        "url": "https://www.alignmentforum.org/posts/AP7YDke5jjY4v3X9Z/sequent-scale-and-automation-for-higher-confidence-in-1"
       }
     ]
   },
@@ -115,6 +115,10 @@
         "url": "https://www.anthropic.com/news/news/fable-mythos-access"
       },
       {
+        "title": "ProductJun 23, 2026Introducing Claude TagClaude Tag is a new way for teams to work with Claude.",
+        "url": "https://www.anthropic.com/news/news/introducing-claude-tag"
+      },
+      {
         "title": "AnnouncementsJun 11, 2026Introducing Claude CorpsWe\u2019re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
         "url": "https://www.anthropic.com/news/news/claude-corps"
       },
@@ -125,10 +129,6 @@
       {
         "title": "ProductMay 28, 2026Introducing Claude Opus 4.8An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
         "url": "https://www.anthropic.com/news/news/claude-opus-4-8"
-      },
-      {
-        "title": "AnnouncementsMay 25, 2026Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"The full text of Chris Olah's remarks on the Pope's encyclical on AI.",
-        "url": "https://www.anthropic.com/news/news/chris-olah-pope-leo-encyclical"
       },
       {
         "title": "Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
