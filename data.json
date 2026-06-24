@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Superintelligence vs. The Second Strike",
-        "url": "https://www.lesswrong.com/posts/2kseP9fZghYHKLFno/superintelligence-vs-the-second-strike"
+        "title": "Age experience",
+        "url": "https://www.lesswrong.com/posts/tEmcdDauJmgbZCwiA/age-experience"
       },
       {
-        "title": "The worthlessness of vitamin D is mildly exaggerated",
-        "url": "https://www.lesswrong.com/posts/sF5gAxnmifQe2TBNt/the-worthlessness-of-vitamin-d-is-mildly-exaggerated"
+        "title": "How do we make uncertainty usable?",
+        "url": "https://www.lesswrong.com/posts/KobKhBz7xyAJF3ZJk/how-do-we-make-uncertainty-usable"
       },
       {
-        "title": "And what happens next?",
-        "url": "https://www.lesswrong.com/posts/3TpvKNKAvFGDc5b5k/and-what-happens-next"
+        "title": "Could we have another family?",
+        "url": "https://www.lesswrong.com/posts/hQv88iDEc3RzsWtsr/could-we-have-another-family"
       },
       {
-        "title": "Monthly Roundup #43: June 2026",
-        "url": "https://www.lesswrong.com/posts/Taa4zmSNtD5S99tJT/monthly-roundup-43-june-2026"
+        "title": "Why opine on massive communities?",
+        "url": "https://www.lesswrong.com/posts/dkpHeaFFKnTrjMJcg/why-opine-on-massive-communities"
       },
       {
-        "title": "Catastrophic Forgetting and Safety Erosion Are Driven by the Same Mechanism and Should Be Monitored by the Same Tools",
-        "url": "https://www.lesswrong.com/posts/PGpyZh78FHGsGz6en/catastrophic-forgetting-and-safety-erosion-are-driven-by-the"
+        "title": "Vortioxetine: probably not for me",
+        "url": "https://www.lesswrong.com/posts/mApdQFqr55xu3WNaF/vortioxetine-probably-not-for-me"
       },
       {
-        "title": "A system overview for near-term, low-trust AI compute verification",
-        "url": "https://www.lesswrong.com/posts/fgvmKqRGvBteKeDoc/a-system-overview-for-near-term-low-trust-ai-compute"
+        "title": "The shouting equilibrium",
+        "url": "https://www.lesswrong.com/posts/Qwj8qao6BujcKkmT2/the-shouting-equilibrium"
       },
       {
-        "title": "On TEEs for Privacy-Preserving Monitoring in AI Governance",
-        "url": "https://www.lesswrong.com/posts/kauQxzfS7fT5yHN8C/on-tees-for-privacy-preserving-monitoring-in-ai-governance"
+        "title": "Therapy notes 10 June 2026",
+        "url": "https://www.lesswrong.com/posts/wSdBtwxKvJZfdo6nT/therapy-notes-10-june-2026"
       },
       {
-        "title": "Is Claude Mythos the most Dishonest or Does the System Card Have Errors",
-        "url": "https://www.lesswrong.com/posts/YogGH6DFZTkhZLb5B/is-claude-mythos-the-most-dishonest-or-does-the-system-card"
+        "title": "Date concept: learn each other scav hunt",
+        "url": "https://www.lesswrong.com/posts/6XzmyZYQaXico3Y9q/date-concept-learn-each-other-scav-hunt"
       },
       {
-        "title": "An ancient Yudkowsky fragment: \"Against the Adversarial Attitude\"",
-        "url": "https://www.lesswrong.com/posts/3k5LAfhoLAo8oD68t/an-ancient-yudkowsky-fragment-against-the-adversarial"
+        "title": "What is up with e/acc?",
+        "url": "https://www.lesswrong.com/posts/3hwrWDf7wiqASDzBz/what-is-up-with-e-acc"
       },
       {
-        "title": "Model Size Scaling in 2023-2031",
-        "url": "https://www.lesswrong.com/posts/yLHiQGCPdvzL9fBn3/model-size-scaling-in-2023-2031"
+        "title": "Feelings as post-it notes",
+        "url": "https://www.lesswrong.com/posts/gygaeCvx4paxse2aN/feelings-as-post-it-notes"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+        "url": "https://arxiv.org/abs/2606.23927"
+      },
+      {
+        "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+        "url": "https://arxiv.org/abs/2606.23938"
+      },
+      {
+        "title": "Critique of Agent Model",
+        "url": "https://arxiv.org/abs/2606.23991"
+      },
+      {
+        "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+        "url": "https://arxiv.org/abs/2606.24010"
+      },
+      {
+        "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+        "url": "https://arxiv.org/abs/2606.24014"
+      },
+      {
+        "title": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
+        "url": "https://arxiv.org/abs/2606.24026"
+      },
+      {
+        "title": "Breaking the Filter Bubble: A Semantic Pareto-DQN Framework for Multi-Objective Recommendation",
+        "url": "https://arxiv.org/abs/2606.24042"
+      },
+      {
+        "title": "Ensemble Feature Selection and Harris Hawks Optimization for Explainable Mental Health Risk Prediction in Female Sex Workers",
+        "url": "https://arxiv.org/abs/2606.24047"
+      },
+      {
+        "title": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
+        "url": "https://arxiv.org/abs/2606.24064"
+      },
+      {
+        "title": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
+        "url": "https://arxiv.org/abs/2606.24099"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
