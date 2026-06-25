@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Age experience",
-        "url": "https://www.lesswrong.com/posts/tEmcdDauJmgbZCwiA/age-experience"
+        "title": "Eval-Awareness Steering detects the Test, Not the Sabotage",
+        "url": "https://www.lesswrong.com/posts/ogvyWqJtSrpgXfc7t/eval-awareness-steering-detects-the-test-not-the-sabotage"
       },
       {
-        "title": "How do we make uncertainty usable?",
-        "url": "https://www.lesswrong.com/posts/KobKhBz7xyAJF3ZJk/how-do-we-make-uncertainty-usable"
+        "title": "Dev log: implementing new syntax in GHC",
+        "url": "https://www.lesswrong.com/posts/3B9PfyokCiyBAbF3Z/dev-log-implementing-new-syntax-in-ghc"
       },
       {
-        "title": "Could we have another family?",
-        "url": "https://www.lesswrong.com/posts/hQv88iDEc3RzsWtsr/could-we-have-another-family"
+        "title": "Exploration: fine-tuning with parameter decomposition",
+        "url": "https://www.lesswrong.com/posts/ieoWstubDQWLrMnhH/exploration-fine-tuning-with-parameter-decomposition"
       },
       {
-        "title": "Why opine on massive communities?",
-        "url": "https://www.lesswrong.com/posts/dkpHeaFFKnTrjMJcg/why-opine-on-massive-communities"
+        "title": "ARENA 9.0: Call for Applicants",
+        "url": "https://www.lesswrong.com/posts/y795kpdRqC3uRmhtt/arena-9-0-call-for-applicants"
       },
       {
-        "title": "Vortioxetine: probably not for me",
-        "url": "https://www.lesswrong.com/posts/mApdQFqr55xu3WNaF/vortioxetine-probably-not-for-me"
+        "title": "Gelatinizing Starch in an Emergency",
+        "url": "https://www.lesswrong.com/posts/JjcSh6cua3siidS7d/gelatinizing-starch-in-an-emergency"
       },
       {
-        "title": "The shouting equilibrium",
-        "url": "https://www.lesswrong.com/posts/Qwj8qao6BujcKkmT2/the-shouting-equilibrium"
+        "title": "AI #174: You\u2019re It",
+        "url": "https://www.lesswrong.com/posts/MfdaizeH8z8civPHe/ai-174-you-re-it"
       },
       {
-        "title": "Therapy notes 10 June 2026",
-        "url": "https://www.lesswrong.com/posts/wSdBtwxKvJZfdo6nT/therapy-notes-10-june-2026"
+        "title": "Interstellar conquests: hard race, hide-and-seek and robust protection",
+        "url": "https://www.lesswrong.com/posts/gehrXCs2cauqKZaqs/interstellar-conquests-hard-race-hide-and-seek-and-robust"
       },
       {
-        "title": "Date concept: learn each other scav hunt",
-        "url": "https://www.lesswrong.com/posts/6XzmyZYQaXico3Y9q/date-concept-learn-each-other-scav-hunt"
+        "title": "Optimal Exercise Calculator",
+        "url": "https://www.lesswrong.com/posts/sqecCva5tZs8jNv7P/optimal-exercise-calculator"
       },
       {
-        "title": "What is up with e/acc?",
-        "url": "https://www.lesswrong.com/posts/3hwrWDf7wiqASDzBz/what-is-up-with-e-acc"
+        "title": "What do people interpret from fatness?",
+        "url": "https://www.lesswrong.com/posts/REbmuGtYqFxDSy7Qt/what-do-people-interpret-from-fatness"
       },
       {
-        "title": "Feelings as post-it notes",
-        "url": "https://www.lesswrong.com/posts/gygaeCvx4paxse2aN/feelings-as-post-it-notes"
+        "title": "Alignment & Succession: The Ideology of Successionism",
+        "url": "https://www.lesswrong.com/posts/TgxkX5uwpqpQDDmMz/alignment-and-succession-the-ideology-of-successionism"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
-        "url": "https://arxiv.org/abs/2606.23927"
+        "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
+        "url": "https://arxiv.org/abs/2606.24937"
       },
       {
-        "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
-        "url": "https://arxiv.org/abs/2606.23938"
+        "title": "Project Auto-World: Towards Automated Benchmarking of Neural Relational Reasoners",
+        "url": "https://arxiv.org/abs/2606.24965"
       },
       {
-        "title": "Critique of Agent Model",
-        "url": "https://arxiv.org/abs/2606.23991"
+        "title": "Diagnosing and Mitigating Compounding Failures in Agentic Persuasion via Taxonomic Strategy Retrieval",
+        "url": "https://arxiv.org/abs/2606.24976"
       },
       {
-        "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
-        "url": "https://arxiv.org/abs/2606.24010"
+        "title": "Do vision-language models search like humans? Reasoning tokens as a reaction-time analog in classic visual-search paradigms",
+        "url": "https://arxiv.org/abs/2606.25066"
       },
       {
-        "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
-        "url": "https://arxiv.org/abs/2606.24014"
+        "title": "Beyond Shapley: Efficient Computation of Asymmetric Shapley Values",
+        "url": "https://arxiv.org/abs/2606.25103"
       },
       {
-        "title": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
-        "url": "https://arxiv.org/abs/2606.24026"
+        "title": "The Clinician's Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing",
+        "url": "https://arxiv.org/abs/2606.25108"
       },
       {
-        "title": "Breaking the Filter Bubble: A Semantic Pareto-DQN Framework for Multi-Objective Recommendation",
-        "url": "https://arxiv.org/abs/2606.24042"
+        "title": "TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory",
+        "url": "https://arxiv.org/abs/2606.25161"
       },
       {
-        "title": "Ensemble Feature Selection and Harris Hawks Optimization for Explainable Mental Health Risk Prediction in Female Sex Workers",
-        "url": "https://arxiv.org/abs/2606.24047"
+        "title": "Elo-Disentangled Player-Style Embeddings for Human Chess via Rating-Conditioned Residual Move Model",
+        "url": "https://arxiv.org/abs/2606.25176"
       },
       {
-        "title": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
-        "url": "https://arxiv.org/abs/2606.24064"
+        "title": "Transferability for General Reasoning: An Automated Curriculum for Multi-Domain RLVR",
+        "url": "https://arxiv.org/abs/2606.25178"
       },
       {
-        "title": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
-        "url": "https://arxiv.org/abs/2606.24099"
+        "title": "To Isolate or to Score? Model-Adaptive Assessment for Cost-Efficient Multi-Agent RAG",
+        "url": "https://arxiv.org/abs/2606.25191"
       }
     ]
   },
