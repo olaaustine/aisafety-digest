@@ -4,6 +4,34 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
+        "title": "Neuralese is Actually Probably Good for Alignment",
+        "url": "https://www.lesswrong.com/posts/8iYx7wcBM4vawuin9/neuralese-is-actually-probably-good-for-alignment"
+      },
+      {
+        "title": "Austin & Oli on funding and incubating projects",
+        "url": "https://www.lesswrong.com/posts/Jh2xsoySxacQDJMwz/austin-and-oli-on-funding-and-incubating-projects"
+      },
+      {
+        "title": "Flipping the eval on its head",
+        "url": "https://www.lesswrong.com/posts/RK2wJFhmZHXvmzjBE/flipping-the-eval-on-its-head"
+      },
+      {
+        "title": "Deployment Awareness Matters More Than Evaluation Awareness",
+        "url": "https://www.lesswrong.com/posts/XP794SHDuXYfWLrvJ/deployment-awareness-matters-more-than-evaluation-awareness"
+      },
+      {
+        "title": "Just a Wrapper? How Much Do Scaffolds Matter?",
+        "url": "https://www.lesswrong.com/posts/jXLi3dhSpSMd7B6z8/just-a-wrapper-how-much-do-scaffolds-matter-1"
+      },
+      {
+        "title": "What did \"scheming\" and \"mech interp\" mean pre-2023?",
+        "url": "https://www.lesswrong.com/posts/NraMusoWhj9Njdpi5/what-did-scheming-and-mech-interp-mean-pre-2023"
+      },
+      {
+        "title": "Why are adversaries assumed to be incapable of responding to AI risk?",
+        "url": "https://www.lesswrong.com/posts/ah5JMgJmEGJuxh79v/why-are-adversaries-assumed-to-be-incapable-of-responding-to"
+      },
+      {
         "title": "Screencasts could be scalable data + evals for single-user emulation (Guardian Angels)",
         "url": "https://www.lesswrong.com/posts/NwrbrHmkDuKPXgLFb/screencasts-could-be-scalable-data-evals-for-single-user"
       },
@@ -12,36 +40,8 @@
         "url": "https://www.lesswrong.com/posts/rw3wSckEXq5p5W3Bn/randomness-testing-with-bayesian-stats"
       },
       {
-        "title": "Not making a strong argument is a relief",
-        "url": "https://www.lesswrong.com/posts/TDbqK8tFDJKoQCdSa/not-making-a-strong-argument-is-a-relief"
-      },
-      {
-        "title": "The Case for Model Forensics",
-        "url": "https://www.lesswrong.com/posts/LCGcD28rSMkMTMvBK/the-case-for-model-forensics"
-      },
-      {
-        "title": "White House Will Ad Hoc Decide Who Can Individually Access GPT-5.6",
-        "url": "https://www.lesswrong.com/posts/MkwL4AcbE44yePEQx/white-house-will-ad-hoc-decide-who-can-individually-access"
-      },
-      {
-        "title": "A full body MRI earns you a year of smoking",
-        "url": "https://www.lesswrong.com/posts/Gm2oxjjqXyQFysypN/a-full-body-mri-earns-you-a-year-of-smoking"
-      },
-      {
-        "title": "Existential AI safety needs an effective social movement. PauseAI is building it",
-        "url": "https://www.lesswrong.com/posts/aoqhszdEWqcFWbnda/existential-ai-safety-needs-an-effective-social-movement"
-      },
-      {
-        "title": "Don't ignore the car crashes, and remember your freshman CS",
-        "url": "https://www.lesswrong.com/posts/eSZYRuEvqm7jFxYfq/don-t-ignore-the-car-crashes-and-remember-your-freshman-cs"
-      },
-      {
-        "title": "Research note on negated reward hacking",
-        "url": "https://www.lesswrong.com/posts/zigWXifnRZTfvhnLr/research-note-on-negated-reward-hacking"
-      },
-      {
-        "title": "X-risk is less viral than political tribal fear",
-        "url": "https://www.lesswrong.com/posts/Ty6gJvAPugBsxZ4xv/x-risk-is-less-viral-than-political-tribal-fear"
+        "title": "Should we combine protocols for AI Control Research?",
+        "url": "https://www.lesswrong.com/posts/BsNF64ELiwJeoCJSD/should-we-combine-protocols-for-ai-control-research"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Deployment Awareness Matters More Than Evaluation Awareness",
+        "url": "https://www.alignmentforum.org/posts/XP794SHDuXYfWLrvJ/deployment-awareness-matters-more-than-evaluation-awareness"
+      },
       {
         "title": "The Case for Model Forensics",
         "url": "https://www.alignmentforum.org/posts/LCGcD28rSMkMTMvBK/the-case-for-model-forensics"
@@ -84,10 +88,6 @@
       {
         "title": "Building and evaluating model diffing agents",
         "url": "https://www.alignmentforum.org/posts/qi4mNbZYAFDYwfRba/building-and-evaluating-model-diffing-agents"
-      },
-      {
-        "title": "Sympathy for both sides of the egregious misalignment debate",
-        "url": "https://www.alignmentforum.org/posts/DZaZ3fqHnvfLCftPu/sympathy-for-both-sides-of-the-egregious-misalignment-debate"
       }
     ]
   },
