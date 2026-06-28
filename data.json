@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Neuralese is Actually Probably Good for Alignment",
-        "url": "https://www.lesswrong.com/posts/8iYx7wcBM4vawuin9/neuralese-is-actually-probably-good-for-alignment"
+        "title": "What comes with cheap math?",
+        "url": "https://www.lesswrong.com/posts/gS5skwXeeQdStwsPu/what-comes-with-cheap-math"
       },
       {
-        "title": "Austin & Oli on funding and incubating projects",
-        "url": "https://www.lesswrong.com/posts/Jh2xsoySxacQDJMwz/austin-and-oli-on-funding-and-incubating-projects"
+        "title": "Reinforcement Learning on Forecasting Can Give Us a Superhuman Forecaster",
+        "url": "https://www.lesswrong.com/posts/pQLQ5GMjQP7qKb7HS/reinforcement-learning-on-forecasting-can-give-us-a"
       },
       {
-        "title": "Flipping the eval on its head",
-        "url": "https://www.lesswrong.com/posts/RK2wJFhmZHXvmzjBE/flipping-the-eval-on-its-head"
+        "title": "The arithmetic hierarchy of real functions",
+        "url": "https://www.lesswrong.com/posts/kLiJnEfavGAxXfiNr/the-arithmetic-hierarchy-of-real-functions"
       },
       {
-        "title": "Deployment Awareness Matters More Than Evaluation Awareness",
-        "url": "https://www.lesswrong.com/posts/XP794SHDuXYfWLrvJ/deployment-awareness-matters-more-than-evaluation-awareness"
+        "title": "Anthropomorphic Misalignment research needs stronger evidence",
+        "url": "https://www.lesswrong.com/posts/bJcR3yP2avGFuMxyq/anthropomorphic-misalignment-research-needs-stronger-1"
       },
       {
-        "title": "Just a Wrapper? How Much Do Scaffolds Matter?",
-        "url": "https://www.lesswrong.com/posts/jXLi3dhSpSMd7B6z8/just-a-wrapper-how-much-do-scaffolds-matter-1"
+        "title": "A survey of okayish ASI futures",
+        "url": "https://www.lesswrong.com/posts/CWWJ49h8bs7mHKGCC/a-survey-of-okayish-asi-futures"
       },
       {
-        "title": "What did \"scheming\" and \"mech interp\" mean pre-2023?",
-        "url": "https://www.lesswrong.com/posts/NraMusoWhj9Njdpi5/what-did-scheming-and-mech-interp-mean-pre-2023"
+        "title": "GPT-5.6: The System Card",
+        "url": "https://www.lesswrong.com/posts/JFjNmPTbH8kL6xtp6/gpt-5-6-the-system-card"
       },
       {
-        "title": "Why are adversaries assumed to be incapable of responding to AI risk?",
-        "url": "https://www.lesswrong.com/posts/ah5JMgJmEGJuxh79v/why-are-adversaries-assumed-to-be-incapable-of-responding-to"
+        "title": "Evaluating Offline Monitoring of Internal AI Agents",
+        "url": "https://www.lesswrong.com/posts/yrbyyvFvuaGfRAtB7/evaluating-offline-monitoring-of-internal-ai-agents-2"
       },
       {
-        "title": "Screencasts could be scalable data + evals for single-user emulation (Guardian Angels)",
-        "url": "https://www.lesswrong.com/posts/NwrbrHmkDuKPXgLFb/screencasts-could-be-scalable-data-evals-for-single-user"
+        "title": "Power Laws in NNs: A Possible Mechanism for Inductive Bias towards Sparse Representations",
+        "url": "https://www.lesswrong.com/posts/QR4AgigAopdz9LvQk/power-laws-in-nns-a-possible-mechanism-for-inductive-bias"
       },
       {
-        "title": "Randomness Testing with Bayesian Stats",
-        "url": "https://www.lesswrong.com/posts/rw3wSckEXq5p5W3Bn/randomness-testing-with-bayesian-stats"
+        "title": "Refusal Is Complicated As Hell: An Update",
+        "url": "https://www.lesswrong.com/posts/tshEdBArLbjhBxwDq/refusal-is-complicated-as-hell-an-update"
       },
       {
-        "title": "Should we combine protocols for AI Control Research?",
-        "url": "https://www.lesswrong.com/posts/BsNF64ELiwJeoCJSD/should-we-combine-protocols-for-ai-control-research"
+        "title": "A partner who plays music",
+        "url": "https://www.lesswrong.com/posts/GdcpiegJHoxFs7EXk/a-partner-who-plays-music"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
-        "url": "https://arxiv.org/abs/2606.26155"
-      },
-      {
-        "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
-        "url": "https://arxiv.org/abs/2606.26158"
-      },
-      {
-        "title": "Refusal Lives Downstream of Persona in Chat Models",
-        "url": "https://arxiv.org/abs/2606.26161"
-      },
-      {
-        "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
-        "url": "https://arxiv.org/abs/2606.26173"
-      },
-      {
-        "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
-        "url": "https://arxiv.org/abs/2606.26203"
-      },
-      {
-        "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
-        "url": "https://arxiv.org/abs/2606.26205"
-      },
-      {
-        "title": "Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System",
-        "url": "https://arxiv.org/abs/2606.26267"
-      },
-      {
-        "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
-        "url": "https://arxiv.org/abs/2606.26298"
-      },
-      {
-        "title": "COrigami: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami",
-        "url": "https://arxiv.org/abs/2606.26299"
-      },
-      {
-        "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
-        "url": "https://arxiv.org/abs/2606.26300"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
