@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "What comes with cheap math?",
-        "url": "https://www.lesswrong.com/posts/gS5skwXeeQdStwsPu/what-comes-with-cheap-math"
+        "title": "Untitled Draft",
+        "url": "https://www.lesswrong.com/posts/wjnFqwERc6eA53F2e/untitled-draft-siiu"
       },
       {
-        "title": "Reinforcement Learning on Forecasting Can Give Us a Superhuman Forecaster",
-        "url": "https://www.lesswrong.com/posts/pQLQ5GMjQP7qKb7HS/reinforcement-learning-on-forecasting-can-give-us-a"
+        "title": "Could AI Outgrow Consciousness?",
+        "url": "https://www.lesswrong.com/posts/zxtXSBuY2LLuzKDQT/could-ai-outgrow-consciousness"
       },
       {
-        "title": "The arithmetic hierarchy of real functions",
-        "url": "https://www.lesswrong.com/posts/kLiJnEfavGAxXfiNr/the-arithmetic-hierarchy-of-real-functions"
+        "title": "Role confusion: sounding like the cause is indistinguishable from being it.",
+        "url": "https://www.lesswrong.com/posts/rJcX5Qc3toMmMqtvk/role-confusion-sounding-like-the-cause-is-indistinguishable"
       },
       {
-        "title": "Anthropomorphic Misalignment research needs stronger evidence",
-        "url": "https://www.lesswrong.com/posts/bJcR3yP2avGFuMxyq/anthropomorphic-misalignment-research-needs-stronger-1"
+        "title": "Destroying the universe: How hard can it be?",
+        "url": "https://www.lesswrong.com/posts/EvJ2fMzLQLvYooumu/destroying-the-universe-how-hard-can-it-be"
       },
       {
-        "title": "A survey of okayish ASI futures",
-        "url": "https://www.lesswrong.com/posts/CWWJ49h8bs7mHKGCC/a-survey-of-okayish-asi-futures"
+        "title": "Because It Speaks In Words",
+        "url": "https://www.lesswrong.com/posts/cznXgrE3gDQDzDHbC/because-it-speaks-in-words"
       },
       {
-        "title": "GPT-5.6: The System Card",
-        "url": "https://www.lesswrong.com/posts/JFjNmPTbH8kL6xtp6/gpt-5-6-the-system-card"
+        "title": "[Linkpost]Frame Error",
+        "url": "https://www.lesswrong.com/posts/9cuvhhmebocLiCXpF/linkpost-frame-error"
       },
       {
-        "title": "Evaluating Offline Monitoring of Internal AI Agents",
-        "url": "https://www.lesswrong.com/posts/yrbyyvFvuaGfRAtB7/evaluating-offline-monitoring-of-internal-ai-agents-2"
+        "title": "$1M AI x-risk grant round is live on grantmaking.ai - apply for funding, review applicants, or fund projects",
+        "url": "https://www.lesswrong.com/posts/hDQZZzYkcipgaZfxy/usd1m-ai-x-risk-grant-round-is-live-on-grantmaking-ai-apply"
       },
       {
-        "title": "Power Laws in NNs: A Possible Mechanism for Inductive Bias towards Sparse Representations",
-        "url": "https://www.lesswrong.com/posts/QR4AgigAopdz9LvQk/power-laws-in-nns-a-possible-mechanism-for-inductive-bias"
+        "title": "AI will make biological extinction risks worse before it makes them better",
+        "url": "https://www.lesswrong.com/posts/xdsvtuZBFipZYGjvb/ai-will-make-biological-extinction-risks-worse-before-it"
       },
       {
-        "title": "Refusal Is Complicated As Hell: An Update",
-        "url": "https://www.lesswrong.com/posts/tshEdBArLbjhBxwDq/refusal-is-complicated-as-hell-an-update"
+        "title": "Gradient-free Single-pass Model Beats nanoGPT on Shakespeare",
+        "url": "https://www.lesswrong.com/posts/rSiwKbisKmMhALpBk/gradient-free-single-pass-model-beats-nanogpt-on-shakespeare-1"
       },
       {
-        "title": "A partner who plays music",
-        "url": "https://www.lesswrong.com/posts/GdcpiegJHoxFs7EXk/a-partner-who-plays-music"
+        "title": "Blog Intro Post",
+        "url": "https://www.lesswrong.com/posts/Pq9BzdJSCgeSQZZKA/blog-intro-post"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "AI-Model Network: Concept, Current State and Future",
+        "url": "https://arxiv.org/abs/2606.27382"
+      },
+      {
+        "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+        "url": "https://arxiv.org/abs/2606.27443"
+      },
+      {
+        "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+        "url": "https://arxiv.org/abs/2606.27483"
+      },
+      {
+        "title": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models",
+        "url": "https://arxiv.org/abs/2606.27593"
+      },
+      {
+        "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
+        "url": "https://arxiv.org/abs/2606.27619"
+      },
+      {
+        "title": "MER-R1: Multimodal Emotion Reasoning via Slow-Fast Thinking Synergy",
+        "url": "https://arxiv.org/abs/2606.27652"
+      },
+      {
+        "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
+        "url": "https://arxiv.org/abs/2606.27736"
+      },
+      {
+        "title": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework",
+        "url": "https://arxiv.org/abs/2606.27757"
+      },
+      {
+        "title": "Understanding Rollout Error in Graph World Models",
+        "url": "https://arxiv.org/abs/2606.27780"
+      },
+      {
+        "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
+        "url": "https://arxiv.org/abs/2606.27806"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
