@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Untitled Draft",
-        "url": "https://www.lesswrong.com/posts/wjnFqwERc6eA53F2e/untitled-draft-siiu"
+        "title": "Cluelessness: Summary of the argument, why it matters, and counterarguments",
+        "url": "https://www.lesswrong.com/posts/Dy6K5gJQaqMoxhBS6/cluelessness-summary-of-the-argument-why-it-matters-and"
       },
       {
-        "title": "Could AI Outgrow Consciousness?",
-        "url": "https://www.lesswrong.com/posts/zxtXSBuY2LLuzKDQT/could-ai-outgrow-consciousness"
+        "title": "Is it ethical to work on general-purpose robots given the risk of cyberhacking?",
+        "url": "https://www.lesswrong.com/posts/ujoGrGuWJnSwLBiCW/is-it-ethical-to-work-on-general-purpose-robots-given-the"
       },
       {
-        "title": "Role confusion: sounding like the cause is indistinguishable from being it.",
-        "url": "https://www.lesswrong.com/posts/rJcX5Qc3toMmMqtvk/role-confusion-sounding-like-the-cause-is-indistinguishable"
+        "title": "That Which Cannot Be Poked With A Stick Is The Mind-Killer",
+        "url": "https://www.lesswrong.com/posts/FBXvMEwzTknN26NZp/that-which-cannot-be-poked-with-a-stick-is-the-mind-killer"
       },
       {
-        "title": "Destroying the universe: How hard can it be?",
-        "url": "https://www.lesswrong.com/posts/EvJ2fMzLQLvYooumu/destroying-the-universe-how-hard-can-it-be"
+        "title": "Connect to your past selves",
+        "url": "https://www.lesswrong.com/posts/ysiMuCaSGq6vntAG2/connect-to-your-past-selves"
       },
       {
-        "title": "Because It Speaks In Words",
-        "url": "https://www.lesswrong.com/posts/cznXgrE3gDQDzDHbC/because-it-speaks-in-words"
+        "title": "Unjournal tool hub (finding & assessing high-impact research questions, cruxes, papers, etc.)",
+        "url": "https://www.lesswrong.com/posts/KFw6N7nAghgstbj6q/unjournal-tool-hub-finding-and-assessing-high-impact"
       },
       {
-        "title": "[Linkpost]Frame Error",
-        "url": "https://www.lesswrong.com/posts/9cuvhhmebocLiCXpF/linkpost-frame-error"
+        "title": "Preliminary investigation: KL penalties in RL can increase CoT unfaithfulness",
+        "url": "https://www.lesswrong.com/posts/SdoLsFvZ3AyyWr3ab/preliminary-investigation-kl-penalties-in-rl-can-increase"
       },
       {
-        "title": "$1M AI x-risk grant round is live on grantmaking.ai - apply for funding, review applicants, or fund projects",
-        "url": "https://www.lesswrong.com/posts/hDQZZzYkcipgaZfxy/usd1m-ai-x-risk-grant-round-is-live-on-grantmaking-ai-apply"
+        "title": "Structural Proxies",
+        "url": "https://www.lesswrong.com/posts/mKiBhFJs3MoksaBMs/structural-proxies"
       },
       {
-        "title": "AI will make biological extinction risks worse before it makes them better",
-        "url": "https://www.lesswrong.com/posts/xdsvtuZBFipZYGjvb/ai-will-make-biological-extinction-risks-worse-before-it"
+        "title": "Why Prefer Any Decision Theory?",
+        "url": "https://www.lesswrong.com/posts/SBJjXpzYJE8RwZZ8P/why-prefer-any-decision-theory"
       },
       {
-        "title": "Gradient-free Single-pass Model Beats nanoGPT on Shakespeare",
-        "url": "https://www.lesswrong.com/posts/rSiwKbisKmMhALpBk/gradient-free-single-pass-model-beats-nanogpt-on-shakespeare-1"
+        "title": "What Capable Agents Must Know: Why AI Consciousness May Be an Inevitable Byproduct of Capability",
+        "url": "https://www.lesswrong.com/posts/SD9jayFvEctW82Duk/what-capable-agents-must-know-why-ai-consciousness-may-be-an-2"
       },
       {
-        "title": "Blog Intro Post",
-        "url": "https://www.lesswrong.com/posts/Pq9BzdJSCgeSQZZKA/blog-intro-post"
+        "title": "Agency is not a natural kind (and why that might matter for alignment)",
+        "url": "https://www.lesswrong.com/posts/85vgwYgNta65oK4zL/agency-is-not-a-natural-kind-and-why-that-might-matter-for"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "AI-Model Network: Concept, Current State and Future",
-        "url": "https://arxiv.org/abs/2606.27382"
+        "title": "Recursive Self-Evolving Agents via Held-Out Selection",
+        "url": "https://arxiv.org/abs/2606.28374"
       },
       {
-        "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
-        "url": "https://arxiv.org/abs/2606.27443"
+        "title": "Data and Evaluation Closed-Loop for Model Capability Enhancement",
+        "url": "https://arxiv.org/abs/2606.28471"
       },
       {
-        "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
-        "url": "https://arxiv.org/abs/2606.27483"
+        "title": "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes",
+        "url": "https://arxiv.org/abs/2606.28514"
       },
       {
-        "title": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models",
-        "url": "https://arxiv.org/abs/2606.27593"
+        "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
+        "url": "https://arxiv.org/abs/2606.28556"
       },
       {
-        "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
-        "url": "https://arxiv.org/abs/2606.27619"
+        "title": "Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories",
+        "url": "https://arxiv.org/abs/2606.28589"
       },
       {
-        "title": "MER-R1: Multimodal Emotion Reasoning via Slow-Fast Thinking Synergy",
-        "url": "https://arxiv.org/abs/2606.27652"
+        "title": "Aristotelian Virtue Profiling of LLMs through Ethical Dilemmas",
+        "url": "https://arxiv.org/abs/2606.28683"
       },
       {
-        "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
-        "url": "https://arxiv.org/abs/2606.27736"
+        "title": "An AI agent for treatment reasoning over a biomedical tool universe",
+        "url": "https://arxiv.org/abs/2606.28692"
       },
       {
-        "title": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework",
-        "url": "https://arxiv.org/abs/2606.27757"
+        "title": "COMPASS: Grounding Composition-Intent Guidance in Unified Multimodal Models",
+        "url": "https://arxiv.org/abs/2606.28696"
       },
       {
-        "title": "Understanding Rollout Error in Graph World Models",
-        "url": "https://arxiv.org/abs/2606.27780"
+        "title": "BV-Blend: Uncertainty-Weighted Historical Baselines for Stable Critic-Free RL with Verifiable Rewards",
+        "url": "https://arxiv.org/abs/2606.28707"
       },
       {
-        "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
-        "url": "https://arxiv.org/abs/2606.27806"
+        "title": "The Two Genie Game: Adoption and Welfare in Audit-Grounded AI Governance",
+        "url": "https://arxiv.org/abs/2606.28710"
       }
     ]
   },
@@ -156,16 +156,16 @@
         "url": "https://www.anthropic.com/news/news/fable-mythos-access"
       },
       {
+        "title": "ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+        "url": "https://www.anthropic.com/news/news/claude-sonnet-5"
+      },
+      {
+        "title": "AnnouncementsJun 30, 2026Claude Science, an AI workbench for scientists, is now availableClaude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+        "url": "https://www.anthropic.com/news/news/claude-science-ai-workbench"
+      },
+      {
         "title": "ProductJun 23, 2026Introducing Claude TagClaude Tag is a new way for teams to work with Claude.",
         "url": "https://www.anthropic.com/news/news/introducing-claude-tag"
-      },
-      {
-        "title": "AnnouncementsJun 11, 2026Introducing Claude CorpsWe\u2019re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
-        "url": "https://www.anthropic.com/news/news/claude-corps"
-      },
-      {
-        "title": "AnnouncementsJun 2, 2026Expanding Project GlasswingWe\u2019re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries.",
-        "url": "https://www.anthropic.com/news/news/expanding-project-glasswing"
       },
       {
         "title": "ProductMay 28, 2026Introducing Claude Opus 4.8An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
@@ -188,8 +188,8 @@
         "url": "https://www.anthropic.com/news/news/dxc-anthropic-alliance"
       },
       {
-        "title": "Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5",
-        "url": "https://www.anthropic.com/news/news/claude-fable-5-mythos-5"
+        "title": "Jun 11, 2026AnnouncementsIntroducing Claude Corps",
+        "url": "https://www.anthropic.com/news/news/claude-corps"
       }
     ]
   }
