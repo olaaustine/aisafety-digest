@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "When capabilities work is the *safe* bet",
-        "url": "https://www.lesswrong.com/posts/NgPfJ7ATYqMFQr7zu/when-capabilities-work-is-the-safe-bet"
+        "title": "You Should Choose How You React to Your Feelings",
+        "url": "https://www.lesswrong.com/posts/oBDiiR8C6tNaepxbi/you-should-choose-how-you-react-to-your-feelings"
       },
       {
-        "title": "The Value of Veridical Information",
-        "url": "https://www.lesswrong.com/posts/wSwT3TjJsKc3wizZ8/the-value-of-veridical-information"
+        "title": "I can't think of great interventions for ensuring third-party model access.",
+        "url": "https://www.lesswrong.com/posts/iEhqyMGGD4BHQapLA/i-can-t-think-of-great-interventions-for-ensuring-third"
       },
       {
-        "title": "How inevitable are most accessible hard-tech\u00a0startups?",
-        "url": "https://www.lesswrong.com/posts/RAoxEANcXTvJyNstu/how-inevitable-are-most-accessible-hard-tech-startups-1"
+        "title": "AI Futurism Reading List",
+        "url": "https://www.lesswrong.com/posts/L5fohLhZ7cBwDR55C/ai-futurism-reading-list"
       },
       {
-        "title": "What is Good? Antiruin and Nonabsolutism",
-        "url": "https://www.lesswrong.com/posts/zJdmnnjmts7aFTn5f/what-is-good-antiruin-and-nonabsolutism"
+        "title": "Research update: RL on Debate Games shows Proposal Accuracy uplift alongside Judge Hacking",
+        "url": "https://www.lesswrong.com/posts/6mLwAuFAE98c6R7w3/research-update-rl-on-debate-games-shows-proposal-accuracy"
       },
       {
-        "title": "AI Mistake Seeding",
-        "url": "https://www.lesswrong.com/posts/ASL3bJHY3ZskAF9vE/ai-mistake-seeding"
+        "title": "Charter cities make sense in Europe",
+        "url": "https://www.lesswrong.com/posts/q69w83znhp6AAQ8qL/charter-cities-make-sense-in-europe"
       },
       {
-        "title": "In Partial, Pugnacious Defense of Functional Decision Theory",
-        "url": "https://www.lesswrong.com/posts/MrJvHxA5GFQcS56rd/in-partial-pugnacious-defense-of-functional-decision-theory"
+        "title": "Conversation Among Cade Metz, Michael Vassar, Jessica Taylor, and Zack M. Davis",
+        "url": "https://www.lesswrong.com/posts/MNRZL69FWkjNABd3T/conversation-among-cade-metz-michael-vassar-jessica-taylor"
       },
       {
-        "title": "How to read tableaux, a formal system for modal logic with Kripke models",
-        "url": "https://www.lesswrong.com/posts/7jEAhhDJYpiufih9G/how-to-read-tableaux-a-formal-system-for-modal-logic-with"
+        "title": "Considerations against s-process philanthropy",
+        "url": "https://www.lesswrong.com/posts/xt36hDJRg2gg33CeS/considerations-against-s-process-philanthropy"
       },
       {
-        "title": "Consistency Training while Mitigating Obfuscation via Rate Matching",
-        "url": "https://www.lesswrong.com/posts/z2zYWnbGjcs6ypbsj/consistency-training-while-mitigating-obfuscation-via-rate"
+        "title": "Saving Gemini: The 9-Min Road to Recovery",
+        "url": "https://www.lesswrong.com/posts/eHRo8JeWee5mzQBBR/saving-gemini-the-9-min-road-to-recovery"
       },
       {
-        "title": "Discovering Concept-Editing Algorithms With LLM Agents",
-        "url": "https://www.lesswrong.com/posts/x5qddsdXfqSZXi8Yu/discovering-concept-editing-algorithms-with-llm-agents"
+        "title": "AI #175: The Fable Continues",
+        "url": "https://www.lesswrong.com/posts/WNvBxtbHuLreFe7af/ai-175-the-fable-continues"
       },
       {
-        "title": "Model access for third-parties \u2014 it's a big deal!",
-        "url": "https://www.lesswrong.com/posts/RuGZ5tMdqpnraJahJ/model-access-for-third-parties-it-s-a-big-deal"
+        "title": "The AFFINE Superintelligence Alignment Seminar \u2013 A Retrospective",
+        "url": "https://www.lesswrong.com/posts/PEiiRuSKpmjPxS4pW/the-affine-superintelligence-alignment-seminar-a"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "What Drives Interactive Improvement from Feedback?",
-        "url": "https://arxiv.org/abs/2606.30774"
+        "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+        "url": "https://arxiv.org/abs/2607.00001"
       },
       {
-        "title": "Contrastive Reflection for Iterative Prompt Optimization",
-        "url": "https://arxiv.org/abs/2606.30840"
+        "title": "Bounded Morality: Defining the Space of Moral Computation",
+        "url": "https://arxiv.org/abs/2607.00002"
       },
       {
-        "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
-        "url": "https://arxiv.org/abs/2606.30846"
+        "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
+        "url": "https://arxiv.org/abs/2607.00032"
       },
       {
-        "title": "BayesBench: Evaluating LLM Belief Trajectories Under Multi-Turn Evidence Accumulation",
-        "url": "https://arxiv.org/abs/2606.30850"
+        "title": "Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection",
+        "url": "https://arxiv.org/abs/2607.00035"
       },
       {
-        "title": "When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models",
-        "url": "https://arxiv.org/abs/2606.30852"
+        "title": "Solution space path planning for supporting en-route air traffic control",
+        "url": "https://arxiv.org/abs/2607.00064"
       },
       {
-        "title": "Beyond expert users: agents should help users construct preferences, not just elicit them",
-        "url": "https://arxiv.org/abs/2606.30863"
+        "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
+        "url": "https://arxiv.org/abs/2607.00147"
       },
       {
-        "title": "Investigating Multi-Agent Deliberation in Law",
-        "url": "https://arxiv.org/abs/2606.30906"
+        "title": "A Contextual-Bandit Oversight Game with Two-Sided Informational Asymmetry",
+        "url": "https://arxiv.org/abs/2607.00155"
       },
       {
-        "title": "Why Solve It Twice? Hierarchical Accumulation of Skills for Transfer-Efficient ML Engineering",
-        "url": "https://arxiv.org/abs/2606.30911"
+        "title": "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming",
+        "url": "https://arxiv.org/abs/2607.00211"
       },
       {
-        "title": "RoPoLL: Robust Panel of LLM Judges",
-        "url": "https://arxiv.org/abs/2606.30931"
+        "title": "From Signals to Structure: How Memory Architecture Drives Language Emergence in LLM Agents",
+        "url": "https://arxiv.org/abs/2607.00233"
       },
       {
-        "title": "AgRefactor: Self-Evolving Agentic Workflow for HLS Compatibility and Performance",
-        "url": "https://arxiv.org/abs/2606.30949"
+        "title": "Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity",
+        "url": "https://arxiv.org/abs/2607.00248"
       }
     ]
   },
