@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "You Should Choose How You React to Your Feelings",
-        "url": "https://www.lesswrong.com/posts/oBDiiR8C6tNaepxbi/you-should-choose-how-you-react-to-your-feelings"
+        "title": "(Don't fear) the strangelet",
+        "url": "https://www.lesswrong.com/posts/cBnCCKwwjQ4zZpeNQ/don-t-fear-the-strangelet"
       },
       {
-        "title": "I can't think of great interventions for ensuring third-party model access.",
-        "url": "https://www.lesswrong.com/posts/iEhqyMGGD4BHQapLA/i-can-t-think-of-great-interventions-for-ensuring-third"
+        "title": "The Reverse AI Box",
+        "url": "https://www.lesswrong.com/posts/jdhp9C8GR9c5X3TLM/the-reverse-ai-box"
       },
       {
-        "title": "AI Futurism Reading List",
-        "url": "https://www.lesswrong.com/posts/L5fohLhZ7cBwDR55C/ai-futurism-reading-list"
+        "title": "Announcing the Safe Pareto Improvements (SPI) Fundamentals Program",
+        "url": "https://www.lesswrong.com/posts/jdbJPk5yL9RcddDrS/announcing-the-safe-pareto-improvements-spi-fundamentals"
       },
       {
-        "title": "Research update: RL on Debate Games shows Proposal Accuracy uplift alongside Judge Hacking",
-        "url": "https://www.lesswrong.com/posts/6mLwAuFAE98c6R7w3/research-update-rl-on-debate-games-shows-proposal-accuracy"
+        "title": "Pragmatic FDT, and predictors as game theory",
+        "url": "https://www.lesswrong.com/posts/SdGbWkCZgCN7EGBxM/pragmatic-fdt-and-predictors-as-game-theory-1"
       },
       {
-        "title": "Charter cities make sense in Europe",
-        "url": "https://www.lesswrong.com/posts/q69w83znhp6AAQ8qL/charter-cities-make-sense-in-europe"
+        "title": "Fable #6: The Return of the King",
+        "url": "https://www.lesswrong.com/posts/r9HsHHSsfABhhxnYr/fable-6-the-return-of-the-king"
       },
       {
-        "title": "Conversation Among Cade Metz, Michael Vassar, Jessica Taylor, and Zack M. Davis",
-        "url": "https://www.lesswrong.com/posts/MNRZL69FWkjNABd3T/conversation-among-cade-metz-michael-vassar-jessica-taylor"
+        "title": "June-July 2026 AI Security via Formal Methods",
+        "url": "https://www.lesswrong.com/posts/jq5gjS9dtorwYvpTD/june-july-2026-ai-security-via-formal-methods"
       },
       {
-        "title": "Considerations against s-process philanthropy",
-        "url": "https://www.lesswrong.com/posts/xt36hDJRg2gg33CeS/considerations-against-s-process-philanthropy"
+        "title": "Scheming Evals Mislead in Both Directions",
+        "url": "https://www.lesswrong.com/posts/hzq7bGB22wGRMGyEp/scheming-evals-mislead-in-both-directions"
       },
       {
-        "title": "Saving Gemini: The 9-Min Road to Recovery",
-        "url": "https://www.lesswrong.com/posts/eHRo8JeWee5mzQBBR/saving-gemini-the-9-min-road-to-recovery"
+        "title": "Fragile Correctness: Cases of reasoning harming performance",
+        "url": "https://www.lesswrong.com/posts/JbHLxzuhoCS5ZkJse/fragile-correctness-cases-of-reasoning-harming-performance"
       },
       {
-        "title": "AI #175: The Fable Continues",
-        "url": "https://www.lesswrong.com/posts/WNvBxtbHuLreFe7af/ai-175-the-fable-continues"
+        "title": "One axis and two features, how I solved the first puzzle from BlueDot and how a classifier hid country on the food direction",
+        "url": "https://www.lesswrong.com/posts/ZPNf3QbQ5rLgkKtY7/one-axis-and-two-features-how-i-solved-the-first-puzzle-from"
       },
       {
-        "title": "The AFFINE Superintelligence Alignment Seminar \u2013 A Retrospective",
-        "url": "https://www.lesswrong.com/posts/PEiiRuSKpmjPxS4pW/the-affine-superintelligence-alignment-seminar-a"
+        "title": "Lydia Laurenson: \"The Inside Story of Leverage Research\"",
+        "url": "https://www.lesswrong.com/posts/d3dmWcHs7tefywq6m/lydia-laurenson-the-inside-story-of-leverage-research"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Pragmatic FDT, and predictors as game theory",
+        "url": "https://www.alignmentforum.org/posts/SdGbWkCZgCN7EGBxM/pragmatic-fdt-and-predictors-as-game-theory-1"
+      },
       {
         "title": "Deployment Awareness Matters More Than Evaluation Awareness",
         "url": "https://www.alignmentforum.org/posts/XP794SHDuXYfWLrvJ/deployment-awareness-matters-more-than-evaluation-awareness"
@@ -84,10 +88,6 @@
       {
         "title": "SFT Drives Gemini\u2019s Safety Properties",
         "url": "https://www.alignmentforum.org/posts/nLrrYweeFxgXACSmS/sft-drives-gemini-s-safety-properties-1"
-      },
-      {
-        "title": "Building and evaluating model diffing agents",
-        "url": "https://www.alignmentforum.org/posts/qi4mNbZYAFDYwfRba/building-and-evaluating-model-diffing-agents"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
-        "url": "https://arxiv.org/abs/2607.00001"
+        "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
+        "url": "https://arxiv.org/abs/2607.01306"
       },
       {
-        "title": "Bounded Morality: Defining the Space of Moral Computation",
-        "url": "https://arxiv.org/abs/2607.00002"
+        "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
+        "url": "https://arxiv.org/abs/2607.01366"
       },
       {
-        "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
-        "url": "https://arxiv.org/abs/2607.00032"
+        "title": "The Wiola Architecture for Efficient Small Language Models",
+        "url": "https://arxiv.org/abs/2607.01394"
       },
       {
-        "title": "Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection",
-        "url": "https://arxiv.org/abs/2607.00035"
+        "title": "Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases",
+        "url": "https://arxiv.org/abs/2607.01425"
       },
       {
-        "title": "Solution space path planning for supporting en-route air traffic control",
-        "url": "https://arxiv.org/abs/2607.00064"
+        "title": "When Should Service Agents Reconsider? Difficulty-Routed Control in Customer-Service Operations",
+        "url": "https://arxiv.org/abs/2607.01426"
       },
       {
-        "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
-        "url": "https://arxiv.org/abs/2607.00147"
+        "title": "CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking and Reduce Mode Collapse",
+        "url": "https://arxiv.org/abs/2607.01433"
       },
       {
-        "title": "A Contextual-Bandit Oversight Game with Two-Sided Informational Asymmetry",
-        "url": "https://arxiv.org/abs/2607.00155"
+        "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
+        "url": "https://arxiv.org/abs/2607.01436"
       },
       {
-        "title": "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming",
-        "url": "https://arxiv.org/abs/2607.00211"
+        "title": "Beyond Next-Token Prediction: An RLVR Proof of Concept for Tool-Use Agents on Atlassian Workflows",
+        "url": "https://arxiv.org/abs/2607.01465"
       },
       {
-        "title": "From Signals to Structure: How Memory Architecture Drives Language Emergence in LLM Agents",
-        "url": "https://arxiv.org/abs/2607.00233"
+        "title": "World Feedback for Clinical Agents: Diagnosing RL in FHIR Environments",
+        "url": "https://arxiv.org/abs/2607.01470"
       },
       {
-        "title": "Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity",
-        "url": "https://arxiv.org/abs/2607.00248"
+        "title": "Procedural Memory Distillation: Online Reflection for Self-Improving Language Models",
+        "url": "https://arxiv.org/abs/2607.01480"
       }
     ]
   },
@@ -168,6 +168,10 @@
         "url": "https://www.anthropic.com/news/news/introducing-claude-tag"
       },
       {
+        "title": "Jul 2, 2026AnnouncementsMore details on Fable 5\u2019s cyber safeguards and our jailbreak framework",
+        "url": "https://www.anthropic.com/news/news/fable-safeguards-jailbreak-framework"
+      },
+      {
         "title": "Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
         "url": "https://www.anthropic.com/news/news/seoul-office-partnerships-korean-ai-ecosystem"
       },
@@ -186,10 +190,6 @@
       {
         "title": "Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
         "url": "https://www.anthropic.com/news/news/dxc-anthropic-alliance"
-      },
-      {
-        "title": "Jun 11, 2026AnnouncementsIntroducing Claude Corps",
-        "url": "https://www.anthropic.com/news/news/claude-corps"
       }
     ]
   }
