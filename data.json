@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
+        "title": "Verizon is About to Break our Watches",
+        "url": "https://www.lesswrong.com/posts/NaNrsogLvWFRkDK8g/verizon-is-about-to-break-our-watches"
+      },
+      {
+        "title": "Defining interpretation, and establishing a framework for it",
+        "url": "https://www.lesswrong.com/posts/KmtpgtP5RSXebYyT8/defining-interpretation-and-establishing-a-framework-for-it"
+      },
+      {
+        "title": "Fluidity Forum 2026",
+        "url": "https://www.lesswrong.com/events/KGtPqPM2wgCbPJAdk/fluidity-forum-2026"
+      },
+      {
+        "title": "The Lace (short story)",
+        "url": "https://www.lesswrong.com/posts/enjZrq6g72oH6Gx3F/the-lace-short-story"
+      },
+      {
+        "title": "Approximate Natural Latents Have Exact Prices",
+        "url": "https://www.lesswrong.com/posts/dvJ5Axd4Jei6KRyTX/approximate-natural-latents-have-exact-prices"
+      },
+      {
+        "title": "I think alignment work is more promising than control work",
+        "url": "https://www.lesswrong.com/posts/dmHbogCFbSp95J3Lz/i-think-alignment-work-is-more-promising-than-control-work"
+      },
+      {
+        "title": "On \"gendertropes\" in dath ilan",
+        "url": "https://www.lesswrong.com/posts/n436eA4cQEr5njCeM/on-gendertropes-in-dath-ilan"
+      },
+      {
+        "title": "American AI if the boom is a bubble: the Karp-Zitron scenario",
+        "url": "https://www.lesswrong.com/posts/NcpZ28eDoei3zKCz4/american-ai-if-the-boom-is-a-bubble-the-karp-zitron-scenario"
+      },
+      {
         "title": "(Don't fear) the strangelet",
         "url": "https://www.lesswrong.com/posts/cBnCCKwwjQ4zZpeNQ/don-t-fear-the-strangelet"
       },
       {
         "title": "The Reverse AI Box",
         "url": "https://www.lesswrong.com/posts/jdhp9C8GR9c5X3TLM/the-reverse-ai-box"
-      },
-      {
-        "title": "Announcing the Safe Pareto Improvements (SPI) Fundamentals Program",
-        "url": "https://www.lesswrong.com/posts/jdbJPk5yL9RcddDrS/announcing-the-safe-pareto-improvements-spi-fundamentals"
-      },
-      {
-        "title": "Pragmatic FDT, and predictors as game theory",
-        "url": "https://www.lesswrong.com/posts/SdGbWkCZgCN7EGBxM/pragmatic-fdt-and-predictors-as-game-theory-1"
-      },
-      {
-        "title": "Fable #6: The Return of the King",
-        "url": "https://www.lesswrong.com/posts/r9HsHHSsfABhhxnYr/fable-6-the-return-of-the-king"
-      },
-      {
-        "title": "June-July 2026 AI Security via Formal Methods",
-        "url": "https://www.lesswrong.com/posts/jq5gjS9dtorwYvpTD/june-july-2026-ai-security-via-formal-methods"
-      },
-      {
-        "title": "Scheming Evals Mislead in Both Directions",
-        "url": "https://www.lesswrong.com/posts/hzq7bGB22wGRMGyEp/scheming-evals-mislead-in-both-directions"
-      },
-      {
-        "title": "Fragile Correctness: Cases of reasoning harming performance",
-        "url": "https://www.lesswrong.com/posts/JbHLxzuhoCS5ZkJse/fragile-correctness-cases-of-reasoning-harming-performance"
-      },
-      {
-        "title": "One axis and two features, how I solved the first puzzle from BlueDot and how a classifier hid country on the food direction",
-        "url": "https://www.lesswrong.com/posts/ZPNf3QbQ5rLgkKtY7/one-axis-and-two-features-how-i-solved-the-first-puzzle-from"
-      },
-      {
-        "title": "Lydia Laurenson: \"The Inside Story of Leverage Research\"",
-        "url": "https://www.lesswrong.com/posts/d3dmWcHs7tefywq6m/lydia-laurenson-the-inside-story-of-leverage-research"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
-        "url": "https://arxiv.org/abs/2607.01306"
-      },
-      {
-        "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
-        "url": "https://arxiv.org/abs/2607.01366"
-      },
-      {
-        "title": "The Wiola Architecture for Efficient Small Language Models",
-        "url": "https://arxiv.org/abs/2607.01394"
-      },
-      {
-        "title": "Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases",
-        "url": "https://arxiv.org/abs/2607.01425"
-      },
-      {
-        "title": "When Should Service Agents Reconsider? Difficulty-Routed Control in Customer-Service Operations",
-        "url": "https://arxiv.org/abs/2607.01426"
-      },
-      {
-        "title": "CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking and Reduce Mode Collapse",
-        "url": "https://arxiv.org/abs/2607.01433"
-      },
-      {
-        "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
-        "url": "https://arxiv.org/abs/2607.01436"
-      },
-      {
-        "title": "Beyond Next-Token Prediction: An RLVR Proof of Concept for Tool-Use Agents on Atlassian Workflows",
-        "url": "https://arxiv.org/abs/2607.01465"
-      },
-      {
-        "title": "World Feedback for Clinical Agents: Diagnosing RL in FHIR Environments",
-        "url": "https://arxiv.org/abs/2607.01470"
-      },
-      {
-        "title": "Procedural Memory Distillation: Online Reflection for Self-Improving Language Models",
-        "url": "https://arxiv.org/abs/2607.01480"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
