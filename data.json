@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Reflections on The Scout Mindset",
-        "url": "https://www.lesswrong.com/posts/om7GhA9nZGjYAEdvv/reflections-on-the-scout-mindset"
+        "title": "A Review of Anthropic's Global Workspace Paper",
+        "url": "https://www.lesswrong.com/posts/zFJ3ZdQwrTWE9jT5S/a-review-of-anthropic-s-global-workspace-paper"
       },
       {
-        "title": "When Gemma Thinks About Resources - it Fails: a Behavioral Experiment",
-        "url": "https://www.lesswrong.com/posts/9Gj9anZi95RgHQPv6/when-gemma-thinks-about-resources-it-fails-a-behavioral"
+        "title": "Visioning: Concretely Imagining What You Want",
+        "url": "https://www.lesswrong.com/posts/j3Min7Kj5SDF7BEzM/visioning-concretely-imagining-what-you-want"
       },
       {
-        "title": "Claude's malicious compliance and normalization of deviance",
-        "url": "https://www.lesswrong.com/posts/JmXzKcoymK7rQ6dwB/claude-s-malicious-compliance-and-normalization-of-deviance"
+        "title": "Personhood for digital minds is good",
+        "url": "https://www.lesswrong.com/posts/czQniWykjdeqr2xmq/personhood-for-digital-minds-is-good"
       },
       {
-        "title": "Probing the loss-band sparsity assumption in Scientist AI",
-        "url": "https://www.lesswrong.com/posts/zJGGZQdtfoNye5ywe/probing-the-loss-band-sparsity-assumption-in-scientist-ai"
+        "title": "Training AI to be better at correctness than persuasion",
+        "url": "https://www.lesswrong.com/posts/5kwFHkXoJGGhvyB4g/training-ai-to-be-better-at-correctness-than-persuasion"
       },
       {
-        "title": "Book Review: The God Test",
-        "url": "https://www.lesswrong.com/posts/4KHHEzx6xikxHtMx2/book-review-the-god-test"
+        "title": "A global workspace in language models",
+        "url": "https://www.lesswrong.com/posts/3PaLrzxagpbnNtPLT/a-global-workspace-in-language-models"
       },
       {
-        "title": "We need 3rd party Training-Run Assessments",
-        "url": "https://www.lesswrong.com/posts/3HvvjffA65mHLwaWm/we-need-3rd-party-training-run-assessments"
+        "title": "Current views on large-scale longtermist philanthropy",
+        "url": "https://www.lesswrong.com/posts/Qm7M943R9cgWNqdwP/current-views-on-large-scale-longtermist-philanthropy"
       },
       {
-        "title": "Harry Potter and the Rules of Quidditch",
-        "url": "https://www.lesswrong.com/posts/WatqNkgiAuonXLpJd/harry-potter-and-the-rules-of-quidditch-1"
+        "title": "SFF is very suboptimal",
+        "url": "https://www.lesswrong.com/posts/csfTETocJYZe3mNes/sff-is-very-suboptimal"
       },
       {
-        "title": "A Normal Argument for AI Risk",
-        "url": "https://www.lesswrong.com/posts/SYqWny4t7zYzkye8K/a-normal-argument-for-ai-risk"
+        "title": "Bounding eval awareness of ~human-level AI across the safe-to-dangerous shift",
+        "url": "https://www.lesswrong.com/posts/HqqnobWHfiuaJKDXw/bounding-eval-awareness-of-human-level-ai-across-the-safe-to"
       },
       {
-        "title": "The case for the fleshman",
-        "url": "https://www.lesswrong.com/posts/FRFwgkbagntygGvBg/the-case-for-the-fleshman"
+        "title": "Sub-agent delegation chaining",
+        "url": "https://www.lesswrong.com/posts/98GvRu78jTXJgz9gA/sub-agent-delegation-chaining"
       },
       {
-        "title": "Reevaluating AI-2027: timelines, takeoff, alignment and China",
-        "url": "https://www.lesswrong.com/posts/rMBc5WR3RvWgJdjCC/reevaluating-ai-2027-timelines-takeoff-alignment-and-china"
+        "title": "New funding opportunity on digital minds from Longview",
+        "url": "https://www.lesswrong.com/posts/CDWu3hwsnXEKTpPK6/new-funding-opportunity-on-digital-minds-from-longview"
       }
     ]
   },
@@ -127,6 +127,10 @@
         "url": "https://www.anthropic.com/news/news/introducing-claude-tag"
       },
       {
+        "title": "Jul 6, 2026Case StudyGovernment of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+        "url": "https://www.anthropic.com/news/news/alberta-government-claude-cybersecurity"
+      },
+      {
         "title": "Jul 2, 2026AnnouncementsMore details on Fable 5\u2019s cyber safeguards and our jailbreak framework",
         "url": "https://www.anthropic.com/news/news/fable-safeguards-jailbreak-framework"
       },
@@ -145,10 +149,6 @@
       {
         "title": "Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries",
         "url": "https://www.anthropic.com/news/news/tcs-anthropic-partnership"
-      },
-      {
-        "title": "Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-        "url": "https://www.anthropic.com/news/news/dxc-anthropic-alliance"
       }
     ]
   }
