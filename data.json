@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "A Review of Anthropic's Global Workspace Paper",
-        "url": "https://www.lesswrong.com/posts/zFJ3ZdQwrTWE9jT5S/a-review-of-anthropic-s-global-workspace-paper"
+        "title": "Open-source LLMs administer maximum electric shocks in a Milgram-like obedience experiment",
+        "url": "https://www.lesswrong.com/posts/fTnnq82CB5vxqrNp9/open-source-llms-administer-maximum-electric-shocks-in-a-1"
       },
       {
-        "title": "Visioning: Concretely Imagining What You Want",
-        "url": "https://www.lesswrong.com/posts/j3Min7Kj5SDF7BEzM/visioning-concretely-imagining-what-you-want"
+        "title": "\"Fundamental Uncertainty\" Audiobook Available",
+        "url": "https://www.lesswrong.com/posts/AZMBESkacbFoBjMst/fundamental-uncertainty-audiobook-available"
       },
       {
-        "title": "Personhood for digital minds is good",
-        "url": "https://www.lesswrong.com/posts/czQniWykjdeqr2xmq/personhood-for-digital-minds-is-good"
+        "title": "Personascope: \nMeasuring how deeply LLMs adopt personas",
+        "url": "https://www.lesswrong.com/posts/5WMwjEwam9HNQYZLZ/personascope-measuring-how-deeply-llms-adopt-personas"
       },
       {
-        "title": "Training AI to be better at correctness than persuasion",
-        "url": "https://www.lesswrong.com/posts/5kwFHkXoJGGhvyB4g/training-ai-to-be-better-at-correctness-than-persuasion"
+        "title": "Superhuman Articulacy\u00a0as an LLM Safety Target",
+        "url": "https://www.lesswrong.com/posts/tAwqzanzc9YYnwuK4/superhuman-articulacy-as-an-llm-safety-target"
       },
       {
-        "title": "A global workspace in language models",
-        "url": "https://www.lesswrong.com/posts/3PaLrzxagpbnNtPLT/a-global-workspace-in-language-models"
+        "title": "Calibrating alignment evals",
+        "url": "https://www.lesswrong.com/posts/mWpo4Tu87ZSFzwFWB/calibrating-alignment-evals"
       },
       {
-        "title": "Current views on large-scale longtermist philanthropy",
-        "url": "https://www.lesswrong.com/posts/Qm7M943R9cgWNqdwP/current-views-on-large-scale-longtermist-philanthropy"
+        "title": "June 2026 Links",
+        "url": "https://www.lesswrong.com/posts/cAFhF66YzTiXKqz3e/june-2026-links"
       },
       {
-        "title": "SFF is very suboptimal",
-        "url": "https://www.lesswrong.com/posts/csfTETocJYZe3mNes/sff-is-very-suboptimal"
+        "title": "Probing is not enough; a validity audit for any probe",
+        "url": "https://www.lesswrong.com/posts/wASHN8guJag7NhhJJ/probing-is-not-enough-a-validity-audit-for-any-probe"
       },
       {
-        "title": "Bounding eval awareness of ~human-level AI across the safe-to-dangerous shift",
-        "url": "https://www.lesswrong.com/posts/HqqnobWHfiuaJKDXw/bounding-eval-awareness-of-human-level-ai-across-the-safe-to"
+        "title": "Trying to grok Anthropic's Global Workspace paper and the J-space",
+        "url": "https://www.lesswrong.com/posts/2Ef7zM7eMpAB7nvcR/trying-to-grok-anthropic-s-global-workspace-paper-and-the-j"
       },
       {
-        "title": "Sub-agent delegation chaining",
-        "url": "https://www.lesswrong.com/posts/98GvRu78jTXJgz9gA/sub-agent-delegation-chaining"
+        "title": "Entanglement Between an AI and Its Environment",
+        "url": "https://www.lesswrong.com/posts/nacz5tFK6wJ7NFqMp/entanglement-between-an-ai-and-its-environment"
       },
       {
-        "title": "New funding opportunity on digital minds from Longview",
-        "url": "https://www.lesswrong.com/posts/CDWu3hwsnXEKTpPK6/new-funding-opportunity-on-digital-minds-from-longview"
+        "title": "A conceptor by any other name",
+        "url": "https://www.lesswrong.com/posts/9aZYJinAyxequjQbn/a-conceptor-by-any-other-name"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Data filtering works a lot worse than you would expect",
+        "url": "https://www.alignmentforum.org/posts/aTybJ6CPQrxEY8rE2/data-filtering-works-a-lot-worse-than-you-would-expect"
+      },
       {
         "title": "Pragmatic FDT, and predictors as game theory",
         "url": "https://www.alignmentforum.org/posts/SdGbWkCZgCN7EGBxM/pragmatic-fdt-and-predictors-as-game-theory-1"
@@ -84,10 +88,6 @@
       {
         "title": "Why Do Naive SFT Filters For Safety Properties Fail?",
         "url": "https://www.alignmentforum.org/posts/wyZRNgpeiPeRXB6eT/why-do-naive-sft-filters-for-safety-properties-fail"
-      },
-      {
-        "title": "SFT Drives Gemini\u2019s Safety Properties",
-        "url": "https://www.alignmentforum.org/posts/nLrrYweeFxgXACSmS/sft-drives-gemini-s-safety-properties-1"
       }
     ]
   },
@@ -104,14 +104,55 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "iFLYTEK-Embodied-Omni Technical Report",
+        "url": "https://arxiv.org/abs/2607.02542"
+      },
+      {
+        "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
+        "url": "https://arxiv.org/abs/2607.02672"
+      },
+      {
+        "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
+        "url": "https://arxiv.org/abs/2607.02686"
+      },
+      {
+        "title": "Automated Data Readiness for Scientific AI",
+        "url": "https://arxiv.org/abs/2607.02771"
+      },
+      {
+        "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
+        "url": "https://arxiv.org/abs/2607.02807"
+      },
+      {
+        "title": "Object-Centric Environment Modeling for Agentic Tasks",
+        "url": "https://arxiv.org/abs/2607.02846"
+      },
+      {
+        "title": "MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents",
+        "url": "https://arxiv.org/abs/2607.02879"
+      },
+      {
+        "title": "Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models",
+        "url": "https://arxiv.org/abs/2607.02914"
+      },
+      {
+        "title": "VERITAS: Towards a General-Purpose Replication Tool for Scientific Research",
+        "url": "https://arxiv.org/abs/2607.02931"
+      },
+      {
+        "title": "A Sliding-Window-Based Reinforcement Learning for Dynamic Assembly Flow Shop Scheduling with Multi-Product Delivery",
+        "url": "https://arxiv.org/abs/2607.02941"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "articles": [
       {
-        "title": "Redeploying Fable 5AnnouncementsJun 30, 2026Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+        "title": "AnnouncementsJun 30, 2026Redeploying Fable 5Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
         "url": "https://www.anthropic.com/news/news/redeploying-fable-5"
       },
       {
