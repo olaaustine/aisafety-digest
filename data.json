@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Open-source LLMs administer maximum electric shocks in a Milgram-like obedience experiment",
-        "url": "https://www.lesswrong.com/posts/fTnnq82CB5vxqrNp9/open-source-llms-administer-maximum-electric-shocks-in-a-1"
+        "title": "Find funding, fast",
+        "url": "https://www.lesswrong.com/posts/eberRKyDdZH9T5JMf/find-funding-fast"
       },
       {
-        "title": "\"Fundamental Uncertainty\" Audiobook Available",
-        "url": "https://www.lesswrong.com/posts/AZMBESkacbFoBjMst/fundamental-uncertainty-audiobook-available"
+        "title": "Childhood and Education #20: Phones and Screens",
+        "url": "https://www.lesswrong.com/posts/XA8fMCnwuc45uZYHX/childhood-and-education-20-phones-and-screens"
       },
       {
-        "title": "Personascope: \nMeasuring how deeply LLMs adopt personas",
-        "url": "https://www.lesswrong.com/posts/5WMwjEwam9HNQYZLZ/personascope-measuring-how-deeply-llms-adopt-personas"
+        "title": "Can the U.S. and China Deny AI?",
+        "url": "https://www.lesswrong.com/posts/jBCqkhxBnGw8NQFuT/can-the-u-s-and-china-deny-ai"
       },
       {
-        "title": "Superhuman Articulacy\u00a0as an LLM Safety Target",
-        "url": "https://www.lesswrong.com/posts/tAwqzanzc9YYnwuK4/superhuman-articulacy-as-an-llm-safety-target"
+        "title": "A Real-Life Example of an Aligned System Killing Hundreds of People",
+        "url": "https://www.lesswrong.com/posts/MXqcyrDfBrYdJkw4p/a-real-life-example-of-an-aligned-system-killing-hundreds-of"
       },
       {
-        "title": "Calibrating alignment evals",
-        "url": "https://www.lesswrong.com/posts/mWpo4Tu87ZSFzwFWB/calibrating-alignment-evals"
+        "title": "Notes on technical alignment via human-like social drives",
+        "url": "https://www.lesswrong.com/posts/rKdS7i4StaMmFzYRo/notes-on-technical-alignment-via-human-like-social-drives"
       },
       {
-        "title": "June 2026 Links",
-        "url": "https://www.lesswrong.com/posts/cAFhF66YzTiXKqz3e/june-2026-links"
+        "title": "Subliminal Learning Happens at Every Rank, Given the Right Learning Rate and Enough Data",
+        "url": "https://www.lesswrong.com/posts/uWQMtQyMJ5vEGqr7r/subliminal-learning-happens-at-every-rank-given-the-right"
       },
       {
-        "title": "Probing is not enough; a validity audit for any probe",
-        "url": "https://www.lesswrong.com/posts/wASHN8guJag7NhhJJ/probing-is-not-enough-a-validity-audit-for-any-probe"
+        "title": "AI Safety at the Frontier: Paper Highlights of May & June 2026",
+        "url": "https://www.lesswrong.com/posts/WigqvbXF23ZdXJ34x/ai-safety-at-the-frontier-paper-highlights-of-may-and-june"
       },
       {
-        "title": "Trying to grok Anthropic's Global Workspace paper and the J-space",
-        "url": "https://www.lesswrong.com/posts/2Ef7zM7eMpAB7nvcR/trying-to-grok-anthropic-s-global-workspace-paper-and-the-j"
+        "title": "Why study proto-training gaming as an adversarial alignment failure mode?",
+        "url": "https://www.lesswrong.com/posts/5KHLQkW8M87FzbM5a/why-study-proto-training-gaming-as-an-adversarial-alignment"
       },
       {
-        "title": "Entanglement Between an AI and Its Environment",
-        "url": "https://www.lesswrong.com/posts/nacz5tFK6wJ7NFqMp/entanglement-between-an-ai-and-its-environment"
+        "title": "Why\u00a0study\u00a0alignment interventions on pre-RL checkpoints?",
+        "url": "https://www.lesswrong.com/posts/nhjkHsppEk98xxmPe/why-study-alignment-interventions-on-pre-rl-checkpoints"
       },
       {
-        "title": "A conceptor by any other name",
-        "url": "https://www.lesswrong.com/posts/9aZYJinAyxequjQbn/a-conceptor-by-any-other-name"
+        "title": "Artificial Ambassadors: The Three Cases for Sending LLMs to Deep Space",
+        "url": "https://www.lesswrong.com/posts/nZy9jHduXv9LhkS4q/artificial-ambassadors-the-three-cases-for-sending-llms-to-1"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Notes on technical alignment via human-like social drives",
+        "url": "https://www.alignmentforum.org/posts/rKdS7i4StaMmFzYRo/notes-on-technical-alignment-via-human-like-social-drives"
+      },
       {
         "title": "Data filtering works a lot worse than you would expect",
         "url": "https://www.alignmentforum.org/posts/aTybJ6CPQrxEY8rE2/data-filtering-works-a-lot-worse-than-you-would-expect"
@@ -84,10 +88,6 @@
       {
         "title": "Synthetic document finetuning for instilling positive traits",
         "url": "https://www.alignmentforum.org/posts/GTYJRLhqztxKF2v5R/synthetic-document-finetuning-for-instilling-positive-traits"
-      },
-      {
-        "title": "Why Do Naive SFT Filters For Safety Properties Fail?",
-        "url": "https://www.alignmentforum.org/posts/wyZRNgpeiPeRXB6eT/why-do-naive-sft-filters-for-safety-properties-fail"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "iFLYTEK-Embodied-Omni Technical Report",
-        "url": "https://arxiv.org/abs/2607.02542"
+        "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
+        "url": "https://arxiv.org/abs/2607.05456"
       },
       {
-        "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
-        "url": "https://arxiv.org/abs/2607.02672"
+        "title": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
+        "url": "https://arxiv.org/abs/2607.05563"
       },
       {
-        "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
-        "url": "https://arxiv.org/abs/2607.02686"
+        "title": "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming",
+        "url": "https://arxiv.org/abs/2607.05571"
       },
       {
-        "title": "Automated Data Readiness for Scientific AI",
-        "url": "https://arxiv.org/abs/2607.02771"
+        "title": "Foundation Models for Automatic CAD Generation",
+        "url": "https://arxiv.org/abs/2607.05573"
       },
       {
-        "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
-        "url": "https://arxiv.org/abs/2607.02807"
+        "title": "Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction",
+        "url": "https://arxiv.org/abs/2607.05577"
       },
       {
-        "title": "Object-Centric Environment Modeling for Agentic Tasks",
-        "url": "https://arxiv.org/abs/2607.02846"
+        "title": "FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents",
+        "url": "https://arxiv.org/abs/2607.05682"
       },
       {
-        "title": "MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents",
-        "url": "https://arxiv.org/abs/2607.02879"
+        "title": "Memory in the Loop: In-Process Retrieval as ExtendedWorking Memory for Language Agents",
+        "url": "https://arxiv.org/abs/2607.05690"
       },
       {
-        "title": "Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models",
-        "url": "https://arxiv.org/abs/2607.02914"
+        "title": "Akashic: A Low-Overhead LLM Inference Service with MemAttention",
+        "url": "https://arxiv.org/abs/2607.05708"
       },
       {
-        "title": "VERITAS: Towards a General-Purpose Replication Tool for Scientific Research",
-        "url": "https://arxiv.org/abs/2607.02931"
+        "title": "ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation",
+        "url": "https://arxiv.org/abs/2607.05750"
       },
       {
-        "title": "A Sliding-Window-Based Reinforcement Learning for Dynamic Assembly Flow Shop Scheduling with Multi-Product Delivery",
-        "url": "https://arxiv.org/abs/2607.02941"
+        "title": "Synthetic Consumer Insight Generation with Large Language Models",
+        "url": "https://arxiv.org/abs/2607.05761"
       }
     ]
   },
