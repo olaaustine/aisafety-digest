@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Find funding, fast",
-        "url": "https://www.lesswrong.com/posts/eberRKyDdZH9T5JMf/find-funding-fast"
+        "title": "Natural Language Autoencoders are summarizers, but do they have to be?",
+        "url": "https://www.lesswrong.com/posts/4nZwNPyfoadAxPH98/natural-language-autoencoders-are-summarizers-but-do-they"
       },
       {
-        "title": "Childhood and Education #20: Phones and Screens",
-        "url": "https://www.lesswrong.com/posts/XA8fMCnwuc45uZYHX/childhood-and-education-20-phones-and-screens"
+        "title": "Where Do LLM Values Come From?",
+        "url": "https://www.lesswrong.com/posts/b8u6XrphyHAXA4hBi/where-do-llm-values-come-from"
       },
       {
-        "title": "Can the U.S. and China Deny AI?",
-        "url": "https://www.lesswrong.com/posts/jBCqkhxBnGw8NQFuT/can-the-u-s-and-china-deny-ai"
+        "title": "Selective Optimism: a critique of AI 2040",
+        "url": "https://www.lesswrong.com/posts/BBd2EJywf2xXftyFn/selective-optimism-a-critique-of-ai-2040"
       },
       {
-        "title": "A Real-Life Example of an Aligned System Killing Hundreds of People",
-        "url": "https://www.lesswrong.com/posts/MXqcyrDfBrYdJkw4p/a-real-life-example-of-an-aligned-system-killing-hundreds-of"
+        "title": "Rogue ASI Can't Stay Aligned to Itself",
+        "url": "https://www.lesswrong.com/posts/vdqkCrTdyirYguXmz/rogue-asi-can-t-stay-aligned-to-itself"
       },
       {
-        "title": "Notes on technical alignment via human-like social drives",
-        "url": "https://www.lesswrong.com/posts/rKdS7i4StaMmFzYRo/notes-on-technical-alignment-via-human-like-social-drives"
+        "title": "Criticism against \"unembedded FDT\" doesn't apply to FDT",
+        "url": "https://www.lesswrong.com/posts/F3ehHrRKm4L4dEZWK/criticism-against-unembedded-fdt-doesn-t-apply-to-fdt"
       },
       {
-        "title": "Subliminal Learning Happens at Every Rank, Given the Right Learning Rate and Enough Data",
-        "url": "https://www.lesswrong.com/posts/uWQMtQyMJ5vEGqr7r/subliminal-learning-happens-at-every-rank-given-the-right"
+        "title": "Your Prompt-Injection Defense Metric Might Be Lying to You",
+        "url": "https://www.lesswrong.com/posts/uPEX2zDTPioFmieg2/your-prompt-injection-defense-metric-might-be-lying-to-you"
       },
       {
-        "title": "AI Safety at the Frontier: Paper Highlights of May & June 2026",
-        "url": "https://www.lesswrong.com/posts/WigqvbXF23ZdXJ34x/ai-safety-at-the-frontier-paper-highlights-of-may-and-june"
+        "title": "When is misalignment just a bug?",
+        "url": "https://www.lesswrong.com/posts/h9j2g4xurviH6y9fA/when-is-misalignment-just-a-bug"
       },
       {
-        "title": "Why study proto-training gaming as an adversarial alignment failure mode?",
-        "url": "https://www.lesswrong.com/posts/5KHLQkW8M87FzbM5a/why-study-proto-training-gaming-as-an-adversarial-alignment"
+        "title": "What is the computational substance of the axiom of choice?",
+        "url": "https://www.lesswrong.com/posts/uGtCQie2jfz2uSiAE/what-is-the-computational-substance-of-the-axiom-of-choice"
       },
       {
-        "title": "Why\u00a0study\u00a0alignment interventions on pre-RL checkpoints?",
-        "url": "https://www.lesswrong.com/posts/nhjkHsppEk98xxmPe/why-study-alignment-interventions-on-pre-rl-checkpoints"
+        "title": "AI 2040: Plan A",
+        "url": "https://www.lesswrong.com/posts/pFzctpJBat95SrCyC/ai-2040-plan-a"
       },
       {
-        "title": "Artificial Ambassadors: The Three Cases for Sending LLMs to Deep Space",
-        "url": "https://www.lesswrong.com/posts/nZy9jHduXv9LhkS4q/artificial-ambassadors-the-three-cases-for-sending-llms-to-1"
+        "title": "How big is the Sun? How could you figure it out?",
+        "url": "https://www.lesswrong.com/posts/Bc4Ch63cx8KHdQABw/how-big-is-the-sun-how-could-you-figure-it-out"
       }
     ]
   },
@@ -49,6 +49,14 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "AI 2040: Plan A",
+        "url": "https://www.alignmentforum.org/posts/pFzctpJBat95SrCyC/ai-2040-plan-a"
+      },
+      {
+        "title": "Announcing our $160M grant from Coefficient Giving",
+        "url": "https://www.alignmentforum.org/posts/HDKQNqiR2gtfMiWsn/announcing-our-usd160m-grant-from-coefficient-giving"
+      },
       {
         "title": "Notes on technical alignment via human-like social drives",
         "url": "https://www.alignmentforum.org/posts/rKdS7i4StaMmFzYRo/notes-on-technical-alignment-via-human-like-social-drives"
@@ -80,14 +88,6 @@
       {
         "title": "GDM AI Control Roadmap",
         "url": "https://www.alignmentforum.org/posts/hEtkyKGoPpFeWnKkX/gdm-ai-control-roadmap"
-      },
-      {
-        "title": "Predicting LLM Safety Before Release by Simulating Deployment",
-        "url": "https://www.alignmentforum.org/posts/xPXJfgqFTvuJxGZbE/predicting-llm-safety-before-release-by-simulating"
-      },
-      {
-        "title": "Synthetic document finetuning for instilling positive traits",
-        "url": "https://www.alignmentforum.org/posts/GTYJRLhqztxKF2v5R/synthetic-document-finetuning-for-instilling-positive-traits"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
-        "url": "https://arxiv.org/abs/2607.05456"
+        "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+        "url": "https://arxiv.org/abs/2607.06624"
       },
       {
-        "title": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
-        "url": "https://arxiv.org/abs/2607.05563"
+        "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+        "url": "https://arxiv.org/abs/2607.06720"
       },
       {
-        "title": "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming",
-        "url": "https://arxiv.org/abs/2607.05571"
+        "title": "LLM-powered reasoning in agent-based modeling",
+        "url": "https://arxiv.org/abs/2607.06757"
       },
       {
-        "title": "Foundation Models for Automatic CAD Generation",
-        "url": "https://arxiv.org/abs/2607.05573"
+        "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
+        "url": "https://arxiv.org/abs/2607.06760"
       },
       {
-        "title": "Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction",
-        "url": "https://arxiv.org/abs/2607.05577"
+        "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
+        "url": "https://arxiv.org/abs/2607.06764"
       },
       {
-        "title": "FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents",
-        "url": "https://arxiv.org/abs/2607.05682"
+        "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
+        "url": "https://arxiv.org/abs/2607.06820"
       },
       {
-        "title": "Memory in the Loop: In-Process Retrieval as ExtendedWorking Memory for Language Agents",
-        "url": "https://arxiv.org/abs/2607.05690"
+        "title": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
+        "url": "https://arxiv.org/abs/2607.06906"
       },
       {
-        "title": "Akashic: A Low-Overhead LLM Inference Service with MemAttention",
-        "url": "https://arxiv.org/abs/2607.05708"
+        "title": "Grounding Spatial Relations in a Compact World Model: Instruction Leakage and a Goal-Free Dynamics Fix",
+        "url": "https://arxiv.org/abs/2607.06925"
       },
       {
-        "title": "ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation",
-        "url": "https://arxiv.org/abs/2607.05750"
+        "title": "Large Behavior Model: A Promptable Digital Twin of the Retail Customer",
+        "url": "https://arxiv.org/abs/2607.06993"
       },
       {
-        "title": "Synthetic Consumer Insight Generation with Large Language Models",
-        "url": "https://arxiv.org/abs/2607.05761"
+        "title": "Learning social norms enhances compatibility in dynamic human-AI coordination",
+        "url": "https://arxiv.org/abs/2607.07021"
       }
     ]
   },
@@ -151,6 +151,10 @@
     "name": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "articles": [
+      {
+        "title": "Inviting hard questionsAnnouncementsJul 9, 2026We\u2019re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+        "url": "https://www.anthropic.com/news/news/hard-questions"
+      },
       {
         "title": "AnnouncementsJun 30, 2026Redeploying Fable 5Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
         "url": "https://www.anthropic.com/news/news/redeploying-fable-5"
@@ -164,8 +168,12 @@
         "url": "https://www.anthropic.com/news/news/claude-science-ai-workbench"
       },
       {
-        "title": "ProductJun 23, 2026Introducing Claude TagClaude Tag is a new way for teams to work with Claude.",
-        "url": "https://www.anthropic.com/news/news/introducing-claude-tag"
+        "title": "Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic\u2019s Long-Term Benefit Trust",
+        "url": "https://www.anthropic.com/news/news/ben-bernanke"
+      },
+      {
+        "title": "Jul 9, 2026AnnouncementsIntroducing a way to reflect on how you use Claude",
+        "url": "https://www.anthropic.com/news/news/reflect-with-claude"
       },
       {
         "title": "Jul 6, 2026Case StudyGovernment of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
@@ -176,20 +184,12 @@
         "url": "https://www.anthropic.com/news/news/fable-safeguards-jailbreak-framework"
       },
       {
+        "title": "Jun 23, 2026ProductIntroducing Claude Tag",
+        "url": "https://www.anthropic.com/news/news/introducing-claude-tag"
+      },
+      {
         "title": "Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
         "url": "https://www.anthropic.com/news/news/seoul-office-partnerships-korean-ai-ecosystem"
-      },
-      {
-        "title": "Jun 12, 2026AnnouncementsStatement on the US government directive to suspend access to Fable 5 and Mythos 5",
-        "url": "https://www.anthropic.com/news/news/fable-mythos-access"
-      },
-      {
-        "title": "Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record",
-        "url": "https://www.anthropic.com/news/news/anthropic-public-record"
-      },
-      {
-        "title": "Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries",
-        "url": "https://www.anthropic.com/news/news/tcs-anthropic-partnership"
       }
     ]
   }
