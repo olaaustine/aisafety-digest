@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Natural Language Autoencoders are summarizers, but do they have to be?",
-        "url": "https://www.lesswrong.com/posts/4nZwNPyfoadAxPH98/natural-language-autoencoders-are-summarizers-but-do-they"
+        "title": "Persona Cartography: Charting Language Model Personality Traits in Weight Space",
+        "url": "https://www.lesswrong.com/posts/Rkvto5BLofzuDefyB/persona-cartography-charting-language-model-personality"
       },
       {
-        "title": "Where Do LLM Values Come From?",
-        "url": "https://www.lesswrong.com/posts/b8u6XrphyHAXA4hBi/where-do-llm-values-come-from"
+        "title": "The easiest pathway to control is through executive power",
+        "url": "https://www.lesswrong.com/posts/Fxp9vGPw7uhkFi6SG/the-easiest-pathway-to-control-is-through-executive-power"
       },
       {
-        "title": "Selective Optimism: a critique of AI 2040",
-        "url": "https://www.lesswrong.com/posts/BBd2EJywf2xXftyFn/selective-optimism-a-critique-of-ai-2040"
+        "title": "The Human Substitution Test as a Sanity Check for AI Evaluations",
+        "url": "https://www.lesswrong.com/posts/B66gAyzwL8Aph6F8u/the-human-substitution-test-as-a-sanity-check-for-ai"
       },
       {
-        "title": "Rogue ASI Can't Stay Aligned to Itself",
-        "url": "https://www.lesswrong.com/posts/vdqkCrTdyirYguXmz/rogue-asi-can-t-stay-aligned-to-itself"
+        "title": "Cap-and-trade question: AI-2040",
+        "url": "https://www.lesswrong.com/posts/cdgg9fpr2sMaad7NQ/cap-and-trade-question-ai-2040"
       },
       {
-        "title": "Criticism against \"unembedded FDT\" doesn't apply to FDT",
-        "url": "https://www.lesswrong.com/posts/F3ehHrRKm4L4dEZWK/criticism-against-unembedded-fdt-doesn-t-apply-to-fdt"
+        "title": "Plan A's problem with dry tinder",
+        "url": "https://www.lesswrong.com/posts/8iDZnQwmvwuxZo3Wx/plan-a-s-problem-with-dry-tinder"
       },
       {
-        "title": "Your Prompt-Injection Defense Metric Might Be Lying to You",
-        "url": "https://www.lesswrong.com/posts/uPEX2zDTPioFmieg2/your-prompt-injection-defense-metric-might-be-lying-to-you"
+        "title": "AI #176 Part 2: Plan B",
+        "url": "https://www.lesswrong.com/posts/7Av7wwErwNXdM3J68/ai-176-part-2-plan-b"
       },
       {
-        "title": "When is misalignment just a bug?",
-        "url": "https://www.lesswrong.com/posts/h9j2g4xurviH6y9fA/when-is-misalignment-just-a-bug"
+        "title": "Beliefs and position mid 2026",
+        "url": "https://www.lesswrong.com/posts/jJjxWsGyoELmNQwvZ/beliefs-and-position-mid-2026"
       },
       {
-        "title": "What is the computational substance of the axiom of choice?",
-        "url": "https://www.lesswrong.com/posts/uGtCQie2jfz2uSiAE/what-is-the-computational-substance-of-the-axiom-of-choice"
+        "title": "Models of Society Are Built on Models of Agents",
+        "url": "https://www.lesswrong.com/posts/M9Byp3AxH97cTs6ox/models-of-society-are-built-on-models-of-agents"
       },
       {
-        "title": "AI 2040: Plan A",
-        "url": "https://www.lesswrong.com/posts/pFzctpJBat95SrCyC/ai-2040-plan-a"
+        "title": "Value generalisation: value correction",
+        "url": "https://www.lesswrong.com/posts/iPyJfD9Jyxj6Jfdws/value-generalisation-value-correction"
       },
       {
-        "title": "How big is the Sun? How could you figure it out?",
-        "url": "https://www.lesswrong.com/posts/Bc4Ch63cx8KHdQABw/how-big-is-the-sun-how-could-you-figure-it-out"
+        "title": "Don't normalize a permanent underclass (even a rich one)",
+        "url": "https://www.lesswrong.com/posts/EANs7YerYXmaXF9FE/don-t-normalize-a-permanent-underclass-even-a-rich-one-1"
       }
     ]
   },
@@ -50,12 +50,24 @@
     "url": "https://www.alignmentforum.org",
     "articles": [
       {
+        "title": "Value generalisation: value correction",
+        "url": "https://www.alignmentforum.org/posts/iPyJfD9Jyxj6Jfdws/value-generalisation-value-correction"
+      },
+      {
+        "title": "How robust are natural language autoencoders to initialization?",
+        "url": "https://www.alignmentforum.org/posts/LQXWiF8PyJ5ojNsEv/how-robust-are-natural-language-autoencoders-to"
+      },
+      {
         "title": "AI 2040: Plan A",
         "url": "https://www.alignmentforum.org/posts/pFzctpJBat95SrCyC/ai-2040-plan-a"
       },
       {
         "title": "Announcing our $160M grant from Coefficient Giving",
         "url": "https://www.alignmentforum.org/posts/HDKQNqiR2gtfMiWsn/announcing-our-usd160m-grant-from-coefficient-giving"
+      },
+      {
+        "title": "Modular Pretraining Enables Access Control",
+        "url": "https://www.alignmentforum.org/posts/43vKjWuH4goLwrFHA/modular-pretraining-enables-access-control"
       },
       {
         "title": "Notes on technical alignment via human-like social drives",
@@ -76,18 +88,6 @@
       {
         "title": "The Case for Model Forensics",
         "url": "https://www.alignmentforum.org/posts/LCGcD28rSMkMTMvBK/the-case-for-model-forensics"
-      },
-      {
-        "title": "LLM-Driven Feature Discovery",
-        "url": "https://www.alignmentforum.org/posts/WAZWA6FPQvH8okouJ/llm-driven-feature-discovery"
-      },
-      {
-        "title": "How transparent is DiffusionGemma (and why it matters)",
-        "url": "https://www.alignmentforum.org/posts/zoYXpdaMgFT43Wc24/how-transparent-is-diffusiongemma-and-why-it-matters"
-      },
-      {
-        "title": "GDM AI Control Roadmap",
-        "url": "https://www.alignmentforum.org/posts/hEtkyKGoPpFeWnKkX/gdm-ai-control-roadmap"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
-        "url": "https://arxiv.org/abs/2607.06624"
+        "title": "Context Graphs for Proactive Enterprise Agents",
+        "url": "https://arxiv.org/abs/2607.07721"
       },
       {
-        "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
-        "url": "https://arxiv.org/abs/2607.06720"
+        "title": "AI-integrated models for assessing agricultural resilience",
+        "url": "https://arxiv.org/abs/2607.07759"
       },
       {
-        "title": "LLM-powered reasoning in agent-based modeling",
-        "url": "https://arxiv.org/abs/2607.06757"
+        "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
+        "url": "https://arxiv.org/abs/2607.07760"
       },
       {
-        "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
-        "url": "https://arxiv.org/abs/2607.06760"
+        "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
+        "url": "https://arxiv.org/abs/2607.07761"
       },
       {
-        "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
-        "url": "https://arxiv.org/abs/2607.06764"
+        "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
+        "url": "https://arxiv.org/abs/2607.07766"
       },
       {
-        "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
-        "url": "https://arxiv.org/abs/2607.06820"
+        "title": "Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses",
+        "url": "https://arxiv.org/abs/2607.07775"
       },
       {
-        "title": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
-        "url": "https://arxiv.org/abs/2607.06906"
+        "title": "Infinity-Parser2 Technical Report",
+        "url": "https://arxiv.org/abs/2607.07836"
       },
       {
-        "title": "Grounding Spatial Relations in a Compact World Model: Instruction Leakage and a Goal-Free Dynamics Fix",
-        "url": "https://arxiv.org/abs/2607.06925"
+        "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
+        "url": "https://arxiv.org/abs/2607.07846"
       },
       {
-        "title": "Large Behavior Model: A Promptable Digital Twin of the Retail Customer",
-        "url": "https://arxiv.org/abs/2607.06993"
+        "title": "A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals",
+        "url": "https://arxiv.org/abs/2607.07850"
       },
       {
-        "title": "Learning social norms enhances compatibility in dynamic human-AI coordination",
-        "url": "https://arxiv.org/abs/2607.07021"
+        "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
+        "url": "https://arxiv.org/abs/2607.07858"
       }
     ]
   },
@@ -168,6 +168,10 @@
         "url": "https://www.anthropic.com/news/news/claude-science-ai-workbench"
       },
       {
+        "title": "Jul 9, 2026Case StudyUST is bringing Claude to physical AI",
+        "url": "https://www.anthropic.com/news/news/ust-claude"
+      },
+      {
         "title": "Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic\u2019s Long-Term Benefit Trust",
         "url": "https://www.anthropic.com/news/news/ben-bernanke"
       },
@@ -186,10 +190,6 @@
       {
         "title": "Jun 23, 2026ProductIntroducing Claude Tag",
         "url": "https://www.anthropic.com/news/news/introducing-claude-tag"
-      },
-      {
-        "title": "Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-        "url": "https://www.anthropic.com/news/news/seoul-office-partnerships-korean-ai-ecosystem"
       }
     ]
   }
