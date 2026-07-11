@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Persona Cartography: Charting Language Model Personality Traits in Weight Space",
-        "url": "https://www.lesswrong.com/posts/Rkvto5BLofzuDefyB/persona-cartography-charting-language-model-personality"
+        "title": "Introduction for and Reactions to Plan A",
+        "url": "https://www.lesswrong.com/posts/z9tXCGogEgkgHSh8G/introduction-for-and-reactions-to-plan-a"
       },
       {
-        "title": "The easiest pathway to control is through executive power",
-        "url": "https://www.lesswrong.com/posts/Fxp9vGPw7uhkFi6SG/the-easiest-pathway-to-control-is-through-executive-power"
+        "title": "Theories of Deep Learning",
+        "url": "https://www.lesswrong.com/posts/BaFbWjFhusjazeSuN/theories-of-deep-learning-1"
       },
       {
-        "title": "The Human Substitution Test as a Sanity Check for AI Evaluations",
-        "url": "https://www.lesswrong.com/posts/B66gAyzwL8Aph6F8u/the-human-substitution-test-as-a-sanity-check-for-ai"
+        "title": "Measuring Is Not Enough Anymore",
+        "url": "https://www.lesswrong.com/posts/4TMKvGmoAWjXBGwWk/measuring-is-not-enough-anymore"
       },
       {
-        "title": "Cap-and-trade question: AI-2040",
-        "url": "https://www.lesswrong.com/posts/cdgg9fpr2sMaad7NQ/cap-and-trade-question-ai-2040"
+        "title": "Don\u2019t bring an AI detector to a deepfake fight: proving reality through multimodal provenance",
+        "url": "https://www.lesswrong.com/posts/MBRNR5h9g6HGvAJDe/don-t-bring-an-ai-detector-to-a-deepfake-fight-proving"
       },
       {
-        "title": "Plan A's problem with dry tinder",
-        "url": "https://www.lesswrong.com/posts/8iDZnQwmvwuxZo3Wx/plan-a-s-problem-with-dry-tinder"
+        "title": "A Simple Model of AI \"Psychosis\"",
+        "url": "https://www.lesswrong.com/posts/syeJotaNhFjhRz4v7/a-simple-model-of-ai-psychosis"
       },
       {
-        "title": "AI #176 Part 2: Plan B",
-        "url": "https://www.lesswrong.com/posts/7Av7wwErwNXdM3J68/ai-176-part-2-plan-b"
+        "title": "The Termination Circuit (how reasoning models stop thinking).",
+        "url": "https://www.lesswrong.com/posts/ajhzc6ktEKyFeJFBS/the-termination-circuit-how-reasoning-models-stop-thinking"
       },
       {
-        "title": "Beliefs and position mid 2026",
-        "url": "https://www.lesswrong.com/posts/jJjxWsGyoELmNQwvZ/beliefs-and-position-mid-2026"
+        "title": "Notes on Tony Parkes' \"Contra Dance Calling\"",
+        "url": "https://www.lesswrong.com/posts/uLCQ6YEou5kgfW2nx/notes-on-tony-parkes-contra-dance-calling"
       },
       {
-        "title": "Models of Society Are Built on Models of Agents",
-        "url": "https://www.lesswrong.com/posts/M9Byp3AxH97cTs6ox/models-of-society-are-built-on-models-of-agents"
+        "title": "Plan A: Suggestions For Further Work",
+        "url": "https://www.lesswrong.com/posts/B4qMZnB4a5YgKiLNo/plan-a-suggestions-for-further-work"
       },
       {
-        "title": "Value generalisation: value correction",
-        "url": "https://www.lesswrong.com/posts/iPyJfD9Jyxj6Jfdws/value-generalisation-value-correction"
+        "title": "Freeing Thucydides",
+        "url": "https://www.lesswrong.com/posts/NDoAHbduZfqdbgNzA/freeing-thucydides"
       },
       {
-        "title": "Don't normalize a permanent underclass (even a rich one)",
-        "url": "https://www.lesswrong.com/posts/EANs7YerYXmaXF9FE/don-t-normalize-a-permanent-underclass-even-a-rich-one-1"
+        "title": "An Induction Head in Disguise: Chasing Grammar in a Character-Level Transformer",
+        "url": "https://www.lesswrong.com/posts/x2ZdCoqAaLedpjDk3/an-induction-head-in-disguise-chasing-grammar-in-a-character"
       }
     ]
   },
@@ -82,12 +82,12 @@
         "url": "https://www.alignmentforum.org/posts/SdGbWkCZgCN7EGBxM/pragmatic-fdt-and-predictors-as-game-theory-1"
       },
       {
-        "title": "Deployment Awareness Matters More Than Evaluation Awareness",
-        "url": "https://www.alignmentforum.org/posts/XP794SHDuXYfWLrvJ/deployment-awareness-matters-more-than-evaluation-awareness"
+        "title": "What Capable Agents Must Know: Why AI Consciousness May Be an Inevitable Byproduct of Capability",
+        "url": "https://www.alignmentforum.org/posts/SD9jayFvEctW82Duk/what-capable-agents-must-know-why-ai-consciousness-may-be-an-2"
       },
       {
-        "title": "The Case for Model Forensics",
-        "url": "https://www.alignmentforum.org/posts/LCGcD28rSMkMTMvBK/the-case-for-model-forensics"
+        "title": "Deployment Awareness Matters More Than Evaluation Awareness",
+        "url": "https://www.alignmentforum.org/posts/XP794SHDuXYfWLrvJ/deployment-awareness-matters-more-than-evaluation-awareness"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "Context Graphs for Proactive Enterprise Agents",
-        "url": "https://arxiv.org/abs/2607.07721"
-      },
-      {
-        "title": "AI-integrated models for assessing agricultural resilience",
-        "url": "https://arxiv.org/abs/2607.07759"
-      },
-      {
-        "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
-        "url": "https://arxiv.org/abs/2607.07760"
-      },
-      {
-        "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
-        "url": "https://arxiv.org/abs/2607.07761"
-      },
-      {
-        "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
-        "url": "https://arxiv.org/abs/2607.07766"
-      },
-      {
-        "title": "Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses",
-        "url": "https://arxiv.org/abs/2607.07775"
-      },
-      {
-        "title": "Infinity-Parser2 Technical Report",
-        "url": "https://arxiv.org/abs/2607.07836"
-      },
-      {
-        "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
-        "url": "https://arxiv.org/abs/2607.07846"
-      },
-      {
-        "title": "A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals",
-        "url": "https://arxiv.org/abs/2607.07850"
-      },
-      {
-        "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
-        "url": "https://arxiv.org/abs/2607.07858"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
