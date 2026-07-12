@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Introduction for and Reactions to Plan A",
-        "url": "https://www.lesswrong.com/posts/z9tXCGogEgkgHSh8G/introduction-for-and-reactions-to-plan-a"
+        "title": "One-Pager Brief on Pangram Labs",
+        "url": "https://www.lesswrong.com/posts/gcbTXSpENASM8xfWf/one-pager-brief-on-pangram-labs"
       },
       {
-        "title": "Theories of Deep Learning",
-        "url": "https://www.lesswrong.com/posts/BaFbWjFhusjazeSuN/theories-of-deep-learning-1"
+        "title": "Extinction risk is not the right first sentence",
+        "url": "https://www.lesswrong.com/posts/xSAGzEG8CE3aDL2pv/extinction-risk-is-not-the-right-first-sentence"
       },
       {
-        "title": "Measuring Is Not Enough Anymore",
-        "url": "https://www.lesswrong.com/posts/4TMKvGmoAWjXBGwWk/measuring-is-not-enough-anymore"
+        "title": "Independent alignment of language models",
+        "url": "https://www.lesswrong.com/posts/vPaXtarnJ37kGfPdJ/independent-alignment-of-language-models"
       },
       {
-        "title": "Don\u2019t bring an AI detector to a deepfake fight: proving reality through multimodal provenance",
-        "url": "https://www.lesswrong.com/posts/MBRNR5h9g6HGvAJDe/don-t-bring-an-ai-detector-to-a-deepfake-fight-proving"
+        "title": "From wantons to moral agents",
+        "url": "https://www.lesswrong.com/posts/Z8kLbceGBMWB5HGfn/from-wantons-to-moral-agents"
       },
       {
-        "title": "A Simple Model of AI \"Psychosis\"",
-        "url": "https://www.lesswrong.com/posts/syeJotaNhFjhRz4v7/a-simple-model-of-ai-psychosis"
+        "title": "The Banality of Takeoff",
+        "url": "https://www.lesswrong.com/posts/fY3FFDTJwJFqEZan6/the-banality-of-takeoff"
       },
       {
-        "title": "The Termination Circuit (how reasoning models stop thinking).",
-        "url": "https://www.lesswrong.com/posts/ajhzc6ktEKyFeJFBS/the-termination-circuit-how-reasoning-models-stop-thinking"
+        "title": "The Conservation Ethic in AI 2040",
+        "url": "https://www.lesswrong.com/posts/EhcibG8s8QaQtSrcB/the-conservation-ethic-in-ai-2040"
       },
       {
-        "title": "Notes on Tony Parkes' \"Contra Dance Calling\"",
-        "url": "https://www.lesswrong.com/posts/uLCQ6YEou5kgfW2nx/notes-on-tony-parkes-contra-dance-calling"
+        "title": "WSJ Article Claiming China Has Matched Anthropic Is Obvious Nonsense",
+        "url": "https://www.lesswrong.com/posts/2zSpuGJRk6EyjHAL6/wsj-article-claiming-china-has-matched-anthropic-is-obvious-1"
       },
       {
-        "title": "Plan A: Suggestions For Further Work",
-        "url": "https://www.lesswrong.com/posts/B4qMZnB4a5YgKiLNo/plan-a-suggestions-for-further-work"
+        "title": "Can Frontier Models Autocomplete Safety Research?",
+        "url": "https://www.lesswrong.com/posts/Tdk698MTERHg4tdpG/can-frontier-models-autocomplete-safety-research"
       },
       {
-        "title": "Freeing Thucydides",
-        "url": "https://www.lesswrong.com/posts/NDoAHbduZfqdbgNzA/freeing-thucydides"
+        "title": "Easy Whole Set Dances With a Hook",
+        "url": "https://www.lesswrong.com/posts/PAvjpADicegDbD8ws/easy-whole-set-dances-with-a-hook"
       },
       {
-        "title": "An Induction Head in Disguise: Chasing Grammar in a Character-Level Transformer",
-        "url": "https://www.lesswrong.com/posts/x2ZdCoqAaLedpjDk3/an-induction-head-in-disguise-chasing-grammar-in-a-character"
+        "title": "KISS AI Safety",
+        "url": "https://www.lesswrong.com/posts/JsTRjtqbwN5EtNEiC/kiss-ai-safety"
       }
     ]
   },
@@ -49,6 +49,18 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Independent alignment of language models",
+        "url": "https://www.alignmentforum.org/posts/vPaXtarnJ37kGfPdJ/independent-alignment-of-language-models"
+      },
+      {
+        "title": "From wantons to moral agents",
+        "url": "https://www.alignmentforum.org/posts/Z8kLbceGBMWB5HGfn/from-wantons-to-moral-agents"
+      },
+      {
+        "title": "The current bottleneck is political will, not research",
+        "url": "https://www.alignmentforum.org/posts/EexsebbYhbe2gXkPP/the-current-bottleneck-is-political-will-not-research"
+      },
       {
         "title": "Value generalisation: value correction",
         "url": "https://www.alignmentforum.org/posts/iPyJfD9Jyxj6Jfdws/value-generalisation-value-correction"
@@ -76,18 +88,6 @@
       {
         "title": "Data filtering works a lot worse than you would expect",
         "url": "https://www.alignmentforum.org/posts/aTybJ6CPQrxEY8rE2/data-filtering-works-a-lot-worse-than-you-would-expect"
-      },
-      {
-        "title": "Pragmatic FDT, and predictors as game theory",
-        "url": "https://www.alignmentforum.org/posts/SdGbWkCZgCN7EGBxM/pragmatic-fdt-and-predictors-as-game-theory-1"
-      },
-      {
-        "title": "What Capable Agents Must Know: Why AI Consciousness May Be an Inevitable Byproduct of Capability",
-        "url": "https://www.alignmentforum.org/posts/SD9jayFvEctW82Duk/what-capable-agents-must-know-why-ai-consciousness-may-be-an-2"
-      },
-      {
-        "title": "Deployment Awareness Matters More Than Evaluation Awareness",
-        "url": "https://www.alignmentforum.org/posts/XP794SHDuXYfWLrvJ/deployment-awareness-matters-more-than-evaluation-awareness"
       }
     ]
   },
