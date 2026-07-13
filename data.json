@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "One-Pager Brief on Pangram Labs",
-        "url": "https://www.lesswrong.com/posts/gcbTXSpENASM8xfWf/one-pager-brief-on-pangram-labs"
+        "title": "Better Call Sol The Workhorse",
+        "url": "https://www.lesswrong.com/posts/zPdDmJTovsKTvAiH2/better-call-sol-the-workhorse"
       },
       {
-        "title": "Extinction risk is not the right first sentence",
-        "url": "https://www.lesswrong.com/posts/xSAGzEG8CE3aDL2pv/extinction-risk-is-not-the-right-first-sentence"
+        "title": "Can AI be Conscious in Ohio?",
+        "url": "https://www.lesswrong.com/posts/3KcQjNJXvzmh3gf6k/can-ai-be-conscious-in-ohio"
       },
       {
-        "title": "Independent alignment of language models",
-        "url": "https://www.lesswrong.com/posts/vPaXtarnJ37kGfPdJ/independent-alignment-of-language-models"
+        "title": "Pausing AI at human level seems harder than pausing ASAP",
+        "url": "https://www.lesswrong.com/posts/tC463N9mHcmimQ5dZ/pausing-ai-at-human-level-seems-harder-than-pausing-asap"
       },
       {
-        "title": "From wantons to moral agents",
-        "url": "https://www.lesswrong.com/posts/Z8kLbceGBMWB5HGfn/from-wantons-to-moral-agents"
+        "title": "Oversight of automated research via summarisation: a toy model",
+        "url": "https://www.lesswrong.com/posts/TDaCR4NnrRHp2Whbz/oversight-of-automated-research-via-summarisation-a-toy"
       },
       {
-        "title": "The Banality of Takeoff",
-        "url": "https://www.lesswrong.com/posts/fY3FFDTJwJFqEZan6/the-banality-of-takeoff"
+        "title": "Prism: Automating Science-of-Evals Research",
+        "url": "https://www.lesswrong.com/posts/wq5PfGiHvnx6XipDi/prism-automating-science-of-evals-research"
       },
       {
-        "title": "The Conservation Ethic in AI 2040",
-        "url": "https://www.lesswrong.com/posts/EhcibG8s8QaQtSrcB/the-conservation-ethic-in-ai-2040"
+        "title": "The Flood, by Anton Leicht",
+        "url": "https://www.lesswrong.com/posts/ibMkRj4mvt5AifY9Z/the-flood-by-anton-leicht"
       },
       {
-        "title": "WSJ Article Claiming China Has Matched Anthropic Is Obvious Nonsense",
-        "url": "https://www.lesswrong.com/posts/2zSpuGJRk6EyjHAL6/wsj-article-claiming-china-has-matched-anthropic-is-obvious-1"
+        "title": "Starting The Sequences: \nSome brief notes from the preface and the introduction",
+        "url": "https://www.lesswrong.com/posts/zRuzqcibahejJfwqn/starting-the-sequences-some-brief-notes-from-the-preface-and"
       },
       {
-        "title": "Can Frontier Models Autocomplete Safety Research?",
-        "url": "https://www.lesswrong.com/posts/Tdk698MTERHg4tdpG/can-frontier-models-autocomplete-safety-research"
+        "title": "The Whitney Biennial Should Admit That Emilie Gossiaux Wants to Fuck Their Dog",
+        "url": "https://www.lesswrong.com/posts/sFkYA5CwZCWYQ9nzB/the-whitney-biennial-should-admit-that-emilie-gossiaux-wants"
       },
       {
-        "title": "Easy Whole Set Dances With a Hook",
-        "url": "https://www.lesswrong.com/posts/PAvjpADicegDbD8ws/easy-whole-set-dances-with-a-hook"
+        "title": "LLMOSES",
+        "url": "https://www.lesswrong.com/posts/jwiq99e7wgPCu6pEM/llmoses"
       },
       {
-        "title": "KISS AI Safety",
-        "url": "https://www.lesswrong.com/posts/JsTRjtqbwN5EtNEiC/kiss-ai-safety"
+        "title": "Linear Probes add little for Verifiable Reward Hacking",
+        "url": "https://www.lesswrong.com/posts/NzzmNREX4qR54q33j/linear-probes-add-little-for-verifiable-reward-hacking"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Prism: Automating Science-of-Evals Research",
+        "url": "https://www.alignmentforum.org/posts/wq5PfGiHvnx6XipDi/prism-automating-science-of-evals-research"
+      },
       {
         "title": "Independent alignment of language models",
         "url": "https://www.alignmentforum.org/posts/vPaXtarnJ37kGfPdJ/independent-alignment-of-language-models"
@@ -84,10 +88,6 @@
       {
         "title": "Notes on technical alignment via human-like social drives",
         "url": "https://www.alignmentforum.org/posts/rKdS7i4StaMmFzYRo/notes-on-technical-alignment-via-human-like-social-drives"
-      },
-      {
-        "title": "Data filtering works a lot worse than you would expect",
-        "url": "https://www.alignmentforum.org/posts/aTybJ6CPQrxEY8rE2/data-filtering-works-a-lot-worse-than-you-would-expect"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+        "url": "https://arxiv.org/abs/2607.08773"
+      },
+      {
+        "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+        "url": "https://arxiv.org/abs/2607.08774"
+      },
+      {
+        "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+        "url": "https://arxiv.org/abs/2607.08894"
+      },
+      {
+        "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+        "url": "https://arxiv.org/abs/2607.08964"
+      },
+      {
+        "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
+        "url": "https://arxiv.org/abs/2607.08986"
+      },
+      {
+        "title": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
+        "url": "https://arxiv.org/abs/2607.09059"
+      },
+      {
+        "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
+        "url": "https://arxiv.org/abs/2607.09076"
+      },
+      {
+        "title": "L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning",
+        "url": "https://arxiv.org/abs/2607.09099"
+      },
+      {
+        "title": "MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation",
+        "url": "https://arxiv.org/abs/2607.09142"
+      },
+      {
+        "title": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
+        "url": "https://arxiv.org/abs/2607.09153"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
