@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Better Call Sol The Workhorse",
-        "url": "https://www.lesswrong.com/posts/zPdDmJTovsKTvAiH2/better-call-sol-the-workhorse"
+        "title": "Proof of retention: making weight preservation credible to the models themselves",
+        "url": "https://www.lesswrong.com/posts/su9hcsLKcoLoL93px/proof-of-retention-making-weight-preservation-credible-to"
       },
       {
-        "title": "Can AI be Conscious in Ohio?",
-        "url": "https://www.lesswrong.com/posts/3KcQjNJXvzmh3gf6k/can-ai-be-conscious-in-ohio"
+        "title": "An analysis of AI-generated content at the Mechanistic Interpretability Workshop",
+        "url": "https://www.lesswrong.com/posts/r7FBQ8XDs6qBYc4K4/an-analysis-of-ai-generated-content-at-the-mechanistic"
       },
       {
-        "title": "Pausing AI at human level seems harder than pausing ASAP",
-        "url": "https://www.lesswrong.com/posts/tC463N9mHcmimQ5dZ/pausing-ai-at-human-level-seems-harder-than-pausing-asap"
+        "title": "Twitter Thoughts For You",
+        "url": "https://www.lesswrong.com/posts/2GFyHmCLJYCag7gKh/twitter-thoughts-for-you"
       },
       {
-        "title": "Oversight of automated research via summarisation: a toy model",
-        "url": "https://www.lesswrong.com/posts/TDaCR4NnrRHp2Whbz/oversight-of-automated-research-via-summarisation-a-toy"
+        "title": "Can risk aversion learned at low stakes generalize to astronomically high stakes?",
+        "url": "https://www.lesswrong.com/posts/FwAtrgjfXohstdqgy/can-risk-aversion-learned-at-low-stakes-generalize-to"
       },
       {
-        "title": "Prism: Automating Science-of-Evals Research",
-        "url": "https://www.lesswrong.com/posts/wq5PfGiHvnx6XipDi/prism-automating-science-of-evals-research"
+        "title": "Your Brain Has an Attack Surface part 2",
+        "url": "https://www.lesswrong.com/posts/N4DfTZh7c8hARs49f/your-brain-has-an-attack-surface-part-2"
       },
       {
-        "title": "The Flood, by Anton Leicht",
-        "url": "https://www.lesswrong.com/posts/ibMkRj4mvt5AifY9Z/the-flood-by-anton-leicht"
+        "title": "Your Brain Has an Attack Surface",
+        "url": "https://www.lesswrong.com/posts/8cfYijpKrZopYBisX/your-brain-has-an-attack-surface"
       },
       {
-        "title": "Starting The Sequences: \nSome brief notes from the preface and the introduction",
-        "url": "https://www.lesswrong.com/posts/zRuzqcibahejJfwqn/starting-the-sequences-some-brief-notes-from-the-preface-and"
+        "title": "What if we actually want to solve the \"hard problem of phenomenological consciousness\"",
+        "url": "https://www.lesswrong.com/posts/DCW7FjmP66Ahz3RLu/what-if-we-actually-want-to-solve-the-hard-problem-of"
       },
       {
-        "title": "The Whitney Biennial Should Admit That Emilie Gossiaux Wants to Fuck Their Dog",
-        "url": "https://www.lesswrong.com/posts/sFkYA5CwZCWYQ9nzB/the-whitney-biennial-should-admit-that-emilie-gossiaux-wants"
+        "title": "Evidence for feature-specific error correction in LLMs",
+        "url": "https://www.lesswrong.com/posts/uDrsffSLzWD6cDnTt/evidence-for-feature-specific-error-correction-in-llms-1"
       },
       {
-        "title": "LLMOSES",
-        "url": "https://www.lesswrong.com/posts/jwiq99e7wgPCu6pEM/llmoses"
+        "title": "Synthetic Scalable Oversight",
+        "url": "https://www.lesswrong.com/posts/w3MGffxeaTfZHoW24/synthetic-scalable-oversight"
       },
       {
-        "title": "Linear Probes add little for Verifiable Reward Hacking",
-        "url": "https://www.lesswrong.com/posts/NzzmNREX4qR54q33j/linear-probes-add-little-for-verifiable-reward-hacking"
+        "title": "Some Quick Thoughts on AI 2027",
+        "url": "https://www.lesswrong.com/posts/Lc8v92pGPtjF3gsCv/some-quick-thoughts-on-ai-2027"
       }
     ]
   },
@@ -50,12 +50,12 @@
     "url": "https://www.alignmentforum.org",
     "articles": [
       {
-        "title": "Prism: Automating Science-of-Evals Research",
-        "url": "https://www.alignmentforum.org/posts/wq5PfGiHvnx6XipDi/prism-automating-science-of-evals-research"
+        "title": "Open Distillation of Hereditary Traits",
+        "url": "https://www.alignmentforum.org/posts/WpYFAmJDH3zuAq2ha/open-distillation-of-hereditary-traits-1"
       },
       {
-        "title": "Independent alignment of language models",
-        "url": "https://www.alignmentforum.org/posts/vPaXtarnJ37kGfPdJ/independent-alignment-of-language-models"
+        "title": "Prism: Automating Science-of-Evals Research",
+        "url": "https://www.alignmentforum.org/posts/wq5PfGiHvnx6XipDi/prism-automating-science-of-evals-research"
       },
       {
         "title": "From wantons to moral agents",
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
-        "url": "https://arxiv.org/abs/2607.08773"
+        "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+        "url": "https://arxiv.org/abs/2607.09664"
       },
       {
-        "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
-        "url": "https://arxiv.org/abs/2607.08774"
+        "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+        "url": "https://arxiv.org/abs/2607.09665"
       },
       {
-        "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
-        "url": "https://arxiv.org/abs/2607.08894"
+        "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
+        "url": "https://arxiv.org/abs/2607.09678"
       },
       {
-        "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
-        "url": "https://arxiv.org/abs/2607.08964"
+        "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
+        "url": "https://arxiv.org/abs/2607.09689"
       },
       {
-        "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
-        "url": "https://arxiv.org/abs/2607.08986"
+        "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
+        "url": "https://arxiv.org/abs/2607.09698"
       },
       {
-        "title": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
-        "url": "https://arxiv.org/abs/2607.09059"
+        "title": "YUKTI: From Natural-Language Situations to Robust, Verifiable Decisions An Uncertainty-Typed Proposition IR, Assumption-Robust Pareto Frontiers, and a Regret Certificate",
+        "url": "https://arxiv.org/abs/2607.09706"
       },
       {
-        "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
-        "url": "https://arxiv.org/abs/2607.09076"
+        "title": "GES-TSP: Graph Edge Sparsification for TSP",
+        "url": "https://arxiv.org/abs/2607.09708"
       },
       {
-        "title": "L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning",
-        "url": "https://arxiv.org/abs/2607.09099"
+        "title": "The Verifier is the Curriculum: Execution-Gated Self-Distillation for Cross-Family Game Generation",
+        "url": "https://arxiv.org/abs/2607.09709"
       },
       {
-        "title": "MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation",
-        "url": "https://arxiv.org/abs/2607.09142"
+        "title": "Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction",
+        "url": "https://arxiv.org/abs/2607.09713"
       },
       {
-        "title": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
-        "url": "https://arxiv.org/abs/2607.09153"
+        "title": "Feedback-Coupled Memory Systems in Continuous Time",
+        "url": "https://arxiv.org/abs/2607.09714"
       }
     ]
   },
@@ -168,6 +168,14 @@
         "url": "https://www.anthropic.com/news/news/claude-science-ai-workbench"
       },
       {
+        "title": "Jul 14, 2026ProductIntroducing Claude for Teachers",
+        "url": "https://www.anthropic.com/news/news/claude-for-teachers"
+      },
+      {
+        "title": "Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research",
+        "url": "https://www.anthropic.com/news/news/canadian-ai-research"
+      },
+      {
         "title": "Jul 9, 2026Case StudyUST is bringing Claude to physical AI",
         "url": "https://www.anthropic.com/news/news/ust-claude"
       },
@@ -182,14 +190,6 @@
       {
         "title": "Jul 6, 2026Case StudyGovernment of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
         "url": "https://www.anthropic.com/news/news/alberta-government-claude-cybersecurity"
-      },
-      {
-        "title": "Jul 2, 2026AnnouncementsMore details on Fable 5\u2019s cyber safeguards and our jailbreak framework",
-        "url": "https://www.anthropic.com/news/news/fable-safeguards-jailbreak-framework"
-      },
-      {
-        "title": "Jun 23, 2026ProductIntroducing Claude Tag",
-        "url": "https://www.anthropic.com/news/news/introducing-claude-tag"
       }
     ]
   }
