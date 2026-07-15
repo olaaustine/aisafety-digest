@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Proof of retention: making weight preservation credible to the models themselves",
-        "url": "https://www.lesswrong.com/posts/su9hcsLKcoLoL93px/proof-of-retention-making-weight-preservation-credible-to"
+        "title": "LLM CoTs remain monitorable when being unfaithful requires computation",
+        "url": "https://www.lesswrong.com/posts/AoBTiL7XRRpwpev8p/llm-cots-remain-monitorable-when-being-unfaithful-requires"
       },
       {
-        "title": "An analysis of AI-generated content at the Mechanistic Interpretability Workshop",
-        "url": "https://www.lesswrong.com/posts/r7FBQ8XDs6qBYc4K4/an-analysis-of-ai-generated-content-at-the-mechanistic"
+        "title": "Extreme Power Concentration: A Map and Research Directions",
+        "url": "https://www.lesswrong.com/posts/7mnf68bYaSZR8BgQj/extreme-power-concentration-a-map-and-research-directions"
       },
       {
-        "title": "Twitter Thoughts For You",
-        "url": "https://www.lesswrong.com/posts/2GFyHmCLJYCag7gKh/twitter-thoughts-for-you"
+        "title": "The State of AI Consciousness Research",
+        "url": "https://www.lesswrong.com/posts/pxvWgtSjR4pmFoS7c/the-state-of-ai-consciousness-research"
       },
       {
-        "title": "Can risk aversion learned at low stakes generalize to astronomically high stakes?",
-        "url": "https://www.lesswrong.com/posts/FwAtrgjfXohstdqgy/can-risk-aversion-learned-at-low-stakes-generalize-to"
+        "title": "Occam\u2019s razor is about using the past to predict the future",
+        "url": "https://www.lesswrong.com/posts/9oFpzYhuH8qxDi27f/occam-s-razor-is-about-using-the-past-to-predict-the-future"
       },
       {
-        "title": "Your Brain Has an Attack Surface part 2",
-        "url": "https://www.lesswrong.com/posts/N4DfTZh7c8hARs49f/your-brain-has-an-attack-surface-part-2"
+        "title": "Fork Around and Find Out Part 2: One Head does the Summing",
+        "url": "https://www.lesswrong.com/posts/6reCnPYeopThEFQxN/fork-around-and-find-out-part-2-one-head-does-the-summing"
       },
       {
-        "title": "Your Brain Has an Attack Surface",
-        "url": "https://www.lesswrong.com/posts/8cfYijpKrZopYBisX/your-brain-has-an-attack-surface"
+        "title": "Why I Left Google DeepMind",
+        "url": "https://www.lesswrong.com/posts/iKm2FhpWkuuBojm82/why-i-left-google-deepmind"
       },
       {
-        "title": "What if we actually want to solve the \"hard problem of phenomenological consciousness\"",
-        "url": "https://www.lesswrong.com/posts/DCW7FjmP66Ahz3RLu/what-if-we-actually-want-to-solve-the-hard-problem-of"
+        "title": "Expanding AI Control from Models to Harnesses",
+        "url": "https://www.lesswrong.com/posts/PbATxkGs9N8JrJsQt/expanding-ai-control-from-models-to-harnesses"
       },
       {
-        "title": "Evidence for feature-specific error correction in LLMs",
-        "url": "https://www.lesswrong.com/posts/uDrsffSLzWD6cDnTt/evidence-for-feature-specific-error-correction-in-llms-1"
+        "title": "Monthly Roundup #44: July 2026",
+        "url": "https://www.lesswrong.com/posts/KiCwcAGHx4rdwJgzD/monthly-roundup-44-july-2026"
       },
       {
-        "title": "Synthetic Scalable Oversight",
-        "url": "https://www.lesswrong.com/posts/w3MGffxeaTfZHoW24/synthetic-scalable-oversight"
+        "title": "Compressed Computation under L\u2074 Loss is likely Computation in Superposition",
+        "url": "https://www.lesswrong.com/posts/cTRKj3giaZN5Ysyx2/compressed-computation-under-l-loss-is-likely-computation-in"
       },
       {
-        "title": "Some Quick Thoughts on AI 2027",
-        "url": "https://www.lesswrong.com/posts/Lc8v92pGPtjF3gsCv/some-quick-thoughts-on-ai-2027"
+        "title": "Eliciting hidden knowledge from monitors with NLAs",
+        "url": "https://www.lesswrong.com/posts/NdBTH4wvBKWFyvifY/eliciting-hidden-knowledge-from-monitors-with-nlas"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Why I Left Google DeepMind",
+        "url": "https://www.alignmentforum.org/posts/iKm2FhpWkuuBojm82/why-i-left-google-deepmind"
+      },
       {
         "title": "Open Distillation of Hereditary Traits",
         "url": "https://www.alignmentforum.org/posts/WpYFAmJDH3zuAq2ha/open-distillation-of-hereditary-traits-1"
@@ -84,10 +88,6 @@
       {
         "title": "Modular Pretraining Enables Access Control",
         "url": "https://www.alignmentforum.org/posts/43vKjWuH4goLwrFHA/modular-pretraining-enables-access-control"
-      },
-      {
-        "title": "Notes on technical alignment via human-like social drives",
-        "url": "https://www.alignmentforum.org/posts/rKdS7i4StaMmFzYRo/notes-on-technical-alignment-via-human-like-social-drives"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
-        "url": "https://arxiv.org/abs/2607.09664"
+        "title": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
+        "url": "https://arxiv.org/abs/2607.11888"
       },
       {
-        "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
-        "url": "https://arxiv.org/abs/2607.09665"
+        "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
+        "url": "https://arxiv.org/abs/2607.11906"
       },
       {
-        "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
-        "url": "https://arxiv.org/abs/2607.09678"
+        "title": "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study",
+        "url": "https://arxiv.org/abs/2607.11948"
       },
       {
-        "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
-        "url": "https://arxiv.org/abs/2607.09689"
+        "title": "GRID: Grammar-Railed Decoding for Enterprise SQL Generation",
+        "url": "https://arxiv.org/abs/2607.11951"
       },
       {
-        "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
-        "url": "https://arxiv.org/abs/2607.09698"
+        "title": "Calibration-First Reward-Component Auditing for Reinforcement Learning Control in Smart Greenhouses",
+        "url": "https://arxiv.org/abs/2607.11959"
       },
       {
-        "title": "YUKTI: From Natural-Language Situations to Robust, Verifiable Decisions An Uncertainty-Typed Proposition IR, Assumption-Robust Pareto Frontiers, and a Regret Certificate",
-        "url": "https://arxiv.org/abs/2607.09706"
+        "title": "Optimization Is Not All You Need",
+        "url": "https://arxiv.org/abs/2607.11977"
       },
       {
-        "title": "GES-TSP: Graph Edge Sparsification for TSP",
-        "url": "https://arxiv.org/abs/2607.09708"
+        "title": "LP Mining with LP2Graph: A Use Case for Railway Rescheduling",
+        "url": "https://arxiv.org/abs/2607.11980"
       },
       {
-        "title": "The Verifier is the Curriculum: Execution-Gated Self-Distillation for Cross-Family Game Generation",
-        "url": "https://arxiv.org/abs/2607.09709"
+        "title": "Designing Agent-Ready Websites for AI Web Agents: A Framework for Machine Readability, Actionability, and Decision Reliability",
+        "url": "https://arxiv.org/abs/2607.12056"
       },
       {
-        "title": "Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction",
-        "url": "https://arxiv.org/abs/2607.09713"
+        "title": "Graph Feedback Controls Consensus and Clique Formation in Open-Weight Language-Model Populations",
+        "url": "https://arxiv.org/abs/2607.12077"
       },
       {
-        "title": "Feedback-Coupled Memory Systems in Continuous Time",
-        "url": "https://arxiv.org/abs/2607.09714"
+        "title": "Operationalising Multi-Dimensional Evaluation for Conversational Agents: A Scalable, Governed Pipeline with Selective Re-evaluation and Model Benchmarking",
+        "url": "https://arxiv.org/abs/2607.12085"
       }
     ]
   },
