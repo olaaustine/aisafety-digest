@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "LLM CoTs remain monitorable when being unfaithful requires computation",
-        "url": "https://www.lesswrong.com/posts/AoBTiL7XRRpwpev8p/llm-cots-remain-monitorable-when-being-unfaithful-requires"
+        "title": "Help us launch AI safety university groups by referring potential founders",
+        "url": "https://www.lesswrong.com/posts/a9YtcE3Aogphf8ukH/help-us-launch-ai-safety-university-groups-by-referring"
       },
       {
-        "title": "Extreme Power Concentration: A Map and Research Directions",
-        "url": "https://www.lesswrong.com/posts/7mnf68bYaSZR8BgQj/extreme-power-concentration-a-map-and-research-directions"
+        "title": "I would only bet at 30% on meeting grabby aliens",
+        "url": "https://www.lesswrong.com/posts/3txboKKrmdMhF2yGE/i-would-only-bet-at-30-on-meeting-grabby-aliens"
       },
       {
-        "title": "The State of AI Consciousness Research",
-        "url": "https://www.lesswrong.com/posts/pxvWgtSjR4pmFoS7c/the-state-of-ai-consciousness-research"
+        "title": "How (not) to fundraise from Anthropic staff",
+        "url": "https://www.lesswrong.com/posts/cZeQaBMCospnbbi7b/how-not-to-fundraise-from-anthropic-staff"
       },
       {
-        "title": "Occam\u2019s razor is about using the past to predict the future",
-        "url": "https://www.lesswrong.com/posts/9oFpzYhuH8qxDi27f/occam-s-razor-is-about-using-the-past-to-predict-the-future"
+        "title": "Learning concepts is dirty work",
+        "url": "https://www.lesswrong.com/posts/ep9Z3e7NbS7cbmTj7/learning-concepts-is-dirty-work"
       },
       {
-        "title": "Fork Around and Find Out Part 2: One Head does the Summing",
-        "url": "https://www.lesswrong.com/posts/6reCnPYeopThEFQxN/fork-around-and-find-out-part-2-one-head-does-the-summing"
+        "title": "The getting is good (optimizing unattended runs)",
+        "url": "https://www.lesswrong.com/posts/xcEuZhuZGeExoYazj/the-getting-is-good-optimizing-unattended-runs"
       },
       {
-        "title": "Why I Left Google DeepMind",
-        "url": "https://www.lesswrong.com/posts/iKm2FhpWkuuBojm82/why-i-left-google-deepmind"
+        "title": "Jailbreak Patching with SOO-Style Conceptual Fusion",
+        "url": "https://www.lesswrong.com/posts/EXj2bYK2rg8TMrncF/jailbreak-patching-with-soo-style-conceptual-fusion"
       },
       {
-        "title": "Expanding AI Control from Models to Harnesses",
-        "url": "https://www.lesswrong.com/posts/PbATxkGs9N8JrJsQt/expanding-ai-control-from-models-to-harnesses"
+        "title": "All Watched Over",
+        "url": "https://www.lesswrong.com/posts/JBHgE2EWGmibM57qg/all-watched-over"
       },
       {
-        "title": "Monthly Roundup #44: July 2026",
-        "url": "https://www.lesswrong.com/posts/KiCwcAGHx4rdwJgzD/monthly-roundup-44-july-2026"
+        "title": "AI #177 Part 1: Tip of the Iceberg",
+        "url": "https://www.lesswrong.com/posts/who9xZ7DxuprsJoTr/ai-177-part-1-tip-of-the-iceberg"
       },
       {
-        "title": "Compressed Computation under L\u2074 Loss is likely Computation in Superposition",
-        "url": "https://www.lesswrong.com/posts/cTRKj3giaZN5Ysyx2/compressed-computation-under-l-loss-is-likely-computation-in"
+        "title": "How to not catch the conf flu",
+        "url": "https://www.lesswrong.com/posts/PTqBwuQcZdTBhHTNk/how-to-not-catch-the-conf-flu"
       },
       {
-        "title": "Eliciting hidden knowledge from monitors with NLAs",
-        "url": "https://www.lesswrong.com/posts/NdBTH4wvBKWFyvifY/eliciting-hidden-knowledge-from-monitors-with-nlas"
+        "title": "Competitive AI Safety is\nthe loss function to make sure AI goes well",
+        "url": "https://www.lesswrong.com/posts/PagGF8roBJmjLunsX/competitive-ai-safety-is-the-loss-function-to-make-sure-ai"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
-        "url": "https://arxiv.org/abs/2607.11888"
+        "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+        "url": "https://arxiv.org/abs/2607.13037"
       },
       {
-        "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
-        "url": "https://arxiv.org/abs/2607.11906"
+        "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+        "url": "https://arxiv.org/abs/2607.13049"
       },
       {
-        "title": "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study",
-        "url": "https://arxiv.org/abs/2607.11948"
+        "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+        "url": "https://arxiv.org/abs/2607.13069"
       },
       {
-        "title": "GRID: Grammar-Railed Decoding for Enterprise SQL Generation",
-        "url": "https://arxiv.org/abs/2607.11951"
+        "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
+        "url": "https://arxiv.org/abs/2607.13073"
       },
       {
-        "title": "Calibration-First Reward-Component Auditing for Reinforcement Learning Control in Smart Greenhouses",
-        "url": "https://arxiv.org/abs/2607.11959"
+        "title": "Self-Improvements in Modern Agentic Systems: A Survey",
+        "url": "https://arxiv.org/abs/2607.13104"
       },
       {
-        "title": "Optimization Is Not All You Need",
-        "url": "https://arxiv.org/abs/2607.11977"
+        "title": "Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools",
+        "url": "https://arxiv.org/abs/2607.13115"
       },
       {
-        "title": "LP Mining with LP2Graph: A Use Case for Railway Rescheduling",
-        "url": "https://arxiv.org/abs/2607.11980"
+        "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
+        "url": "https://arxiv.org/abs/2607.13157"
       },
       {
-        "title": "Designing Agent-Ready Websites for AI Web Agents: A Framework for Machine Readability, Actionability, and Decision Reliability",
-        "url": "https://arxiv.org/abs/2607.12056"
+        "title": "Learning Safe Agent Behaviour from Human Preferences and Justifications via World Models",
+        "url": "https://arxiv.org/abs/2607.13172"
       },
       {
-        "title": "Graph Feedback Controls Consensus and Clique Formation in Open-Weight Language-Model Populations",
-        "url": "https://arxiv.org/abs/2607.12077"
+        "title": "CayleyR: Solving the TopSpin puzzle via cycle intersection",
+        "url": "https://arxiv.org/abs/2607.13219"
       },
       {
-        "title": "Operationalising Multi-Dimensional Evaluation for Conversational Agents: A Scalable, Governed Pipeline with Selective Re-evaluation and Model Benchmarking",
-        "url": "https://arxiv.org/abs/2607.12085"
+        "title": "Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science",
+        "url": "https://arxiv.org/abs/2607.13220"
       }
     ]
   },
