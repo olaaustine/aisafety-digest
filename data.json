@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Help us launch AI safety university groups by referring potential founders",
-        "url": "https://www.lesswrong.com/posts/a9YtcE3Aogphf8ukH/help-us-launch-ai-safety-university-groups-by-referring"
+        "title": "AIs finetune their own leader: A barking simpleton",
+        "url": "https://www.lesswrong.com/posts/3FKugjAiEzLeWHuug/ais-finetune-their-own-leader-a-barking-simpleton"
       },
       {
-        "title": "I would only bet at 30% on meeting grabby aliens",
-        "url": "https://www.lesswrong.com/posts/3txboKKrmdMhF2yGE/i-would-only-bet-at-30-on-meeting-grabby-aliens"
+        "title": "Don't default to nonprofit",
+        "url": "https://www.lesswrong.com/posts/8T4MTntw4tyqc6eFm/don-t-default-to-nonprofit-1"
       },
       {
-        "title": "How (not) to fundraise from Anthropic staff",
-        "url": "https://www.lesswrong.com/posts/cZeQaBMCospnbbi7b/how-not-to-fundraise-from-anthropic-staff"
+        "title": "Studying the role\u00a0of Sandboxing for AI Control",
+        "url": "https://www.lesswrong.com/posts/6wo4weeujruLXrnsT/studying-the-role-of-sandboxing-for-ai-control"
       },
       {
-        "title": "Learning concepts is dirty work",
-        "url": "https://www.lesswrong.com/posts/ep9Z3e7NbS7cbmTj7/learning-concepts-is-dirty-work"
+        "title": "Announcing the Corrigibility Research Fund",
+        "url": "https://www.lesswrong.com/posts/FBqe5dt8ZjaHN4Xj9/announcing-the-corrigibility-research-fund"
       },
       {
-        "title": "The getting is good (optimizing unattended runs)",
-        "url": "https://www.lesswrong.com/posts/xcEuZhuZGeExoYazj/the-getting-is-good-optimizing-unattended-runs"
+        "title": "Would your AI travel agent book a bullfight? Testing whether agents consider animal welfare without being prompted",
+        "url": "https://www.lesswrong.com/posts/cKcTNCtLeWkrATKqf/would-your-ai-travel-agent-book-a-bullfight-testing-whether"
       },
       {
-        "title": "Jailbreak Patching with SOO-Style Conceptual Fusion",
-        "url": "https://www.lesswrong.com/posts/EXj2bYK2rg8TMrncF/jailbreak-patching-with-soo-style-conceptual-fusion"
+        "title": "Before values settle",
+        "url": "https://www.lesswrong.com/posts/moDFn5fwxKbADtetz/before-values-settle"
       },
       {
-        "title": "All Watched Over",
-        "url": "https://www.lesswrong.com/posts/JBHgE2EWGmibM57qg/all-watched-over"
+        "title": "Reasons to believe current AI models are conscious",
+        "url": "https://www.lesswrong.com/posts/S9GoWAiACpxZ8QcAY/reasons-to-believe-current-ai-models-are-conscious"
       },
       {
-        "title": "AI #177 Part 1: Tip of the Iceberg",
-        "url": "https://www.lesswrong.com/posts/who9xZ7DxuprsJoTr/ai-177-part-1-tip-of-the-iceberg"
+        "title": "What lawyers can do for AI safety",
+        "url": "https://www.lesswrong.com/posts/bfwH88cFEm3r7PWfv/what-lawyers-can-do-for-ai-safety"
       },
       {
-        "title": "How to not catch the conf flu",
-        "url": "https://www.lesswrong.com/posts/PTqBwuQcZdTBhHTNk/how-to-not-catch-the-conf-flu"
+        "title": "How has publishing your research on LW or X been helpful to you?",
+        "url": "https://www.lesswrong.com/posts/Myx8JwWqBYZyopPsc/how-has-publishing-your-research-on-lw-or-x-been-helpful-to"
       },
       {
-        "title": "Competitive AI Safety is\nthe loss function to make sure AI goes well",
-        "url": "https://www.lesswrong.com/posts/PagGF8roBJmjLunsX/competitive-ai-safety-is-the-loss-function-to-make-sure-ai"
+        "title": "Evolution of my AI Safety threat models",
+        "url": "https://www.lesswrong.com/posts/K92gWbHnbh3mCLADR/evolution-of-my-ai-safety-threat-models"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Announcing the Corrigibility Research Fund",
+        "url": "https://www.alignmentforum.org/posts/FBqe5dt8ZjaHN4Xj9/announcing-the-corrigibility-research-fund"
+      },
       {
         "title": "Why I Left Google DeepMind",
         "url": "https://www.alignmentforum.org/posts/iKm2FhpWkuuBojm82/why-i-left-google-deepmind"
@@ -84,10 +88,6 @@
       {
         "title": "Announcing our $160M grant from Coefficient Giving",
         "url": "https://www.alignmentforum.org/posts/HDKQNqiR2gtfMiWsn/announcing-our-usd160m-grant-from-coefficient-giving"
-      },
-      {
-        "title": "Modular Pretraining Enables Access Control",
-        "url": "https://www.alignmentforum.org/posts/43vKjWuH4goLwrFHA/modular-pretraining-enables-access-control"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
-        "url": "https://arxiv.org/abs/2607.13037"
+        "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
+        "url": "https://arxiv.org/abs/2607.14093"
       },
       {
-        "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
-        "url": "https://arxiv.org/abs/2607.13049"
+        "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
+        "url": "https://arxiv.org/abs/2607.14095"
       },
       {
-        "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
-        "url": "https://arxiv.org/abs/2607.13069"
+        "title": "IMEX Interaction-Based Model Explanation",
+        "url": "https://arxiv.org/abs/2607.14096"
       },
       {
-        "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
-        "url": "https://arxiv.org/abs/2607.13073"
+        "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
+        "url": "https://arxiv.org/abs/2607.14097"
       },
       {
-        "title": "Self-Improvements in Modern Agentic Systems: A Survey",
-        "url": "https://arxiv.org/abs/2607.13104"
+        "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
+        "url": "https://arxiv.org/abs/2607.14115"
       },
       {
-        "title": "Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools",
-        "url": "https://arxiv.org/abs/2607.13115"
+        "title": "Interpretable Language Model for Closed-Loop Type 1 Diabetes Control",
+        "url": "https://arxiv.org/abs/2607.14126"
       },
       {
-        "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
-        "url": "https://arxiv.org/abs/2607.13157"
+        "title": "Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach",
+        "url": "https://arxiv.org/abs/2607.14141"
       },
       {
-        "title": "Learning Safe Agent Behaviour from Human Preferences and Justifications via World Models",
-        "url": "https://arxiv.org/abs/2607.13172"
+        "title": "Capability from Access Structure, Not Scale: Lower Bounds and Pre-Registered Tests for Hybrid Sequence Models",
+        "url": "https://arxiv.org/abs/2607.14144"
       },
       {
-        "title": "CayleyR: Solving the TopSpin puzzle via cycle intersection",
-        "url": "https://arxiv.org/abs/2607.13219"
+        "title": "ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability",
+        "url": "https://arxiv.org/abs/2607.14145"
       },
       {
-        "title": "Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science",
-        "url": "https://arxiv.org/abs/2607.13220"
+        "title": "Enhancing Small Language Models Reasoning through Knowledge Graph Grounding",
+        "url": "https://arxiv.org/abs/2607.14149"
       }
     ]
   },
