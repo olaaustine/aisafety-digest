@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
+        "title": "Nuances in the Workings of the Eye and Retina",
+        "url": "https://www.lesswrong.com/posts/zvpocS7CswgT8bw7E/nuances-in-the-workings-of-the-eye-and-retina"
+      },
+      {
+        "title": "The Coming of the Global Brain: A Review of \"The God Test\"",
+        "url": "https://www.lesswrong.com/posts/iwKT6rYQsBwLbMXZA/the-coming-of-the-global-brain-a-review-of-the-god-test"
+      },
+      {
+        "title": "My \"Payorian FairBot\" was just the original FairBot",
+        "url": "https://www.lesswrong.com/posts/2JQzDZXjoG2opnAjk/my-payorian-fairbot-was-just-the-original-fairbot"
+      },
+      {
+        "title": "Endogenous Alignment",
+        "url": "https://www.lesswrong.com/posts/xWZpwPPp5nR9rZq3x/endogenous-alignment"
+      },
+      {
+        "title": "Map and Territory, Predictably Wrong",
+        "url": "https://www.lesswrong.com/posts/Pnk4kcQ95qLdyLCwR/map-and-territory-predictably-wrong"
+      },
+      {
+        "title": "The Most Forbidden Technique is not always forbidden",
+        "url": "https://www.lesswrong.com/posts/tEFD2bgNWZ6XcurKA/the-most-forbidden-technique-is-not-always-forbidden-1"
+      },
+      {
+        "title": "Should we benchmark conceptual capabilities using\u00a0judgment prediction tasks?",
+        "url": "https://www.lesswrong.com/posts/5kEezahvkEiQuWEfx/should-we-benchmark-conceptual-capabilities-using-judgment"
+      },
+      {
+        "title": "A list of existing alignment approaches",
+        "url": "https://www.lesswrong.com/posts/yHBT3Bmf4BmaBNKz4/a-list-of-existing-alignment-approaches"
+      },
+      {
         "title": "AIs finetune their own leader: A barking simpleton",
         "url": "https://www.lesswrong.com/posts/3FKugjAiEzLeWHuug/ais-finetune-their-own-leader-a-barking-simpleton"
       },
       {
         "title": "Don't default to nonprofit",
         "url": "https://www.lesswrong.com/posts/8T4MTntw4tyqc6eFm/don-t-default-to-nonprofit-1"
-      },
-      {
-        "title": "Studying the role\u00a0of Sandboxing for AI Control",
-        "url": "https://www.lesswrong.com/posts/6wo4weeujruLXrnsT/studying-the-role-of-sandboxing-for-ai-control"
-      },
-      {
-        "title": "Announcing the Corrigibility Research Fund",
-        "url": "https://www.lesswrong.com/posts/FBqe5dt8ZjaHN4Xj9/announcing-the-corrigibility-research-fund"
-      },
-      {
-        "title": "Would your AI travel agent book a bullfight? Testing whether agents consider animal welfare without being prompted",
-        "url": "https://www.lesswrong.com/posts/cKcTNCtLeWkrATKqf/would-your-ai-travel-agent-book-a-bullfight-testing-whether"
-      },
-      {
-        "title": "Before values settle",
-        "url": "https://www.lesswrong.com/posts/moDFn5fwxKbADtetz/before-values-settle"
-      },
-      {
-        "title": "Reasons to believe current AI models are conscious",
-        "url": "https://www.lesswrong.com/posts/S9GoWAiACpxZ8QcAY/reasons-to-believe-current-ai-models-are-conscious"
-      },
-      {
-        "title": "What lawyers can do for AI safety",
-        "url": "https://www.lesswrong.com/posts/bfwH88cFEm3r7PWfv/what-lawyers-can-do-for-ai-safety"
-      },
-      {
-        "title": "How has publishing your research on LW or X been helpful to you?",
-        "url": "https://www.lesswrong.com/posts/Myx8JwWqBYZyopPsc/how-has-publishing-your-research-on-lw-or-x-been-helpful-to"
-      },
-      {
-        "title": "Evolution of my AI Safety threat models",
-        "url": "https://www.lesswrong.com/posts/K92gWbHnbh3mCLADR/evolution-of-my-ai-safety-threat-models"
       }
     ]
   },
@@ -49,6 +49,14 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Endogenous Alignment",
+        "url": "https://www.alignmentforum.org/posts/xWZpwPPp5nR9rZq3x/endogenous-alignment"
+      },
+      {
+        "title": "Should we benchmark conceptual capabilities using\u00a0judgment prediction tasks?",
+        "url": "https://www.alignmentforum.org/posts/5kEezahvkEiQuWEfx/should-we-benchmark-conceptual-capabilities-using-judgment"
+      },
       {
         "title": "Announcing the Corrigibility Research Fund",
         "url": "https://www.alignmentforum.org/posts/FBqe5dt8ZjaHN4Xj9/announcing-the-corrigibility-research-fund"
@@ -80,14 +88,6 @@
       {
         "title": "How robust are natural language autoencoders to initialization?",
         "url": "https://www.alignmentforum.org/posts/LQXWiF8PyJ5ojNsEv/how-robust-are-natural-language-autoencoders-to"
-      },
-      {
-        "title": "AI 2040: Plan A",
-        "url": "https://www.alignmentforum.org/posts/pFzctpJBat95SrCyC/ai-2040-plan-a"
-      },
-      {
-        "title": "Announcing our $160M grant from Coefficient Giving",
-        "url": "https://www.alignmentforum.org/posts/HDKQNqiR2gtfMiWsn/announcing-our-usd160m-grant-from-coefficient-giving"
       }
     ]
   },
