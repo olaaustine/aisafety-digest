@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
+        "title": "Stop Chasing Views: How to Reduce x-Risk as an AI Safety Content Creator",
+        "url": "https://www.lesswrong.com/posts/FfgNkH7mgmKYwWLnd/stop-chasing-views-how-to-reduce-x-risk-as-an-ai-safety"
+      },
+      {
+        "title": "Models Can't Remember Their Training. Neither Can You.",
+        "url": "https://www.lesswrong.com/posts/wFK67Jh9CgsRRhcQY/models-can-t-remember-their-training-neither-can-you"
+      },
+      {
+        "title": "Learning Musical Multitasking",
+        "url": "https://www.lesswrong.com/posts/ELxfYzFCsrG3nbFLF/learning-musical-multitasking"
+      },
+      {
+        "title": "Demis Hassabis on the New Coming Age",
+        "url": "https://www.lesswrong.com/posts/3RfJLcmkztSTq9afc/demis-hassabis-on-the-new-coming-age"
+      },
+      {
+        "title": "Save the date: Swiss AI Safety Days 2026 (7-8 November, ETH Zurich)",
+        "url": "https://www.lesswrong.com/posts/4ynbMmnefBRSpuYDo/save-the-date-swiss-ai-safety-days-2026-7-8-november-eth-1"
+      },
+      {
+        "title": "A peek into the post-capitalist dystopia",
+        "url": "https://www.lesswrong.com/posts/3BqAGpiK3wYPiedxk/a-peek-into-the-post-capitalist-dystopia"
+      },
+      {
+        "title": "Takeaways from the Australian AI Safety Forum",
+        "url": "https://www.lesswrong.com/posts/pq78rH7YAM5PQMYXw/takeaways-from-the-australian-ai-safety-forum"
+      },
+      {
+        "title": "A Solution to Cryptographic Boxes for Unfriendly AI",
+        "url": "https://www.lesswrong.com/posts/PG2RupAvCNqZ5PAvu/a-solution-to-cryptographic-boxes-for-unfriendly-ai"
+      },
+      {
+        "title": "A Red Line and Oversight Framework for Government AI Contracts",
+        "url": "https://www.lesswrong.com/posts/CCt9oy8axcdvaGcPE/a-red-line-and-oversight-framework-for-government-ai"
+      },
+      {
         "title": "Nuances in the Workings of the Eye and Retina",
         "url": "https://www.lesswrong.com/posts/zvpocS7CswgT8bw7E/nuances-in-the-workings-of-the-eye-and-retina"
-      },
-      {
-        "title": "The Coming of the Global Brain: A Review of \"The God Test\"",
-        "url": "https://www.lesswrong.com/posts/iwKT6rYQsBwLbMXZA/the-coming-of-the-global-brain-a-review-of-the-god-test"
-      },
-      {
-        "title": "My \"Payorian FairBot\" was just the original FairBot",
-        "url": "https://www.lesswrong.com/posts/2JQzDZXjoG2opnAjk/my-payorian-fairbot-was-just-the-original-fairbot"
-      },
-      {
-        "title": "Endogenous Alignment",
-        "url": "https://www.lesswrong.com/posts/xWZpwPPp5nR9rZq3x/endogenous-alignment"
-      },
-      {
-        "title": "Map and Territory, Predictably Wrong",
-        "url": "https://www.lesswrong.com/posts/Pnk4kcQ95qLdyLCwR/map-and-territory-predictably-wrong"
-      },
-      {
-        "title": "The Most Forbidden Technique is not always forbidden",
-        "url": "https://www.lesswrong.com/posts/tEFD2bgNWZ6XcurKA/the-most-forbidden-technique-is-not-always-forbidden-1"
-      },
-      {
-        "title": "Should we benchmark conceptual capabilities using\u00a0judgment prediction tasks?",
-        "url": "https://www.lesswrong.com/posts/5kEezahvkEiQuWEfx/should-we-benchmark-conceptual-capabilities-using-judgment"
-      },
-      {
-        "title": "A list of existing alignment approaches",
-        "url": "https://www.lesswrong.com/posts/yHBT3Bmf4BmaBNKz4/a-list-of-existing-alignment-approaches"
-      },
-      {
-        "title": "AIs finetune their own leader: A barking simpleton",
-        "url": "https://www.lesswrong.com/posts/3FKugjAiEzLeWHuug/ais-finetune-their-own-leader-a-barking-simpleton"
-      },
-      {
-        "title": "Don't default to nonprofit",
-        "url": "https://www.lesswrong.com/posts/8T4MTntw4tyqc6eFm/don-t-default-to-nonprofit-1"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "A Red Line and Oversight Framework for Government AI Contracts",
+        "url": "https://www.alignmentforum.org/posts/CCt9oy8axcdvaGcPE/a-red-line-and-oversight-framework-for-government-ai"
+      },
       {
         "title": "Endogenous Alignment",
         "url": "https://www.alignmentforum.org/posts/xWZpwPPp5nR9rZq3x/endogenous-alignment"
@@ -84,10 +88,6 @@
       {
         "title": "Value generalisation: value correction",
         "url": "https://www.alignmentforum.org/posts/iPyJfD9Jyxj6Jfdws/value-generalisation-value-correction"
-      },
-      {
-        "title": "How robust are natural language autoencoders to initialization?",
-        "url": "https://www.alignmentforum.org/posts/LQXWiF8PyJ5ojNsEv/how-robust-are-natural-language-autoencoders-to"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
-        "url": "https://arxiv.org/abs/2607.14093"
-      },
-      {
-        "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
-        "url": "https://arxiv.org/abs/2607.14095"
-      },
-      {
-        "title": "IMEX Interaction-Based Model Explanation",
-        "url": "https://arxiv.org/abs/2607.14096"
-      },
-      {
-        "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
-        "url": "https://arxiv.org/abs/2607.14097"
-      },
-      {
-        "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
-        "url": "https://arxiv.org/abs/2607.14115"
-      },
-      {
-        "title": "Interpretable Language Model for Closed-Loop Type 1 Diabetes Control",
-        "url": "https://arxiv.org/abs/2607.14126"
-      },
-      {
-        "title": "Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach",
-        "url": "https://arxiv.org/abs/2607.14141"
-      },
-      {
-        "title": "Capability from Access Structure, Not Scale: Lower Bounds and Pre-Registered Tests for Hybrid Sequence Models",
-        "url": "https://arxiv.org/abs/2607.14144"
-      },
-      {
-        "title": "ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability",
-        "url": "https://arxiv.org/abs/2607.14145"
-      },
-      {
-        "title": "Enhancing Small Language Models Reasoning through Knowledge Graph Grounding",
-        "url": "https://arxiv.org/abs/2607.14149"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
