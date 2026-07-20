@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Stop Chasing Views: How to Reduce x-Risk as an AI Safety Content Creator",
-        "url": "https://www.lesswrong.com/posts/FfgNkH7mgmKYwWLnd/stop-chasing-views-how-to-reduce-x-risk-as-an-ai-safety"
+        "title": "What do I mean by \u201cArtificial General Intelligence\u201d?",
+        "url": "https://www.lesswrong.com/posts/nQH2GhkmSmHoCAN8R/what-do-i-mean-by-artificial-general-intelligence"
       },
       {
-        "title": "Models Can't Remember Their Training. Neither Can You.",
-        "url": "https://www.lesswrong.com/posts/wFK67Jh9CgsRRhcQY/models-can-t-remember-their-training-neither-can-you"
+        "title": "AI 2040: Is it Actually a Deal?",
+        "url": "https://www.lesswrong.com/posts/LtmbQN9mzmFWxWtrD/ai-2040-is-it-actually-a-deal"
       },
       {
-        "title": "Learning Musical Multitasking",
-        "url": "https://www.lesswrong.com/posts/ELxfYzFCsrG3nbFLF/learning-musical-multitasking"
+        "title": "AI Voice Phishing Performs on Par With Human Scammers at a Fraction of the Cost",
+        "url": "https://www.lesswrong.com/posts/AZ4tHHsGPC2jnen8a/ai-voice-phishing-performs-on-par-with-human-scammers-at-a"
       },
       {
-        "title": "Demis Hassabis on the New Coming Age",
-        "url": "https://www.lesswrong.com/posts/3RfJLcmkztSTq9afc/demis-hassabis-on-the-new-coming-age"
+        "title": "Fable is SOTA at CIFAR Speedrun (& specification gaming)",
+        "url": "https://www.lesswrong.com/posts/ymdHH2QcPJrw4CuDz/fable-is-sota-at-cifar-speedrun-and-specification-gaming"
       },
       {
-        "title": "Save the date: Swiss AI Safety Days 2026 (7-8 November, ETH Zurich)",
-        "url": "https://www.lesswrong.com/posts/4ynbMmnefBRSpuYDo/save-the-date-swiss-ai-safety-days-2026-7-8-november-eth-1"
+        "title": "Restoring Model Alignment via Honesty Activation Steering",
+        "url": "https://www.lesswrong.com/posts/Rpq28FTgPMXGHt9eD/restoring-model-alignment-via-honesty-activation-steering-1"
       },
       {
-        "title": "A peek into the post-capitalist dystopia",
-        "url": "https://www.lesswrong.com/posts/3BqAGpiK3wYPiedxk/a-peek-into-the-post-capitalist-dystopia"
+        "title": "Towards surfacing model algorithms with meta-tokens in the J-Space",
+        "url": "https://www.lesswrong.com/posts/6ek6n7yZ5DzfarJHy/towards-surfacing-model-algorithms-with-meta-tokens-in-the-j"
       },
       {
-        "title": "Takeaways from the Australian AI Safety Forum",
-        "url": "https://www.lesswrong.com/posts/pq78rH7YAM5PQMYXw/takeaways-from-the-australian-ai-safety-forum"
+        "title": "Drone WMDs Don\u2019t Need Any New Technology",
+        "url": "https://www.lesswrong.com/posts/bGoo3NWzMAzsLQceJ/drone-wmds-don-t-need-any-new-technology"
       },
       {
-        "title": "A Solution to Cryptographic Boxes for Unfriendly AI",
-        "url": "https://www.lesswrong.com/posts/PG2RupAvCNqZ5PAvu/a-solution-to-cryptographic-boxes-for-unfriendly-ai"
+        "title": "Stop doing decision theory without metaphysics",
+        "url": "https://www.lesswrong.com/posts/oZzRHiSZPcjrWHeoE/stop-doing-decision-theory-without-metaphysics"
       },
       {
-        "title": "A Red Line and Oversight Framework for Government AI Contracts",
-        "url": "https://www.lesswrong.com/posts/CCt9oy8axcdvaGcPE/a-red-line-and-oversight-framework-for-government-ai"
+        "title": "People might start believing in radical life extension soon",
+        "url": "https://www.lesswrong.com/posts/m9Lmsu97HZshiqQ2r/people-might-start-believing-in-radical-life-extension-soon"
       },
       {
-        "title": "Nuances in the Workings of the Eye and Retina",
-        "url": "https://www.lesswrong.com/posts/zvpocS7CswgT8bw7E/nuances-in-the-workings-of-the-eye-and-retina"
+        "title": "On Kimi K3: Its Capabilities And Related Discontents",
+        "url": "https://www.lesswrong.com/posts/t7oZyAFej8FZrfbtY/on-kimi-k3-its-capabilities-and-related-discontents"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+        "url": "https://arxiv.org/abs/2607.15280"
+      },
+      {
+        "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+        "url": "https://arxiv.org/abs/2607.15281"
+      },
+      {
+        "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+        "url": "https://arxiv.org/abs/2607.15314"
+      },
+      {
+        "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
+        "url": "https://arxiv.org/abs/2607.15367"
+      },
+      {
+        "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
+        "url": "https://arxiv.org/abs/2607.15388"
+      },
+      {
+        "title": "DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings",
+        "url": "https://arxiv.org/abs/2607.15418"
+      },
+      {
+        "title": "Do Coding Agents Need Executable World Models, Simplification, and Verification to Solve ARC-AGI-3?",
+        "url": "https://arxiv.org/abs/2607.15439"
+      },
+      {
+        "title": "Beyond a Joke: Multi-Angle Reasoning for Detecting and Explaining Harmful Humor in Memes",
+        "url": "https://arxiv.org/abs/2607.15442"
+      },
+      {
+        "title": "From Black Box to Executable Logic: Explainable Reinforcement Learning through Prolog Expert Systems",
+        "url": "https://arxiv.org/abs/2607.15459"
+      },
+      {
+        "title": "A Critical Analysis of Trustworthy AI Tools, Mark Frameworks, and the Implementation Chasms",
+        "url": "https://arxiv.org/abs/2607.15480"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
@@ -127,6 +168,10 @@
         "url": "https://www.anthropic.com/news/news/claude-science-ai-workbench"
       },
       {
+        "title": "Jul 20, 2026AnnouncementsApply for Anthropic\u2019s AI for Science rare disease research grants",
+        "url": "https://www.anthropic.com/news/news/rare-disease-research-grants"
+      },
+      {
         "title": "Jul 14, 2026ProductIntroducing Claude for Teachers",
         "url": "https://www.anthropic.com/news/news/claude-for-teachers"
       },
@@ -145,10 +190,6 @@
       {
         "title": "Jul 9, 2026AnnouncementsIntroducing a way to reflect on how you use Claude",
         "url": "https://www.anthropic.com/news/news/reflect-with-claude"
-      },
-      {
-        "title": "Jul 6, 2026Case StudyGovernment of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-        "url": "https://www.anthropic.com/news/news/alberta-government-claude-cybersecurity"
       }
     ]
   }
