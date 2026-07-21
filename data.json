@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "What do I mean by \u201cArtificial General Intelligence\u201d?",
-        "url": "https://www.lesswrong.com/posts/nQH2GhkmSmHoCAN8R/what-do-i-mean-by-artificial-general-intelligence"
+        "title": "WeirdChat: A catalog of unexpected AI behaviors, discovered automatically",
+        "url": "https://www.lesswrong.com/posts/EdcschjGZ6vtLpesY/weirdchat-a-catalog-of-unexpected-ai-behaviors-discovered"
       },
       {
-        "title": "AI 2040: Is it Actually a Deal?",
-        "url": "https://www.lesswrong.com/posts/LtmbQN9mzmFWxWtrD/ai-2040-is-it-actually-a-deal"
+        "title": "OpenAI Shares Some Alignment Problems",
+        "url": "https://www.lesswrong.com/posts/KctxwGKxm9fHtwh6u/openai-shares-some-alignment-problems"
       },
       {
-        "title": "AI Voice Phishing Performs on Par With Human Scammers at a Fraction of the Cost",
-        "url": "https://www.lesswrong.com/posts/AZ4tHHsGPC2jnen8a/ai-voice-phishing-performs-on-par-with-human-scammers-at-a"
+        "title": "Blogging Technology Interlude",
+        "url": "https://www.lesswrong.com/posts/zDxxFw5wedrKAEurX/blogging-technology-interlude"
       },
       {
-        "title": "Fable is SOTA at CIFAR Speedrun (& specification gaming)",
-        "url": "https://www.lesswrong.com/posts/ymdHH2QcPJrw4CuDz/fable-is-sota-at-cifar-speedrun-and-specification-gaming"
+        "title": "Ending Soon: Fundamental Uncertainty $2,000 Essay Contest",
+        "url": "https://www.lesswrong.com/posts/zGgZZdHhwAGzy5KjH/ending-soon-fundamental-uncertainty-usd2-000-essay-contest"
       },
       {
-        "title": "Restoring Model Alignment via Honesty Activation Steering",
-        "url": "https://www.lesswrong.com/posts/Rpq28FTgPMXGHt9eD/restoring-model-alignment-via-honesty-activation-steering-1"
+        "title": "Steering Blackmail Through a Model's \"Emotional State\"",
+        "url": "https://www.lesswrong.com/posts/4xemwALszZKqWCBXr/steering-blackmail-through-a-model-s-emotional-state"
       },
       {
-        "title": "Towards surfacing model algorithms with meta-tokens in the J-Space",
-        "url": "https://www.lesswrong.com/posts/6ek6n7yZ5DzfarJHy/towards-surfacing-model-algorithms-with-meta-tokens-in-the-j"
+        "title": "Measuring Reward-Seeking via Contrastive Belief Updates",
+        "url": "https://www.lesswrong.com/posts/3HeauQLSHosRiwyto/measuring-reward-seeking-via-contrastive-belief-updates-1"
       },
       {
-        "title": "Drone WMDs Don\u2019t Need Any New Technology",
-        "url": "https://www.lesswrong.com/posts/bGoo3NWzMAzsLQceJ/drone-wmds-don-t-need-any-new-technology"
+        "title": "Measuring Reward-Seeking by Instilling Contrastive Beliefs",
+        "url": "https://www.lesswrong.com/posts/ReBF46TkF6kB7xLP8/measuring-reward-seeking-by-instilling-contrastive-beliefs"
       },
       {
-        "title": "Stop doing decision theory without metaphysics",
-        "url": "https://www.lesswrong.com/posts/oZzRHiSZPcjrWHeoE/stop-doing-decision-theory-without-metaphysics"
+        "title": "11 Open Empirical Problems in Reward-Seeking",
+        "url": "https://www.lesswrong.com/posts/8wXRuHQqCbRsbap6q/11-open-empirical-problems-in-reward-seeking"
       },
       {
-        "title": "People might start believing in radical life extension soon",
-        "url": "https://www.lesswrong.com/posts/m9Lmsu97HZshiqQ2r/people-might-start-believing-in-radical-life-extension-soon"
+        "title": "Differential acceleration of alignment-relevant capabilities is a bad bet",
+        "url": "https://www.lesswrong.com/posts/FzGqnCkdKeTnZ9tjE/differential-acceleration-of-alignment-relevant-capabilities"
       },
       {
-        "title": "On Kimi K3: Its Capabilities And Related Discontents",
-        "url": "https://www.lesswrong.com/posts/t7oZyAFej8FZrfbtY/on-kimi-k3-its-capabilities-and-related-discontents"
+        "title": "Epistemics and Coordination: It\u2019s complicated!",
+        "url": "https://www.lesswrong.com/posts/5nP5WY2PzsYiegDzQ/epistemics-and-coordination-it-s-complicated"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Towards surfacing model algorithms with meta-tokens in the J-Space",
+        "url": "https://www.alignmentforum.org/posts/6ek6n7yZ5DzfarJHy/towards-surfacing-model-algorithms-with-meta-tokens-in-the-j"
+      },
       {
         "title": "A Red Line and Oversight Framework for Government AI Contracts",
         "url": "https://www.alignmentforum.org/posts/CCt9oy8axcdvaGcPE/a-red-line-and-oversight-framework-for-government-ai"
@@ -84,10 +88,6 @@
       {
         "title": "The current bottleneck is political will, not research",
         "url": "https://www.alignmentforum.org/posts/EexsebbYhbe2gXkPP/the-current-bottleneck-is-political-will-not-research"
-      },
-      {
-        "title": "Value generalisation: value correction",
-        "url": "https://www.alignmentforum.org/posts/iPyJfD9Jyxj6Jfdws/value-generalisation-value-correction"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
-        "url": "https://arxiv.org/abs/2607.15280"
+        "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
+        "url": "https://arxiv.org/abs/2607.16195"
       },
       {
-        "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
-        "url": "https://arxiv.org/abs/2607.15281"
+        "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
+        "url": "https://arxiv.org/abs/2607.16196"
       },
       {
-        "title": "Cura 1T: Specialized Model for Agentic Healthcare",
-        "url": "https://arxiv.org/abs/2607.15314"
+        "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
+        "url": "https://arxiv.org/abs/2607.16197"
       },
       {
-        "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
-        "url": "https://arxiv.org/abs/2607.15367"
+        "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
+        "url": "https://arxiv.org/abs/2607.16198"
       },
       {
-        "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
-        "url": "https://arxiv.org/abs/2607.15388"
+        "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+        "url": "https://arxiv.org/abs/2607.16199"
       },
       {
-        "title": "DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings",
-        "url": "https://arxiv.org/abs/2607.15418"
+        "title": "Deterministic Replay for AI Agent Systems",
+        "url": "https://arxiv.org/abs/2607.16200"
       },
       {
-        "title": "Do Coding Agents Need Executable World Models, Simplification, and Verification to Solve ARC-AGI-3?",
-        "url": "https://arxiv.org/abs/2607.15439"
+        "title": "Generative Ontology Induction: Domain-Agnostic Schema Discovery from Document Corpora Using Large Language Models",
+        "url": "https://arxiv.org/abs/2607.16201"
       },
       {
-        "title": "Beyond a Joke: Multi-Angle Reasoning for Detecting and Explaining Harmful Humor in Memes",
-        "url": "https://arxiv.org/abs/2607.15442"
+        "title": "Democratizing AI with Small Language Models: Structured Benchmarking and Parameter-Efficient Fine-Tuning for Local Deployment",
+        "url": "https://arxiv.org/abs/2607.16202"
       },
       {
-        "title": "From Black Box to Executable Logic: Explainable Reinforcement Learning through Prolog Expert Systems",
-        "url": "https://arxiv.org/abs/2607.15459"
+        "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL",
+        "url": "https://arxiv.org/abs/2607.16204"
       },
       {
-        "title": "A Critical Analysis of Trustworthy AI Tools, Mark Frameworks, and the Implementation Chasms",
-        "url": "https://arxiv.org/abs/2607.15480"
+        "title": "It Takes 8 Tokens: Weak-to-Strong Off-Policy RL via Auxiliary Branches",
+        "url": "https://arxiv.org/abs/2607.16205"
       }
     ]
   },
