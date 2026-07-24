@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Not Pinning Your OpenRouter Provider Might Invalidate Your Research",
-        "url": "https://www.lesswrong.com/posts/KsyoSAyBRXtwzSugg/not-pinning-your-openrouter-provider-might-invalidate-your"
+        "title": "The Long (Self-)Correction",
+        "url": "https://www.lesswrong.com/posts/2iCmDWewnZWQxxwtt/the-long-self-correction-2"
       },
       {
-        "title": "Pseudpocalypse",
-        "url": "https://www.lesswrong.com/posts/eaxoBCmQd4vew9ZXX/pseudpocalypse"
+        "title": "Why PauseAI UK accepts anonymous donations",
+        "url": "https://www.lesswrong.com/posts/e3Jz8P5KvTPcEiwdL/why-pauseai-uk-accepts-anonymous-donations"
       },
       {
-        "title": "Estimating LLM Training FLOPs on the Nvidia Jetson Orin Nano",
-        "url": "https://www.lesswrong.com/posts/wZpXEWgiG7k98p6RK/estimating-llm-training-flops-on-the-nvidia-jetson-orin-nano"
+        "title": "Seeking Mentees for the Sentient Futures Project Incubator",
+        "url": "https://www.lesswrong.com/posts/MKargaHYSJ9dDX9Nt/seeking-mentees-for-the-sentient-futures-project-incubator"
       },
       {
-        "title": "Lightcone Commons",
-        "url": "https://www.lesswrong.com/posts/tjeoLz2GzfFMysZhg/lightcone-commons"
+        "title": "Intent Is All You Need.",
+        "url": "https://www.lesswrong.com/posts/aMxhKvaBxLpCpd5Gf/intent-is-all-you-need"
       },
       {
-        "title": "Challenge: Hand coding weights for efficient sequence memorisation",
-        "url": "https://www.lesswrong.com/posts/KWtchKwwnJkd4bwCi/challenge-hand-coding-weights-for-efficient-sequence-1"
+        "title": "Congress Moves at Tech Pace: The FRONTIER Act",
+        "url": "https://www.lesswrong.com/posts/2THyLbji52oR4bqRC/congress-moves-at-tech-pace-the-frontier-act"
       },
       {
-        "title": "AI Researchers Don't Understand the State",
-        "url": "https://www.lesswrong.com/posts/fKwaqPcGnhgBCTvQf/ai-researchers-don-t-understand-the-state-2"
+        "title": "What open-source tooling does AI safety research need right now?",
+        "url": "https://www.lesswrong.com/posts/fJ5A8yzHCHibTgpLR/what-open-source-tooling-does-ai-safety-research-need-right-1"
       },
       {
-        "title": "The OpenAI/Huggingface incident | Redwood Research podcast episode 2",
-        "url": "https://www.lesswrong.com/posts/9auCLJg3Z77dFdYhR/the-openai-huggingface-incident-or-redwood-research-podcast"
+        "title": "Stable Systems Have Stable Outputs",
+        "url": "https://www.lesswrong.com/posts/yaXbKhWtyHdpsYymH/stable-systems-have-stable-outputs"
       },
       {
-        "title": "V&V takes on OpenAI\u2019s long-horizon incidents",
-        "url": "https://www.lesswrong.com/posts/xCp5GNHLe3Pq4RPBm/v-and-v-takes-on-openai-s-long-horizon-incidents"
+        "title": "The AI Industrial Explosion \u2014 Part 5: Given AGI, automating physical production is probably not that hard",
+        "url": "https://www.lesswrong.com/posts/o7tPavFtSzPa6Hy8P/the-ai-industrial-explosion-part-5-given-agi-automating"
       },
       {
-        "title": "Duane Arnold",
-        "url": "https://www.lesswrong.com/posts/G6obXhcmtfMFHzr7Q/duane-arnold-1"
+        "title": "Where does hint-following and concealment arise? A case study on OLMo-3 checkpoints",
+        "url": "https://www.lesswrong.com/posts/ywrdwTFk2dZmCFzAP/where-does-hint-following-and-concealment-arise-a-case-study"
       },
       {
-        "title": "Introducing Impact List: a ranking of people by the expected value of their donations",
-        "url": "https://www.lesswrong.com/posts/BrTkELwA7dy2Acasx/introducing-impact-list-a-ranking-of-people-by-the-expected"
+        "title": "Introducing Lightcone Commons",
+        "url": "https://www.lesswrong.com/posts/fYostss6JqkSfxc5C/introducing-lightcone-commons"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
-        "url": "https://arxiv.org/abs/2607.19349"
+        "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+        "url": "https://arxiv.org/abs/2607.20452"
       },
       {
-        "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
-        "url": "https://arxiv.org/abs/2607.19350"
+        "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+        "url": "https://arxiv.org/abs/2607.20462"
       },
       {
-        "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
-        "url": "https://arxiv.org/abs/2607.19351"
+        "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+        "url": "https://arxiv.org/abs/2607.20463"
       },
       {
-        "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
-        "url": "https://arxiv.org/abs/2607.19353"
+        "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
+        "url": "https://arxiv.org/abs/2607.20464"
       },
       {
-        "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
-        "url": "https://arxiv.org/abs/2607.19354"
+        "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+        "url": "https://arxiv.org/abs/2607.20466"
       },
       {
-        "title": "Information Discernment in Large Language Models",
-        "url": "https://arxiv.org/abs/2607.19355"
+        "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
+        "url": "https://arxiv.org/abs/2607.20467"
       },
       {
-        "title": "NEXUS: Structured Runtime Safety for Tool-Using LLM Agents",
-        "url": "https://arxiv.org/abs/2607.19356"
+        "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
+        "url": "https://arxiv.org/abs/2607.20468"
       },
       {
-        "title": "Stochastic Primal-Dual Decoding for Multiobjective Generative Recommender Systems",
-        "url": "https://arxiv.org/abs/2607.19357"
+        "title": "DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions",
+        "url": "https://arxiv.org/abs/2607.20469"
       },
       {
-        "title": "LISA: Linear-Indexed Sparse Attention for Efficient Long-Context Reasoning",
-        "url": "https://arxiv.org/abs/2607.19358"
+        "title": "PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs",
+        "url": "https://arxiv.org/abs/2607.20470"
       },
       {
-        "title": "Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles",
-        "url": "https://arxiv.org/abs/2607.19359"
+        "title": "Benchmarking the Personalization Capabilities of Large Language Models",
+        "url": "https://arxiv.org/abs/2607.20471"
       }
     ]
   },
@@ -152,7 +152,11 @@
     "url": "https://www.anthropic.com/news",
     "articles": [
       {
-        "title": "Inviting hard questionsAnnouncementsJul 9, 2026We\u2019re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+        "title": "Introducing Claude Opus 5ProductJul 24, 2026Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+        "url": "https://www.anthropic.com/news/news/claude-opus-5"
+      },
+      {
+        "title": "AnnouncementsJul 9, 2026Inviting hard questionsWe\u2019re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
         "url": "https://www.anthropic.com/news/news/hard-questions"
       },
       {
@@ -162,10 +166,6 @@
       {
         "title": "ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
         "url": "https://www.anthropic.com/news/news/claude-sonnet-5"
-      },
-      {
-        "title": "AnnouncementsJun 30, 2026Claude Science, an AI workbench for scientists, is now availableClaude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
-        "url": "https://www.anthropic.com/news/news/claude-science-ai-workbench"
       },
       {
         "title": "Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund",
