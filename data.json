@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "The Long (Self-)Correction",
-        "url": "https://www.lesswrong.com/posts/2iCmDWewnZWQxxwtt/the-long-self-correction-2"
+        "title": "Your software should build itself",
+        "url": "https://www.lesswrong.com/posts/CeRHyeot37KoqDqHC/your-software-should-build-itself"
       },
       {
-        "title": "Why PauseAI UK accepts anonymous donations",
-        "url": "https://www.lesswrong.com/posts/e3Jz8P5KvTPcEiwdL/why-pauseai-uk-accepts-anonymous-donations"
+        "title": "The Human Soul is LLM-like",
+        "url": "https://www.lesswrong.com/posts/eZE2dpjgWknfipr8p/the-human-soul-is-llm-like"
       },
       {
-        "title": "Seeking Mentees for the Sentient Futures Project Incubator",
-        "url": "https://www.lesswrong.com/posts/MKargaHYSJ9dDX9Nt/seeking-mentees-for-the-sentient-futures-project-incubator"
+        "title": "The one name LLMs may fear",
+        "url": "https://www.lesswrong.com/posts/4DZNaRn3tbi3BtvnG/the-one-name-llms-may-fear"
       },
       {
-        "title": "Intent Is All You Need.",
-        "url": "https://www.lesswrong.com/posts/aMxhKvaBxLpCpd5Gf/intent-is-all-you-need"
+        "title": "Introducing PIRAMID: Physics-Informed Research for Ambitious Mechanistic Interpretability",
+        "url": "https://www.lesswrong.com/posts/nbSJhbLERTZFeNxY7/introducing-piramid-physics-informed-research-for-ambitious"
       },
       {
-        "title": "Congress Moves at Tech Pace: The FRONTIER Act",
-        "url": "https://www.lesswrong.com/posts/2THyLbji52oR4bqRC/congress-moves-at-tech-pace-the-frontier-act"
+        "title": "Claude Opus 5: The System Card",
+        "url": "https://www.lesswrong.com/posts/ywGX6FhgbZEkHRfQR/claude-opus-5-the-system-card"
       },
       {
-        "title": "What open-source tooling does AI safety research need right now?",
-        "url": "https://www.lesswrong.com/posts/fJ5A8yzHCHibTgpLR/what-open-source-tooling-does-ai-safety-research-need-right-1"
+        "title": "The Viable System Model & Multi-Scale Agency",
+        "url": "https://www.lesswrong.com/posts/ENoAxAXrCvFHW4q3u/the-viable-system-model-and-multi-scale-agency"
       },
       {
-        "title": "Stable Systems Have Stable Outputs",
-        "url": "https://www.lesswrong.com/posts/yaXbKhWtyHdpsYymH/stable-systems-have-stable-outputs"
+        "title": "SONI: Selective Orthogonalisation via Noise Injection",
+        "url": "https://www.lesswrong.com/posts/ihbn9wwdYP9pKT3ds/soni-selective-orthogonalisation-via-noise-injection"
       },
       {
-        "title": "The AI Industrial Explosion \u2014 Part 5: Given AGI, automating physical production is probably not that hard",
-        "url": "https://www.lesswrong.com/posts/o7tPavFtSzPa6Hy8P/the-ai-industrial-explosion-part-5-given-agi-automating"
+        "title": "Linear probes tell you where quantization will hurt",
+        "url": "https://www.lesswrong.com/posts/oJJyYDgPD95jEfvQx/linear-probes-tell-you-where-quantization-will-hurt"
       },
       {
-        "title": "Where does hint-following and concealment arise? A case study on OLMo-3 checkpoints",
-        "url": "https://www.lesswrong.com/posts/ywrdwTFk2dZmCFzAP/where-does-hint-following-and-concealment-arise-a-case-study"
+        "title": "Can Recursive Self-Report Probing Detect Emergent Misalignment?",
+        "url": "https://www.lesswrong.com/posts/zqcjhJtFpLAuwXbdb/can-recursive-self-report-probing-detect-emergent-1"
       },
       {
-        "title": "Introducing Lightcone Commons",
-        "url": "https://www.lesswrong.com/posts/fYostss6JqkSfxc5C/introducing-lightcone-commons"
+        "title": "Orbit: A framework for multi-agent security evaluations",
+        "url": "https://www.lesswrong.com/posts/S44mM9b7QvDttjizb/orbit-a-framework-for-multi-agent-security-evaluations"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "The Long (Self-)Correction",
+        "url": "https://www.alignmentforum.org/posts/2iCmDWewnZWQxxwtt/the-long-self-correction-2"
+      },
       {
         "title": "Challenge: Hand coding weights for efficient sequence memorisation",
         "url": "https://www.alignmentforum.org/posts/KWtchKwwnJkd4bwCi/challenge-hand-coding-weights-for-efficient-sequence-1"
@@ -84,10 +88,6 @@
       {
         "title": "Why I Left Google DeepMind",
         "url": "https://www.alignmentforum.org/posts/iKm2FhpWkuuBojm82/why-i-left-google-deepmind"
-      },
-      {
-        "title": "Open Distillation of Hereditary Traits",
-        "url": "https://www.alignmentforum.org/posts/WpYFAmJDH3zuAq2ha/open-distillation-of-hereditary-traits-1"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
-        "url": "https://arxiv.org/abs/2607.20452"
-      },
-      {
-        "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
-        "url": "https://arxiv.org/abs/2607.20462"
-      },
-      {
-        "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
-        "url": "https://arxiv.org/abs/2607.20463"
-      },
-      {
-        "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
-        "url": "https://arxiv.org/abs/2607.20464"
-      },
-      {
-        "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
-        "url": "https://arxiv.org/abs/2607.20466"
-      },
-      {
-        "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
-        "url": "https://arxiv.org/abs/2607.20467"
-      },
-      {
-        "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
-        "url": "https://arxiv.org/abs/2607.20468"
-      },
-      {
-        "title": "DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions",
-        "url": "https://arxiv.org/abs/2607.20469"
-      },
-      {
-        "title": "PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs",
-        "url": "https://arxiv.org/abs/2607.20470"
-      },
-      {
-        "title": "Benchmarking the Personalization Capabilities of Large Language Models",
-        "url": "https://arxiv.org/abs/2607.20471"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
