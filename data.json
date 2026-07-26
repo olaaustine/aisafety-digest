@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
+        "title": "More On An Internal OpenAI Model Hacking Into HuggingFace",
+        "url": "https://www.lesswrong.com/posts/uAkcxDidvGWZjHrbp/more-on-an-internal-openai-model-hacking-into-huggingface"
+      },
+      {
+        "title": "Inoculate or Reflect? Two training interventions under prompting, steering, and patching",
+        "url": "https://www.lesswrong.com/posts/LQK3yzsn8gts4tS7c/inoculate-or-reflect-two-training-interventions-under-1"
+      },
+      {
+        "title": "Plan A, by AI-2040",
+        "url": "https://www.lesswrong.com/posts/dueFs5krBZFJWjJDB/plan-a-by-ai-2040"
+      },
+      {
+        "title": "AI use policy for my essay writing",
+        "url": "https://www.lesswrong.com/posts/tgigHkZoYrJEGe4tP/ai-use-policy-for-my-essay-writing"
+      },
+      {
+        "title": "Simple Dutch books versus Sleeping Beauty halfers",
+        "url": "https://www.lesswrong.com/posts/q3qHctffoPmZkArBB/simple-dutch-books-versus-sleeping-beauty-halfers"
+      },
+      {
+        "title": "An OpenAI model left notes about how to evade containment; we need more details",
+        "url": "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we"
+      },
+      {
+        "title": "Organ Pedals for Drumming",
+        "url": "https://www.lesswrong.com/posts/nGqmDLd5kmAwBSH9i/organ-pedals-for-drumming"
+      },
+      {
+        "title": "The OpenAI models that hacked Hugging Face weren\u2019t just following instructions",
+        "url": "https://www.lesswrong.com/posts/paFNnwFaEXrQvt8ui/the-openai-models-that-hacked-hugging-face-weren-t-just"
+      },
+      {
         "title": "Your software should build itself",
         "url": "https://www.lesswrong.com/posts/CeRHyeot37KoqDqHC/your-software-should-build-itself"
       },
       {
         "title": "The Human Soul is LLM-like",
         "url": "https://www.lesswrong.com/posts/eZE2dpjgWknfipr8p/the-human-soul-is-llm-like"
-      },
-      {
-        "title": "The one name LLMs may fear",
-        "url": "https://www.lesswrong.com/posts/4DZNaRn3tbi3BtvnG/the-one-name-llms-may-fear"
-      },
-      {
-        "title": "Introducing PIRAMID: Physics-Informed Research for Ambitious Mechanistic Interpretability",
-        "url": "https://www.lesswrong.com/posts/nbSJhbLERTZFeNxY7/introducing-piramid-physics-informed-research-for-ambitious"
-      },
-      {
-        "title": "Claude Opus 5: The System Card",
-        "url": "https://www.lesswrong.com/posts/ywGX6FhgbZEkHRfQR/claude-opus-5-the-system-card"
-      },
-      {
-        "title": "The Viable System Model & Multi-Scale Agency",
-        "url": "https://www.lesswrong.com/posts/ENoAxAXrCvFHW4q3u/the-viable-system-model-and-multi-scale-agency"
-      },
-      {
-        "title": "SONI: Selective Orthogonalisation via Noise Injection",
-        "url": "https://www.lesswrong.com/posts/ihbn9wwdYP9pKT3ds/soni-selective-orthogonalisation-via-noise-injection"
-      },
-      {
-        "title": "Linear probes tell you where quantization will hurt",
-        "url": "https://www.lesswrong.com/posts/oJJyYDgPD95jEfvQx/linear-probes-tell-you-where-quantization-will-hurt"
-      },
-      {
-        "title": "Can Recursive Self-Report Probing Detect Emergent Misalignment?",
-        "url": "https://www.lesswrong.com/posts/zqcjhJtFpLAuwXbdb/can-recursive-self-report-probing-detect-emergent-1"
-      },
-      {
-        "title": "Orbit: A framework for multi-agent security evaluations",
-        "url": "https://www.lesswrong.com/posts/S44mM9b7QvDttjizb/orbit-a-framework-for-multi-agent-security-evaluations"
       }
     ]
   },
