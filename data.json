@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "More On An Internal OpenAI Model Hacking Into HuggingFace",
-        "url": "https://www.lesswrong.com/posts/uAkcxDidvGWZjHrbp/more-on-an-internal-openai-model-hacking-into-huggingface"
+        "title": "Claude Opus 5: Model Welfare",
+        "url": "https://www.lesswrong.com/posts/bBXBpsyKAvJ5CqPzA/claude-opus-5-model-welfare"
       },
       {
-        "title": "Inoculate or Reflect? Two training interventions under prompting, steering, and patching",
-        "url": "https://www.lesswrong.com/posts/LQK3yzsn8gts4tS7c/inoculate-or-reflect-two-training-interventions-under-1"
+        "title": "Simulated Users & Sad AIs",
+        "url": "https://www.lesswrong.com/posts/i64hXdkTMtjpsQzaZ/simulated-users-and-sad-ais"
       },
       {
-        "title": "Plan A, by AI-2040",
-        "url": "https://www.lesswrong.com/posts/dueFs5krBZFJWjJDB/plan-a-by-ai-2040"
+        "title": "Green apples are delicious \u2014 two three-line exchanges",
+        "url": "https://www.lesswrong.com/posts/gnbmp4B7ZKjmuMGmJ/green-apples-are-delicious-two-three-line-exchanges"
       },
       {
-        "title": "AI use policy for my essay writing",
-        "url": "https://www.lesswrong.com/posts/tgigHkZoYrJEGe4tP/ai-use-policy-for-my-essay-writing"
+        "title": "Is Mythos good at cyber because it kept hacking Anthropic during training?",
+        "url": "https://www.lesswrong.com/posts/QKDoZe6EKhxnFjLWK/is-mythos-good-at-cyber-because-it-kept-hacking-anthropic"
       },
       {
-        "title": "Simple Dutch books versus Sleeping Beauty halfers",
-        "url": "https://www.lesswrong.com/posts/q3qHctffoPmZkArBB/simple-dutch-books-versus-sleeping-beauty-halfers"
+        "title": "Blog Revival Project",
+        "url": "https://www.lesswrong.com/posts/hdALT8gvNPGHKLXPE/blog-revival-project"
       },
       {
-        "title": "An OpenAI model left notes about how to evade containment; we need more details",
-        "url": "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we"
+        "title": "The true \"test\" dataset for a generalised task",
+        "url": "https://www.lesswrong.com/posts/moSgmWMjNn4mzmhHw/the-true-test-dataset-for-a-generalised-task"
       },
       {
-        "title": "Organ Pedals for Drumming",
-        "url": "https://www.lesswrong.com/posts/nGqmDLd5kmAwBSH9i/organ-pedals-for-drumming"
+        "title": "You (Yes, You) Need A February 2020 Checklist for AI Policy",
+        "url": "https://www.lesswrong.com/posts/ixp9oJXzjA9LrwiZo/you-yes-you-need-a-february-2020-checklist-for-ai-policy"
       },
       {
-        "title": "The OpenAI models that hacked Hugging Face weren\u2019t just following instructions",
-        "url": "https://www.lesswrong.com/posts/paFNnwFaEXrQvt8ui/the-openai-models-that-hacked-hugging-face-weren-t-just"
+        "title": "Quadrillion Param Costs: KV Cache, Context Length, Frontier Margins",
+        "url": "https://www.lesswrong.com/posts/Rk6FbkDFFm8ciqefv/quadrillion-param-costs-kv-cache-context-length-frontier"
       },
       {
-        "title": "Your software should build itself",
-        "url": "https://www.lesswrong.com/posts/CeRHyeot37KoqDqHC/your-software-should-build-itself"
+        "title": "MSE loss does not generate superposition",
+        "url": "https://www.lesswrong.com/posts/cfwAK4Qvjne4RjB74/mse-loss-does-not-generate-superposition"
       },
       {
-        "title": "The Human Soul is LLM-like",
-        "url": "https://www.lesswrong.com/posts/eZE2dpjgWknfipr8p/the-human-soul-is-llm-like"
+        "title": "RL & search is a terrifying way to build AGI (an FAQ)",
+        "url": "https://www.lesswrong.com/posts/KHyBocZncAmtu4Jbc/rl-and-search-is-a-terrifying-way-to-build-agi-an-faq"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "RL & search is a terrifying way to build AGI (an FAQ)",
+        "url": "https://www.alignmentforum.org/posts/KHyBocZncAmtu4Jbc/rl-and-search-is-a-terrifying-way-to-build-agi-an-faq"
+      },
       {
         "title": "The Long (Self-)Correction",
         "url": "https://www.alignmentforum.org/posts/2iCmDWewnZWQxxwtt/the-long-self-correction-2"
@@ -84,10 +88,6 @@
       {
         "title": "Announcing the Corrigibility Research Fund",
         "url": "https://www.alignmentforum.org/posts/FBqe5dt8ZjaHN4Xj9/announcing-the-corrigibility-research-fund"
-      },
-      {
-        "title": "Why I Left Google DeepMind",
-        "url": "https://www.alignmentforum.org/posts/iKm2FhpWkuuBojm82/why-i-left-google-deepmind"
       }
     ]
   },
@@ -127,6 +127,10 @@
         "url": "https://www.anthropic.com/news/news/claude-sonnet-5"
       },
       {
+        "title": "Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+        "url": "https://www.anthropic.com/news/news/cognizant-anthropic"
+      },
+      {
         "title": "Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund",
         "url": "https://www.anthropic.com/news/news/economic-futures-research-fund-agenda"
       },
@@ -145,10 +149,6 @@
       {
         "title": "Jul 14, 2026ProductIntroducing Claude for Teachers",
         "url": "https://www.anthropic.com/news/news/claude-for-teachers"
-      },
-      {
-        "title": "Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research",
-        "url": "https://www.anthropic.com/news/news/canadian-ai-research"
       }
     ]
   }
