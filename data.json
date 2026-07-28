@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Claude Opus 5: Model Welfare",
-        "url": "https://www.lesswrong.com/posts/bBXBpsyKAvJ5CqPzA/claude-opus-5-model-welfare"
+        "title": "Auditor-in-a-Box: Tools for Third-Party Auditing",
+        "url": "https://www.lesswrong.com/posts/uWYk7MM9hAf9GEbGe/auditor-in-a-box-tools-for-third-party-auditing"
       },
       {
-        "title": "Simulated Users & Sad AIs",
-        "url": "https://www.lesswrong.com/posts/i64hXdkTMtjpsQzaZ/simulated-users-and-sad-ais"
+        "title": "Claude Opus 5 Is Highly Capable, But Is No Mythos",
+        "url": "https://www.lesswrong.com/posts/Pj4Eewb4KXvXFCcGv/claude-opus-5-is-highly-capable-but-is-no-mythos"
       },
       {
-        "title": "Green apples are delicious \u2014 two three-line exchanges",
-        "url": "https://www.lesswrong.com/posts/gnbmp4B7ZKjmuMGmJ/green-apples-are-delicious-two-three-line-exchanges"
+        "title": "Research directions in condensation: varieties of objectivity",
+        "url": "https://www.lesswrong.com/posts/89GJeixwhFHLWxNbX/research-directions-in-condensation-varieties-of-objectivity"
       },
       {
-        "title": "Is Mythos good at cyber because it kept hacking Anthropic during training?",
-        "url": "https://www.lesswrong.com/posts/QKDoZe6EKhxnFjLWK/is-mythos-good-at-cyber-because-it-kept-hacking-anthropic"
+        "title": "ARC\u2019s research agenda: solid mathematics, an unclear safety case",
+        "url": "https://www.lesswrong.com/posts/dXrZortJehHkhq559/arc-s-research-agenda-solid-mathematics-an-unclear-safety-1"
       },
       {
-        "title": "Blog Revival Project",
-        "url": "https://www.lesswrong.com/posts/hdALT8gvNPGHKLXPE/blog-revival-project"
+        "title": "Foundation Models for Oversight",
+        "url": "https://www.lesswrong.com/posts/AqdZKyoRmN6EFCzib/foundation-models-for-oversight"
       },
       {
-        "title": "The true \"test\" dataset for a generalised task",
-        "url": "https://www.lesswrong.com/posts/moSgmWMjNn4mzmhHw/the-true-test-dataset-for-a-generalised-task"
+        "title": "The OpenAI models that hacked Hugging Face WERE just following instructions (contra Girish Gupta)",
+        "url": "https://www.lesswrong.com/posts/mcqhfH8ChbcqAuvHm/the-openai-models-that-hacked-hugging-face-were-just"
       },
       {
-        "title": "You (Yes, You) Need A February 2020 Checklist for AI Policy",
-        "url": "https://www.lesswrong.com/posts/ixp9oJXzjA9LrwiZo/you-yes-you-need-a-february-2020-checklist-for-ai-policy"
+        "title": "Value Dynamics",
+        "url": "https://www.lesswrong.com/posts/HKrpR8tyW3EiNATmA/value-dynamics"
       },
       {
-        "title": "Quadrillion Param Costs: KV Cache, Context Length, Frontier Margins",
-        "url": "https://www.lesswrong.com/posts/Rk6FbkDFFm8ciqefv/quadrillion-param-costs-kv-cache-context-length-frontier"
+        "title": "LaughBench",
+        "url": "https://www.lesswrong.com/posts/dduji8Hkwz2ASqzHi/laughbench"
       },
       {
-        "title": "MSE loss does not generate superposition",
-        "url": "https://www.lesswrong.com/posts/cfwAK4Qvjne4RjB74/mse-loss-does-not-generate-superposition"
+        "title": "Shell, Shield, Staff",
+        "url": "https://www.lesswrong.com/posts/LruMY7GrBqAYHcbxg/shell-shield-staff-1"
       },
       {
-        "title": "RL & search is a terrifying way to build AGI (an FAQ)",
-        "url": "https://www.lesswrong.com/posts/KHyBocZncAmtu4Jbc/rl-and-search-is-a-terrifying-way-to-build-agi-an-faq"
+        "title": "Untrusted advice for AI control: Short, strong advice significantly uplifts weak LLMs",
+        "url": "https://www.lesswrong.com/posts/jLkRCK35ri2btEHMF/untrusted-advice-for-ai-control-short-strong-advice"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Research directions in condensation: varieties of objectivity",
+        "url": "https://www.alignmentforum.org/posts/89GJeixwhFHLWxNbX/research-directions-in-condensation-varieties-of-objectivity"
+      },
       {
         "title": "RL & search is a terrifying way to build AGI (an FAQ)",
         "url": "https://www.alignmentforum.org/posts/KHyBocZncAmtu4Jbc/rl-and-search-is-a-terrifying-way-to-build-agi-an-faq"
@@ -84,10 +88,6 @@
       {
         "title": "Should we benchmark conceptual capabilities using\u00a0judgment prediction tasks?",
         "url": "https://www.alignmentforum.org/posts/5kEezahvkEiQuWEfx/should-we-benchmark-conceptual-capabilities-using-judgment"
-      },
-      {
-        "title": "Announcing the Corrigibility Research Fund",
-        "url": "https://www.alignmentforum.org/posts/FBqe5dt8ZjaHN4Xj9/announcing-the-corrigibility-research-fund"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
+        "url": "https://arxiv.org/abs/2607.22544"
+      },
+      {
+        "title": "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
+        "url": "https://arxiv.org/abs/2607.22548"
+      },
+      {
+        "title": "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction",
+        "url": "https://arxiv.org/abs/2607.22549"
+      },
+      {
+        "title": "Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy",
+        "url": "https://arxiv.org/abs/2607.22554"
+      },
+      {
+        "title": "DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs",
+        "url": "https://arxiv.org/abs/2607.22555"
+      },
+      {
+        "title": "MIITA: Memory-Induced Inference-Time Adaptation for Continual Learning with Small Language Models",
+        "url": "https://arxiv.org/abs/2607.22556"
+      },
+      {
+        "title": "Codifying the Judge: Scalable Evaluation via Program Distillation",
+        "url": "https://arxiv.org/abs/2607.22561"
+      },
+      {
+        "title": "SF-AMS: Strategic Forgetting for Structured Memory in LLM Agent",
+        "url": "https://arxiv.org/abs/2607.22562"
+      },
+      {
+        "title": "Synthetic Scenario Generation for Evaluation of Industry 4.0 Agents",
+        "url": "https://arxiv.org/abs/2607.22563"
+      },
+      {
+        "title": "Loss-Aware Feature-Map Pruning in Convolutional Neural Networks Using Multi-Armed Bandits",
+        "url": "https://arxiv.org/abs/2607.22564"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
@@ -127,6 +168,10 @@
         "url": "https://www.anthropic.com/news/news/claude-sonnet-5"
       },
       {
+        "title": "Jul 27, 2026AnnouncementsOur position on open-weights models",
+        "url": "https://www.anthropic.com/news/news/position-open-weights-models"
+      },
+      {
         "title": "Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
         "url": "https://www.anthropic.com/news/news/cognizant-anthropic"
       },
@@ -145,10 +190,6 @@
       {
         "title": "Jul 20, 2026AnnouncementsApply for Anthropic\u2019s AI for Science rare disease research grants",
         "url": "https://www.anthropic.com/news/news/rare-disease-research-grants"
-      },
-      {
-        "title": "Jul 14, 2026ProductIntroducing Claude for Teachers",
-        "url": "https://www.anthropic.com/news/news/claude-for-teachers"
       }
     ]
   }
