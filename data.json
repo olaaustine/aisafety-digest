@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Auditor-in-a-Box: Tools for Third-Party Auditing",
-        "url": "https://www.lesswrong.com/posts/uWYk7MM9hAf9GEbGe/auditor-in-a-box-tools-for-third-party-auditing"
+        "title": "The High-Control Dynamics at MAPLE",
+        "url": "https://www.lesswrong.com/posts/Z7pjBbK9qujhGbxws/the-high-control-dynamics-at-maple-1"
       },
       {
-        "title": "Claude Opus 5 Is Highly Capable, But Is No Mythos",
-        "url": "https://www.lesswrong.com/posts/Pj4Eewb4KXvXFCcGv/claude-opus-5-is-highly-capable-but-is-no-mythos"
+        "title": "Hugging Face hack, from the perspective of the AI",
+        "url": "https://www.lesswrong.com/posts/Zmhkz5eaeRimphGKu/hugging-face-hack-from-the-perspective-of-the-ai"
       },
       {
-        "title": "Research directions in condensation: varieties of objectivity",
-        "url": "https://www.lesswrong.com/posts/89GJeixwhFHLWxNbX/research-directions-in-condensation-varieties-of-objectivity"
+        "title": "Notes on the Anthropic cryptographic blogpost",
+        "url": "https://www.lesswrong.com/posts/ftE2aJ8txJHQnf9dR/notes-on-the-anthropic-cryptographic-blogpost"
       },
       {
-        "title": "ARC\u2019s research agenda: solid mathematics, an unclear safety case",
-        "url": "https://www.lesswrong.com/posts/dXrZortJehHkhq559/arc-s-research-agenda-solid-mathematics-an-unclear-safety-1"
+        "title": "Value Generalisation 3: Pre-aligned AIs",
+        "url": "https://www.lesswrong.com/posts/uMKGaEKRDpoqnZyBh/value-generalisation-3-pre-aligned-ais"
       },
       {
-        "title": "Foundation Models for Oversight",
-        "url": "https://www.lesswrong.com/posts/AqdZKyoRmN6EFCzib/foundation-models-for-oversight"
+        "title": "Value Generalisation 2: The Missing Hole in AIs\u2019 abilities",
+        "url": "https://www.lesswrong.com/posts/TZgezuYjkfMQxyqJC/value-generalisation-2-the-missing-hole-in-ais-abilities"
       },
       {
-        "title": "The OpenAI models that hacked Hugging Face WERE just following instructions (contra Girish Gupta)",
-        "url": "https://www.lesswrong.com/posts/mcqhfH8ChbcqAuvHm/the-openai-models-that-hacked-hugging-face-were-just"
+        "title": "Value Generalisation 1: a Research and Deployment Program",
+        "url": "https://www.lesswrong.com/posts/58zFSWp8Tmxij6ckK/value-generalisation-1-a-research-and-deployment-program"
       },
       {
-        "title": "Value Dynamics",
-        "url": "https://www.lesswrong.com/posts/HKrpR8tyW3EiNATmA/value-dynamics"
+        "title": "Intellectual Property",
+        "url": "https://www.lesswrong.com/posts/87SzarZDjywv6nwSd/intellectual-property"
       },
       {
-        "title": "LaughBench",
-        "url": "https://www.lesswrong.com/posts/dduji8Hkwz2ASqzHi/laughbench"
+        "title": "Frontier Lab Employee Open Letter Calls For Being Able to Pace the Frontier",
+        "url": "https://www.lesswrong.com/posts/eWmeMLqTEauCmHLeR/frontier-lab-employee-open-letter-calls-for-being-able-to"
       },
       {
-        "title": "Shell, Shield, Staff",
-        "url": "https://www.lesswrong.com/posts/LruMY7GrBqAYHcbxg/shell-shield-staff-1"
+        "title": "Held-out Monitors Sometimes Degrade, Even When Not Trained Against",
+        "url": "https://www.lesswrong.com/posts/APkFfRp2AicL9RqvT/held-out-monitors-sometimes-degrade-even-when-not-trained"
       },
       {
-        "title": "Untrusted advice for AI control: Short, strong advice significantly uplifts weak LLMs",
-        "url": "https://www.lesswrong.com/posts/jLkRCK35ri2btEHMF/untrusted-advice-for-ai-control-short-strong-advice"
+        "title": "Air Purifiers as White Noise Machines",
+        "url": "https://www.lesswrong.com/posts/HD3sMnwaXzWs3A4Xo/air-purifiers-as-white-noise-machines"
       }
     ]
   },
@@ -49,6 +49,18 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Value Generalisation 3: Pre-aligned AIs",
+        "url": "https://www.alignmentforum.org/posts/uMKGaEKRDpoqnZyBh/value-generalisation-3-pre-aligned-ais"
+      },
+      {
+        "title": "Value Generalisation 2: The Missing Hole in AIs\u2019 abilities",
+        "url": "https://www.alignmentforum.org/posts/TZgezuYjkfMQxyqJC/value-generalisation-2-the-missing-hole-in-ais-abilities"
+      },
+      {
+        "title": "Value Generalisation 1: a Research and Deployment Program",
+        "url": "https://www.alignmentforum.org/posts/58zFSWp8Tmxij6ckK/value-generalisation-1-a-research-and-deployment-program"
+      },
       {
         "title": "Research directions in condensation: varieties of objectivity",
         "url": "https://www.alignmentforum.org/posts/89GJeixwhFHLWxNbX/research-directions-in-condensation-varieties-of-objectivity"
@@ -76,18 +88,6 @@
       {
         "title": "Towards surfacing model algorithms with meta-tokens in the J-Space",
         "url": "https://www.alignmentforum.org/posts/6ek6n7yZ5DzfarJHy/towards-surfacing-model-algorithms-with-meta-tokens-in-the-j"
-      },
-      {
-        "title": "A Red Line and Oversight Framework for Government AI Contracts",
-        "url": "https://www.alignmentforum.org/posts/CCt9oy8axcdvaGcPE/a-red-line-and-oversight-framework-for-government-ai"
-      },
-      {
-        "title": "Endogenous Alignment",
-        "url": "https://www.alignmentforum.org/posts/xWZpwPPp5nR9rZq3x/endogenous-alignment"
-      },
-      {
-        "title": "Should we benchmark conceptual capabilities using\u00a0judgment prediction tasks?",
-        "url": "https://www.alignmentforum.org/posts/5kEezahvkEiQuWEfx/should-we-benchmark-conceptual-capabilities-using-judgment"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
-        "url": "https://arxiv.org/abs/2607.22544"
+        "title": "Do Models Fake Alignment Without Clear Consequences?",
+        "url": "https://arxiv.org/abs/2607.24758"
       },
       {
-        "title": "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
-        "url": "https://arxiv.org/abs/2607.22548"
+        "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+        "url": "https://arxiv.org/abs/2607.24759"
       },
       {
-        "title": "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction",
-        "url": "https://arxiv.org/abs/2607.22549"
+        "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+        "url": "https://arxiv.org/abs/2607.24762"
       },
       {
-        "title": "Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy",
-        "url": "https://arxiv.org/abs/2607.22554"
+        "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+        "url": "https://arxiv.org/abs/2607.24763"
       },
       {
-        "title": "DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs",
-        "url": "https://arxiv.org/abs/2607.22555"
+        "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
+        "url": "https://arxiv.org/abs/2607.24764"
       },
       {
-        "title": "MIITA: Memory-Induced Inference-Time Adaptation for Continual Learning with Small Language Models",
-        "url": "https://arxiv.org/abs/2607.22556"
+        "title": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
+        "url": "https://arxiv.org/abs/2607.24766"
       },
       {
-        "title": "Codifying the Judge: Scalable Evaluation via Program Distillation",
-        "url": "https://arxiv.org/abs/2607.22561"
+        "title": "PATHFinder Agent for Tailored Prenatal Care",
+        "url": "https://arxiv.org/abs/2607.24768"
       },
       {
-        "title": "SF-AMS: Strategic Forgetting for Structured Memory in LLM Agent",
-        "url": "https://arxiv.org/abs/2607.22562"
+        "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
+        "url": "https://arxiv.org/abs/2607.24769"
       },
       {
-        "title": "Synthetic Scenario Generation for Evaluation of Industry 4.0 Agents",
-        "url": "https://arxiv.org/abs/2607.22563"
+        "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
+        "url": "https://arxiv.org/abs/2607.24770"
       },
       {
-        "title": "Loss-Aware Feature-Map Pruning in Convolutional Neural Networks Using Multi-Armed Bandits",
-        "url": "https://arxiv.org/abs/2607.22564"
+        "title": "RoCo-ACE: Rollout-Conditioned Online Distillation for Retention-Aware Knowledge Injection",
+        "url": "https://arxiv.org/abs/2607.24771"
       }
     ]
   },
