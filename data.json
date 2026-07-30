@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "The High-Control Dynamics at MAPLE",
-        "url": "https://www.lesswrong.com/posts/Z7pjBbK9qujhGbxws/the-high-control-dynamics-at-maple-1"
+        "title": "Community Polls on Alignment Controversies II",
+        "url": "https://www.lesswrong.com/posts/SYmnLxEQartkm2Adp/community-polls-on-alignment-controversies-ii"
       },
       {
-        "title": "Hugging Face hack, from the perspective of the AI",
-        "url": "https://www.lesswrong.com/posts/Zmhkz5eaeRimphGKu/hugging-face-hack-from-the-perspective-of-the-ai"
+        "title": "My Assessment of Compute Verification in Plan A (+ open questions)",
+        "url": "https://www.lesswrong.com/posts/2eznrbNo6S7k5M9mu/my-assessment-of-compute-verification-in-plan-a-open"
       },
       {
-        "title": "Notes on the Anthropic cryptographic blogpost",
-        "url": "https://www.lesswrong.com/posts/ftE2aJ8txJHQnf9dR/notes-on-the-anthropic-cryptographic-blogpost"
+        "title": "Hint-based CoT faithfulness evals still mostly work on Claude",
+        "url": "https://www.lesswrong.com/posts/x6spD5nQQS9MiP8ac/hint-based-cot-faithfulness-evals-still-mostly-work-on"
       },
       {
-        "title": "Value Generalisation 3: Pre-aligned AIs",
-        "url": "https://www.lesswrong.com/posts/uMKGaEKRDpoqnZyBh/value-generalisation-3-pre-aligned-ais"
+        "title": "New role: Senior Researcher - MIT AI Risk Initiative",
+        "url": "https://www.lesswrong.com/posts/qegbk4cwYRqJ2ePCA/new-role-senior-researcher-mit-ai-risk-initiative"
       },
       {
-        "title": "Value Generalisation 2: The Missing Hole in AIs\u2019 abilities",
-        "url": "https://www.lesswrong.com/posts/TZgezuYjkfMQxyqJC/value-generalisation-2-the-missing-hole-in-ais-abilities"
+        "title": "So you want to use plants to reduce indoor CO\u2082",
+        "url": "https://www.lesswrong.com/posts/YfKgyuc8s9BcAMpEp/so-you-want-to-use-plants-to-reduce-indoor-co"
       },
       {
-        "title": "Value Generalisation 1: a Research and Deployment Program",
-        "url": "https://www.lesswrong.com/posts/58zFSWp8Tmxij6ckK/value-generalisation-1-a-research-and-deployment-program"
+        "title": "Big-World Intuitions",
+        "url": "https://www.lesswrong.com/posts/s22XzjQsrh6JXhXGH/big-world-intuitions"
       },
       {
-        "title": "Intellectual Property",
-        "url": "https://www.lesswrong.com/posts/87SzarZDjywv6nwSd/intellectual-property"
+        "title": "Internal State Control is a General Property of LLMs",
+        "url": "https://www.lesswrong.com/posts/Dvqmgfeu2KDF7uMkx/internal-state-control-is-a-general-property-of-llms"
       },
       {
-        "title": "Frontier Lab Employee Open Letter Calls For Being Able to Pace the Frontier",
-        "url": "https://www.lesswrong.com/posts/eWmeMLqTEauCmHLeR/frontier-lab-employee-open-letter-calls-for-being-able-to"
+        "title": "Opus 5 Glitch Text",
+        "url": "https://www.lesswrong.com/posts/ZSBse2fyftgHiJ3Kq/opus-5-glitch-text"
       },
       {
-        "title": "Held-out Monitors Sometimes Degrade, Even When Not Trained Against",
-        "url": "https://www.lesswrong.com/posts/APkFfRp2AicL9RqvT/held-out-monitors-sometimes-degrade-even-when-not-trained"
+        "title": "Testing LLMs on Undergraduate Music Theory",
+        "url": "https://www.lesswrong.com/posts/F6ap5PkP4axawjwWx/testing-llms-on-undergraduate-music-theory"
       },
       {
-        "title": "Air Purifiers as White Noise Machines",
-        "url": "https://www.lesswrong.com/posts/HD3sMnwaXzWs3A4Xo/air-purifiers-as-white-noise-machines"
+        "title": "The Entangled Dimensions of Decision Theory",
+        "url": "https://www.lesswrong.com/posts/qjvXiuNZKJKdocxTT/the-entangled-dimensions-of-decision-theory-5"
       }
     ]
   },
@@ -49,6 +49,14 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Thousand-dimensional structure",
+        "url": "https://www.alignmentforum.org/posts/sFhW3ZnPMJdnB4Dd6/thousand-dimensional-structure-1"
+      },
+      {
+        "title": "Imprecise beliefs: a tiny introduction",
+        "url": "https://www.alignmentforum.org/posts/e7Pd4Q9TF7jFdmPgz/imprecise-beliefs-a-tiny-introduction"
+      },
       {
         "title": "Value Generalisation 3: Pre-aligned AIs",
         "url": "https://www.alignmentforum.org/posts/uMKGaEKRDpoqnZyBh/value-generalisation-3-pre-aligned-ais"
@@ -80,14 +88,6 @@
       {
         "title": "Are we existentially threatened by the type of AI misalignment seen in the OpenAI Hugging Face attack?",
         "url": "https://www.alignmentforum.org/posts/H6DDSEvrtCk8Sehfd/are-we-existentially-threatened-by-the-type-of-ai"
-      },
-      {
-        "title": "[Paper] Stringological sequence prediction II",
-        "url": "https://www.alignmentforum.org/posts/TTei7oq9ndjJFgnsT/paper-stringological-sequence-prediction-ii"
-      },
-      {
-        "title": "Towards surfacing model algorithms with meta-tokens in the J-Space",
-        "url": "https://www.alignmentforum.org/posts/6ek6n7yZ5DzfarJHy/towards-surfacing-model-algorithms-with-meta-tokens-in-the-j"
       }
     ]
   },
