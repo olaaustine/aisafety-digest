@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Community Polls on Alignment Controversies II",
-        "url": "https://www.lesswrong.com/posts/SYmnLxEQartkm2Adp/community-polls-on-alignment-controversies-ii"
+        "title": "AI safety prizes",
+        "url": "https://www.lesswrong.com/posts/rqf9LLgPn2xTvP7m6/ai-safety-prizes"
       },
       {
-        "title": "My Assessment of Compute Verification in Plan A (+ open questions)",
-        "url": "https://www.lesswrong.com/posts/2eznrbNo6S7k5M9mu/my-assessment-of-compute-verification-in-plan-a-open"
+        "title": "Taboo \u201cequilibrium\u201d: Less confused frames for research on AI bargaining",
+        "url": "https://www.lesswrong.com/posts/KDq5aXwanvH5YoZYs/taboo-equilibrium-less-confused-frames-for-research-on-ai"
       },
       {
-        "title": "Hint-based CoT faithfulness evals still mostly work on Claude",
-        "url": "https://www.lesswrong.com/posts/x6spD5nQQS9MiP8ac/hint-based-cot-faithfulness-evals-still-mostly-work-on"
+        "title": "Parallelization constraints could delay a technological singularity [Linkpost]",
+        "url": "https://www.lesswrong.com/posts/awc78puocgEAwMhKn/parallelization-constraints-could-delay-a-technological"
       },
       {
-        "title": "New role: Senior Researcher - MIT AI Risk Initiative",
-        "url": "https://www.lesswrong.com/posts/qegbk4cwYRqJ2ePCA/new-role-senior-researcher-mit-ai-risk-initiative"
+        "title": "How to Measure Intelligence Beyond Human Scale?",
+        "url": "https://www.lesswrong.com/posts/avtquSx2PkWsxXW6T/how-to-measure-intelligence-beyond-human-scale"
       },
       {
-        "title": "So you want to use plants to reduce indoor CO\u2082",
-        "url": "https://www.lesswrong.com/posts/YfKgyuc8s9BcAMpEp/so-you-want-to-use-plants-to-reduce-indoor-co"
+        "title": "When you donate can matter more than where",
+        "url": "https://www.lesswrong.com/posts/ikpNG4yYuAF6q6j9D/when-you-donate-can-matter-more-than-where"
       },
       {
-        "title": "Big-World Intuitions",
-        "url": "https://www.lesswrong.com/posts/s22XzjQsrh6JXhXGH/big-world-intuitions"
+        "title": "Value Leakage: An LLM\u2019s Answers Are Silently Shaped by Its Own Values",
+        "url": "https://www.lesswrong.com/posts/hbMw4Yqw6RnFaExDy/value-leakage-an-llm-s-answers-are-silently-shaped-by-its-1"
       },
       {
-        "title": "Internal State Control is a General Property of LLMs",
-        "url": "https://www.lesswrong.com/posts/Dvqmgfeu2KDF7uMkx/internal-state-control-is-a-general-property-of-llms"
+        "title": "AGI Safety and Alignment at Google DeepMind: A Summary of Recent Work (July 2026)",
+        "url": "https://www.lesswrong.com/posts/ZTdRtSWaw7JgqEtfa/agi-safety-and-alignment-at-google-deepmind-a-summary-of-1"
       },
       {
-        "title": "Opus 5 Glitch Text",
-        "url": "https://www.lesswrong.com/posts/ZSBse2fyftgHiJ3Kq/opus-5-glitch-text"
+        "title": "The AGI Safety and Alignment team at Google DeepMind is Hiring (July 2026)",
+        "url": "https://www.lesswrong.com/posts/AyDNvb3Pw6Kgo7Dqb/the-agi-safety-and-alignment-team-at-google-deepmind-is"
       },
       {
-        "title": "Testing LLMs on Undergraduate Music Theory",
-        "url": "https://www.lesswrong.com/posts/F6ap5PkP4axawjwWx/testing-llms-on-undergraduate-music-theory"
+        "title": "Reward Laundering: LLMs Can Gain Unintended Behaviors by Deciding When to Earn Their Rewards",
+        "url": "https://www.lesswrong.com/posts/fPWP4rHPLqKKHKe6B/reward-laundering-llms-can-gain-unintended-behaviors-by"
       },
       {
-        "title": "The Entangled Dimensions of Decision Theory",
-        "url": "https://www.lesswrong.com/posts/qjvXiuNZKJKdocxTT/the-entangled-dimensions-of-decision-theory-5"
+        "title": "Orienting Towards Oversight: Which AIs Should Want to Defect?",
+        "url": "https://www.lesswrong.com/posts/emiPuzgbdyiBuNyJ9/orienting-towards-oversight-which-ais-should-want-to-defect"
       }
     ]
   },
@@ -49,6 +49,22 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Value Leakage: An LLM\u2019s Answers Are Silently Shaped by Its Own Values",
+        "url": "https://www.alignmentforum.org/posts/hbMw4Yqw6RnFaExDy/value-leakage-an-llm-s-answers-are-silently-shaped-by-its-1"
+      },
+      {
+        "title": "AGI Safety and Alignment at Google DeepMind: A Summary of Recent Work (July 2026)",
+        "url": "https://www.alignmentforum.org/posts/ZTdRtSWaw7JgqEtfa/agi-safety-and-alignment-at-google-deepmind-a-summary-of-1"
+      },
+      {
+        "title": "The AGI Safety and Alignment team at Google DeepMind is Hiring (July 2026)",
+        "url": "https://www.alignmentforum.org/posts/AyDNvb3Pw6Kgo7Dqb/the-agi-safety-and-alignment-team-at-google-deepmind-is"
+      },
+      {
+        "title": "OpenAI has already ended an internal pause",
+        "url": "https://www.alignmentforum.org/posts/k3eKqKzq4Y7xnqEfZ/openai-has-already-ended-an-internal-pause"
+      },
       {
         "title": "Thousand-dimensional structure",
         "url": "https://www.alignmentforum.org/posts/sFhW3ZnPMJdnB4Dd6/thousand-dimensional-structure-1"
@@ -72,22 +88,6 @@
       {
         "title": "Research directions in condensation: varieties of objectivity",
         "url": "https://www.alignmentforum.org/posts/89GJeixwhFHLWxNbX/research-directions-in-condensation-varieties-of-objectivity"
-      },
-      {
-        "title": "RL & search is a terrifying way to build AGI (an FAQ)",
-        "url": "https://www.alignmentforum.org/posts/KHyBocZncAmtu4Jbc/rl-and-search-is-a-terrifying-way-to-build-agi-an-faq"
-      },
-      {
-        "title": "The Long (Self-)Correction",
-        "url": "https://www.alignmentforum.org/posts/2iCmDWewnZWQxxwtt/the-long-self-correction-2"
-      },
-      {
-        "title": "Challenge: Hand coding weights for efficient sequence memorisation",
-        "url": "https://www.alignmentforum.org/posts/KWtchKwwnJkd4bwCi/challenge-hand-coding-weights-for-efficient-sequence-1"
-      },
-      {
-        "title": "Are we existentially threatened by the type of AI misalignment seen in the OpenAI Hugging Face attack?",
-        "url": "https://www.alignmentforum.org/posts/H6DDSEvrtCk8Sehfd/are-we-existentially-threatened-by-the-type-of-ai"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Do Models Fake Alignment Without Clear Consequences?",
-        "url": "https://arxiv.org/abs/2607.24758"
+        "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+        "url": "https://arxiv.org/abs/2607.26119"
       },
       {
-        "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
-        "url": "https://arxiv.org/abs/2607.24759"
+        "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+        "url": "https://arxiv.org/abs/2607.26120"
       },
       {
-        "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
-        "url": "https://arxiv.org/abs/2607.24762"
+        "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
+        "url": "https://arxiv.org/abs/2607.26155"
       },
       {
-        "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
-        "url": "https://arxiv.org/abs/2607.24763"
+        "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
+        "url": "https://arxiv.org/abs/2607.26159"
       },
       {
-        "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
-        "url": "https://arxiv.org/abs/2607.24764"
+        "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
+        "url": "https://arxiv.org/abs/2607.26160"
       },
       {
-        "title": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
-        "url": "https://arxiv.org/abs/2607.24766"
+        "title": "GoGoTB: Agentic RTL Verification with Specification-Grounded Coverage Closure",
+        "url": "https://arxiv.org/abs/2607.26181"
       },
       {
-        "title": "PATHFinder Agent for Tailored Prenatal Care",
-        "url": "https://arxiv.org/abs/2607.24768"
+        "title": "Position: Evaluation Scores Are Perishable Knowledge Claims",
+        "url": "https://arxiv.org/abs/2607.26191"
       },
       {
-        "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
-        "url": "https://arxiv.org/abs/2607.24769"
+        "title": "TraceCoder: Explainable and Auditable Code Generation with Position-Key Snippet Versioning",
+        "url": "https://arxiv.org/abs/2607.26307"
       },
       {
-        "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
-        "url": "https://arxiv.org/abs/2607.24770"
+        "title": "Exploring Structures in Physics Problems: Can AI Agents Discover Statistical Mechanical Mappings?",
+        "url": "https://arxiv.org/abs/2607.26367"
       },
       {
-        "title": "RoCo-ACE: Rollout-Conditioned Online Distillation for Retention-Aware Knowledge Injection",
-        "url": "https://arxiv.org/abs/2607.24771"
+        "title": "CaM-Wolf: Causal-Aware Multimodal Agents for Social Deduction Games",
+        "url": "https://arxiv.org/abs/2607.26393"
       }
     ]
   },
@@ -168,6 +168,10 @@
         "url": "https://www.anthropic.com/news/news/claude-sonnet-5"
       },
       {
+        "title": "Jul 30, 2026Frontier Red TeamInvestigating three real-world incidents in our cybersecurity evaluations",
+        "url": "https://www.anthropic.com/news/news/investigating-incidents-cybersecurity-evals"
+      },
+      {
         "title": "Jul 27, 2026AnnouncementsOur position on open-weights models",
         "url": "https://www.anthropic.com/news/news/position-open-weights-models"
       },
@@ -186,10 +190,6 @@
       {
         "title": "Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action",
         "url": "https://www.anthropic.com/news/news/donation-public-first-action"
-      },
-      {
-        "title": "Jul 20, 2026AnnouncementsApply for Anthropic\u2019s AI for Science rare disease research grants",
-        "url": "https://www.anthropic.com/news/news/rare-disease-research-grants"
       }
     ]
   }
