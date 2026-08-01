@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
+        "title": "Bayeswatch: a Retrospective",
+        "url": "https://www.lesswrong.com/posts/EaNkLdsuDQMFCW7ow/bayeswatch-a-retrospective"
+      },
+      {
+        "title": "Confirming Claims of Superposition and Adversarial Examples in Toy Models",
+        "url": "https://www.lesswrong.com/posts/rwu73dCE3uWjieijK/confirming-claims-of-superposition-and-adversarial-examples"
+      },
+      {
+        "title": "Using AI to analyze life patterns",
+        "url": "https://www.lesswrong.com/posts/3RghEkCcY8749drkE/using-ai-to-analyze-life-patterns"
+      },
+      {
+        "title": "Do your capabilities homework",
+        "url": "https://www.lesswrong.com/posts/dYnhhTxoDj3fuCxLB/do-your-capabilities-homework"
+      },
+      {
+        "title": "Why so many therapy etc. frameworks think they're The One True Approach",
+        "url": "https://www.lesswrong.com/posts/v58ypL2vuenDD7t27/why-so-many-therapy-etc-frameworks-think-they-re-the-one"
+      },
+      {
+        "title": "Generalization and infinite width",
+        "url": "https://www.lesswrong.com/posts/LwArt7JdkjoEDo5Eo/generalization-and-infinite-width"
+      },
+      {
+        "title": "Review of Fundamental Uncertainty.",
+        "url": "https://www.lesswrong.com/posts/tEEKbdAoe8pvwJjMm/review-of-fundamental-uncertainty"
+      },
+      {
+        "title": "Bringing together a few different economic ideas.",
+        "url": "https://www.lesswrong.com/posts/WMc7dZr2FBai29KJy/bringing-together-a-few-different-economic-ideas"
+      },
+      {
+        "title": "SOTA alignment assessments don\u2019t\u00a0strongly update us\u00a0against misalignment",
+        "url": "https://www.lesswrong.com/posts/oirrSj3itFLSyscW8/sota-alignment-assessments-don-t-strongly-update-us-against"
+      },
+      {
         "title": "AI safety prizes",
         "url": "https://www.lesswrong.com/posts/rqf9LLgPn2xTvP7m6/ai-safety-prizes"
-      },
-      {
-        "title": "Taboo \u201cequilibrium\u201d: Less confused frames for research on AI bargaining",
-        "url": "https://www.lesswrong.com/posts/KDq5aXwanvH5YoZYs/taboo-equilibrium-less-confused-frames-for-research-on-ai"
-      },
-      {
-        "title": "Parallelization constraints could delay a technological singularity [Linkpost]",
-        "url": "https://www.lesswrong.com/posts/awc78puocgEAwMhKn/parallelization-constraints-could-delay-a-technological"
-      },
-      {
-        "title": "How to Measure Intelligence Beyond Human Scale?",
-        "url": "https://www.lesswrong.com/posts/avtquSx2PkWsxXW6T/how-to-measure-intelligence-beyond-human-scale"
-      },
-      {
-        "title": "When you donate can matter more than where",
-        "url": "https://www.lesswrong.com/posts/ikpNG4yYuAF6q6j9D/when-you-donate-can-matter-more-than-where"
-      },
-      {
-        "title": "Value Leakage: An LLM\u2019s Answers Are Silently Shaped by Its Own Values",
-        "url": "https://www.lesswrong.com/posts/hbMw4Yqw6RnFaExDy/value-leakage-an-llm-s-answers-are-silently-shaped-by-its-1"
-      },
-      {
-        "title": "AGI Safety and Alignment at Google DeepMind: A Summary of Recent Work (July 2026)",
-        "url": "https://www.lesswrong.com/posts/ZTdRtSWaw7JgqEtfa/agi-safety-and-alignment-at-google-deepmind-a-summary-of-1"
-      },
-      {
-        "title": "The AGI Safety and Alignment team at Google DeepMind is Hiring (July 2026)",
-        "url": "https://www.lesswrong.com/posts/AyDNvb3Pw6Kgo7Dqb/the-agi-safety-and-alignment-team-at-google-deepmind-is"
-      },
-      {
-        "title": "Reward Laundering: LLMs Can Gain Unintended Behaviors by Deciding When to Earn Their Rewards",
-        "url": "https://www.lesswrong.com/posts/fPWP4rHPLqKKHKe6B/reward-laundering-llms-can-gain-unintended-behaviors-by"
-      },
-      {
-        "title": "Orienting Towards Oversight: Which AIs Should Want to Defect?",
-        "url": "https://www.lesswrong.com/posts/emiPuzgbdyiBuNyJ9/orienting-towards-oversight-which-ais-should-want-to-defect"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
-        "url": "https://arxiv.org/abs/2607.26119"
-      },
-      {
-        "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
-        "url": "https://arxiv.org/abs/2607.26120"
-      },
-      {
-        "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
-        "url": "https://arxiv.org/abs/2607.26155"
-      },
-      {
-        "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
-        "url": "https://arxiv.org/abs/2607.26159"
-      },
-      {
-        "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
-        "url": "https://arxiv.org/abs/2607.26160"
-      },
-      {
-        "title": "GoGoTB: Agentic RTL Verification with Specification-Grounded Coverage Closure",
-        "url": "https://arxiv.org/abs/2607.26181"
-      },
-      {
-        "title": "Position: Evaluation Scores Are Perishable Knowledge Claims",
-        "url": "https://arxiv.org/abs/2607.26191"
-      },
-      {
-        "title": "TraceCoder: Explainable and Auditable Code Generation with Position-Key Snippet Versioning",
-        "url": "https://arxiv.org/abs/2607.26307"
-      },
-      {
-        "title": "Exploring Structures in Physics Problems: Can AI Agents Discover Statistical Mechanical Mappings?",
-        "url": "https://arxiv.org/abs/2607.26367"
-      },
-      {
-        "title": "CaM-Wolf: Causal-Aware Multimodal Agents for Social Deduction Games",
-        "url": "https://arxiv.org/abs/2607.26393"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
