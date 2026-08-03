@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Industrializing a small field: Lessons from Vannevar",
-        "url": "https://www.lesswrong.com/posts/knCfKJEmsKJFPCo4x/industrializing-a-small-field-lessons-from-vannevar"
+        "title": "Why biological weapons are scary, and what we can do about it",
+        "url": "https://www.lesswrong.com/posts/WusL5mDbtJBjdTxCh/why-biological-weapons-are-scary-and-what-we-can-do-about-it"
       },
       {
-        "title": "Dispatch from Anthropic v. Department of War Summary Judgment Motion Hearing",
-        "url": "https://www.lesswrong.com/posts/jGEXLKyGtXyiYa7ac/dispatch-from-anthropic-v-department-of-war-summary-judgment"
+        "title": "Deliberate Alignment Faking as a Defense Against Model Poisoning",
+        "url": "https://www.lesswrong.com/posts/T3KaFxWx7c53f9r4b/deliberate-alignment-faking-as-a-defense-against-model-1"
       },
       {
-        "title": "Further Developments About Internal AI Models Hacking Things",
-        "url": "https://www.lesswrong.com/posts/rKwHLW8SnJcTxTQxz/further-developments-about-internal-ai-models-hacking-things"
+        "title": "OpenAI\u2019s Unreleased Model Astra Solves Ten Major Open Mathematics Problems",
+        "url": "https://www.lesswrong.com/posts/pQYEPitFqztcRvBsS/openai-s-unreleased-model-astra-solves-ten-major-open"
       },
       {
-        "title": "Map and Territory, Predictably Wrong (2)",
-        "url": "https://www.lesswrong.com/posts/8CRKACAetuzfXjLB8/map-and-territory-predictably-wrong-2"
+        "title": "Slack, and Slack Again, but Less",
+        "url": "https://www.lesswrong.com/posts/j8zxC3ZgEBbR9bDH8/slack-and-slack-again-but-less"
       },
       {
-        "title": "Chill Buddhism",
-        "url": "https://www.lesswrong.com/posts/coHoAojCiqucLL4rL/chill-buddhism"
+        "title": "Coming of a New Sun",
+        "url": "https://www.lesswrong.com/posts/aWAqChukZepPY8Y6z/coming-of-a-new-sun"
       },
       {
-        "title": "Questions for the reader (and writer) of \"Fundamental Uncertainty\"",
-        "url": "https://www.lesswrong.com/posts/wQxrbwocnCsTjHMeA/questions-for-the-reader-and-writer-of-fundamental"
+        "title": "LessWrong vs. TikTok: Tips for capturing attention in a non-rational space",
+        "url": "https://www.lesswrong.com/posts/bL8RoJu5wyLssdxiz/lesswrong-vs-tiktok-tips-for-capturing-attention-in-a-non"
       },
       {
-        "title": "Agnostic Meaning: Betting on Others",
-        "url": "https://www.lesswrong.com/posts/pvGSzHMjYvesNg78Z/agnostic-meaning-betting-on-others"
+        "title": "II. Anthropic reasoning with duplication is not consistent with probability properties",
+        "url": "https://www.lesswrong.com/posts/GR3TqJebMsiLQBqjv/ii-anthropic-reasoning-with-duplication-is-not-consistent"
       },
       {
-        "title": "The Art of Shipping Slopware",
-        "url": "https://www.lesswrong.com/posts/juRRtv5KB7YbP5zaa/the-art-of-shipping-slopware"
+        "title": "AI in Mathematics, 2026: From Assistant to Top Researcher",
+        "url": "https://www.lesswrong.com/posts/iHSSr7bEsLrdoWhhw/ai-in-mathematics-2026-from-assistant-to-top-researcher"
       },
       {
-        "title": "A Chess Training App for Imitation Learning",
-        "url": "https://www.lesswrong.com/posts/D2CpuGdiLrhr3gJXa/a-chess-training-app-for-imitation-learning"
+        "title": "Resources for finding neglected scientific problems (beyond EA)?",
+        "url": "https://www.lesswrong.com/posts/ytouFAbiSPs9BK2ha/resources-for-finding-neglected-scientific-problems-beyond"
       },
       {
-        "title": "LessWrong App",
-        "url": "https://www.lesswrong.com/posts/rZmiewu7sBzuFXewn/lesswrong-app"
+        "title": "Concrete Evaluations to Investigate the OpenAI Model That Hacked Hugging Face",
+        "url": "https://www.lesswrong.com/posts/aCdhjy7Rps3BEhiSj/concrete-evaluations-to-investigate-the-openai-model-that"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Concrete Evaluations to Investigate the OpenAI Model That Hacked Hugging Face",
+        "url": "https://www.alignmentforum.org/posts/aCdhjy7Rps3BEhiSj/concrete-evaluations-to-investigate-the-openai-model-that"
+      },
       {
         "title": "Value Leakage: An LLM\u2019s Answers Are Silently Shaped by Its Own Values",
         "url": "https://www.alignmentforum.org/posts/hbMw4Yqw6RnFaExDy/value-leakage-an-llm-s-answers-are-silently-shaped-by-its-1"
@@ -84,10 +88,6 @@
       {
         "title": "Value Generalisation 1: a Research and Deployment Program",
         "url": "https://www.alignmentforum.org/posts/58zFSWp8Tmxij6ckK/value-generalisation-1-a-research-and-deployment-program"
-      },
-      {
-        "title": "Research directions in condensation: varieties of objectivity",
-        "url": "https://www.alignmentforum.org/posts/89GJeixwhFHLWxNbX/research-directions-in-condensation-varieties-of-objectivity"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+        "url": "https://arxiv.org/abs/2607.28629"
+      },
+      {
+        "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+        "url": "https://arxiv.org/abs/2607.28631"
+      },
+      {
+        "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+        "url": "https://arxiv.org/abs/2607.28632"
+      },
+      {
+        "title": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
+        "url": "https://arxiv.org/abs/2607.28642"
+      },
+      {
+        "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+        "url": "https://arxiv.org/abs/2607.28657"
+      },
+      {
+        "title": "Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding",
+        "url": "https://arxiv.org/abs/2607.28659"
+      },
+      {
+        "title": "An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents",
+        "url": "https://arxiv.org/abs/2607.28662"
+      },
+      {
+        "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
+        "url": "https://arxiv.org/abs/2607.28674"
+      },
+      {
+        "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
+        "url": "https://arxiv.org/abs/2607.28677"
+      },
+      {
+        "title": "ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding",
+        "url": "https://arxiv.org/abs/2607.28678"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
@@ -127,7 +168,7 @@
         "url": "https://www.anthropic.com/news/news/claude-sonnet-5"
       },
       {
-        "title": "Jul 30, 2026Frontier Red TeamInvestigating three real-world incidents in our cybersecurity evaluations",
+        "title": "Jul 30, 2026Investigating three real-world incidents in our cybersecurity evaluations",
         "url": "https://www.anthropic.com/news/news/investigating-incidents-cybersecurity-evals"
       },
       {
