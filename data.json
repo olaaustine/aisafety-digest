@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Why biological weapons are scary, and what we can do about it",
-        "url": "https://www.lesswrong.com/posts/WusL5mDbtJBjdTxCh/why-biological-weapons-are-scary-and-what-we-can-do-about-it"
+        "title": "Most donors get risk wrong",
+        "url": "https://www.lesswrong.com/posts/usYj63HPzKNCjHgaN/most-donors-get-risk-wrong"
       },
       {
-        "title": "Deliberate Alignment Faking as a Defense Against Model Poisoning",
-        "url": "https://www.lesswrong.com/posts/T3KaFxWx7c53f9r4b/deliberate-alignment-faking-as-a-defense-against-model-1"
+        "title": "An Amicable Ape",
+        "url": "https://www.lesswrong.com/posts/ucJecSua6pYkNKbc3/an-amicable-ape"
       },
       {
-        "title": "OpenAI\u2019s Unreleased Model Astra Solves Ten Major Open Mathematics Problems",
-        "url": "https://www.lesswrong.com/posts/pQYEPitFqztcRvBsS/openai-s-unreleased-model-astra-solves-ten-major-open"
+        "title": "Beyond Tech\u2019s Power: On Status, Sacrifice, and the Search for Legitimacy",
+        "url": "https://www.lesswrong.com/posts/sBPaxW3mAfHPswHBr/beyond-tech-s-power-on-status-sacrifice-and-the-search-for"
       },
       {
-        "title": "Slack, and Slack Again, but Less",
-        "url": "https://www.lesswrong.com/posts/j8zxC3ZgEBbR9bDH8/slack-and-slack-again-but-less"
+        "title": "Why don't we just give AI the answers?",
+        "url": "https://www.lesswrong.com/posts/EjwDWDJNaXF9BEqLc/why-don-t-we-just-give-ai-the-answers"
       },
       {
-        "title": "Coming of a New Sun",
-        "url": "https://www.lesswrong.com/posts/aWAqChukZepPY8Y6z/coming-of-a-new-sun"
+        "title": "Announcing Lateral Workshop for experienced professionals moving into AI safety",
+        "url": "https://www.lesswrong.com/posts/EJQjvf9j3oeFeao8G/announcing-lateral-workshop-for-experienced-professionals"
       },
       {
-        "title": "LessWrong vs. TikTok: Tips for capturing attention in a non-rational space",
-        "url": "https://www.lesswrong.com/posts/bL8RoJu5wyLssdxiz/lesswrong-vs-tiktok-tips-for-capturing-attention-in-a-non"
+        "title": "Does Your LLM Trust You?",
+        "url": "https://www.lesswrong.com/posts/AExopgZ9Yj6qzTrxb/does-your-llm-trust-you-1"
       },
       {
-        "title": "II. Anthropic reasoning with duplication is not consistent with probability properties",
-        "url": "https://www.lesswrong.com/posts/GR3TqJebMsiLQBqjv/ii-anthropic-reasoning-with-duplication-is-not-consistent"
+        "title": "Don't Dither",
+        "url": "https://www.lesswrong.com/posts/TCgF4wL9TBEBgxzHr/don-t-dither"
       },
       {
-        "title": "AI in Mathematics, 2026: From Assistant to Top Researcher",
-        "url": "https://www.lesswrong.com/posts/iHSSr7bEsLrdoWhhw/ai-in-mathematics-2026-from-assistant-to-top-researcher"
+        "title": "There Will Come Soft Rains",
+        "url": "https://www.lesswrong.com/posts/aowxE8xZ8xkhRCn9r/there-will-come-soft-rains-1"
       },
       {
-        "title": "Resources for finding neglected scientific problems (beyond EA)?",
-        "url": "https://www.lesswrong.com/posts/ytouFAbiSPs9BK2ha/resources-for-finding-neglected-scientific-problems-beyond"
+        "title": "Commodifying Thinking",
+        "url": "https://www.lesswrong.com/posts/ZHrMpFa2Syta35q5n/commodifying-thinking"
       },
       {
-        "title": "Concrete Evaluations to Investigate the OpenAI Model That Hacked Hugging Face",
-        "url": "https://www.lesswrong.com/posts/aCdhjy7Rps3BEhiSj/concrete-evaluations-to-investigate-the-openai-model-that"
+        "title": "Would We See It Coming? Preference Falsification Cascades in Multi-Agent Systems",
+        "url": "https://www.lesswrong.com/posts/pRnXSFvWMqPKd6Ews/would-we-see-it-coming-preference-falsification-cascades-in"
       }
     ]
   },
@@ -168,6 +168,10 @@
         "url": "https://www.anthropic.com/news/news/claude-sonnet-5"
       },
       {
+        "title": "Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
+        "url": "https://www.anthropic.com/news/news/tino-cuellar"
+      },
+      {
         "title": "Jul 30, 2026Investigating three real-world incidents in our cybersecurity evaluations",
         "url": "https://www.anthropic.com/news/news/investigating-incidents-cybersecurity-evals"
       },
@@ -186,10 +190,6 @@
       {
         "title": "Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index",
         "url": "https://www.anthropic.com/news/news/anthropic-economic-index-connector"
-      },
-      {
-        "title": "Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action",
-        "url": "https://www.anthropic.com/news/news/donation-public-first-action"
       }
     ]
   }
