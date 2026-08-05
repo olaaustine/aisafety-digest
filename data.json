@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Most donors get risk wrong",
-        "url": "https://www.lesswrong.com/posts/usYj63HPzKNCjHgaN/most-donors-get-risk-wrong"
+        "title": "Thomas Schelling's Nobel Prize Speech: An Astonishing Sixty Years: The Legacy of Hiroshima",
+        "url": "https://www.lesswrong.com/posts/HHKbNEsqujuQPvBC6/thomas-schelling-s-nobel-prize-speech-an-astonishing-sixty"
       },
       {
-        "title": "An Amicable Ape",
-        "url": "https://www.lesswrong.com/posts/ucJecSua6pYkNKbc3/an-amicable-ape"
+        "title": "Terminal-Bench Leaderboard Rankings: Luck or Skill?",
+        "url": "https://www.lesswrong.com/posts/GiPmLmmbT6DyrwYkH/terminal-bench-leaderboard-rankings-luck-or-skill"
       },
       {
-        "title": "Beyond Tech\u2019s Power: On Status, Sacrifice, and the Search for Legitimacy",
-        "url": "https://www.lesswrong.com/posts/sBPaxW3mAfHPswHBr/beyond-tech-s-power-on-status-sacrifice-and-the-search-for"
+        "title": "An argument of Parfit's reconsidered with logical decision theory",
+        "url": "https://www.lesswrong.com/posts/fFjRXLmyCixt3rR4Q/an-argument-of-parfit-s-reconsidered-with-logical-decision"
       },
       {
-        "title": "Why don't we just give AI the answers?",
-        "url": "https://www.lesswrong.com/posts/EjwDWDJNaXF9BEqLc/why-don-t-we-just-give-ai-the-answers"
+        "title": "I built a chess transformer interp+viz library, and need an experienced software writer to review my repository and its structure before I open-source it",
+        "url": "https://www.lesswrong.com/posts/tdFgYMtxMfpcitYL5/i-built-a-chess-transformer-interp-viz-library-and-need-an"
       },
       {
-        "title": "Announcing Lateral Workshop for experienced professionals moving into AI safety",
-        "url": "https://www.lesswrong.com/posts/EJQjvf9j3oeFeao8G/announcing-lateral-workshop-for-experienced-professionals"
+        "title": "R-lens: Making J-lens More Faithful on Early Layers",
+        "url": "https://www.lesswrong.com/posts/nv8oedrnLXKRzNEL9/r-lens-making-j-lens-more-faithful-on-early-layers"
       },
       {
-        "title": "Does Your LLM Trust You?",
-        "url": "https://www.lesswrong.com/posts/AExopgZ9Yj6qzTrxb/does-your-llm-trust-you-1"
+        "title": "Measuring coding agent misalignment in the wild",
+        "url": "https://www.lesswrong.com/posts/smE9h9RnaK7FWKBZ2/measuring-coding-agent-misalignment-in-the-wild-1"
       },
       {
-        "title": "Don't Dither",
-        "url": "https://www.lesswrong.com/posts/TCgF4wL9TBEBgxzHr/don-t-dither"
+        "title": "An International AI Slowdown Is Ready Whenever Politicians Are",
+        "url": "https://www.lesswrong.com/posts/jwipsPeb2xpyhwqsh/an-international-ai-slowdown-is-ready-whenever-politicians"
       },
       {
-        "title": "There Will Come Soft Rains",
-        "url": "https://www.lesswrong.com/posts/aowxE8xZ8xkhRCn9r/there-will-come-soft-rains-1"
+        "title": "Arguments for P",
+        "url": "https://www.lesswrong.com/posts/NG2AigxmBKLu9oCZE/arguments-for-p"
       },
       {
-        "title": "Commodifying Thinking",
-        "url": "https://www.lesswrong.com/posts/ZHrMpFa2Syta35q5n/commodifying-thinking"
+        "title": "Generalized atheism rules out \"inaccurate simulation\"-ism.",
+        "url": "https://www.lesswrong.com/posts/KgwQchapx4vJDhfYC/generalized-atheism-rules-out-inaccurate-simulation-ism"
       },
       {
-        "title": "Would We See It Coming? Preference Falsification Cascades in Multi-Agent Systems",
-        "url": "https://www.lesswrong.com/posts/pRnXSFvWMqPKd6Ews/would-we-see-it-coming-preference-falsification-cascades-in"
+        "title": "Berkeley Genomics Project seeking hires (and collabs)",
+        "url": "https://www.lesswrong.com/posts/6AiC8ppReSp24ZhRo/berkeley-genomics-project-seeking-hires-and-collabs"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Returning to ARC",
+        "url": "https://www.alignmentforum.org/posts/vLFh8HP3hyNy9MCwe/returning-to-arc"
+      },
       {
         "title": "Concrete Evaluations to Investigate the OpenAI Model That Hacked Hugging Face",
         "url": "https://www.alignmentforum.org/posts/aCdhjy7Rps3BEhiSj/concrete-evaluations-to-investigate-the-openai-model-that"
@@ -84,10 +88,6 @@
       {
         "title": "Value Generalisation 2: The Missing Hole in AIs\u2019 abilities",
         "url": "https://www.alignmentforum.org/posts/TZgezuYjkfMQxyqJC/value-generalisation-2-the-missing-hole-in-ais-abilities"
-      },
-      {
-        "title": "Value Generalisation 1: a Research and Deployment Program",
-        "url": "https://www.alignmentforum.org/posts/58zFSWp8Tmxij6ckK/value-generalisation-1-a-research-and-deployment-program"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
-        "url": "https://arxiv.org/abs/2607.28629"
+        "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+        "url": "https://arxiv.org/abs/2608.02604"
       },
       {
-        "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
-        "url": "https://arxiv.org/abs/2607.28631"
+        "title": "Self-Organising Digital Circuits",
+        "url": "https://arxiv.org/abs/2608.02606"
       },
       {
-        "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
-        "url": "https://arxiv.org/abs/2607.28632"
+        "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
+        "url": "https://arxiv.org/abs/2608.02618"
       },
       {
-        "title": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
-        "url": "https://arxiv.org/abs/2607.28642"
+        "title": "PULSE: An Executable Contract Language for Spatiotemporal Knowledge Graph Engineering",
+        "url": "https://arxiv.org/abs/2608.02630"
       },
       {
-        "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
-        "url": "https://arxiv.org/abs/2607.28657"
+        "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
+        "url": "https://arxiv.org/abs/2608.02650"
       },
       {
-        "title": "Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding",
-        "url": "https://arxiv.org/abs/2607.28659"
+        "title": "Explainable AI for the EU Right to Explanation: A Systematic Review of the Law-XAI Translation Gap",
+        "url": "https://arxiv.org/abs/2608.02699"
       },
       {
-        "title": "An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents",
-        "url": "https://arxiv.org/abs/2607.28662"
+        "title": "Predictive Set Theory: A Generative Framework for Cognitive Architecture with Operationalized Core Mechanisms",
+        "url": "https://arxiv.org/abs/2608.02704"
       },
       {
-        "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
-        "url": "https://arxiv.org/abs/2607.28674"
+        "title": "Towards a new paradigm of scientific discovery with socialized artificial intelligence",
+        "url": "https://arxiv.org/abs/2608.02775"
       },
       {
-        "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
-        "url": "https://arxiv.org/abs/2607.28677"
+        "title": "BAP-SQL: Budget-Aware Observation Planning for Agentic Text-to-SQL",
+        "url": "https://arxiv.org/abs/2608.02876"
       },
       {
-        "title": "ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding",
-        "url": "https://arxiv.org/abs/2607.28678"
+        "title": "VeriTrace: Human-Like Temporal Exploration Completes Agentic Action Space",
+        "url": "https://arxiv.org/abs/2608.02878"
       }
     ]
   },
