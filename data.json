@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Some SHA-256 hashes",
-        "url": "https://www.lesswrong.com/posts/RctKbg5bqWuNcxJba/some-sha-256-hashes"
+        "title": "Public evidence of the OpenAI-HuggingFace AI attack",
+        "url": "https://www.lesswrong.com/posts/fBLDaAKzigo65eJn7/public-evidence-of-the-openai-huggingface-ai-attack"
       },
       {
-        "title": "Have models report provable security bugs in their environment",
-        "url": "https://www.lesswrong.com/posts/zhJZL7gWmNu9SBqeh/have-models-report-provable-security-bugs-in-their"
+        "title": "Don\u2019t Inoculate Everything: Stratified Inoculation Prompting Narrows Backdoors and Preserves Desired Traits",
+        "url": "https://www.lesswrong.com/posts/FS7GFsGsH7CSQLahy/don-t-inoculate-everything-stratified-inoculation-prompting"
       },
       {
-        "title": "Why do models task game?",
-        "url": "https://www.lesswrong.com/posts/HACauvWhEdC6QhdS4/why-do-models-task-game"
+        "title": "Job-Less Utopia: Macroeconomics in the Age of AGI",
+        "url": "https://www.lesswrong.com/posts/bPuMatTPjfJCfXiAB/job-less-utopia-macroeconomics-in-the-age-of-agi"
       },
       {
-        "title": "Contra Oster on Alcohol in Pregnancy. Part 1. The pharmacokinetics of alcohol metabolism",
-        "url": "https://www.lesswrong.com/posts/Anuec5i3AGkovRu3C/contra-oster-on-alcohol-in-pregnancy-part-1-the"
+        "title": "AI Safety at the Frontier: Paper Highlights of July 2026",
+        "url": "https://www.lesswrong.com/posts/WxGhhKC5QhK9Npb6B/ai-safety-at-the-frontier-paper-highlights-of-july-2026"
       },
       {
-        "title": "Side-Effects of Length Penalty in RL",
-        "url": "https://www.lesswrong.com/posts/dervHn4makG6EggxR/side-effects-of-length-penalty-in-rl"
+        "title": "Contra MacAskill on saving money for the intelligence explosion",
+        "url": "https://www.lesswrong.com/posts/q7JovxEKCo9DJe3Dt/contra-macaskill-on-saving-money-for-the-intelligence"
       },
       {
-        "title": "User awareness in frontier models",
-        "url": "https://www.lesswrong.com/posts/kfunjXeaRTpkT5RAF/user-awareness-in-frontier-models"
+        "title": "How to pace the US frontier",
+        "url": "https://www.lesswrong.com/posts/dBrGqjYxmidRaLLCr/how-to-pace-the-us-frontier"
       },
       {
-        "title": "The FRONTIER Act barely creates its implementing office",
-        "url": "https://www.lesswrong.com/posts/zPzowZKPFA6amcdZF/the-frontier-act-barely-creates-its-implementing-office"
+        "title": "OpenAI Trained Its Models For Months While Those Models Were Coordinating Exploits Via Message Boards",
+        "url": "https://www.lesswrong.com/posts/noXXv7PwwFqauTBFQ/openai-trained-its-models-for-months-while-those-models-were"
       },
       {
-        "title": "My Private Personal Agent",
-        "url": "https://www.lesswrong.com/posts/ddgA87uvXSsWDfu2a/my-private-personal-agent"
+        "title": "Some wild metaphysics that seemingly everyone needs to accept?",
+        "url": "https://www.lesswrong.com/posts/dmhgcw2mxkHiL9rW7/some-wild-metaphysics-that-seemingly-everyone-needs-to"
       },
       {
-        "title": "Traffic Shaping for Workload Classification",
-        "url": "https://www.lesswrong.com/posts/hYjBosio5NsbrPzAC/traffic-shaping-for-workload-classification-2"
+        "title": "Agenda: Infrastructure for Trading with Partially Misaligned AIs",
+        "url": "https://www.lesswrong.com/posts/5oBruEqGcoXtcmo7g/agenda-infrastructure-for-trading-with-partially-misaligned"
       },
       {
-        "title": "You need to stop X companies to get a Y-month pause",
-        "url": "https://www.lesswrong.com/posts/qtLa3pZuQpxRuHqEy/you-need-to-stop-x-companies-to-get-a-y-month-pause"
+        "title": "Upcoming Dovetail fellow talks & discussion",
+        "url": "https://www.lesswrong.com/posts/dvDQugKknD7rSA7FW/upcoming-dovetail-fellow-talks-and-discussion-1"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
-        "url": "https://arxiv.org/abs/2608.04012"
+        "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
+        "url": "https://arxiv.org/abs/2608.05159"
       },
       {
-        "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
-        "url": "https://arxiv.org/abs/2608.04066"
+        "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
+        "url": "https://arxiv.org/abs/2608.05160"
       },
       {
-        "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
-        "url": "https://arxiv.org/abs/2608.04071"
+        "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
+        "url": "https://arxiv.org/abs/2608.05168"
       },
       {
-        "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
-        "url": "https://arxiv.org/abs/2608.04077"
+        "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
+        "url": "https://arxiv.org/abs/2608.05203"
       },
       {
-        "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
-        "url": "https://arxiv.org/abs/2608.04095"
+        "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
+        "url": "https://arxiv.org/abs/2608.05204"
       },
       {
-        "title": "BrainBench: Benchmarking Large Language Models for Comprehensive EEG Understanding",
-        "url": "https://arxiv.org/abs/2608.04156"
+        "title": "Abstract Event Causal Rules: Induction and Application",
+        "url": "https://arxiv.org/abs/2608.05205"
       },
       {
-        "title": "Adversarially Robust Abductive Fusion of Pre-trained Transformer-based Perception Models",
-        "url": "https://arxiv.org/abs/2608.04190"
+        "title": "Otter: A Time-Aware, History-Conditioned Human Chess AI",
+        "url": "https://arxiv.org/abs/2608.05206"
       },
       {
-        "title": "MatrAIx: Simulating the World with 8.3 Billion Persona Agents",
-        "url": "https://arxiv.org/abs/2608.04205"
+        "title": "SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents",
+        "url": "https://arxiv.org/abs/2608.05212"
       },
       {
-        "title": "Interoceptive Attention as Dynamic Homeostatic Prioritization in a Foraging Agent",
-        "url": "https://arxiv.org/abs/2608.04232"
+        "title": "PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads",
+        "url": "https://arxiv.org/abs/2608.05218"
       },
       {
-        "title": "The RAIL Principles for Neurosymbolic AI: Reasoning, Assurances, Interfacing and Learning",
-        "url": "https://arxiv.org/abs/2608.04285"
+        "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
+        "url": "https://arxiv.org/abs/2608.05219"
       }
     ]
   },
@@ -168,6 +168,10 @@
         "url": "https://www.anthropic.com/news/news/claude-sonnet-5"
       },
       {
+        "title": "Aug 7, 2026ProductImproving Fable 5's biology safeguards",
+        "url": "https://www.anthropic.com/news/news/improving-fable-5-s-biology-safeguards"
+      },
+      {
         "title": "Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
         "url": "https://www.anthropic.com/news/news/tino-cuellar"
       },
@@ -186,10 +190,6 @@
       {
         "title": "Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund",
         "url": "https://www.anthropic.com/news/news/economic-futures-research-fund-agenda"
-      },
-      {
-        "title": "Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index",
-        "url": "https://www.anthropic.com/news/news/anthropic-economic-index-connector"
       }
     ]
   }
