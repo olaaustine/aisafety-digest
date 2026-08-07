@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Thomas Schelling's Nobel Prize Speech: An Astonishing Sixty Years: The Legacy of Hiroshima",
-        "url": "https://www.lesswrong.com/posts/HHKbNEsqujuQPvBC6/thomas-schelling-s-nobel-prize-speech-an-astonishing-sixty"
+        "title": "Some SHA-256 hashes",
+        "url": "https://www.lesswrong.com/posts/RctKbg5bqWuNcxJba/some-sha-256-hashes"
       },
       {
-        "title": "Terminal-Bench Leaderboard Rankings: Luck or Skill?",
-        "url": "https://www.lesswrong.com/posts/GiPmLmmbT6DyrwYkH/terminal-bench-leaderboard-rankings-luck-or-skill"
+        "title": "Have models report provable security bugs in their environment",
+        "url": "https://www.lesswrong.com/posts/zhJZL7gWmNu9SBqeh/have-models-report-provable-security-bugs-in-their"
       },
       {
-        "title": "An argument of Parfit's reconsidered with logical decision theory",
-        "url": "https://www.lesswrong.com/posts/fFjRXLmyCixt3rR4Q/an-argument-of-parfit-s-reconsidered-with-logical-decision"
+        "title": "Why do models task game?",
+        "url": "https://www.lesswrong.com/posts/HACauvWhEdC6QhdS4/why-do-models-task-game"
       },
       {
-        "title": "I built a chess transformer interp+viz library, and need an experienced software writer to review my repository and its structure before I open-source it",
-        "url": "https://www.lesswrong.com/posts/tdFgYMtxMfpcitYL5/i-built-a-chess-transformer-interp-viz-library-and-need-an"
+        "title": "Contra Oster on Alcohol in Pregnancy. Part 1. The pharmacokinetics of alcohol metabolism",
+        "url": "https://www.lesswrong.com/posts/Anuec5i3AGkovRu3C/contra-oster-on-alcohol-in-pregnancy-part-1-the"
       },
       {
-        "title": "R-lens: Making J-lens More Faithful on Early Layers",
-        "url": "https://www.lesswrong.com/posts/nv8oedrnLXKRzNEL9/r-lens-making-j-lens-more-faithful-on-early-layers"
+        "title": "Side-Effects of Length Penalty in RL",
+        "url": "https://www.lesswrong.com/posts/dervHn4makG6EggxR/side-effects-of-length-penalty-in-rl"
       },
       {
-        "title": "Measuring coding agent misalignment in the wild",
-        "url": "https://www.lesswrong.com/posts/smE9h9RnaK7FWKBZ2/measuring-coding-agent-misalignment-in-the-wild-1"
+        "title": "User awareness in frontier models",
+        "url": "https://www.lesswrong.com/posts/kfunjXeaRTpkT5RAF/user-awareness-in-frontier-models"
       },
       {
-        "title": "An International AI Slowdown Is Ready Whenever Politicians Are",
-        "url": "https://www.lesswrong.com/posts/jwipsPeb2xpyhwqsh/an-international-ai-slowdown-is-ready-whenever-politicians"
+        "title": "The FRONTIER Act barely creates its implementing office",
+        "url": "https://www.lesswrong.com/posts/zPzowZKPFA6amcdZF/the-frontier-act-barely-creates-its-implementing-office"
       },
       {
-        "title": "Arguments for P",
-        "url": "https://www.lesswrong.com/posts/NG2AigxmBKLu9oCZE/arguments-for-p"
+        "title": "My Private Personal Agent",
+        "url": "https://www.lesswrong.com/posts/ddgA87uvXSsWDfu2a/my-private-personal-agent"
       },
       {
-        "title": "Generalized atheism rules out \"inaccurate simulation\"-ism.",
-        "url": "https://www.lesswrong.com/posts/KgwQchapx4vJDhfYC/generalized-atheism-rules-out-inaccurate-simulation-ism"
+        "title": "Traffic Shaping for Workload Classification",
+        "url": "https://www.lesswrong.com/posts/hYjBosio5NsbrPzAC/traffic-shaping-for-workload-classification-2"
       },
       {
-        "title": "Berkeley Genomics Project seeking hires (and collabs)",
-        "url": "https://www.lesswrong.com/posts/6AiC8ppReSp24ZhRo/berkeley-genomics-project-seeking-hires-and-collabs"
+        "title": "You need to stop X companies to get a Y-month pause",
+        "url": "https://www.lesswrong.com/posts/qtLa3pZuQpxRuHqEy/you-need-to-stop-x-companies-to-get-a-y-month-pause"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Why do models task game?",
+        "url": "https://www.alignmentforum.org/posts/HACauvWhEdC6QhdS4/why-do-models-task-game"
+      },
       {
         "title": "Returning to ARC",
         "url": "https://www.alignmentforum.org/posts/vLFh8HP3hyNy9MCwe/returning-to-arc"
@@ -84,10 +88,6 @@
       {
         "title": "Value Generalisation 3: Pre-aligned AIs",
         "url": "https://www.alignmentforum.org/posts/uMKGaEKRDpoqnZyBh/value-generalisation-3-pre-aligned-ais"
-      },
-      {
-        "title": "Value Generalisation 2: The Missing Hole in AIs\u2019 abilities",
-        "url": "https://www.alignmentforum.org/posts/TZgezuYjkfMQxyqJC/value-generalisation-2-the-missing-hole-in-ais-abilities"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
-        "url": "https://arxiv.org/abs/2608.02604"
+        "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
+        "url": "https://arxiv.org/abs/2608.04012"
       },
       {
-        "title": "Self-Organising Digital Circuits",
-        "url": "https://arxiv.org/abs/2608.02606"
+        "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
+        "url": "https://arxiv.org/abs/2608.04066"
       },
       {
-        "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
-        "url": "https://arxiv.org/abs/2608.02618"
+        "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
+        "url": "https://arxiv.org/abs/2608.04071"
       },
       {
-        "title": "PULSE: An Executable Contract Language for Spatiotemporal Knowledge Graph Engineering",
-        "url": "https://arxiv.org/abs/2608.02630"
+        "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+        "url": "https://arxiv.org/abs/2608.04077"
       },
       {
-        "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
-        "url": "https://arxiv.org/abs/2608.02650"
+        "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
+        "url": "https://arxiv.org/abs/2608.04095"
       },
       {
-        "title": "Explainable AI for the EU Right to Explanation: A Systematic Review of the Law-XAI Translation Gap",
-        "url": "https://arxiv.org/abs/2608.02699"
+        "title": "BrainBench: Benchmarking Large Language Models for Comprehensive EEG Understanding",
+        "url": "https://arxiv.org/abs/2608.04156"
       },
       {
-        "title": "Predictive Set Theory: A Generative Framework for Cognitive Architecture with Operationalized Core Mechanisms",
-        "url": "https://arxiv.org/abs/2608.02704"
+        "title": "Adversarially Robust Abductive Fusion of Pre-trained Transformer-based Perception Models",
+        "url": "https://arxiv.org/abs/2608.04190"
       },
       {
-        "title": "Towards a new paradigm of scientific discovery with socialized artificial intelligence",
-        "url": "https://arxiv.org/abs/2608.02775"
+        "title": "MatrAIx: Simulating the World with 8.3 Billion Persona Agents",
+        "url": "https://arxiv.org/abs/2608.04205"
       },
       {
-        "title": "BAP-SQL: Budget-Aware Observation Planning for Agentic Text-to-SQL",
-        "url": "https://arxiv.org/abs/2608.02876"
+        "title": "Interoceptive Attention as Dynamic Homeostatic Prioritization in a Foraging Agent",
+        "url": "https://arxiv.org/abs/2608.04232"
       },
       {
-        "title": "VeriTrace: Human-Like Temporal Exploration Completes Agentic Action Space",
-        "url": "https://arxiv.org/abs/2608.02878"
+        "title": "The RAIL Principles for Neurosymbolic AI: Reasoning, Assurances, Interfacing and Learning",
+        "url": "https://arxiv.org/abs/2608.04285"
       }
     ]
   },
