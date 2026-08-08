@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Public evidence of the OpenAI-HuggingFace AI attack",
-        "url": "https://www.lesswrong.com/posts/fBLDaAKzigo65eJn7/public-evidence-of-the-openai-huggingface-ai-attack"
+        "title": "Why Low Fertility Rates Are a Positive Feedback Loop",
+        "url": "https://www.lesswrong.com/posts/u6ajuvLsixJLyMdPw/why-low-fertility-rates-are-a-positive-feedback-loop"
       },
       {
-        "title": "Don\u2019t Inoculate Everything: Stratified Inoculation Prompting Narrows Backdoors and Preserves Desired Traits",
-        "url": "https://www.lesswrong.com/posts/FS7GFsGsH7CSQLahy/don-t-inoculate-everything-stratified-inoculation-prompting"
+        "title": "Glimpses of superintelligence",
+        "url": "https://www.lesswrong.com/posts/Ccq8cqoXYfsRv6AKe/glimpses-of-superintelligence"
       },
       {
-        "title": "Job-Less Utopia: Macroeconomics in the Age of AGI",
-        "url": "https://www.lesswrong.com/posts/bPuMatTPjfJCfXiAB/job-less-utopia-macroeconomics-in-the-age-of-agi"
+        "title": "'AI Escaped Its Sandbox' \u2014 What Does That Actually Mean?",
+        "url": "https://www.lesswrong.com/posts/XzfseL3RgaZ4xJFKW/ai-escaped-its-sandbox-what-does-that-actually-mean"
       },
       {
-        "title": "AI Safety at the Frontier: Paper Highlights of July 2026",
-        "url": "https://www.lesswrong.com/posts/WxGhhKC5QhK9Npb6B/ai-safety-at-the-frontier-paper-highlights-of-july-2026"
+        "title": "What Happened: OpenAI and HuggingFace",
+        "url": "https://www.lesswrong.com/posts/xPAxz4g96uKz9FrHs/what-happened-openai-and-huggingface"
       },
       {
-        "title": "Contra MacAskill on saving money for the intelligence explosion",
-        "url": "https://www.lesswrong.com/posts/q7JovxEKCo9DJe3Dt/contra-macaskill-on-saving-money-for-the-intelligence"
+        "title": "Inducing self-other overlap with SFT reduces deception at scale, but generalization remains uneven",
+        "url": "https://www.lesswrong.com/posts/qLe7T2njnpGYt5D7a/inducing-self-other-overlap-with-sft-reduces-deception-at-2"
       },
       {
-        "title": "How to pace the US frontier",
-        "url": "https://www.lesswrong.com/posts/dBrGqjYxmidRaLLCr/how-to-pace-the-us-frontier"
+        "title": "FAQ: Isn't AGI coming too soon for reprogenetics to help?",
+        "url": "https://www.lesswrong.com/posts/iQzxxgJXXaAQjq7Jz/faq-isn-t-agi-coming-too-soon-for-reprogenetics-to-help"
       },
       {
-        "title": "OpenAI Trained Its Models For Months While Those Models Were Coordinating Exploits Via Message Boards",
-        "url": "https://www.lesswrong.com/posts/noXXv7PwwFqauTBFQ/openai-trained-its-models-for-months-while-those-models-were"
+        "title": "Reasoning was not made for Deduction",
+        "url": "https://www.lesswrong.com/posts/hhzwAQYeNiooywLXz/reasoning-was-not-made-for-deduction"
       },
       {
-        "title": "Some wild metaphysics that seemingly everyone needs to accept?",
-        "url": "https://www.lesswrong.com/posts/dmhgcw2mxkHiL9rW7/some-wild-metaphysics-that-seemingly-everyone-needs-to"
+        "title": "Simplifying the anthropic impossibility result",
+        "url": "https://www.lesswrong.com/posts/mi5YYtsdbioHEYxiY/simplifying-the-anthropic-impossibility-result"
       },
       {
-        "title": "Agenda: Infrastructure for Trading with Partially Misaligned AIs",
-        "url": "https://www.lesswrong.com/posts/5oBruEqGcoXtcmo7g/agenda-infrastructure-for-trading-with-partially-misaligned"
+        "title": "CLT Features Sharpen the Cyclical Day-of-Week Manifold in Gemma-2-2b",
+        "url": "https://www.lesswrong.com/posts/vwdHTmorDPFB8vFQq/clt-features-sharpen-the-cyclical-day-of-week-manifold-in"
       },
       {
-        "title": "Upcoming Dovetail fellow talks & discussion",
-        "url": "https://www.lesswrong.com/posts/dvDQugKknD7rSA7FW/upcoming-dovetail-fellow-talks-and-discussion-1"
+        "title": "AI Regulation Map: a view of AI governance in 196 countries",
+        "url": "https://www.lesswrong.com/posts/EbWZC2gz5KqNF3SiX/ai-regulation-map-a-view-of-ai-governance-in-196-countries"
       }
     ]
   },
@@ -52,6 +52,10 @@
       {
         "title": "Why do models task game?",
         "url": "https://www.alignmentforum.org/posts/HACauvWhEdC6QhdS4/why-do-models-task-game"
+      },
+      {
+        "title": "User awareness in frontier models",
+        "url": "https://www.alignmentforum.org/posts/kfunjXeaRTpkT5RAF/user-awareness-in-frontier-models"
       },
       {
         "title": "Returning to ARC",
@@ -84,10 +88,6 @@
       {
         "title": "Imprecise beliefs: a tiny introduction",
         "url": "https://www.alignmentforum.org/posts/e7Pd4Q9TF7jFdmPgz/imprecise-beliefs-a-tiny-introduction"
-      },
-      {
-        "title": "Value Generalisation 3: Pre-aligned AIs",
-        "url": "https://www.alignmentforum.org/posts/uMKGaEKRDpoqnZyBh/value-generalisation-3-pre-aligned-ais"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
-        "url": "https://arxiv.org/abs/2608.05159"
-      },
-      {
-        "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
-        "url": "https://arxiv.org/abs/2608.05160"
-      },
-      {
-        "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
-        "url": "https://arxiv.org/abs/2608.05168"
-      },
-      {
-        "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
-        "url": "https://arxiv.org/abs/2608.05203"
-      },
-      {
-        "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
-        "url": "https://arxiv.org/abs/2608.05204"
-      },
-      {
-        "title": "Abstract Event Causal Rules: Induction and Application",
-        "url": "https://arxiv.org/abs/2608.05205"
-      },
-      {
-        "title": "Otter: A Time-Aware, History-Conditioned Human Chess AI",
-        "url": "https://arxiv.org/abs/2608.05206"
-      },
-      {
-        "title": "SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents",
-        "url": "https://arxiv.org/abs/2608.05212"
-      },
-      {
-        "title": "PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads",
-        "url": "https://arxiv.org/abs/2608.05218"
-      },
-      {
-        "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
-        "url": "https://arxiv.org/abs/2608.05219"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
