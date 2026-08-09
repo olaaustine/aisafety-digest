@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
+        "title": "\"Community Notes\" resolution for vague predictions",
+        "url": "https://www.lesswrong.com/posts/zom89ud7c4GYnjWdt/community-notes-resolution-for-vague-predictions"
+      },
+      {
+        "title": "Ten Thousand Cyber Labs for Training & Eval",
+        "url": "https://www.lesswrong.com/posts/RGvzHA23T7pFr3i3J/ten-thousand-cyber-labs-for-training-and-eval"
+      },
+      {
+        "title": "A challenge: Can you make an LLM follow these instructions?",
+        "url": "https://www.lesswrong.com/posts/ACCakZ2LAhzcofkd4/a-challenge-can-you-make-an-llm-follow-these-instructions"
+      },
+      {
+        "title": "What just happened? A retrospective of AI alignment",
+        "url": "https://www.lesswrong.com/posts/9RL9MuGZjzm4q3gKG/what-just-happened-a-retrospective-of-ai-alignment"
+      },
+      {
+        "title": "Who does the confessing, and will they confess to anything",
+        "url": "https://www.lesswrong.com/posts/sZFAZuWBoStxHfX7F/who-does-the-confessing-and-will-they-confess-to-anything-1"
+      },
+      {
+        "title": "The world will be full of \"sci-fi\" things, and everyone will be unimpressed and disappointed",
+        "url": "https://www.lesswrong.com/posts/BbtXWgYviwGHExcJv/the-world-will-be-full-of-sci-fi-things-and-everyone-will-be"
+      },
+      {
+        "title": "A Spillway for Agent Coordination",
+        "url": "https://www.lesswrong.com/posts/FjYmTAPiG3FCFCY5r/a-spillway-for-agent-coordination"
+      },
+      {
+        "title": "Canobie Lake Visit",
+        "url": "https://www.lesswrong.com/posts/h7HPBNEzYChkW6qZa/canobie-lake-visit"
+      },
+      {
+        "title": "Dutch-book resistant probability over centered worlds",
+        "url": "https://www.lesswrong.com/posts/cTSfisyzwxCvEpqEc/dutch-book-resistant-probability-over-centered-worlds"
+      },
+      {
         "title": "Why Low Fertility Rates Are a Positive Feedback Loop",
         "url": "https://www.lesswrong.com/posts/u6ajuvLsixJLyMdPw/why-low-fertility-rates-are-a-positive-feedback-loop"
-      },
-      {
-        "title": "Glimpses of superintelligence",
-        "url": "https://www.lesswrong.com/posts/Ccq8cqoXYfsRv6AKe/glimpses-of-superintelligence"
-      },
-      {
-        "title": "'AI Escaped Its Sandbox' \u2014 What Does That Actually Mean?",
-        "url": "https://www.lesswrong.com/posts/XzfseL3RgaZ4xJFKW/ai-escaped-its-sandbox-what-does-that-actually-mean"
-      },
-      {
-        "title": "What Happened: OpenAI and HuggingFace",
-        "url": "https://www.lesswrong.com/posts/xPAxz4g96uKz9FrHs/what-happened-openai-and-huggingface"
-      },
-      {
-        "title": "Inducing self-other overlap with SFT reduces deception at scale, but generalization remains uneven",
-        "url": "https://www.lesswrong.com/posts/qLe7T2njnpGYt5D7a/inducing-self-other-overlap-with-sft-reduces-deception-at-2"
-      },
-      {
-        "title": "FAQ: Isn't AGI coming too soon for reprogenetics to help?",
-        "url": "https://www.lesswrong.com/posts/iQzxxgJXXaAQjq7Jz/faq-isn-t-agi-coming-too-soon-for-reprogenetics-to-help"
-      },
-      {
-        "title": "Reasoning was not made for Deduction",
-        "url": "https://www.lesswrong.com/posts/hhzwAQYeNiooywLXz/reasoning-was-not-made-for-deduction"
-      },
-      {
-        "title": "Simplifying the anthropic impossibility result",
-        "url": "https://www.lesswrong.com/posts/mi5YYtsdbioHEYxiY/simplifying-the-anthropic-impossibility-result"
-      },
-      {
-        "title": "CLT Features Sharpen the Cyclical Day-of-Week Manifold in Gemma-2-2b",
-        "url": "https://www.lesswrong.com/posts/vwdHTmorDPFB8vFQq/clt-features-sharpen-the-cyclical-day-of-week-manifold-in"
-      },
-      {
-        "title": "AI Regulation Map: a view of AI governance in 196 countries",
-        "url": "https://www.lesswrong.com/posts/EbWZC2gz5KqNF3SiX/ai-regulation-map-a-view-of-ai-governance-in-196-countries"
       }
     ]
   },
