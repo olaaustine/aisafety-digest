@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Does post-training quantization change welfare-relevant indicators in open-weight language models?",
-        "url": "https://www.lesswrong.com/posts/hrwKDeFFvQppFXHtr/does-post-training-quantization-change-welfare-relevant"
+        "title": "Claude Opus 5 Just Beat My Text-Based Adventure Game Benchmark",
+        "url": "https://www.lesswrong.com/posts/rWiXxHGggxZKxyGEq/claude-opus-5-just-beat-my-text-based-adventure-game"
       },
       {
-        "title": "Claude summarizes behavior as significantly less misaligned when the actor is Claude vs another model",
-        "url": "https://www.lesswrong.com/posts/ZTMw4uAwkNmXFpdfg/claude-summarizes-behavior-as-significantly-less-misaligned"
+        "title": "Misaligned AIs could use killer robots to take over",
+        "url": "https://www.lesswrong.com/posts/9jKhqmFjMzdAvHANr/misaligned-ais-could-use-killer-robots-to-take-over"
       },
       {
-        "title": "Off-policy honesty training generalizes better than on-policy honesty training",
-        "url": "https://www.lesswrong.com/posts/isPKgCFSHdJ6fKYbK/off-policy-honesty-training-generalizes-better-than-on"
+        "title": "Measuring Spurious Correlations with Feature Strength",
+        "url": "https://www.lesswrong.com/posts/qpJYNjQ6wdWRxbykL/measuring-spurious-correlations-with-feature-strength"
       },
       {
-        "title": "Four LLM loss functions \u2192 four flavors of LLM misalignment",
-        "url": "https://www.lesswrong.com/posts/GRmvZsHXH4vaijPMv/four-llm-loss-functions-four-flavors-of-llm-misalignment"
+        "title": "AI governance work needs much better monitoring",
+        "url": "https://www.lesswrong.com/posts/EGh9qkCH94SGG6Kvw/ai-governance-work-needs-much-better-monitoring"
       },
       {
-        "title": "Coercion and Deception in AI-to-AI Management",
-        "url": "https://www.lesswrong.com/posts/sCkcPe9GDXxhw2PWG/coercion-and-deception-in-ai-to-ai-management-1"
+        "title": "LLMs Are Starting To Noticeably Accelerate Our Work",
+        "url": "https://www.lesswrong.com/posts/7QvKqpGJwqXrQcMgx/llms-are-starting-to-noticeably-accelerate-our-work"
       },
       {
-        "title": "You're Absolutely Right",
-        "url": "https://www.lesswrong.com/posts/u8TdDutDyaSxG76hn/you-re-absolutely-right"
+        "title": "Software Is Not Soft",
+        "url": "https://www.lesswrong.com/posts/BeyeLzu7mJ9cbkg2a/software-is-not-soft"
       },
       {
-        "title": "Book Review: The Infinity Machine",
-        "url": "https://www.lesswrong.com/posts/aRw7GujmETfC7eDAd/book-review-the-infinity-machine-1"
+        "title": "How risky would it be to make powerful AI obey one or a few people?",
+        "url": "https://www.lesswrong.com/posts/YtZBfbYRvMTynCfnC/how-risky-would-it-be-to-make-powerful-ai-obey-one-or-a-few"
       },
       {
-        "title": "On Democratizing ASI to Preserve Civil Liberties",
-        "url": "https://www.lesswrong.com/posts/WxHaMyL8f9YW2vbrF/on-democratizing-asi-to-preserve-civil-liberties"
+        "title": "Extreme concentration of power over ASI has non-obvious advantages",
+        "url": "https://www.lesswrong.com/posts/h3eHNerYRmtvoi8cF/extreme-concentration-of-power-over-asi-has-non-obvious"
       },
       {
-        "title": "Is Eval Gaming Downstream of Verbalized Eval Awareness? Not when it's reflexive.",
-        "url": "https://www.lesswrong.com/posts/gvNYAHcWiezZs8QvD/is-eval-gaming-downstream-of-verbalized-eval-awareness-not"
+        "title": "Those Who Make History",
+        "url": "https://www.lesswrong.com/posts/mEde7bhzK4eKQqWGi/those-who-make-history"
       },
       {
-        "title": "Is it ethical to work on general-purpose robots given the risk of totalitarianism?",
-        "url": "https://www.lesswrong.com/posts/mLxRAjwo3dfLuyg7h/is-it-ethical-to-work-on-general-purpose-robots-given-the-1"
+        "title": "Seeing things through in the age of AI",
+        "url": "https://www.lesswrong.com/posts/2ycKAREGy8gwSpPsS/seeing-things-through-in-the-age-of-ai"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
-        "url": "https://arxiv.org/abs/2608.06394"
+        "title": "Towards an Argumentative Foundation for Evaluative AI",
+        "url": "https://arxiv.org/abs/2608.07473"
       },
       {
-        "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
-        "url": "https://arxiv.org/abs/2608.06398"
+        "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
+        "url": "https://arxiv.org/abs/2608.07474"
       },
       {
-        "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
-        "url": "https://arxiv.org/abs/2608.06400"
+        "title": "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
+        "url": "https://arxiv.org/abs/2608.07476"
       },
       {
-        "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
-        "url": "https://arxiv.org/abs/2608.06402"
+        "title": "Emotion in an active inference model of human driving",
+        "url": "https://arxiv.org/abs/2608.07480"
       },
       {
-        "title": "ADIAS: Automated Design of Interactive Agentic Systems",
-        "url": "https://arxiv.org/abs/2608.06410"
+        "title": "Training Variable Long Sequences with Data-Centric Parallel",
+        "url": "https://arxiv.org/abs/2608.07524"
       },
       {
-        "title": "Learning to Predict Middle-Layer Attention in MLLMs for Visual Token Prunin",
-        "url": "https://arxiv.org/abs/2608.06411"
+        "title": "The Knowing-Saying Gap: When Probes See Errors that Confidence Misses",
+        "url": "https://arxiv.org/abs/2608.07528"
       },
       {
-        "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
-        "url": "https://arxiv.org/abs/2608.06474"
+        "title": "NL2SHACL-Bench: A Benchmark Suite for Natural Language to SHACL Translation",
+        "url": "https://arxiv.org/abs/2608.07530"
       },
       {
-        "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
-        "url": "https://arxiv.org/abs/2608.06501"
+        "title": "Dynamic Coalition Formation and Communication Pricing in Skill-Based Agentic AI Systems",
+        "url": "https://arxiv.org/abs/2608.07532"
       },
       {
-        "title": "KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning",
-        "url": "https://arxiv.org/abs/2608.06530"
+        "title": "MetaSpace: Metamorphic Testing for Spatial Cognition in Embodied Agents",
+        "url": "https://arxiv.org/abs/2608.07533"
       },
       {
-        "title": "TaskSense: Focusing on What Matters in World Models",
-        "url": "https://arxiv.org/abs/2608.06544"
+        "title": "When LLM Agents Negotiate: Private Information and Dynamic Bargaining in Supply Chains",
+        "url": "https://arxiv.org/abs/2608.07538"
       }
     ]
   },
