@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "chessformer_lens app demo: Paul Morphy's Opera Game sacrifice",
-        "url": "https://www.lesswrong.com/posts/vtMCTjH76DYMjAKYu/chessformer_lens-app-demo-paul-morphy-s-opera-game-sacrifice"
+        "title": "Some Ways I Think About Evaluating Grant Applications",
+        "url": "https://www.lesswrong.com/posts/CuNtKAuLDGxNeanBi/some-ways-i-think-about-evaluating-grant-applications"
       },
       {
-        "title": "Monthly Roundup #45: August 2026",
-        "url": "https://www.lesswrong.com/posts/iQCNuQXQQakKnidmA/monthly-roundup-45-august-2026"
+        "title": "Is Alignment Even Falsifiable? Middle Alignment, An Alignment Taxonomy, and Breaking The Problem Down Into Steps",
+        "url": "https://www.lesswrong.com/posts/N36uzXxfmtoFLbzbN/is-alignment-even-falsifiable-middle-alignment-an-alignment"
       },
       {
-        "title": "Finding the Seams of Perception",
-        "url": "https://www.lesswrong.com/posts/qFTrfw9MMc3jT92Du/finding-the-seams-of-perception"
+        "title": "Concrete Generalist Projects in AI Safety (and how to do them)",
+        "url": "https://www.lesswrong.com/posts/Lu3uu8hBjsebFm6nK/concrete-generalist-projects-in-ai-safety-and-how-to-do-them"
       },
       {
-        "title": "Introducing the Conceptual Reasoning Index",
-        "url": "https://www.lesswrong.com/posts/tQHeEzKqK3awL2RxR/introducing-the-conceptual-reasoning-index"
+        "title": "Comparing Congress's Two AI Emergency Shutdown Mechanisms",
+        "url": "https://www.lesswrong.com/posts/NRcicBTDegBdmbuGE/comparing-congress-s-two-ai-emergency-shutdown-mechanisms"
       },
       {
-        "title": "One attention head carries knight forks in a chess transformer, and here's a new toolkit that found it.",
-        "url": "https://www.lesswrong.com/posts/YbfhaqNo4AWdXSpzQ/one-attention-head-carries-knight-forks-in-a-chess"
+        "title": "Is biosecurity oversaturated?",
+        "url": "https://www.lesswrong.com/posts/HNFXT5C6ABk5x7956/is-biosecurity-oversaturated"
       },
       {
-        "title": "Rationality Is Not Reversed Irrationality",
-        "url": "https://www.lesswrong.com/posts/LEzgrp9B9TFCxuvvD/rationality-is-not-reversed-irrationality"
+        "title": "How to Answer a Question Without Answering The Question",
+        "url": "https://www.lesswrong.com/posts/g9PNBCkfHAcyMcobz/how-to-answer-a-question-without-answering-the-question"
       },
       {
-        "title": "Demon Safety",
-        "url": "https://www.lesswrong.com/posts/RWavpsyDJxffS6LgG/demon-safety"
+        "title": "How My Students Think About AI",
+        "url": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai"
       },
       {
-        "title": "The Closure of the Internet (Research Linkpost)",
-        "url": "https://www.lesswrong.com/posts/ExsLSAHnQBqQyxpdc/the-closure-of-the-internet-research-linkpost"
+        "title": "AI #181: Astra Goes Cyber Critical",
+        "url": "https://www.lesswrong.com/posts/hLn3SakowZLFWobHf/ai-181-astra-goes-cyber-critical"
       },
       {
-        "title": "AI swarms are starting to pose indirect takeover risk",
-        "url": "https://www.lesswrong.com/posts/8oFYZdXkTaNGRtcn8/ai-swarms-are-starting-to-pose-indirect-takeover-risk"
+        "title": "Automated alignment runs are hard to study!",
+        "url": "https://www.lesswrong.com/posts/myAhB5qyAHyXRv6KJ/automated-alignment-runs-are-hard-to-study"
       },
       {
-        "title": "Did the alignment community underestimate its power?",
-        "url": "https://www.lesswrong.com/posts/cPbsnMAGZjApeCghE/did-the-alignment-community-underestimate-its-power"
+        "title": "Longtermism Seems Like A Religion",
+        "url": "https://www.lesswrong.com/posts/X6NAoTRFsjgMvjLTw/longtermism-seems-like-a-religion"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
-        "url": "https://arxiv.org/abs/2608.09949"
+        "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+        "url": "https://arxiv.org/abs/2608.11207"
       },
       {
-        "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2608.09967"
+        "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+        "url": "https://arxiv.org/abs/2608.11210"
       },
       {
-        "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
-        "url": "https://arxiv.org/abs/2608.09986"
+        "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
+        "url": "https://arxiv.org/abs/2608.11211"
       },
       {
-        "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
-        "url": "https://arxiv.org/abs/2608.09998"
+        "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
+        "url": "https://arxiv.org/abs/2608.11212"
       },
       {
-        "title": "ReCBM: Uncertainty-Gated Relational Reasoning for Concept Bottleneck Models",
-        "url": "https://arxiv.org/abs/2608.10004"
+        "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+        "url": "https://arxiv.org/abs/2608.11215"
       },
       {
-        "title": "Automating and Scaling Behavioral Scientific Research on AI Agents",
-        "url": "https://arxiv.org/abs/2608.10030"
+        "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
+        "url": "https://arxiv.org/abs/2608.11216"
       },
       {
-        "title": "CHORUS: Complementary Experts for High-Coverage Testbench Stimulus Generation",
-        "url": "https://arxiv.org/abs/2608.10090"
+        "title": "MaSRead: Content-Addressed Reading of Replicated Latent Stores",
+        "url": "https://arxiv.org/abs/2608.11218"
       },
       {
-        "title": "MESA:Task-Adaptive Multi-Structure Evidence Selection for Long-Horizon Agent Memory",
-        "url": "https://arxiv.org/abs/2608.10108"
+        "title": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
+        "url": "https://arxiv.org/abs/2608.11219"
       },
       {
-        "title": "The CASE Framework: A Multi-Disciplinary Control Architecture for Governing Enterprise Agentic AI",
-        "url": "https://arxiv.org/abs/2608.10153"
+        "title": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs",
+        "url": "https://arxiv.org/abs/2608.11220"
       },
       {
-        "title": "SBCO: Self-Supervised, Verifier-Grounded Harness Optimization For Planning Agents",
-        "url": "https://arxiv.org/abs/2608.10157"
+        "title": "A Conceptual Framework for Refining Influence Knowledge from Simulation Evidence in Cyber-Physical Systems",
+        "url": "https://arxiv.org/abs/2608.11221"
       }
     ]
   },
