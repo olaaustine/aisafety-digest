@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Some Ways I Think About Evaluating Grant Applications",
-        "url": "https://www.lesswrong.com/posts/CuNtKAuLDGxNeanBi/some-ways-i-think-about-evaluating-grant-applications"
+        "title": "Training a Conceptual Reasoning Judge",
+        "url": "https://www.lesswrong.com/posts/iHYZF2jweXb2E7X3Y/training-a-conceptual-reasoning-judge"
       },
       {
-        "title": "Is Alignment Even Falsifiable? Middle Alignment, An Alignment Taxonomy, and Breaking The Problem Down Into Steps",
-        "url": "https://www.lesswrong.com/posts/N36uzXxfmtoFLbzbN/is-alignment-even-falsifiable-middle-alignment-an-alignment"
+        "title": "Why I\u2019m Skeptical of Longtermism",
+        "url": "https://www.lesswrong.com/posts/kKgnigiHbDLTa579E/why-i-m-skeptical-of-longtermism"
       },
       {
-        "title": "Concrete Generalist Projects in AI Safety (and how to do them)",
-        "url": "https://www.lesswrong.com/posts/Lu3uu8hBjsebFm6nK/concrete-generalist-projects-in-ai-safety-and-how-to-do-them"
+        "title": "Empty Chambers, Missing Stairs",
+        "url": "https://www.lesswrong.com/posts/pcZsBYKxgQPRYzhru/empty-chambers-missing-stairs"
       },
       {
-        "title": "Comparing Congress's Two AI Emergency Shutdown Mechanisms",
-        "url": "https://www.lesswrong.com/posts/NRcicBTDegBdmbuGE/comparing-congress-s-two-ai-emergency-shutdown-mechanisms"
+        "title": "Do It Like Darwin",
+        "url": "https://www.lesswrong.com/posts/Nj9jzMBFzEZAbBpo4/do-it-like-darwin"
       },
       {
-        "title": "Is biosecurity oversaturated?",
-        "url": "https://www.lesswrong.com/posts/HNFXT5C6ABk5x7956/is-biosecurity-oversaturated"
+        "title": "The Day Humanity Died (Parody of American Pie)",
+        "url": "https://www.lesswrong.com/posts/3Ad3LqFibkfcMzC2u/the-day-humanity-died-parody-of-american-pie"
       },
       {
-        "title": "How to Answer a Question Without Answering The Question",
-        "url": "https://www.lesswrong.com/posts/g9PNBCkfHAcyMcobz/how-to-answer-a-question-without-answering-the-question"
+        "title": "Scrying, Modeling, and Nerdsnipe",
+        "url": "https://www.lesswrong.com/posts/mTfsMduzaKkWjv2ef/scrying-modeling-and-nerdsnipe"
       },
       {
-        "title": "How My Students Think About AI",
-        "url": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai"
+        "title": "Who we\u2019d like as regrantors",
+        "url": "https://www.lesswrong.com/posts/JwcfDRDdukuPvG7pm/who-we-d-like-as-regrantors"
       },
       {
-        "title": "AI #181: Astra Goes Cyber Critical",
-        "url": "https://www.lesswrong.com/posts/hLn3SakowZLFWobHf/ai-181-astra-goes-cyber-critical"
+        "title": "How the American Executive Could Control AI Companies",
+        "url": "https://www.lesswrong.com/posts/ynstBNgLQzEBiEpLs/how-the-american-executive-could-control-ai-companies"
       },
       {
-        "title": "Automated alignment runs are hard to study!",
-        "url": "https://www.lesswrong.com/posts/myAhB5qyAHyXRv6KJ/automated-alignment-runs-are-hard-to-study"
+        "title": "Open Problems in Mechanistic Intepretability of Biological AIs",
+        "url": "https://www.lesswrong.com/posts/HGq6FarrEnzBcXBCo/open-problems-in-mechanistic-intepretability-of-biological"
       },
       {
-        "title": "Longtermism Seems Like A Religion",
-        "url": "https://www.lesswrong.com/posts/X6NAoTRFsjgMvjLTw/longtermism-seems-like-a-religion"
+        "title": "V&V takes on \u201cPacing the frontier\u201d",
+        "url": "https://www.lesswrong.com/posts/MhssYd2EN2HGfo7Jc/v-and-v-takes-on-pacing-the-frontier"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
-        "url": "https://arxiv.org/abs/2608.11207"
+        "title": "Position: Reasoning is a Learnable Rule-Based Process",
+        "url": "https://arxiv.org/abs/2608.12325"
       },
       {
-        "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
-        "url": "https://arxiv.org/abs/2608.11210"
+        "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+        "url": "https://arxiv.org/abs/2608.12345"
       },
       {
-        "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
-        "url": "https://arxiv.org/abs/2608.11211"
+        "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+        "url": "https://arxiv.org/abs/2608.12346"
       },
       {
-        "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
-        "url": "https://arxiv.org/abs/2608.11212"
+        "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+        "url": "https://arxiv.org/abs/2608.12368"
       },
       {
-        "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
-        "url": "https://arxiv.org/abs/2608.11215"
+        "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+        "url": "https://arxiv.org/abs/2608.12371"
       },
       {
-        "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
-        "url": "https://arxiv.org/abs/2608.11216"
+        "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+        "url": "https://arxiv.org/abs/2608.12372"
       },
       {
-        "title": "MaSRead: Content-Addressed Reading of Replicated Latent Stores",
-        "url": "https://arxiv.org/abs/2608.11218"
+        "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+        "url": "https://arxiv.org/abs/2608.12373"
       },
       {
-        "title": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
-        "url": "https://arxiv.org/abs/2608.11219"
+        "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+        "url": "https://arxiv.org/abs/2608.12385"
       },
       {
-        "title": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs",
-        "url": "https://arxiv.org/abs/2608.11220"
+        "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
+        "url": "https://arxiv.org/abs/2608.12389"
       },
       {
-        "title": "A Conceptual Framework for Refining Influence Knowledge from Simulation Evidence in Cyber-Physical Systems",
-        "url": "https://arxiv.org/abs/2608.11221"
+        "title": "Research Assistant: AstraZeneca's Agentic System for R&D",
+        "url": "https://arxiv.org/abs/2608.12395"
       }
     ]
   },
@@ -168,6 +168,10 @@
         "url": "https://www.anthropic.com/news/news/claude-sonnet-5"
       },
       {
+        "title": "Aug 14, 2026AnnouncementsHow Claude\u2019s text watermark works",
+        "url": "https://www.anthropic.com/news/news/claude-text-watermark"
+      },
+      {
         "title": "Aug 7, 2026ProductImproving Fable 5's biology safeguards",
         "url": "https://www.anthropic.com/news/news/improving-fable-5-s-biology-safeguards"
       },
@@ -186,10 +190,6 @@
       {
         "title": "Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
         "url": "https://www.anthropic.com/news/news/cognizant-anthropic"
-      },
-      {
-        "title": "Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund",
-        "url": "https://www.anthropic.com/news/news/economic-futures-research-fund-agenda"
       }
     ]
   }
