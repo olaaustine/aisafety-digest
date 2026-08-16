@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Luck is a function of surface area.",
-        "url": "https://www.lesswrong.com/posts/JzX2oizpdToWrA3wP/luck-is-a-function-of-surface-area"
+        "title": "Study Update: Does post-training quantization change welfare-relevant indicators in open-weight language models?",
+        "url": "https://www.lesswrong.com/posts/vvGKtaGCd7ryXH5b7/study-update-does-post-training-quantization-change-welfare"
       },
       {
-        "title": "What if Parameter Updates were Text?",
-        "url": "https://www.lesswrong.com/posts/jXEcqoTs2svYcpEyv/what-if-parameter-updates-were-text"
+        "title": "Q2.5 2026 Timelines Update: Uplift and Revenue",
+        "url": "https://www.lesswrong.com/posts/ZPSsmRH5oMwLPXys4/q2-5-2026-timelines-update-uplift-and-revenue"
       },
       {
-        "title": "Using Chunked Monitoring to Detect Deception in Long Transcripts",
-        "url": "https://www.lesswrong.com/posts/orMEvTgtRig9qnsdL/using-chunked-monitoring-to-detect-deception-in-long"
+        "title": "Case for Funding AI Safety in Japan",
+        "url": "https://www.lesswrong.com/posts/bZb2okCZpt3bJmhdY/case-for-funding-ai-safety-in-japan"
       },
       {
-        "title": "How To Catch a Distilled Model",
-        "url": "https://www.lesswrong.com/posts/8peYRGxHtmYsTe6Le/how-to-catch-a-distilled-model"
+        "title": "Will There Be an AI Hegemon? A Mental Model for AI Power Concentration",
+        "url": "https://www.lesswrong.com/posts/6bwmw5avg2mb5gG2f/will-there-be-an-ai-hegemon-a-mental-model-for-ai-power"
       },
       {
-        "title": "Mom's Advice For Hosting A Class Reunion",
-        "url": "https://www.lesswrong.com/posts/Fjfa8JG43CrYtcL3p/mom-s-advice-for-hosting-a-class-reunion"
+        "title": "The Doomsday Argument is Reasonable and Mostly Points to Longevity",
+        "url": "https://www.lesswrong.com/posts/QjSfSSEgxd9b5WFHr/the-doomsday-argument-is-reasonable-and-mostly-points-to"
       },
       {
-        "title": "Learning new facts can change LLM behaviour",
-        "url": "https://www.lesswrong.com/posts/9BNHJqyai2EZAtrRM/learning-new-facts-can-change-llm-behaviour"
+        "title": "Three thoughts on civilisational handoff",
+        "url": "https://www.lesswrong.com/posts/mGLCMzHhjcWsMm6sR/three-thoughts-on-civilisational-handoff"
       },
       {
-        "title": "All Utilitarians Should Be Classical Utilitarians",
-        "url": "https://www.lesswrong.com/posts/zHffPvyq3pbYzBdyh/all-utilitarians-should-be-classical-utilitarians"
+        "title": "Should Less Wrong add subtitles?",
+        "url": "https://www.lesswrong.com/posts/Eo8YxwDYZX2xALMAM/should-less-wrong-add-subtitles"
       },
       {
-        "title": "On Dwarkesh Patel\u2019s Podcast With Ryan Greenblatt",
-        "url": "https://www.lesswrong.com/posts/BZW8CeAHHJ52EvwYt/on-dwarkesh-patel-s-podcast-with-ryan-greenblatt"
+        "title": "Are questions allowed on LessWrong?",
+        "url": "https://www.lesswrong.com/posts/ewYEAoxEqCqED9pYY/are-questions-allowed-on-lesswrong"
       },
       {
-        "title": "I'm starting a interview series of people working in Lean / formal methods / math formalization",
-        "url": "https://www.lesswrong.com/posts/CqmQ7rh23w8ZaaKqz/i-m-starting-a-interview-series-of-people-working-in-lean"
+        "title": "Does DiffusionGemma do latent reasoning?",
+        "url": "https://www.lesswrong.com/posts/QBuJ3suRZxrrxSTtv/does-diffusiongemma-do-latent-reasoning"
       },
       {
-        "title": "Nuclear physics of Alex Zhao's comment for \"Pacing the Frontier\"",
-        "url": "https://www.lesswrong.com/posts/b9uSmCmekPumdEK9f/nuclear-physics-of-alex-zhao-s-comment-for-pacing-the"
+        "title": "Winners of the Fundamental Uncertainty Essay Contest",
+        "url": "https://www.lesswrong.com/posts/SPeqbS7zTczgFtnP6/winners-of-the-fundamental-uncertainty-essay-contest"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Does DiffusionGemma do latent reasoning?",
+        "url": "https://www.alignmentforum.org/posts/QBuJ3suRZxrrxSTtv/does-diffusiongemma-do-latent-reasoning"
+      },
       {
         "title": "AI swarms are starting to pose indirect takeover risk",
         "url": "https://www.alignmentforum.org/posts/8oFYZdXkTaNGRtcn8/ai-swarms-are-starting-to-pose-indirect-takeover-risk"
@@ -84,10 +88,6 @@
       {
         "title": "Value Leakage: An LLM\u2019s Answers Are Silently Shaped by Its Own Values",
         "url": "https://www.alignmentforum.org/posts/hbMw4Yqw6RnFaExDy/value-leakage-an-llm-s-answers-are-silently-shaped-by-its-1"
-      },
-      {
-        "title": "AGI Safety and Alignment at Google DeepMind: A Summary of Recent Work (July 2026)",
-        "url": "https://www.alignmentforum.org/posts/ZTdRtSWaw7JgqEtfa/agi-safety-and-alignment-at-google-deepmind-a-summary-of-1"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "Position: Reasoning is a Learnable Rule-Based Process",
-        "url": "https://arxiv.org/abs/2608.12325"
-      },
-      {
-        "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
-        "url": "https://arxiv.org/abs/2608.12345"
-      },
-      {
-        "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
-        "url": "https://arxiv.org/abs/2608.12346"
-      },
-      {
-        "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
-        "url": "https://arxiv.org/abs/2608.12368"
-      },
-      {
-        "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
-        "url": "https://arxiv.org/abs/2608.12371"
-      },
-      {
-        "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
-        "url": "https://arxiv.org/abs/2608.12372"
-      },
-      {
-        "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
-        "url": "https://arxiv.org/abs/2608.12373"
-      },
-      {
-        "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
-        "url": "https://arxiv.org/abs/2608.12385"
-      },
-      {
-        "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
-        "url": "https://arxiv.org/abs/2608.12389"
-      },
-      {
-        "title": "Research Assistant: AstraZeneca's Agentic System for R&D",
-        "url": "https://arxiv.org/abs/2608.12395"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
