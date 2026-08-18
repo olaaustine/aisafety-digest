@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "What gives you away: how LLMs form opinions of you",
-        "url": "https://www.lesswrong.com/posts/zRKNd6ypTJYkoeFmK/what-gives-you-away-how-llms-form-opinions-of-you"
+        "title": "Anthropic Risk Report: August 2026",
+        "url": "https://www.lesswrong.com/posts/dA8gohzABk6vT7yzP/anthropic-risk-report-august-2026"
       },
       {
-        "title": "Evaluating Chain-of-Thought Monitorability is Still an Open Problem: Comments on OpenAI's Monitorability Evals",
-        "url": "https://www.lesswrong.com/posts/z9fPtghFxELBXebY3/evaluating-chain-of-thought-monitorability-is-still-an-open"
+        "title": "Funding Formal Methods for the Cyberpocalypse",
+        "url": "https://www.lesswrong.com/posts/KKE6bL8LEpb6KuZWA/funding-formal-methods-for-the-cyberpocalypse"
       },
       {
-        "title": "Weird Re-Tokenization, Symmetries and Compression: Research Agenda",
-        "url": "https://www.lesswrong.com/posts/osWWL4yfentdhX9Q7/weird-re-tokenization-symmetries-and-compression-research"
+        "title": "Policy career planning in the age of imminent superintelligence",
+        "url": "https://www.lesswrong.com/posts/7tnrZ3698K8nsKmRP/policy-career-planning-in-the-age-of-imminent"
       },
       {
-        "title": "Fork Around and Find Out Part 3: Interpreting the knight auditor",
-        "url": "https://www.lesswrong.com/posts/Cke4aTXGB7aG8zCsx/fork-around-and-find-out-part-3-interpreting-the-knight"
+        "title": "Automatic Programming Should Be More Like SQL",
+        "url": "https://www.lesswrong.com/posts/kT5HBsQ5fxhaegSFS/automatic-programming-should-be-more-like-sql"
       },
       {
-        "title": "Connect to your future selves",
-        "url": "https://www.lesswrong.com/posts/GEaf2BCufztdmarGK/connect-to-your-future-selves"
+        "title": "AI Security is Harm Reduction",
+        "url": "https://www.lesswrong.com/posts/AAu6kMi5QRasGdwQG/ai-security-is-harm-reduction"
       },
       {
-        "title": "Lateral Workshop Applications: A Case Study",
-        "url": "https://www.lesswrong.com/posts/WrGeH5Gz5KsAY5Lq2/lateral-workshop-applications-a-case-study"
+        "title": "LASR Labs January 2027 applications are open!",
+        "url": "https://www.lesswrong.com/posts/vNrJhmYhkGWScqvjT/lasr-labs-january-2027-applications-are-open"
       },
       {
-        "title": "Untie Squared ReLU variant",
-        "url": "https://www.lesswrong.com/posts/nkwNc4YujY2wpfSYo/untie-squared-relu-variant"
+        "title": "Price recursion is the rational theory of reward",
+        "url": "https://www.lesswrong.com/posts/MAqgva9hLGTMX2wL7/price-recursion-is-the-rational-theory-of-reward"
       },
       {
-        "title": "Study Update: Does post-training quantization change welfare-relevant indicators in open-weight language models?",
-        "url": "https://www.lesswrong.com/posts/vvGKtaGCd7ryXH5b7/study-update-does-post-training-quantization-change-welfare"
+        "title": "Natural Independence Incentives",
+        "url": "https://www.lesswrong.com/posts/2RPwucNrMTKxiB5wp/natural-independence-incentives"
       },
       {
-        "title": "Q2.5 2026 Timelines Update: Uplift and Revenue",
-        "url": "https://www.lesswrong.com/posts/ZPSsmRH5oMwLPXys4/q2-5-2026-timelines-update-uplift-and-revenue"
+        "title": "Misaligned Incentives in Pause Scenarios",
+        "url": "https://www.lesswrong.com/posts/Bh4fooE2pMhzJQNK2/misaligned-incentives-in-pause-scenarios"
       },
       {
-        "title": "Case for Funding AI Safety in Japan",
-        "url": "https://www.lesswrong.com/posts/bZb2okCZpt3bJmhdY/case-for-funding-ai-safety-in-japan"
+        "title": "Inoculate Everything:  All of Pretraining and RL",
+        "url": "https://www.lesswrong.com/posts/YHEoiN2Wj8b4kzveg/inoculate-everything-all-of-pretraining-and-rl-2"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
-        "url": "https://arxiv.org/abs/2608.13564"
+        "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+        "url": "https://arxiv.org/abs/2608.14550"
       },
       {
-        "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
-        "url": "https://arxiv.org/abs/2608.13565"
+        "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
+        "url": "https://arxiv.org/abs/2608.14552"
       },
       {
-        "title": "Modular Cognitive Architecture Emerges in Large Language Models",
-        "url": "https://arxiv.org/abs/2608.13567"
+        "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
+        "url": "https://arxiv.org/abs/2608.14558"
       },
       {
-        "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
-        "url": "https://arxiv.org/abs/2608.13573"
+        "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
+        "url": "https://arxiv.org/abs/2608.14559"
       },
       {
-        "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
-        "url": "https://arxiv.org/abs/2608.13574"
+        "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
+        "url": "https://arxiv.org/abs/2608.14562"
       },
       {
-        "title": "AI Evaluation Should Work With Humans",
-        "url": "https://arxiv.org/abs/2608.13577"
+        "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
+        "url": "https://arxiv.org/abs/2608.14565"
       },
       {
-        "title": "Stable Miscalibration in Large Language Models: A Practical View of High-Confidence Errors",
-        "url": "https://arxiv.org/abs/2608.13591"
+        "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
+        "url": "https://arxiv.org/abs/2608.14566"
       },
       {
-        "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents",
-        "url": "https://arxiv.org/abs/2608.13598"
+        "title": "From Doyle to AGM: A Survey and an Implementation Roadmap for Belief Change",
+        "url": "https://arxiv.org/abs/2608.14567"
       },
       {
-        "title": "Cross-Disciplinary Taxonomy and Modeling of Misunderstanding Generation, Amplification, and Detection, from Pragmatics to AI Agents",
-        "url": "https://arxiv.org/abs/2608.13604"
+        "title": "Position: AI Governance Needs ISO-like Interoperability Protocols, Not Just Laws",
+        "url": "https://arxiv.org/abs/2608.14568"
       },
       {
-        "title": "Active Perception for Embodied Disambiguation",
-        "url": "https://arxiv.org/abs/2608.13605"
+        "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration",
+        "url": "https://arxiv.org/abs/2608.14569"
       }
     ]
   },
