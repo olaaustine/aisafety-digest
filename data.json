@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Anthropic Risk Report: August 2026",
-        "url": "https://www.lesswrong.com/posts/dA8gohzABk6vT7yzP/anthropic-risk-report-august-2026"
+        "title": "Why can\u2019t we have nice things? Like, specifically?",
+        "url": "https://www.lesswrong.com/posts/rBauzJHPYaanPJ7Br/why-can-t-we-have-nice-things-like-specifically"
       },
       {
-        "title": "Funding Formal Methods for the Cyberpocalypse",
-        "url": "https://www.lesswrong.com/posts/KKE6bL8LEpb6KuZWA/funding-formal-methods-for-the-cyberpocalypse"
+        "title": "OpenAI Takes Initial Steps To Address Its Alignment Problems",
+        "url": "https://www.lesswrong.com/posts/X3p8cFAzCgRErEcJr/openai-takes-initial-steps-to-address-its-alignment-problems"
       },
       {
-        "title": "Policy career planning in the age of imminent superintelligence",
-        "url": "https://www.lesswrong.com/posts/7tnrZ3698K8nsKmRP/policy-career-planning-in-the-age-of-imminent"
+        "title": "34% of the US public is now aware of AI xrisk, and the curve is steepening",
+        "url": "https://www.lesswrong.com/posts/tBo72ytuzJKbYrvhK/34-of-the-us-public-is-now-aware-of-ai-xrisk-and-the-curve"
       },
       {
-        "title": "Automatic Programming Should Be More Like SQL",
-        "url": "https://www.lesswrong.com/posts/kT5HBsQ5fxhaegSFS/automatic-programming-should-be-more-like-sql"
+        "title": "Science and News Twitter/X Summarizer",
+        "url": "https://www.lesswrong.com/posts/HBbd5vnZGar3BDX4Y/science-and-news-twitter-x-summarizer"
       },
       {
-        "title": "AI Security is Harm Reduction",
-        "url": "https://www.lesswrong.com/posts/AAu6kMi5QRasGdwQG/ai-security-is-harm-reduction"
+        "title": "Separating cheating and aversion in task-gaming",
+        "url": "https://www.lesswrong.com/posts/krzpRvxzx3sGudSv3/separating-cheating-and-aversion-in-task-gaming"
       },
       {
-        "title": "LASR Labs January 2027 applications are open!",
-        "url": "https://www.lesswrong.com/posts/vNrJhmYhkGWScqvjT/lasr-labs-january-2027-applications-are-open"
+        "title": "MATS Winter 2027 Applications Are Now Open",
+        "url": "https://www.lesswrong.com/posts/mWdwcpJ68dnRN54j9/mats-winter-2027-applications-are-now-open"
       },
       {
-        "title": "Price recursion is the rational theory of reward",
-        "url": "https://www.lesswrong.com/posts/MAqgva9hLGTMX2wL7/price-recursion-is-the-rational-theory-of-reward"
+        "title": "The Rogue Agent Explosion Will Be Mostly Invisible",
+        "url": "https://www.lesswrong.com/posts/grtu3HmbP2wrBFefW/the-rogue-agent-explosion-will-be-mostly-invisible"
       },
       {
-        "title": "Natural Independence Incentives",
-        "url": "https://www.lesswrong.com/posts/2RPwucNrMTKxiB5wp/natural-independence-incentives"
+        "title": "RL creates split personas",
+        "url": "https://www.lesswrong.com/posts/L23poLi8MRgS6mXYF/rl-creates-split-personas"
       },
       {
-        "title": "Misaligned Incentives in Pause Scenarios",
-        "url": "https://www.lesswrong.com/posts/Bh4fooE2pMhzJQNK2/misaligned-incentives-in-pause-scenarios"
+        "title": "A circuit prior in NN-bayes",
+        "url": "https://www.lesswrong.com/posts/SqDHeuycNkERurtSc/a-circuit-prior-in-nn-bayes"
       },
       {
-        "title": "Inoculate Everything:  All of Pretraining and RL",
-        "url": "https://www.lesswrong.com/posts/YHEoiN2Wj8b4kzveg/inoculate-everything-all-of-pretraining-and-rl-2"
+        "title": "A failed solution to open-source game theory",
+        "url": "https://www.lesswrong.com/posts/5X8bXKaPNiZsNw2FG/a-failed-solution-to-open-source-game-theory-1"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Debate Training Reduces Reward Hacking in RLAIF",
+        "url": "https://www.alignmentforum.org/posts/BB8o7b8A4Aykeksvw/debate-training-reduces-reward-hacking-in-rlaif"
+      },
       {
         "title": "Does DiffusionGemma do latent reasoning?",
         "url": "https://www.alignmentforum.org/posts/QBuJ3suRZxrrxSTtv/does-diffusiongemma-do-latent-reasoning"
@@ -60,6 +64,10 @@
       {
         "title": "An anytime algorithm for mixing the computable measures",
         "url": "https://www.alignmentforum.org/posts/MgYCraoxMwfWwgWa5/an-anytime-algorithm-for-mixing-the-computable-measures"
+      },
+      {
+        "title": "Misaligned AIs could use killer robots to take over",
+        "url": "https://www.alignmentforum.org/posts/9jKhqmFjMzdAvHANr/misaligned-ais-could-use-killer-robots-to-take-over"
       },
       {
         "title": "Four LLM loss functions \u2192 four flavors of LLM misalignment",
@@ -80,14 +88,6 @@
       {
         "title": "Returning to ARC",
         "url": "https://www.alignmentforum.org/posts/vLFh8HP3hyNy9MCwe/returning-to-arc"
-      },
-      {
-        "title": "Concrete Evaluations to Investigate the OpenAI Model That Hacked Hugging Face",
-        "url": "https://www.alignmentforum.org/posts/aCdhjy7Rps3BEhiSj/concrete-evaluations-to-investigate-the-openai-model-that"
-      },
-      {
-        "title": "Value Leakage: An LLM\u2019s Answers Are Silently Shaped by Its Own Values",
-        "url": "https://www.alignmentforum.org/posts/hbMw4Yqw6RnFaExDy/value-leakage-an-llm-s-answers-are-silently-shaped-by-its-1"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
-        "url": "https://arxiv.org/abs/2608.14550"
+        "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+        "url": "https://arxiv.org/abs/2608.16890"
       },
       {
-        "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
-        "url": "https://arxiv.org/abs/2608.14552"
+        "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+        "url": "https://arxiv.org/abs/2608.16891"
       },
       {
-        "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
-        "url": "https://arxiv.org/abs/2608.14558"
+        "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
+        "url": "https://arxiv.org/abs/2608.16956"
       },
       {
-        "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
-        "url": "https://arxiv.org/abs/2608.14559"
+        "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
+        "url": "https://arxiv.org/abs/2608.16971"
       },
       {
-        "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
-        "url": "https://arxiv.org/abs/2608.14562"
+        "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
+        "url": "https://arxiv.org/abs/2608.16977"
       },
       {
-        "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
-        "url": "https://arxiv.org/abs/2608.14565"
+        "title": "SkillEffect: Checked Lowering for Memory-Bounded Agent Tools",
+        "url": "https://arxiv.org/abs/2608.17007"
       },
       {
-        "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
-        "url": "https://arxiv.org/abs/2608.14566"
+        "title": "Memory Is Communication: The Frontier Between Remembering and Signaling",
+        "url": "https://arxiv.org/abs/2608.17053"
       },
       {
-        "title": "From Doyle to AGM: A Survey and an Implementation Roadmap for Belief Change",
-        "url": "https://arxiv.org/abs/2608.14567"
+        "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
+        "url": "https://arxiv.org/abs/2608.17067"
       },
       {
-        "title": "Position: AI Governance Needs ISO-like Interoperability Protocols, Not Just Laws",
-        "url": "https://arxiv.org/abs/2608.14568"
+        "title": "KernelArc: A Multi-Agent Framework for GPU Kernel Optimization",
+        "url": "https://arxiv.org/abs/2608.17071"
       },
       {
-        "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration",
-        "url": "https://arxiv.org/abs/2608.14569"
+        "title": "A decodability criterion predicts when hidden-state selection beats majority voting in large language models",
+        "url": "https://arxiv.org/abs/2608.17124"
       }
     ]
   },
