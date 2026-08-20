@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Why can\u2019t we have nice things? Like, specifically?",
-        "url": "https://www.lesswrong.com/posts/rBauzJHPYaanPJ7Br/why-can-t-we-have-nice-things-like-specifically"
+        "title": "Ablating 1 of a chess transformer's 128 attention heads makes the model stop finding Paul Morphy's queen sacrifice",
+        "url": "https://www.lesswrong.com/posts/nDAJwbQiHWWbNu5oq/ablating-1-of-a-chess-transformer-s-128-attention-heads"
       },
       {
-        "title": "OpenAI Takes Initial Steps To Address Its Alignment Problems",
-        "url": "https://www.lesswrong.com/posts/X3p8cFAzCgRErEcJr/openai-takes-initial-steps-to-address-its-alignment-problems"
+        "title": "Llama will abandon a correct answer if it thinks you're educated",
+        "url": "https://www.lesswrong.com/posts/87oeYXEjf7XgitbBg/llama-will-abandon-a-correct-answer-if-it-thinks-you-re"
       },
       {
-        "title": "34% of the US public is now aware of AI xrisk, and the curve is steepening",
-        "url": "https://www.lesswrong.com/posts/tBo72ytuzJKbYrvhK/34-of-the-us-public-is-now-aware-of-ai-xrisk-and-the-curve"
+        "title": "Why self-fund your regranting?",
+        "url": "https://www.lesswrong.com/posts/MFaHQN38KBZDpdzrX/why-self-fund-your-regranting"
       },
       {
-        "title": "Science and News Twitter/X Summarizer",
-        "url": "https://www.lesswrong.com/posts/HBbd5vnZGar3BDX4Y/science-and-news-twitter-x-summarizer"
+        "title": "If Aliens Exist, We Should Expect to Find Them Around Now",
+        "url": "https://www.lesswrong.com/posts/9r3SSsEZbbbRHzCf6/if-aliens-exist-we-should-expect-to-find-them-around-now"
       },
       {
-        "title": "Separating cheating and aversion in task-gaming",
-        "url": "https://www.lesswrong.com/posts/krzpRvxzx3sGudSv3/separating-cheating-and-aversion-in-task-gaming"
+        "title": "Cross-Dataset Transfer Evaluation of Deception Probes in Smaller Models",
+        "url": "https://www.lesswrong.com/posts/MFdGxip7TdQS8eNc2/cross-dataset-transfer-evaluation-of-deception-probes-in"
       },
       {
-        "title": "MATS Winter 2027 Applications Are Now Open",
-        "url": "https://www.lesswrong.com/posts/mWdwcpJ68dnRN54j9/mats-winter-2027-applications-are-now-open"
+        "title": "The Fourth Humiliation",
+        "url": "https://www.lesswrong.com/posts/JdNjeYC5bk83Kf2Cw/the-fourth-humiliation"
       },
       {
-        "title": "The Rogue Agent Explosion Will Be Mostly Invisible",
-        "url": "https://www.lesswrong.com/posts/grtu3HmbP2wrBFefW/the-rogue-agent-explosion-will-be-mostly-invisible"
+        "title": "AI #182: Pause For Reflection",
+        "url": "https://www.lesswrong.com/posts/JSZkzsi8cD4pW6ffA/ai-182-pause-for-reflection"
       },
       {
-        "title": "RL creates split personas",
-        "url": "https://www.lesswrong.com/posts/L23poLi8MRgS6mXYF/rl-creates-split-personas"
+        "title": "We Must Remember That Our World Contains Hell",
+        "url": "https://www.lesswrong.com/posts/A2kJKqnHhh5Hq4p2S/we-must-remember-that-our-world-contains-hell"
       },
       {
-        "title": "A circuit prior in NN-bayes",
-        "url": "https://www.lesswrong.com/posts/SqDHeuycNkERurtSc/a-circuit-prior-in-nn-bayes"
+        "title": "Thoughts on Taking OpenAI Foundation Funding",
+        "url": "https://www.lesswrong.com/posts/Hoxj8tEGGQ7HaLzf4/thoughts-on-taking-openai-foundation-funding"
       },
       {
-        "title": "A failed solution to open-source game theory",
-        "url": "https://www.lesswrong.com/posts/5X8bXKaPNiZsNw2FG/a-failed-solution-to-open-source-game-theory-1"
+        "title": "Making sense of the misalignment risk model in the Anthropic Risk Report (August 2026)",
+        "url": "https://www.lesswrong.com/posts/P6gLGnjjzZMPyvJGa/making-sense-of-the-misalignment-risk-model-in-the-anthropic"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
-        "url": "https://arxiv.org/abs/2608.16890"
+        "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+        "url": "https://arxiv.org/abs/2608.18078"
       },
       {
-        "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
-        "url": "https://arxiv.org/abs/2608.16891"
+        "title": "Position: Profiling Game Worlds by Transition Complexity",
+        "url": "https://arxiv.org/abs/2608.18079"
       },
       {
-        "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
-        "url": "https://arxiv.org/abs/2608.16956"
+        "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+        "url": "https://arxiv.org/abs/2608.18080"
       },
       {
-        "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
-        "url": "https://arxiv.org/abs/2608.16971"
+        "title": "Position: Behavioral Systems Require Behavioral Tests",
+        "url": "https://arxiv.org/abs/2608.18081"
       },
       {
-        "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
-        "url": "https://arxiv.org/abs/2608.16977"
+        "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
+        "url": "https://arxiv.org/abs/2608.18086"
       },
       {
-        "title": "SkillEffect: Checked Lowering for Memory-Bounded Agent Tools",
-        "url": "https://arxiv.org/abs/2608.17007"
+        "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
+        "url": "https://arxiv.org/abs/2608.18088"
       },
       {
-        "title": "Memory Is Communication: The Frontier Between Remembering and Signaling",
-        "url": "https://arxiv.org/abs/2608.17053"
+        "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
+        "url": "https://arxiv.org/abs/2608.18092"
       },
       {
-        "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
-        "url": "https://arxiv.org/abs/2608.17067"
+        "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
+        "url": "https://arxiv.org/abs/2608.18099"
       },
       {
-        "title": "KernelArc: A Multi-Agent Framework for GPU Kernel Optimization",
-        "url": "https://arxiv.org/abs/2608.17071"
+        "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
+        "url": "https://arxiv.org/abs/2608.18104"
       },
       {
-        "title": "A decodability criterion predicts when hidden-state selection beats majority voting in large language models",
-        "url": "https://arxiv.org/abs/2608.17124"
+        "title": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions",
+        "url": "https://arxiv.org/abs/2608.18110"
       }
     ]
   },
