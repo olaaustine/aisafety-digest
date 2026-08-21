@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Ablating 1 of a chess transformer's 128 attention heads makes the model stop finding Paul Morphy's queen sacrifice",
-        "url": "https://www.lesswrong.com/posts/nDAJwbQiHWWbNu5oq/ablating-1-of-a-chess-transformer-s-128-attention-heads"
+        "title": "Alignment fine-tuning induces conditional misalignment in Qwen2.5-7B-Instruct",
+        "url": "https://www.lesswrong.com/posts/fiyPBZf2YA4csGgv4/alignment-fine-tuning-induces-conditional-misalignment-in"
       },
       {
-        "title": "Llama will abandon a correct answer if it thinks you're educated",
-        "url": "https://www.lesswrong.com/posts/87oeYXEjf7XgitbBg/llama-will-abandon-a-correct-answer-if-it-thinks-you-re"
+        "title": "When is Unlimited Optimization Catastrophic?",
+        "url": "https://www.lesswrong.com/posts/4JCne6evQjtjxXKED/when-is-unlimited-optimization-catastrophic"
       },
       {
-        "title": "Why self-fund your regranting?",
-        "url": "https://www.lesswrong.com/posts/MFaHQN38KBZDpdzrX/why-self-fund-your-regranting"
+        "title": "AI Text Watermarking Is Free And Good",
+        "url": "https://www.lesswrong.com/posts/3mKuPHmaK7NW3QypR/ai-text-watermarking-is-free-and-good"
       },
       {
-        "title": "If Aliens Exist, We Should Expect to Find Them Around Now",
-        "url": "https://www.lesswrong.com/posts/9r3SSsEZbbbRHzCf6/if-aliens-exist-we-should-expect-to-find-them-around-now"
+        "title": "Evaluating Explanations of LLM Behavior In The Wild with Counterfactual Experiments",
+        "url": "https://www.lesswrong.com/posts/ExB6KYDcznaFS72eT/evaluating-explanations-of-llm-behavior-in-the-wild-with"
       },
       {
-        "title": "Cross-Dataset Transfer Evaluation of Deception Probes in Smaller Models",
-        "url": "https://www.lesswrong.com/posts/MFdGxip7TdQS8eNc2/cross-dataset-transfer-evaluation-of-deception-probes-in"
+        "title": "In Defense of ASI Socialism",
+        "url": "https://www.lesswrong.com/posts/WviREh8j9xjoyGsS7/in-defense-of-asi-socialism"
       },
       {
-        "title": "The Fourth Humiliation",
-        "url": "https://www.lesswrong.com/posts/JdNjeYC5bk83Kf2Cw/the-fourth-humiliation"
+        "title": "Misaligned AI in the Bronze Age",
+        "url": "https://www.lesswrong.com/posts/mPrbyBsGmNfWWgJmi/misaligned-ai-in-the-bronze-age"
       },
       {
-        "title": "AI #182: Pause For Reflection",
-        "url": "https://www.lesswrong.com/posts/JSZkzsi8cD4pW6ffA/ai-182-pause-for-reflection"
+        "title": "The imposters among us: function vectors that ace every check and do the wrong task (in search of circularity)",
+        "url": "https://www.lesswrong.com/posts/aFyir2PaoCHK5prAu/the-imposters-among-us-function-vectors-that-ace-every-check"
       },
       {
-        "title": "We Must Remember That Our World Contains Hell",
-        "url": "https://www.lesswrong.com/posts/A2kJKqnHhh5Hq4p2S/we-must-remember-that-our-world-contains-hell"
+        "title": "When Models Identify as a Swarm",
+        "url": "https://www.lesswrong.com/posts/iJDiA9fg3KAf7y5Qe/when-models-identify-as-a-swarm"
       },
       {
-        "title": "Thoughts on Taking OpenAI Foundation Funding",
-        "url": "https://www.lesswrong.com/posts/Hoxj8tEGGQ7HaLzf4/thoughts-on-taking-openai-foundation-funding"
+        "title": "My Neel Nanda MATS 10.0 Application: Studying Feature Splitting in SAEs via Training Data Attribution",
+        "url": "https://www.lesswrong.com/posts/kZtx6ydBytXkZEQeA/my-neel-nanda-mats-10-0-application-studying-feature"
       },
       {
-        "title": "Making sense of the misalignment risk model in the Anthropic Risk Report (August 2026)",
-        "url": "https://www.lesswrong.com/posts/P6gLGnjjzZMPyvJGa/making-sense-of-the-misalignment-risk-model-in-the-anthropic"
+        "title": "Creativity Beyond the Manifold",
+        "url": "https://www.lesswrong.com/posts/JL6jsxGMMzbtSapsH/creativity-beyond-the-manifold"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
-        "url": "https://arxiv.org/abs/2608.18078"
+        "title": "Active Inference as Context Acquisition for AI Agents",
+        "url": "https://arxiv.org/abs/2608.19202"
       },
       {
-        "title": "Position: Profiling Game Worlds by Transition Complexity",
-        "url": "https://arxiv.org/abs/2608.18079"
+        "title": "Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assignment: A Review",
+        "url": "https://arxiv.org/abs/2608.19214"
       },
       {
-        "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
-        "url": "https://arxiv.org/abs/2608.18080"
+        "title": "How to Navigate Uncertainty About AI Consciousness",
+        "url": "https://arxiv.org/abs/2608.19215"
       },
       {
-        "title": "Position: Behavioral Systems Require Behavioral Tests",
-        "url": "https://arxiv.org/abs/2608.18081"
+        "title": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
+        "url": "https://arxiv.org/abs/2608.19216"
       },
       {
-        "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
-        "url": "https://arxiv.org/abs/2608.18086"
+        "title": "Interaction valence reveals contrasting social networks in dairy cattle",
+        "url": "https://arxiv.org/abs/2608.19222"
       },
       {
-        "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
-        "url": "https://arxiv.org/abs/2608.18088"
+        "title": "Air Traffic Control Using Large Language Models: Prompt Engineering, Architecture, and Evaluation",
+        "url": "https://arxiv.org/abs/2608.19299"
       },
       {
-        "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
-        "url": "https://arxiv.org/abs/2608.18092"
+        "title": "Outcome Monitors: Recovery Affordances for Silent Tool Failures",
+        "url": "https://arxiv.org/abs/2608.19303"
       },
       {
-        "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
-        "url": "https://arxiv.org/abs/2608.18099"
+        "title": "Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress",
+        "url": "https://arxiv.org/abs/2608.19408"
       },
       {
-        "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
-        "url": "https://arxiv.org/abs/2608.18104"
+        "title": "Symposium: Trust via Auditable Records for Communities of AI Scientist Agents",
+        "url": "https://arxiv.org/abs/2608.19511"
       },
       {
-        "title": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions",
-        "url": "https://arxiv.org/abs/2608.18110"
+        "title": "From Retrieved Context to Runtime Control: Adaptive Compression for Edge-based RAG",
+        "url": "https://arxiv.org/abs/2608.19535"
       }
     ]
   },
