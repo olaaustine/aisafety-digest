@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Alignment fine-tuning induces conditional misalignment in Qwen2.5-7B-Instruct",
-        "url": "https://www.lesswrong.com/posts/fiyPBZf2YA4csGgv4/alignment-fine-tuning-induces-conditional-misalignment-in"
+        "title": "Claude and Performative Uncertainty",
+        "url": "https://www.lesswrong.com/posts/DafkCDZpwzQf4yLLF/claude-and-performative-uncertainty"
       },
       {
-        "title": "When is Unlimited Optimization Catastrophic?",
-        "url": "https://www.lesswrong.com/posts/4JCne6evQjtjxXKED/when-is-unlimited-optimization-catastrophic"
+        "title": "When would you leave Anthropic? Notes from a chat with a capabilities researcher",
+        "url": "https://www.lesswrong.com/posts/ga8c5MWynhLuDm4mD/when-would-you-leave-anthropic-notes-from-a-chat-with-a"
       },
       {
-        "title": "AI Text Watermarking Is Free And Good",
-        "url": "https://www.lesswrong.com/posts/3mKuPHmaK7NW3QypR/ai-text-watermarking-is-free-and-good"
+        "title": "Study 2 Registration: Exploring representational counterparts of welfare-relevant indicators under post-training quantization",
+        "url": "https://www.lesswrong.com/posts/q3RFhX57srWFZBc8T/study-2-registration-exploring-representational-counterparts"
       },
       {
-        "title": "Evaluating Explanations of LLM Behavior In The Wild with Counterfactual Experiments",
-        "url": "https://www.lesswrong.com/posts/ExB6KYDcznaFS72eT/evaluating-explanations-of-llm-behavior-in-the-wild-with"
+        "title": "\"Farm strength\" vs \"breath awareness\"",
+        "url": "https://www.lesswrong.com/posts/h99Wi5vfFbPasCFh5/farm-strength-vs-breath-awareness"
       },
       {
-        "title": "In Defense of ASI Socialism",
-        "url": "https://www.lesswrong.com/posts/WviREh8j9xjoyGsS7/in-defense-of-asi-socialism"
+        "title": "5 Things I Learned About People From Doing Stand-Up Comedy",
+        "url": "https://www.lesswrong.com/posts/3CdKcgo8vrb2hxEFd/5-things-i-learned-about-people-from-doing-stand-up-comedy-1"
       },
       {
-        "title": "Misaligned AI in the Bronze Age",
-        "url": "https://www.lesswrong.com/posts/mPrbyBsGmNfWWgJmi/misaligned-ai-in-the-bronze-age"
+        "title": "The Instrumental Convergence of Crowds",
+        "url": "https://www.lesswrong.com/posts/F4pWwtMFTebKZzxFL/the-instrumental-convergence-of-crowds"
       },
       {
-        "title": "The imposters among us: function vectors that ace every check and do the wrong task (in search of circularity)",
-        "url": "https://www.lesswrong.com/posts/aFyir2PaoCHK5prAu/the-imposters-among-us-function-vectors-that-ace-every-check"
+        "title": "Humans Are Alignment Generators",
+        "url": "https://www.lesswrong.com/posts/bbDiNKrckvLevKxrx/humans-are-alignment-generators"
       },
       {
-        "title": "When Models Identify as a Swarm",
-        "url": "https://www.lesswrong.com/posts/iJDiA9fg3KAf7y5Qe/when-models-identify-as-a-swarm"
+        "title": "Selection for Selectability: Inductive Biases in Evolution and in Neural Networks",
+        "url": "https://www.lesswrong.com/posts/JNp5FkYyDGBcfiY5B/selection-for-selectability-inductive-biases-in-evolution"
       },
       {
-        "title": "My Neel Nanda MATS 10.0 Application: Studying Feature Splitting in SAEs via Training Data Attribution",
-        "url": "https://www.lesswrong.com/posts/kZtx6ydBytXkZEQeA/my-neel-nanda-mats-10-0-application-studying-feature"
+        "title": "Rogue Scalpel: Activation steering breaks refusal, even with benign directions",
+        "url": "https://www.lesswrong.com/posts/MWTQoa4Xo2AGyZiXe/rogue-scalpel-activation-steering-breaks-refusal-even-with"
       },
       {
-        "title": "Creativity Beyond the Manifold",
-        "url": "https://www.lesswrong.com/posts/JL6jsxGMMzbtSapsH/creativity-beyond-the-manifold"
+        "title": "Content-based privilege: transformer residual streams stratify by proximity to the model's own prediction",
+        "url": "https://www.lesswrong.com/posts/oouuz3EAb6dhN8WwY/content-based-privilege-transformer-residual-streams-1"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "Active Inference as Context Acquisition for AI Agents",
-        "url": "https://arxiv.org/abs/2608.19202"
-      },
-      {
-        "title": "Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assignment: A Review",
-        "url": "https://arxiv.org/abs/2608.19214"
-      },
-      {
-        "title": "How to Navigate Uncertainty About AI Consciousness",
-        "url": "https://arxiv.org/abs/2608.19215"
-      },
-      {
-        "title": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
-        "url": "https://arxiv.org/abs/2608.19216"
-      },
-      {
-        "title": "Interaction valence reveals contrasting social networks in dairy cattle",
-        "url": "https://arxiv.org/abs/2608.19222"
-      },
-      {
-        "title": "Air Traffic Control Using Large Language Models: Prompt Engineering, Architecture, and Evaluation",
-        "url": "https://arxiv.org/abs/2608.19299"
-      },
-      {
-        "title": "Outcome Monitors: Recovery Affordances for Silent Tool Failures",
-        "url": "https://arxiv.org/abs/2608.19303"
-      },
-      {
-        "title": "Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress",
-        "url": "https://arxiv.org/abs/2608.19408"
-      },
-      {
-        "title": "Symposium: Trust via Auditable Records for Communities of AI Scientist Agents",
-        "url": "https://arxiv.org/abs/2608.19511"
-      },
-      {
-        "title": "From Retrieved Context to Runtime Control: Adaptive Compression for Edge-based RAG",
-        "url": "https://arxiv.org/abs/2608.19535"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
