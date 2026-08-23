@@ -4,6 +4,34 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
+        "title": "PSA: There's a third option in the \"measure problem\"",
+        "url": "https://www.lesswrong.com/posts/m5XNyahxizKfboEnk/psa-there-s-a-third-option-in-the-measure-problem"
+      },
+      {
+        "title": "Utilities as Legendre duals of probabilities",
+        "url": "https://www.lesswrong.com/posts/ALmBydH53DE3dSzCh/utilities-as-legendre-duals-of-probabilities"
+      },
+      {
+        "title": "Twenty Years from RSI to Takeoff: Slow Learning, Scaling Slowdown, Industrial Explosion",
+        "url": "https://www.lesswrong.com/posts/LP6uCXs6Ea5qSbWpY/twenty-years-from-rsi-to-takeoff-slow-learning-scaling"
+      },
+      {
+        "title": "How to overhaul the broken review system",
+        "url": "https://www.lesswrong.com/posts/9KNJ9YzyWQf7udEHw/how-to-overhaul-the-broken-review-system"
+      },
+      {
+        "title": "A Generalist Thinks in Terms of Problems, Not Job Descriptions",
+        "url": "https://www.lesswrong.com/posts/dA4u4GQuLwnCzWM6W/a-generalist-thinks-in-terms-of-problems-not-job"
+      },
+      {
+        "title": "Prompt Sufficiency: A Missive for the Managerial Class",
+        "url": "https://www.lesswrong.com/posts/jDHc4oK4oPwfh6TcK/prompt-sufficiency-a-missive-for-the-managerial-class"
+      },
+      {
+        "title": "When does an LLM\u2019s model of you affect its behaviour?",
+        "url": "https://www.lesswrong.com/posts/ASHWx4pBmiiJJDazX/when-does-an-llm-s-model-of-you-affect-its-behaviour"
+      },
+      {
         "title": "Claude and Performative Uncertainty",
         "url": "https://www.lesswrong.com/posts/DafkCDZpwzQf4yLLF/claude-and-performative-uncertainty"
       },
@@ -14,34 +42,6 @@
       {
         "title": "Study 2 Registration: Exploring representational counterparts of welfare-relevant indicators under post-training quantization",
         "url": "https://www.lesswrong.com/posts/q3RFhX57srWFZBc8T/study-2-registration-exploring-representational-counterparts"
-      },
-      {
-        "title": "\"Farm strength\" vs \"breath awareness\"",
-        "url": "https://www.lesswrong.com/posts/h99Wi5vfFbPasCFh5/farm-strength-vs-breath-awareness"
-      },
-      {
-        "title": "5 Things I Learned About People From Doing Stand-Up Comedy",
-        "url": "https://www.lesswrong.com/posts/3CdKcgo8vrb2hxEFd/5-things-i-learned-about-people-from-doing-stand-up-comedy-1"
-      },
-      {
-        "title": "The Instrumental Convergence of Crowds",
-        "url": "https://www.lesswrong.com/posts/F4pWwtMFTebKZzxFL/the-instrumental-convergence-of-crowds"
-      },
-      {
-        "title": "Humans Are Alignment Generators",
-        "url": "https://www.lesswrong.com/posts/bbDiNKrckvLevKxrx/humans-are-alignment-generators"
-      },
-      {
-        "title": "Selection for Selectability: Inductive Biases in Evolution and in Neural Networks",
-        "url": "https://www.lesswrong.com/posts/JNp5FkYyDGBcfiY5B/selection-for-selectability-inductive-biases-in-evolution"
-      },
-      {
-        "title": "Rogue Scalpel: Activation steering breaks refusal, even with benign directions",
-        "url": "https://www.lesswrong.com/posts/MWTQoa4Xo2AGyZiXe/rogue-scalpel-activation-steering-breaks-refusal-even-with"
-      },
-      {
-        "title": "Content-based privilege: transformer residual streams stratify by proximity to the model's own prediction",
-        "url": "https://www.lesswrong.com/posts/oouuz3EAb6dhN8WwY/content-based-privilege-transformer-residual-streams-1"
       }
     ]
   },
