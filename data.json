@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
+        "title": "PSA: We can do better",
+        "url": "https://www.lesswrong.com/posts/wiFv6LguphSxkzAnb/psa-we-can-do-better"
+      },
+      {
+        "title": "Distillation of the AI2040 Alignment Roadmap",
+        "url": "https://www.lesswrong.com/posts/H7FB9rYGHTvQutHc9/distillation-of-the-ai2040-alignment-roadmap"
+      },
+      {
+        "title": "The American People Really Hate Data Centers",
+        "url": "https://www.lesswrong.com/posts/EDKw7KyonrvskqZ7o/the-american-people-really-hate-data-centers"
+      },
+      {
+        "title": "Where have organoids actually been useful?",
+        "url": "https://www.lesswrong.com/posts/crySjcuCm9dwbwddW/where-have-organoids-actually-been-useful"
+      },
+      {
+        "title": "AI Safety Acculturation is Neglected",
+        "url": "https://www.lesswrong.com/posts/cr5pyW7Mzm33p4AvN/ai-safety-acculturation-is-neglected"
+      },
+      {
+        "title": "Endorsing Burhan Azeem for State Senate",
+        "url": "https://www.lesswrong.com/posts/7tCRtvWKz3aA9ozhi/endorsing-burhan-azeem-for-state-senate"
+      },
+      {
+        "title": "LLMs could control their host machines by exploiting inference engines",
+        "url": "https://www.lesswrong.com/posts/CjeobBGnhxg8xvden/llms-could-control-their-host-machines-by-exploiting"
+      },
+      {
+        "title": "What just happened? Pragmatism and Pessimization",
+        "url": "https://www.lesswrong.com/posts/yaz8nx4ogZmiqHzt7/what-just-happened-pragmatism-and-pessimization"
+      },
+      {
+        "title": "In search of natural features",
+        "url": "https://www.lesswrong.com/posts/SNAKJuN8FdoEaWeFC/in-search-of-natural-features"
+      },
+      {
         "title": "PSA: There's a third option in the \"measure problem\"",
         "url": "https://www.lesswrong.com/posts/m5XNyahxizKfboEnk/psa-there-s-a-third-option-in-the-measure-problem"
-      },
-      {
-        "title": "Utilities as Legendre duals of probabilities",
-        "url": "https://www.lesswrong.com/posts/ALmBydH53DE3dSzCh/utilities-as-legendre-duals-of-probabilities"
-      },
-      {
-        "title": "Twenty Years from RSI to Takeoff: Slow Learning, Scaling Slowdown, Industrial Explosion",
-        "url": "https://www.lesswrong.com/posts/LP6uCXs6Ea5qSbWpY/twenty-years-from-rsi-to-takeoff-slow-learning-scaling"
-      },
-      {
-        "title": "How to overhaul the broken review system",
-        "url": "https://www.lesswrong.com/posts/9KNJ9YzyWQf7udEHw/how-to-overhaul-the-broken-review-system"
-      },
-      {
-        "title": "A Generalist Thinks in Terms of Problems, Not Job Descriptions",
-        "url": "https://www.lesswrong.com/posts/dA4u4GQuLwnCzWM6W/a-generalist-thinks-in-terms-of-problems-not-job"
-      },
-      {
-        "title": "Prompt Sufficiency: A Missive for the Managerial Class",
-        "url": "https://www.lesswrong.com/posts/jDHc4oK4oPwfh6TcK/prompt-sufficiency-a-missive-for-the-managerial-class"
-      },
-      {
-        "title": "When does an LLM\u2019s model of you affect its behaviour?",
-        "url": "https://www.lesswrong.com/posts/ASHWx4pBmiiJJDazX/when-does-an-llm-s-model-of-you-affect-its-behaviour"
-      },
-      {
-        "title": "Claude and Performative Uncertainty",
-        "url": "https://www.lesswrong.com/posts/DafkCDZpwzQf4yLLF/claude-and-performative-uncertainty"
-      },
-      {
-        "title": "When would you leave Anthropic? Notes from a chat with a capabilities researcher",
-        "url": "https://www.lesswrong.com/posts/ga8c5MWynhLuDm4mD/when-would-you-leave-anthropic-notes-from-a-chat-with-a"
-      },
-      {
-        "title": "Study 2 Registration: Exploring representational counterparts of welfare-relevant indicators under post-training quantization",
-        "url": "https://www.lesswrong.com/posts/q3RFhX57srWFZBc8T/study-2-registration-exploring-representational-counterparts"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+        "url": "https://arxiv.org/abs/2608.20341"
+      },
+      {
+        "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+        "url": "https://arxiv.org/abs/2608.20342"
+      },
+      {
+        "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
+        "url": "https://arxiv.org/abs/2608.20378"
+      },
+      {
+        "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+        "url": "https://arxiv.org/abs/2608.20379"
+      },
+      {
+        "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
+        "url": "https://arxiv.org/abs/2608.20384"
+      },
+      {
+        "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
+        "url": "https://arxiv.org/abs/2608.20389"
+      },
+      {
+        "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
+        "url": "https://arxiv.org/abs/2608.20397"
+      },
+      {
+        "title": "Environmental Slow AI: Design Principles for Generative Systems",
+        "url": "https://arxiv.org/abs/2608.20398"
+      },
+      {
+        "title": "When Retrieval Fails Before It Begins: Structurally Indirect Prerequisite Eviction as a Retention Failure in Agentic Memory",
+        "url": "https://arxiv.org/abs/2608.20400"
+      },
+      {
+        "title": "World models of environment, agent and joint agent-environment systems",
+        "url": "https://arxiv.org/abs/2608.20401"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
@@ -115,24 +156,16 @@
         "url": "https://www.anthropic.com/news/news/claude-opus-5"
       },
       {
-        "title": "AnnouncementsJul 9, 2026Inviting hard questionsWe\u2019re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
-        "url": "https://www.anthropic.com/news/news/hard-questions"
+        "title": "AnnouncementsAug 14, 2026How Claude\u2019s text watermark worksIn this article, we share answers to some of the questions we\u2019ve received about how our chosen watermarking method works, whether it affects Claude\u2019s outputs, and why we\u2019re making this change.",
+        "url": "https://www.anthropic.com/news/news/claude-text-watermark"
       },
       {
-        "title": "AnnouncementsJun 30, 2026Redeploying Fable 5Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
-        "url": "https://www.anthropic.com/news/news/redeploying-fable-5"
+        "title": "ProductAug 7, 2026Improving Fable 5's biology safeguardsWe\u2019re making updates to Claude Fable 5\u2019s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer \u201cfallbacks\u201d\u2014where the system switches to a less capable model after they make a biology-related query.",
+        "url": "https://www.anthropic.com/news/news/improving-fable-5-s-biology-safeguards"
       },
       {
         "title": "ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
         "url": "https://www.anthropic.com/news/news/claude-sonnet-5"
-      },
-      {
-        "title": "Aug 14, 2026AnnouncementsHow Claude\u2019s text watermark works",
-        "url": "https://www.anthropic.com/news/news/claude-text-watermark"
-      },
-      {
-        "title": "Aug 7, 2026ProductImproving Fable 5's biology safeguards",
-        "url": "https://www.anthropic.com/news/news/improving-fable-5-s-biology-safeguards"
       },
       {
         "title": "Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
@@ -149,6 +182,14 @@
       {
         "title": "Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
         "url": "https://www.anthropic.com/news/news/cognizant-anthropic"
+      },
+      {
+        "title": "Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund",
+        "url": "https://www.anthropic.com/news/news/economic-futures-research-fund-agenda"
+      },
+      {
+        "title": "Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index",
+        "url": "https://www.anthropic.com/news/news/anthropic-economic-index-connector"
       }
     ]
   }
