@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Integrated Strategic Forecasting: A New RAND x Metaculus Methodology",
-        "url": "https://www.lesswrong.com/posts/MjHvZ3AdrzDgBJEav/integrated-strategic-forecasting-a-new-rand-x-metaculus"
+        "title": "bert is only very slightly better than regex as a cot monitor with an emergently misaligned model and both of them are barely better than chance",
+        "url": "https://www.lesswrong.com/posts/6wsuxp8ytXDjZSoJB/bert-is-only-very-slightly-better-than-regex-as-a-cot"
       },
       {
-        "title": "Sampura Research: Human-AI Complementarity for Alignment",
-        "url": "https://www.lesswrong.com/posts/A8Cyax9Zoa4sEm86D/sampura-research-human-ai-complementarity-for-alignment"
+        "title": "The central fallacy: the second-worst argument in the world",
+        "url": "https://www.lesswrong.com/posts/39vrH3tSiXAGdXfnW/the-central-fallacy-the-second-worst-argument-in-the-world"
       },
       {
-        "title": "On Writing #3",
-        "url": "https://www.lesswrong.com/posts/rA6pqn6kz8NvHyznT/on-writing-3"
+        "title": "Your Agent's Trace Probably Cannot Tell You Who Approved a Tool Call",
+        "url": "https://www.lesswrong.com/posts/gXphcRGg6t65FqCy8/your-agent-s-trace-probably-cannot-tell-you-who-approved-a"
       },
       {
-        "title": "The Reified Referent: How the Saturation View Values the Taste of Someone Who Does Not Exist",
-        "url": "https://www.lesswrong.com/posts/2JaiDAYcPaW3X7Fd2/the-reified-referent-how-the-saturation-view-values-the"
+        "title": "Do tabular foundation models repair themselves?",
+        "url": "https://www.lesswrong.com/posts/NpBufh2z2w4mgHKvm/do-tabular-foundation-models-repair-themselves"
       },
       {
-        "title": "AI Alignment at Which Abstraction Level?",
-        "url": "https://www.lesswrong.com/posts/hQHCMHtRDPRkyQgfd/ai-alignment-at-which-abstraction-level"
+        "title": "Being Neurotic about Fertility: Notes from the 2026 Reproductive Frontiers Conference",
+        "url": "https://www.lesswrong.com/posts/wLBQesu5Aai3pksP8/being-neurotic-about-fertility-notes-from-the-2026"
       },
       {
-        "title": "The Forkmakers",
-        "url": "https://www.lesswrong.com/posts/NjLQf3QC4q4DD67kD/the-forkmakers"
+        "title": "Clearing My Foggy Glasses",
+        "url": "https://www.lesswrong.com/posts/Mk6G5Nc95WHN2oktv/clearing-my-foggy-glasses"
       },
       {
-        "title": "An AI4Chemist\u2019s perspective on biosecurity",
-        "url": "https://www.lesswrong.com/posts/tRY2DDv8yDtfnazM8/an-ai4chemist-s-perspective-on-biosecurity"
+        "title": "My MATS 11.0 Application Experience",
+        "url": "https://www.lesswrong.com/posts/F4HEEQ2ToATuQbEeZ/my-mats-11-0-application-experience"
       },
       {
-        "title": "Magazine Fundraising",
-        "url": "https://www.lesswrong.com/posts/Px6njTJL4iN4AEe7M/magazine-fundraising"
+        "title": "Brief independent investigation of agents\u2019 behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident",
+        "url": "https://www.lesswrong.com/posts/nB8KKapnWGBXtKKiM/brief-independent-investigation-of-agents-behavior-reasoning"
       },
       {
-        "title": "Rogue AI Agents: Is Surface-Level Monitoring Enough?",
-        "url": "https://www.lesswrong.com/posts/Zd4zNxHoJwZmmuLrq/rogue-ai-agents-is-surface-level-monitoring-enough"
+        "title": "The Brain Preservation Summit - September 19-20th at Sparks Brain Preservation in Salem, OR",
+        "url": "https://www.lesswrong.com/posts/FenyQHnnodnYYGcSd/the-brain-preservation-summit-september-19-20th-at-sparks"
       },
       {
-        "title": "Dual-Layer Approach to Mitigating AI-Generated Biological Threats",
-        "url": "https://www.lesswrong.com/posts/zHJQJEH2vBhPFjfHX/dual-layer-approach-to-mitigating-ai-generated-biological-1"
+        "title": "Against Modesty\u2019s Bailey",
+        "url": "https://www.lesswrong.com/posts/PzEDEfBvTJsXewAyg/against-modesty-s-bailey"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Brief independent investigation of agents\u2019 behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident",
+        "url": "https://www.alignmentforum.org/posts/nB8KKapnWGBXtKKiM/brief-independent-investigation-of-agents-behavior-reasoning"
+      },
       {
         "title": "Debate Training Reduces Reward Hacking in RLAIF",
         "url": "https://www.alignmentforum.org/posts/BB8o7b8A4Aykeksvw/debate-training-reduces-reward-hacking-in-rlaif"
@@ -84,10 +88,6 @@
       {
         "title": "R-lens: Making J-lens More Faithful on Early Layers",
         "url": "https://www.alignmentforum.org/posts/nv8oedrnLXKRzNEL9/r-lens-making-j-lens-more-faithful-on-early-layers"
-      },
-      {
-        "title": "Returning to ARC",
-        "url": "https://www.alignmentforum.org/posts/vLFh8HP3hyNy9MCwe/returning-to-arc"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
-        "url": "https://arxiv.org/abs/2608.21362"
+        "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+        "url": "https://arxiv.org/abs/2608.23568"
       },
       {
-        "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
-        "url": "https://arxiv.org/abs/2608.21363"
+        "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+        "url": "https://arxiv.org/abs/2608.23569"
       },
       {
-        "title": "Reviewing Model Collapse and Countermeasures",
-        "url": "https://arxiv.org/abs/2608.21366"
+        "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+        "url": "https://arxiv.org/abs/2608.23622"
       },
       {
-        "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
-        "url": "https://arxiv.org/abs/2608.21372"
+        "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
+        "url": "https://arxiv.org/abs/2608.23626"
       },
       {
-        "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
-        "url": "https://arxiv.org/abs/2608.21374"
+        "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+        "url": "https://arxiv.org/abs/2608.23631"
       },
       {
-        "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
-        "url": "https://arxiv.org/abs/2608.21375"
+        "title": "Function-Level Execution Feedback for Code Preference Optimization",
+        "url": "https://arxiv.org/abs/2608.23632"
       },
       {
-        "title": "RIACT: A Responsible AI System for Personalized Study Habit Tracking and Early Burnout Signal Detection in University Students",
-        "url": "https://arxiv.org/abs/2608.21379"
+        "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
+        "url": "https://arxiv.org/abs/2608.23640"
       },
       {
-        "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
-        "url": "https://arxiv.org/abs/2608.21382"
+        "title": "How much of a measured AI preference is the model, and how much is the instrument?",
+        "url": "https://arxiv.org/abs/2608.23641"
       },
       {
-        "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference",
-        "url": "https://arxiv.org/abs/2608.21393"
+        "title": "AI Agents Push Humans Out of the Loop",
+        "url": "https://arxiv.org/abs/2608.23642"
       },
       {
-        "title": "Hate Speech Classification In Roman Urdu: A Comparative Study On Parameter Efficient Fine-Tuning And Prompt Engineering",
-        "url": "https://arxiv.org/abs/2608.21408"
+        "title": "FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare",
+        "url": "https://arxiv.org/abs/2608.23643"
       }
     ]
   },
