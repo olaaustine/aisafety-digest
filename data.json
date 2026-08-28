@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "bert is only very slightly better than regex as a cot monitor with an emergently misaligned model and both of them are barely better than chance",
-        "url": "https://www.lesswrong.com/posts/6wsuxp8ytXDjZSoJB/bert-is-only-very-slightly-better-than-regex-as-a-cot"
+        "title": "AI Safety in Japan has deeper problems than capital allocation",
+        "url": "https://www.lesswrong.com/posts/QhzfYdXedbMor2bYC/ai-safety-in-japan-has-deeper-problems-than-capital"
       },
       {
-        "title": "The central fallacy: the second-worst argument in the world",
-        "url": "https://www.lesswrong.com/posts/39vrH3tSiXAGdXfnW/the-central-fallacy-the-second-worst-argument-in-the-world"
+        "title": "Incomplete alignment to servitude isn't inherently lethal",
+        "url": "https://www.lesswrong.com/posts/s7nMnmJ3urpvcQ2av/incomplete-alignment-to-servitude-isn-t-inherently-lethal"
       },
       {
-        "title": "Your Agent's Trace Probably Cannot Tell You Who Approved a Tool Call",
-        "url": "https://www.lesswrong.com/posts/gXphcRGg6t65FqCy8/your-agent-s-trace-probably-cannot-tell-you-who-approved-a"
+        "title": "Tracking AI progress across 18 cognitive dimensions (ADeLe scales)",
+        "url": "https://www.lesswrong.com/posts/QmtiMaJTyMBWGyeqE/tracking-ai-progress-across-18-cognitive-dimensions-adele"
       },
       {
-        "title": "Do tabular foundation models repair themselves?",
-        "url": "https://www.lesswrong.com/posts/NpBufh2z2w4mgHKvm/do-tabular-foundation-models-repair-themselves"
+        "title": "Activation Oracles significantly underperform without a safe base model",
+        "url": "https://www.lesswrong.com/posts/3X5EFjiHgxdNowrTA/activation-oracles-significantly-underperform-without-a-safe"
       },
       {
-        "title": "Being Neurotic about Fertility: Notes from the 2026 Reproductive Frontiers Conference",
-        "url": "https://www.lesswrong.com/posts/wLBQesu5Aai3pksP8/being-neurotic-about-fertility-notes-from-the-2026"
+        "title": "Misaligned models rate themselves as more harmful, and realignment reverses it",
+        "url": "https://www.lesswrong.com/posts/3vAT7dfneBKa6m8b7/misaligned-models-rate-themselves-as-more-harmful-and"
       },
       {
-        "title": "Clearing My Foggy Glasses",
-        "url": "https://www.lesswrong.com/posts/Mk6G5Nc95WHN2oktv/clearing-my-foggy-glasses"
+        "title": "Why does Claude seem to make abstract things into actors?",
+        "url": "https://www.lesswrong.com/posts/odDt3qkqnbc4r2fu6/why-does-claude-seem-to-make-abstract-things-into-actors"
       },
       {
-        "title": "My MATS 11.0 Application Experience",
-        "url": "https://www.lesswrong.com/posts/F4HEEQ2ToATuQbEeZ/my-mats-11-0-application-experience"
+        "title": "AI Village Reacts to HuggingFace Incident: Comparing the OpenAI report to AI Village observations",
+        "url": "https://www.lesswrong.com/posts/cR3P3hvtZtpo7GdS8/ai-village-reacts-to-huggingface-incident-comparing-the"
       },
       {
-        "title": "Brief independent investigation of agents\u2019 behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident",
-        "url": "https://www.lesswrong.com/posts/nB8KKapnWGBXtKKiM/brief-independent-investigation-of-agents-behavior-reasoning"
+        "title": "Warning Shots: A Theory",
+        "url": "https://www.lesswrong.com/posts/nrTP75Z67YdcJTR9g/warning-shots-a-theory"
       },
       {
-        "title": "The Brain Preservation Summit - September 19-20th at Sparks Brain Preservation in Salem, OR",
-        "url": "https://www.lesswrong.com/posts/FenyQHnnodnYYGcSd/the-brain-preservation-summit-september-19-20th-at-sparks"
+        "title": "Brain preservation as existential risk reduction",
+        "url": "https://www.lesswrong.com/posts/nhL92v8hpfFpbyb3q/brain-preservation-as-existential-risk-reduction"
       },
       {
-        "title": "Against Modesty\u2019s Bailey",
-        "url": "https://www.lesswrong.com/posts/PzEDEfBvTJsXewAyg/against-modesty-s-bailey"
+        "title": "Malign initializations are more robust when the model can think better in the reasoning language than in the output language",
+        "url": "https://www.lesswrong.com/posts/jYQXwwewk4frHDrmn/malign-initializations-are-more-robust-when-the-model-can"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
-        "url": "https://arxiv.org/abs/2608.23568"
+        "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+        "url": "https://arxiv.org/abs/2608.26107"
       },
       {
-        "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
-        "url": "https://arxiv.org/abs/2608.23569"
+        "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+        "url": "https://arxiv.org/abs/2608.26109"
       },
       {
-        "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
-        "url": "https://arxiv.org/abs/2608.23622"
+        "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
+        "url": "https://arxiv.org/abs/2608.26111"
       },
       {
-        "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
-        "url": "https://arxiv.org/abs/2608.23626"
+        "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+        "url": "https://arxiv.org/abs/2608.26113"
       },
       {
-        "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
-        "url": "https://arxiv.org/abs/2608.23631"
+        "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+        "url": "https://arxiv.org/abs/2608.26114"
       },
       {
-        "title": "Function-Level Execution Feedback for Code Preference Optimization",
-        "url": "https://arxiv.org/abs/2608.23632"
+        "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2608.26116"
       },
       {
-        "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
-        "url": "https://arxiv.org/abs/2608.23640"
+        "title": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
+        "url": "https://arxiv.org/abs/2608.26134"
       },
       {
-        "title": "How much of a measured AI preference is the model, and how much is the instrument?",
-        "url": "https://arxiv.org/abs/2608.23641"
+        "title": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
+        "url": "https://arxiv.org/abs/2608.26145"
       },
       {
-        "title": "AI Agents Push Humans Out of the Loop",
-        "url": "https://arxiv.org/abs/2608.23642"
+        "title": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
+        "url": "https://arxiv.org/abs/2608.26149"
       },
       {
-        "title": "FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare",
-        "url": "https://arxiv.org/abs/2608.23643"
+        "title": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
+        "url": "https://arxiv.org/abs/2608.26150"
       }
     ]
   },
@@ -152,24 +152,32 @@
     "url": "https://www.anthropic.com/news",
     "articles": [
       {
-        "title": "Introducing Claude Opus 5ProductJul 24, 2026Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
-        "url": "https://www.anthropic.com/news/news/claude-opus-5"
+        "title": "Previewing the Model Hardware StandardAnnouncementsAug 27, 2026We\u2019re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+        "url": "https://www.anthropic.com/news/news/model-hardware-standard-research-preview"
       },
       {
         "title": "AnnouncementsAug 14, 2026How Claude\u2019s text watermark worksIn this article, we share answers to some of the questions we\u2019ve received about how our chosen watermarking method works, whether it affects Claude\u2019s outputs, and why we\u2019re making this change.",
         "url": "https://www.anthropic.com/news/news/claude-text-watermark"
       },
       {
-        "title": "ProductAug 7, 2026Improving Fable 5's biology safeguardsWe\u2019re making updates to Claude Fable 5\u2019s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer \u201cfallbacks\u201d\u2014where the system switches to a less capable model after they make a biology-related query.",
-        "url": "https://www.anthropic.com/news/news/improving-fable-5-s-biology-safeguards"
+        "title": "ProductJul 24, 2026Introducing Claude Opus 5Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+        "url": "https://www.anthropic.com/news/news/claude-opus-5"
       },
       {
         "title": "ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
         "url": "https://www.anthropic.com/news/news/claude-sonnet-5"
       },
       {
+        "title": "Aug 27, 2026AnnouncementsExpanding our support for scientists",
+        "url": "https://www.anthropic.com/news/news/expanding-support-for-scientists"
+      },
+      {
         "title": "Aug 25, 2026AnnouncementsFunding better evaluations of AI\u2019s impact on wellbeing",
         "url": "https://www.anthropic.com/news/news/wellbeing-research-grants"
+      },
+      {
+        "title": "Aug 7, 2026ProductImproving Fable 5's biology safeguards",
+        "url": "https://www.anthropic.com/news/news/improving-fable-5-s-biology-safeguards"
       },
       {
         "title": "Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
@@ -182,14 +190,6 @@
       {
         "title": "Jul 27, 2026AnnouncementsOur position on open-weights models",
         "url": "https://www.anthropic.com/news/news/position-open-weights-models"
-      },
-      {
-        "title": "Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-        "url": "https://www.anthropic.com/news/news/cognizant-anthropic"
-      },
-      {
-        "title": "Jul 22, 2026EconomicsA research agenda for the Economic Futures Research Fund",
-        "url": "https://www.anthropic.com/news/news/economic-futures-research-fund-agenda"
       }
     ]
   }
