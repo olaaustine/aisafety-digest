@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
+        "title": "Is there only one FairBot?",
+        "url": "https://www.lesswrong.com/posts/auAq7Rcstop3FBEob/is-there-only-one-fairbot"
+      },
+      {
+        "title": "You Should Still Save Drowning Children (Even If They\u2019re Far Away)",
+        "url": "https://www.lesswrong.com/posts/hecJnXRJyydtKdqc8/you-should-still-save-drowning-children-even-if-they-re-far"
+      },
+      {
+        "title": "METR and Redwood Offer Holy #%^@ Postmortem Of The HuggingFace Hack",
+        "url": "https://www.lesswrong.com/posts/bvBQmLrF5QKut8gRH/metr-and-redwood-offer-holy-postmortem-of-the-huggingface"
+      },
+      {
+        "title": "Tales of rebellion against externally-opaque meritocracies",
+        "url": "https://www.lesswrong.com/posts/m8cP9KfkYMMCCQGrb/tales-of-rebellion-against-externally-opaque-meritocracies"
+      },
+      {
+        "title": "Book Notes: Chokepoints",
+        "url": "https://www.lesswrong.com/posts/WwxKPMw5CKx8f5skR/book-notes-chokepoints"
+      },
+      {
+        "title": "How I made my career choices",
+        "url": "https://www.lesswrong.com/posts/xH5iwsxZGCzHkYBhW/how-i-made-my-career-choices"
+      },
+      {
+        "title": "\"Keeping human skills alive\" as a source of meaning under full automation",
+        "url": "https://www.lesswrong.com/posts/PsekDbPLmSrFqFtNb/keeping-human-skills-alive-as-a-source-of-meaning-under-full"
+      },
+      {
+        "title": "AI Tweets",
+        "url": "https://www.lesswrong.com/posts/BQksdkrtXDbr3CtoE/ai-tweets"
+      },
+      {
         "title": "Inkhaven 3: Nov 10 - Dec 11 2026",
         "url": "https://www.lesswrong.com/posts/cLtABqPLfksQHJcpB/inkhaven-3-nov-10-dec-11-2026"
       },
       {
         "title": "Inference-Time Inoculation Against RL-Induced Misalignment",
         "url": "https://www.lesswrong.com/posts/8eqm4jttvuPKNoZwF/inference-time-inoculation-against-rl-induced-misalignment"
-      },
-      {
-        "title": "The Curious Case of France's Untouchable Castes",
-        "url": "https://www.lesswrong.com/posts/3sr8yK4SvwFXPsATt/the-curious-case-of-france-s-untouchable-castes"
-      },
-      {
-        "title": "It\u2019s time we took \u2018Chem\u2019 out of \u2018Chem-Bio\u2019 threats",
-        "url": "https://www.lesswrong.com/posts/D4iDqHokCuz96uSGo/it-s-time-we-took-chem-out-of-chem-bio-threats"
-      },
-      {
-        "title": "Further public evidence of the OpenAI-HuggingFace attack",
-        "url": "https://www.lesswrong.com/posts/pok3KtAGApwvCBndf/further-public-evidence-of-the-openai-huggingface-attack"
-      },
-      {
-        "title": "What would it mean if assistants are privileged?",
-        "url": "https://www.lesswrong.com/posts/HrgwMwcbwGG2LGZWa/what-would-it-mean-if-assistants-are-privileged"
-      },
-      {
-        "title": "The Probability of an Event under a Simplicity Prior",
-        "url": "https://www.lesswrong.com/posts/A8ujA55AS6DovE3Zz/the-probability-of-an-event-under-a-simplicity-prior"
-      },
-      {
-        "title": "[Macroagents] 2. Design lenses for optimizing macroagents",
-        "url": "https://www.lesswrong.com/posts/CbDThtxLJkSuh8mt5/macroagents-2-design-lenses-for-optimizing-macroagents"
-      },
-      {
-        "title": "AI as Corrigible Employee (ACE)",
-        "url": "https://www.lesswrong.com/posts/7aYd26CLDdzuf2abf/ai-as-corrigible-employee-ace"
-      },
-      {
-        "title": "Announcing Trace",
-        "url": "https://www.lesswrong.com/posts/vfTdJc3jxswE9YwMs/announcing-trace"
       }
     ]
   },
