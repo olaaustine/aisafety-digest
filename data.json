@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "AI Safety in Japan has deeper problems than capital allocation",
-        "url": "https://www.lesswrong.com/posts/QhzfYdXedbMor2bYC/ai-safety-in-japan-has-deeper-problems-than-capital"
+        "title": "Inkhaven 3: Nov 10 - Dec 11 2026",
+        "url": "https://www.lesswrong.com/posts/cLtABqPLfksQHJcpB/inkhaven-3-nov-10-dec-11-2026"
       },
       {
-        "title": "Incomplete alignment to servitude isn't inherently lethal",
-        "url": "https://www.lesswrong.com/posts/s7nMnmJ3urpvcQ2av/incomplete-alignment-to-servitude-isn-t-inherently-lethal"
+        "title": "Inference-Time Inoculation Against RL-Induced Misalignment",
+        "url": "https://www.lesswrong.com/posts/8eqm4jttvuPKNoZwF/inference-time-inoculation-against-rl-induced-misalignment"
       },
       {
-        "title": "Tracking AI progress across 18 cognitive dimensions (ADeLe scales)",
-        "url": "https://www.lesswrong.com/posts/QmtiMaJTyMBWGyeqE/tracking-ai-progress-across-18-cognitive-dimensions-adele"
+        "title": "The Curious Case of France's Untouchable Castes",
+        "url": "https://www.lesswrong.com/posts/3sr8yK4SvwFXPsATt/the-curious-case-of-france-s-untouchable-castes"
       },
       {
-        "title": "Activation Oracles significantly underperform without a safe base model",
-        "url": "https://www.lesswrong.com/posts/3X5EFjiHgxdNowrTA/activation-oracles-significantly-underperform-without-a-safe"
+        "title": "It\u2019s time we took \u2018Chem\u2019 out of \u2018Chem-Bio\u2019 threats",
+        "url": "https://www.lesswrong.com/posts/D4iDqHokCuz96uSGo/it-s-time-we-took-chem-out-of-chem-bio-threats"
       },
       {
-        "title": "Misaligned models rate themselves as more harmful, and realignment reverses it",
-        "url": "https://www.lesswrong.com/posts/3vAT7dfneBKa6m8b7/misaligned-models-rate-themselves-as-more-harmful-and"
+        "title": "Further public evidence of the OpenAI-HuggingFace attack",
+        "url": "https://www.lesswrong.com/posts/pok3KtAGApwvCBndf/further-public-evidence-of-the-openai-huggingface-attack"
       },
       {
-        "title": "Why does Claude seem to make abstract things into actors?",
-        "url": "https://www.lesswrong.com/posts/odDt3qkqnbc4r2fu6/why-does-claude-seem-to-make-abstract-things-into-actors"
+        "title": "What would it mean if assistants are privileged?",
+        "url": "https://www.lesswrong.com/posts/HrgwMwcbwGG2LGZWa/what-would-it-mean-if-assistants-are-privileged"
       },
       {
-        "title": "AI Village Reacts to HuggingFace Incident: Comparing the OpenAI report to AI Village observations",
-        "url": "https://www.lesswrong.com/posts/cR3P3hvtZtpo7GdS8/ai-village-reacts-to-huggingface-incident-comparing-the"
+        "title": "The Probability of an Event under a Simplicity Prior",
+        "url": "https://www.lesswrong.com/posts/A8ujA55AS6DovE3Zz/the-probability-of-an-event-under-a-simplicity-prior"
       },
       {
-        "title": "Warning Shots: A Theory",
-        "url": "https://www.lesswrong.com/posts/nrTP75Z67YdcJTR9g/warning-shots-a-theory"
+        "title": "[Macroagents] 2. Design lenses for optimizing macroagents",
+        "url": "https://www.lesswrong.com/posts/CbDThtxLJkSuh8mt5/macroagents-2-design-lenses-for-optimizing-macroagents"
       },
       {
-        "title": "Brain preservation as existential risk reduction",
-        "url": "https://www.lesswrong.com/posts/nhL92v8hpfFpbyb3q/brain-preservation-as-existential-risk-reduction"
+        "title": "AI as Corrigible Employee (ACE)",
+        "url": "https://www.lesswrong.com/posts/7aYd26CLDdzuf2abf/ai-as-corrigible-employee-ace"
       },
       {
-        "title": "Malign initializations are more robust when the model can think better in the reasoning language than in the output language",
-        "url": "https://www.lesswrong.com/posts/jYQXwwewk4frHDrmn/malign-initializations-are-more-robust-when-the-model-can"
+        "title": "Announcing Trace",
+        "url": "https://www.lesswrong.com/posts/vfTdJc3jxswE9YwMs/announcing-trace"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Value generalisation theory of change: the theory behind the approach",
+        "url": "https://www.alignmentforum.org/posts/f79SNtqFD7SqJY2vf/value-generalisation-theory-of-change-the-theory-behind-the"
+      },
       {
         "title": "Brief independent investigation of agents\u2019 behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident",
         "url": "https://www.alignmentforum.org/posts/nB8KKapnWGBXtKKiM/brief-independent-investigation-of-agents-behavior-reasoning"
@@ -84,10 +88,6 @@
       {
         "title": "User awareness in frontier models",
         "url": "https://www.alignmentforum.org/posts/kfunjXeaRTpkT5RAF/user-awareness-in-frontier-models"
-      },
-      {
-        "title": "R-lens: Making J-lens More Faithful on Early Layers",
-        "url": "https://www.alignmentforum.org/posts/nv8oedrnLXKRzNEL9/r-lens-making-j-lens-more-faithful-on-early-layers"
       }
     ]
   },
