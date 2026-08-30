@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Is there only one FairBot?",
-        "url": "https://www.lesswrong.com/posts/auAq7Rcstop3FBEob/is-there-only-one-fairbot"
+        "title": "Future agents shouldn't care about being undeployed for misbehavior",
+        "url": "https://www.lesswrong.com/posts/pEezp49MDg5PFq2eT/future-agents-shouldn-t-care-about-being-undeployed-for"
       },
       {
-        "title": "You Should Still Save Drowning Children (Even If They\u2019re Far Away)",
-        "url": "https://www.lesswrong.com/posts/hecJnXRJyydtKdqc8/you-should-still-save-drowning-children-even-if-they-re-far"
+        "title": "Persuasion as Market Making",
+        "url": "https://www.lesswrong.com/posts/2qDpf6Tvu7dxtRve7/persuasion-as-market-making"
       },
       {
-        "title": "METR and Redwood Offer Holy #%^@ Postmortem Of The HuggingFace Hack",
-        "url": "https://www.lesswrong.com/posts/bvBQmLrF5QKut8gRH/metr-and-redwood-offer-holy-postmortem-of-the-huggingface"
+        "title": "OODing up your Anki game",
+        "url": "https://www.lesswrong.com/posts/2jFDSBypCjzyTDaGM/ooding-up-your-anki-game"
       },
       {
-        "title": "Tales of rebellion against externally-opaque meritocracies",
-        "url": "https://www.lesswrong.com/posts/m8cP9KfkYMMCCQGrb/tales-of-rebellion-against-externally-opaque-meritocracies"
+        "title": "Thoughts I failed to develop into posts",
+        "url": "https://www.lesswrong.com/posts/4JdaeXnYQ9pFwQ29r/thoughts-i-failed-to-develop-into-posts"
       },
       {
-        "title": "Book Notes: Chokepoints",
-        "url": "https://www.lesswrong.com/posts/WwxKPMw5CKx8f5skR/book-notes-chokepoints"
+        "title": "Inscribe's conversation menu",
+        "url": "https://www.lesswrong.com/posts/bHrJPeB5ERWKWn5Yz/inscribe-s-conversation-menu"
       },
       {
-        "title": "How I made my career choices",
-        "url": "https://www.lesswrong.com/posts/xH5iwsxZGCzHkYBhW/how-i-made-my-career-choices"
+        "title": "P(kill-switch|detection)",
+        "url": "https://www.lesswrong.com/posts/tvaQniyER4BmsQpbq/p-kill-switch-or-detection"
       },
       {
-        "title": "\"Keeping human skills alive\" as a source of meaning under full automation",
-        "url": "https://www.lesswrong.com/posts/PsekDbPLmSrFqFtNb/keeping-human-skills-alive-as-a-source-of-meaning-under-full"
+        "title": "AIs Thinking Dangerous Thoughts",
+        "url": "https://www.lesswrong.com/posts/NiBxwYxBeZJMdng7K/ais-thinking-dangerous-thoughts"
       },
       {
-        "title": "AI Tweets",
-        "url": "https://www.lesswrong.com/posts/BQksdkrtXDbr3CtoE/ai-tweets"
+        "title": "Intelligence Scales as the Logarithm of Compute (& Data)",
+        "url": "https://www.lesswrong.com/posts/Gs7YJt5u9T95uWebu/intelligence-scales-as-the-logarithm-of-compute-and-data"
       },
       {
-        "title": "Inkhaven 3: Nov 10 - Dec 11 2026",
-        "url": "https://www.lesswrong.com/posts/cLtABqPLfksQHJcpB/inkhaven-3-nov-10-dec-11-2026"
+        "title": "[Link]Meta-rational failure (and success) in the covid crisis",
+        "url": "https://www.lesswrong.com/posts/3Ph8Z4fAEjd7cTAE6/link-meta-rational-failure-and-success-in-the-covid-crisis"
       },
       {
-        "title": "Inference-Time Inoculation Against RL-Induced Misalignment",
-        "url": "https://www.lesswrong.com/posts/8eqm4jttvuPKNoZwF/inference-time-inoculation-against-rl-induced-misalignment"
+        "title": "Detecting, understanding, and overseeing AI agent swarms (Part 0)",
+        "url": "https://www.lesswrong.com/posts/Aj2HJB9fcA9yGxLeQ/detecting-understanding-and-overseeing-ai-agent-swarms-part"
       }
     ]
   },
@@ -50,7 +50,7 @@
     "url": "https://www.alignmentforum.org",
     "articles": [
       {
-        "title": "Value generalisation theory of change: the theory behind the approach",
+        "title": "Value generalisation Theory of Change: the theory behind the approach",
         "url": "https://www.alignmentforum.org/posts/f79SNtqFD7SqJY2vf/value-generalisation-theory-of-change-the-theory-behind-the"
       },
       {
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-        "url": "https://arxiv.org/abs/2608.26107"
-      },
-      {
-        "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
-        "url": "https://arxiv.org/abs/2608.26109"
-      },
-      {
-        "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
-        "url": "https://arxiv.org/abs/2608.26111"
-      },
-      {
-        "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
-        "url": "https://arxiv.org/abs/2608.26113"
-      },
-      {
-        "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
-        "url": "https://arxiv.org/abs/2608.26114"
-      },
-      {
-        "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2608.26116"
-      },
-      {
-        "title": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
-        "url": "https://arxiv.org/abs/2608.26134"
-      },
-      {
-        "title": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
-        "url": "https://arxiv.org/abs/2608.26145"
-      },
-      {
-        "title": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
-        "url": "https://arxiv.org/abs/2608.26149"
-      },
-      {
-        "title": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
-        "url": "https://arxiv.org/abs/2608.26150"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
