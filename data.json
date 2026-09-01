@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Future agents shouldn't care about being undeployed for misbehavior",
-        "url": "https://www.lesswrong.com/posts/pEezp49MDg5PFq2eT/future-agents-shouldn-t-care-about-being-undeployed-for"
+        "title": "Open Thread Autumn 2026",
+        "url": "https://www.lesswrong.com/posts/BqmFnBvWjJNmzLevP/open-thread-autumn-2026"
       },
       {
-        "title": "Persuasion as Market Making",
-        "url": "https://www.lesswrong.com/posts/2qDpf6Tvu7dxtRve7/persuasion-as-market-making"
+        "title": "Population ethics is a big deal, which is why I made this population ethics quiz",
+        "url": "https://www.lesswrong.com/posts/RFDKQmQAGbhgNBbAD/population-ethics-is-a-big-deal-which-is-why-i-made-this"
       },
       {
-        "title": "OODing up your Anki game",
-        "url": "https://www.lesswrong.com/posts/2jFDSBypCjzyTDaGM/ooding-up-your-anki-game"
+        "title": "prefilling an emergently misaligned model with reasoning traces that produced misaligned answers increases misalignment rates by ~8% but reasoning traces that produce misaligned answers aren't detectable through text monitoring",
+        "url": "https://www.lesswrong.com/posts/QbYrb65g4njtW5vgL/prefilling-an-emergently-misaligned-model-with-reasoning"
       },
       {
-        "title": "Thoughts I failed to develop into posts",
-        "url": "https://www.lesswrong.com/posts/4JdaeXnYQ9pFwQ29r/thoughts-i-failed-to-develop-into-posts"
+        "title": "You Should Think About What Needs to Go Right + My List",
+        "url": "https://www.lesswrong.com/posts/gtcYpvepxtu3mGNDs/you-should-think-about-what-needs-to-go-right-my-list"
       },
       {
-        "title": "Inscribe's conversation menu",
-        "url": "https://www.lesswrong.com/posts/bHrJPeB5ERWKWn5Yz/inscribe-s-conversation-menu"
+        "title": "How to solve homelessness: what specific laws we need, how to get it past the opposition, all without being an asshole",
+        "url": "https://www.lesswrong.com/posts/PiW9CqgcWQrb8hcNR/how-to-solve-homelessness-what-specific-laws-we-need-how-to"
       },
       {
-        "title": "P(kill-switch|detection)",
-        "url": "https://www.lesswrong.com/posts/tvaQniyER4BmsQpbq/p-kill-switch-or-detection"
+        "title": "Narration podcasts for newsletters by Redwood, Epoch, Zvi, Sentinel, Paradigm 3, and others",
+        "url": "https://www.lesswrong.com/posts/2LhEkL4hPPGu5Dgj5/narration-podcasts-for-newsletters-by-redwood-epoch-zvi"
       },
       {
-        "title": "AIs Thinking Dangerous Thoughts",
-        "url": "https://www.lesswrong.com/posts/NiBxwYxBeZJMdng7K/ais-thinking-dangerous-thoughts"
+        "title": "The inverse Simmel scenario",
+        "url": "https://www.lesswrong.com/posts/bbs89LGxT97hQXk5o/the-inverse-simmel-scenario"
       },
       {
-        "title": "Intelligence Scales as the Logarithm of Compute (& Data)",
-        "url": "https://www.lesswrong.com/posts/Gs7YJt5u9T95uWebu/intelligence-scales-as-the-logarithm-of-compute-and-data"
+        "title": "Wiki-libertarianism",
+        "url": "https://www.lesswrong.com/posts/db2XeAQzf4W9oTw4C/wiki-libertarianism"
       },
       {
-        "title": "[Link]Meta-rational failure (and success) in the covid crisis",
-        "url": "https://www.lesswrong.com/posts/3Ph8Z4fAEjd7cTAE6/link-meta-rational-failure-and-success-in-the-covid-crisis"
+        "title": "The Structuralist Mindset",
+        "url": "https://www.lesswrong.com/posts/gL52DXSuJr5AfoJYY/the-structuralist-mindset"
       },
       {
-        "title": "Detecting, understanding, and overseeing AI agent swarms (Part 0)",
-        "url": "https://www.lesswrong.com/posts/Aj2HJB9fcA9yGxLeQ/detecting-understanding-and-overseeing-ai-agent-swarms-part"
+        "title": "Let's fund weird AI safety projects",
+        "url": "https://www.lesswrong.com/posts/h7bL4g38s9bJQtH6n/let-s-fund-weird-ai-safety-projects"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Value generalisation Theory of Change: putting it into practice",
+        "url": "https://www.alignmentforum.org/posts/kjPEH4KGEHd8iQ4Hn/value-generalisation-theory-of-change-putting-it-into"
+      },
       {
         "title": "Value generalisation Theory of Change: the theory behind the approach",
         "url": "https://www.alignmentforum.org/posts/f79SNtqFD7SqJY2vf/value-generalisation-theory-of-change-the-theory-behind-the"
@@ -84,10 +88,6 @@
       {
         "title": "Why do models task game?",
         "url": "https://www.alignmentforum.org/posts/HACauvWhEdC6QhdS4/why-do-models-task-game"
-      },
-      {
-        "title": "User awareness in frontier models",
-        "url": "https://www.alignmentforum.org/posts/kfunjXeaRTpkT5RAF/user-awareness-in-frontier-models"
       }
     ]
   },
@@ -127,6 +127,10 @@
         "url": "https://www.anthropic.com/news/news/claude-sonnet-5"
       },
       {
+        "title": "Aug 31, 2026Improving our alignment and security efforts",
+        "url": "https://www.anthropic.com/news/news/improving-alignment-security-efforts"
+      },
+      {
         "title": "Aug 27, 2026AnnouncementsExpanding our support for scientists",
         "url": "https://www.anthropic.com/news/news/expanding-support-for-scientists"
       },
@@ -145,10 +149,6 @@
       {
         "title": "Jul 30, 2026Investigating three real-world incidents in our cybersecurity evaluations",
         "url": "https://www.anthropic.com/news/news/investigating-incidents-cybersecurity-evals"
-      },
-      {
-        "title": "Jul 27, 2026AnnouncementsOur position on open-weights models",
-        "url": "https://www.anthropic.com/news/news/position-open-weights-models"
       }
     ]
   }
