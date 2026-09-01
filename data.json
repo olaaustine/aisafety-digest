@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Open Thread Autumn 2026",
-        "url": "https://www.lesswrong.com/posts/BqmFnBvWjJNmzLevP/open-thread-autumn-2026"
+        "title": "\"Collusion\" is just cooperation that you don't like",
+        "url": "https://www.lesswrong.com/posts/LQNwrwGjAB3tcF7R7/collusion-is-just-cooperation-that-you-don-t-like"
       },
       {
-        "title": "Population ethics is a big deal, which is why I made this population ethics quiz",
-        "url": "https://www.lesswrong.com/posts/RFDKQmQAGbhgNBbAD/population-ethics-is-a-big-deal-which-is-why-i-made-this"
+        "title": "What happened to impact markets?",
+        "url": "https://www.lesswrong.com/posts/MsakZtqDDQYQEv3dQ/what-happened-to-impact-markets"
       },
       {
-        "title": "prefilling an emergently misaligned model with reasoning traces that produced misaligned answers increases misalignment rates by ~8% but reasoning traces that produce misaligned answers aren't detectable through text monitoring",
-        "url": "https://www.lesswrong.com/posts/QbYrb65g4njtW5vgL/prefilling-an-emergently-misaligned-model-with-reasoning"
+        "title": "A nightwatchman on every probe: Superintelligent surveillance to prevent galactic anarchy",
+        "url": "https://www.lesswrong.com/posts/fnimJu6f6AsFux9qf/a-nightwatchman-on-every-probe-superintelligent-surveillance"
       },
       {
-        "title": "You Should Think About What Needs to Go Right + My List",
-        "url": "https://www.lesswrong.com/posts/gtcYpvepxtu3mGNDs/you-should-think-about-what-needs-to-go-right-my-list"
+        "title": "No Bush, No Potato",
+        "url": "https://www.lesswrong.com/posts/Q4xAPExu8MXdx3LaW/no-bush-no-potato"
       },
       {
-        "title": "How to solve homelessness: what specific laws we need, how to get it past the opposition, all without being an asshole",
-        "url": "https://www.lesswrong.com/posts/PiW9CqgcWQrb8hcNR/how-to-solve-homelessness-what-specific-laws-we-need-how-to"
+        "title": "The Alignment Journal: Organization, Personnel, and Scope",
+        "url": "https://www.lesswrong.com/posts/9vm2wtAtb34pEkjje/the-alignment-journal-organization-personnel-and-scope"
       },
       {
-        "title": "Narration podcasts for newsletters by Redwood, Epoch, Zvi, Sentinel, Paradigm 3, and others",
-        "url": "https://www.lesswrong.com/posts/2LhEkL4hPPGu5Dgj5/narration-podcasts-for-newsletters-by-redwood-epoch-zvi"
+        "title": "Fake voices: warping the social world",
+        "url": "https://www.lesswrong.com/posts/74cFxpLjqgpjC3TsX/fake-voices-warping-the-social-world"
       },
       {
-        "title": "The inverse Simmel scenario",
-        "url": "https://www.lesswrong.com/posts/bbs89LGxT97hQXk5o/the-inverse-simmel-scenario"
+        "title": "You can rarely pet the dog in an LLM-generated game",
+        "url": "https://www.lesswrong.com/posts/RzLnuGkt5hMxte7hS/you-can-rarely-pet-the-dog-in-an-llm-generated-game"
       },
       {
-        "title": "Wiki-libertarianism",
-        "url": "https://www.lesswrong.com/posts/db2XeAQzf4W9oTw4C/wiki-libertarianism"
+        "title": "Evolution could encode the brain in DNA",
+        "url": "https://www.lesswrong.com/posts/mLsKGzt6xhvanHGuC/evolution-could-encode-the-brain-in-dna"
       },
       {
-        "title": "The Structuralist Mindset",
-        "url": "https://www.lesswrong.com/posts/gL52DXSuJr5AfoJYY/the-structuralist-mindset"
+        "title": "Can mid-training survive RL",
+        "url": "https://www.lesswrong.com/posts/wXsQcdevL5krjq8xL/can-mid-training-survive-rl"
       },
       {
-        "title": "Let's fund weird AI safety projects",
-        "url": "https://www.lesswrong.com/posts/h7bL4g38s9bJQtH6n/let-s-fund-weird-ai-safety-projects"
+        "title": "Towards deployment-time misalignment continuation evals: lessons from recent AI agent incidents",
+        "url": "https://www.lesswrong.com/posts/cENaGChQZD7u7sZkz/towards-deployment-time-misalignment-continuation-evals"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Training a Misaligned Reward Seeker",
+        "url": "https://www.alignmentforum.org/posts/J76LZCC55RdHeqEhz/training-a-misaligned-reward-seeker"
+      },
       {
         "title": "Value generalisation Theory of Change: putting it into practice",
         "url": "https://www.alignmentforum.org/posts/kjPEH4KGEHd8iQ4Hn/value-generalisation-theory-of-change-putting-it-into"
@@ -84,10 +88,6 @@
       {
         "title": "Four LLM loss functions \u2192 four flavors of LLM misalignment",
         "url": "https://www.alignmentforum.org/posts/GRmvZsHXH4vaijPMv/four-llm-loss-functions-four-flavors-of-llm-misalignment"
-      },
-      {
-        "title": "Why do models task game?",
-        "url": "https://www.alignmentforum.org/posts/HACauvWhEdC6QhdS4/why-do-models-task-game"
       }
     ]
   },
@@ -104,14 +104,55 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+        "url": "https://arxiv.org/abs/2608.28590"
+      },
+      {
+        "title": "Expert-validated STEM QA",
+        "url": "https://arxiv.org/abs/2608.28591"
+      },
+      {
+        "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
+        "url": "https://arxiv.org/abs/2608.28592"
+      },
+      {
+        "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
+        "url": "https://arxiv.org/abs/2608.28593"
+      },
+      {
+        "title": "From Question-First to Analyst-First: Domain-Expert Skills and Verified Knowledge Compilation for Proactive Enterprise Analytics",
+        "url": "https://arxiv.org/abs/2608.28594"
+      },
+      {
+        "title": "The Signal in the Noise: An Auditable Reliability Layer for Biomedical Text Classification",
+        "url": "https://arxiv.org/abs/2608.28595"
+      },
+      {
+        "title": "Paper Pilot: A Human-in-the-Loop Expert System for Evidence-Traceable Scientific Manuscript Generation in Applied Sciences",
+        "url": "https://arxiv.org/abs/2608.28596"
+      },
+      {
+        "title": "The Race between Agentic AI Capabilities and Data Quality Control in Online Surveys",
+        "url": "https://arxiv.org/abs/2608.28597"
+      },
+      {
+        "title": "CDPR: Counterfactual Advantage-based Credit Assignment for Cost-Aware Sequential Medical Diagnosis",
+        "url": "https://arxiv.org/abs/2608.28599"
+      },
+      {
+        "title": "SHAPE of Chain-of-Thought in Math Reasoning",
+        "url": "https://arxiv.org/abs/2608.28600"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "articles": [
       {
-        "title": "Previewing the Model Hardware StandardAnnouncementsAug 27, 2026We\u2019re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+        "title": "AnnouncementsAug 27, 2026Previewing the Model Hardware StandardWe\u2019re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
         "url": "https://www.anthropic.com/news/news/model-hardware-standard-research-preview"
       },
       {
@@ -123,8 +164,8 @@
         "url": "https://www.anthropic.com/news/news/claude-opus-5"
       },
       {
-        "title": "ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
-        "url": "https://www.anthropic.com/news/news/claude-sonnet-5"
+        "title": "Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers",
+        "url": "https://www.anthropic.com/news/news/enterprise-frontier-safeguards"
       },
       {
         "title": "Aug 31, 2026Improving our alignment and security efforts",
