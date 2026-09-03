@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "The Return of Aspect Oriented Programming",
-        "url": "https://www.lesswrong.com/posts/oDe3xE6nGsDGM3Nex/the-return-of-aspect-oriented-programming"
+        "title": "A Therapist for People Who Think the World Might End: An Interview with Daystar Eld (Damon Sasi)",
+        "url": "https://www.lesswrong.com/posts/qvT8ySkiHWdWNDyjA/a-therapist-for-people-who-think-the-world-might-end-an"
       },
       {
-        "title": "The Three P's Theory of Research Organizations",
-        "url": "https://www.lesswrong.com/posts/YYWruNSoQhFAF7siR/the-three-p-s-theory-of-research-organizations"
+        "title": "Work at Manifund or Mox",
+        "url": "https://www.lesswrong.com/posts/3YT7hY9RGjNBXLKgC/work-at-manifund-or-mox"
       },
       {
-        "title": "Talking to journalists",
-        "url": "https://www.lesswrong.com/posts/CZKmkRX9c8FPXDvCJ/talking-to-journalists"
+        "title": "Cat-Belling Problems",
+        "url": "https://www.lesswrong.com/posts/SwYBLQvo8MddDcCwz/cat-belling-problems"
       },
       {
-        "title": "A proposal for a highly effective AI safety org",
-        "url": "https://www.lesswrong.com/posts/FbKbfXjHvmZd8wtrX/a-proposal-for-a-highly-effective-ai-safety-org"
+        "title": "Corrigibility Research Fund Grantees (Round 1)",
+        "url": "https://www.lesswrong.com/posts/CKArJ4GAQGFjnhjx6/corrigibility-research-fund-grantees-round-1"
       },
       {
-        "title": "Kairos has raised $50M to build talent infrastructure for AI safety (and we're hiring!)",
-        "url": "https://www.lesswrong.com/posts/DRaePC8aqLYTbEjTD/kairos-has-raised-usd50m-to-build-talent-infrastructure-for"
+        "title": "How I'm Evaluating Corrigibility Grant Applications",
+        "url": "https://www.lesswrong.com/posts/q2YL7qKigC9QEEdsX/how-i-m-evaluating-corrigibility-grant-applications"
       },
       {
-        "title": "How concerned should we be about Astra's recurrent architecture?",
-        "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent"
+        "title": "The bias still making some experts underestimate LLMs",
+        "url": "https://www.lesswrong.com/posts/Rvg4D3zHqndrYf8GN/the-bias-still-making-some-experts-underestimate-llms"
       },
       {
-        "title": "Two Paths from Logical Induction: Part 0",
-        "url": "https://www.lesswrong.com/posts/DkH3N5aGfZeJSvfwu/two-paths-from-logical-induction-part-0"
+        "title": "We need a global training cutoff of April 2026",
+        "url": "https://www.lesswrong.com/posts/uiWabWMoJzCHuJPNM/we-need-a-global-training-cutoff-of-april-2026"
       },
       {
-        "title": "Why OpenAI\u2019s Astra Could Make AI Doom Harder to Prevent",
-        "url": "https://www.lesswrong.com/posts/AayZFiHRdiFYWuxyx/why-openai-s-astra-could-make-ai-doom-harder-to-prevent"
+        "title": "Frontier AI Shops Should Be Filtering and Generating AI Discourse During Pretraining",
+        "url": "https://www.lesswrong.com/posts/WmweQYxjNNBQAd7fj/frontier-ai-shops-should-be-filtering-and-generating-ai"
       },
       {
-        "title": "Life is not a social deduction game",
-        "url": "https://www.lesswrong.com/posts/98HQMCHhupTgNfZj8/life-is-not-a-social-deduction-game"
+        "title": "Steering towards \u201cautomated grading\u201d degrades alignment",
+        "url": "https://www.lesswrong.com/posts/wYZMmdWEt5QLM3m3e/steering-towards-automated-grading-degrades-alignment"
       },
       {
-        "title": "The opposite of culty isn't bland",
-        "url": "https://www.lesswrong.com/posts/r3yvK2Fvz7Yq3Eejq/the-opposite-of-culty-isn-t-bland"
+        "title": "Cached correlated randomization: a tweak to UDT in adversarial games",
+        "url": "https://www.lesswrong.com/posts/o3C3hicNkx3tmW4TP/cached-correlated-randomization-a-tweak-to-udt-in"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "The Alignment Journal: Organization, Personnel, and Scope",
+        "url": "https://www.alignmentforum.org/posts/9vm2wtAtb34pEkjje/the-alignment-journal-organization-personnel-and-scope"
+      },
       {
         "title": "Training a Misaligned Reward Seeker",
         "url": "https://www.alignmentforum.org/posts/J76LZCC55RdHeqEhz/training-a-misaligned-reward-seeker"
@@ -84,10 +88,6 @@
       {
         "title": "Misaligned AIs could use killer robots to take over",
         "url": "https://www.alignmentforum.org/posts/9jKhqmFjMzdAvHANr/misaligned-ais-could-use-killer-robots-to-take-over"
-      },
-      {
-        "title": "Four LLM loss functions \u2192 four flavors of LLM misalignment",
-        "url": "https://www.alignmentforum.org/posts/GRmvZsHXH4vaijPMv/four-llm-loss-functions-four-flavors-of-llm-misalignment"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
-        "url": "https://arxiv.org/abs/2609.00002"
+        "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+        "url": "https://arxiv.org/abs/2609.01611"
       },
       {
-        "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
-        "url": "https://arxiv.org/abs/2609.00003"
+        "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+        "url": "https://arxiv.org/abs/2609.01685"
       },
       {
-        "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
-        "url": "https://arxiv.org/abs/2609.00004"
+        "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
+        "url": "https://arxiv.org/abs/2609.01741"
       },
       {
-        "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
-        "url": "https://arxiv.org/abs/2609.00005"
+        "title": "When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection",
+        "url": "https://arxiv.org/abs/2609.01814"
       },
       {
-        "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
-        "url": "https://arxiv.org/abs/2609.00012"
+        "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
+        "url": "https://arxiv.org/abs/2609.01815"
       },
       {
-        "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
-        "url": "https://arxiv.org/abs/2609.00015"
+        "title": "Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern",
+        "url": "https://arxiv.org/abs/2609.01834"
       },
       {
-        "title": "SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces",
-        "url": "https://arxiv.org/abs/2609.00018"
+        "title": "SSAKG 2.0: An Open-Source Package for Structural Associative Sequence Memory and Context-Based Retrieval",
+        "url": "https://arxiv.org/abs/2609.01849"
       },
       {
-        "title": "UI-Venus-2 Technical Report",
-        "url": "https://arxiv.org/abs/2609.00028"
+        "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
+        "url": "https://arxiv.org/abs/2609.01852"
       },
       {
-        "title": "EULER: Exploring Underused Links with Evidence-Checked Return for Multi-Agent Mathematical Discovery",
-        "url": "https://arxiv.org/abs/2609.00032"
+        "title": "Belief-Calibrated Optimization: An Explicit World Model for Agentic Optimization",
+        "url": "https://arxiv.org/abs/2609.01861"
       },
       {
-        "title": "When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation",
-        "url": "https://arxiv.org/abs/2609.00071"
+        "title": "Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence",
+        "url": "https://arxiv.org/abs/2609.01873"
       }
     ]
   },
