@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "A Therapist for People Who Think the World Might End: An Interview with Daystar Eld (Damon Sasi)",
-        "url": "https://www.lesswrong.com/posts/qvT8ySkiHWdWNDyjA/a-therapist-for-people-who-think-the-world-might-end-an"
+        "title": "Announcing Humans in Control: cross-partisan grassroots organizing for AI safeguards ahead of 2028",
+        "url": "https://www.lesswrong.com/posts/bs4ayLuE5aAhnBArL/announcing-humans-in-control-cross-partisan-grassroots"
       },
       {
-        "title": "Work at Manifund or Mox",
-        "url": "https://www.lesswrong.com/posts/3YT7hY9RGjNBXLKgC/work-at-manifund-or-mox"
+        "title": "OpenAI's Astra alignment claims are dubious and there is good evidence it is misaligned",
+        "url": "https://www.lesswrong.com/posts/tpLBiFKe62HZu5x7B/openai-s-astra-alignment-claims-are-dubious-and-there-is"
       },
       {
-        "title": "Cat-Belling Problems",
-        "url": "https://www.lesswrong.com/posts/SwYBLQvo8MddDcCwz/cat-belling-problems"
+        "title": "Ban AI Superintelligence Form Letter",
+        "url": "https://www.lesswrong.com/posts/S5de2LJoZ6KqJ4eTi/ban-ai-superintelligence-form-letter"
       },
       {
-        "title": "Corrigibility Research Fund Grantees (Round 1)",
-        "url": "https://www.lesswrong.com/posts/CKArJ4GAQGFjnhjx6/corrigibility-research-fund-grantees-round-1"
+        "title": "A layman-friendly summary of alignment research and its difficulties",
+        "url": "https://www.lesswrong.com/posts/CsHMgKXB9QPqDR2Mm/a-layman-friendly-summary-of-alignment-research-and-its-1"
       },
       {
-        "title": "How I'm Evaluating Corrigibility Grant Applications",
-        "url": "https://www.lesswrong.com/posts/q2YL7qKigC9QEEdsX/how-i-m-evaluating-corrigibility-grant-applications"
+        "title": "Open Telemetry as a First Metrological Layer for Technical AI Governance",
+        "url": "https://www.lesswrong.com/posts/S5wE8xEdAiDypGKuX/open-telemetry-as-a-first-metrological-layer-for-technical"
       },
       {
-        "title": "The bias still making some experts underestimate LLMs",
-        "url": "https://www.lesswrong.com/posts/Rvg4D3zHqndrYf8GN/the-bias-still-making-some-experts-underestimate-llms"
+        "title": "Does progress in AI safety require progress in AI capabilities?",
+        "url": "https://www.lesswrong.com/posts/Ye2kSnDqXTFQ5qqgs/does-progress-in-ai-safety-require-progress-in-ai-1"
       },
       {
-        "title": "We need a global training cutoff of April 2026",
-        "url": "https://www.lesswrong.com/posts/uiWabWMoJzCHuJPNM/we-need-a-global-training-cutoff-of-april-2026"
+        "title": "[Cross-post] Five Misunderstandings About AI\u2019s Labor Impacts",
+        "url": "https://www.lesswrong.com/posts/e5eCnCnr7urYyiPQM/cross-post-five-misunderstandings-about-ai-s-labor-impacts"
       },
       {
-        "title": "Frontier AI Shops Should Be Filtering and Generating AI Discourse During Pretraining",
-        "url": "https://www.lesswrong.com/posts/WmweQYxjNNBQAd7fj/frontier-ai-shops-should-be-filtering-and-generating-ai"
+        "title": "The brain does not \"finish developing\" at 25.",
+        "url": "https://www.lesswrong.com/posts/8AvPJHwAsNEMKwCun/the-brain-does-not-finish-developing-at-25"
       },
       {
-        "title": "Steering towards \u201cautomated grading\u201d degrades alignment",
-        "url": "https://www.lesswrong.com/posts/wYZMmdWEt5QLM3m3e/steering-towards-automated-grading-degrades-alignment"
+        "title": "Let's talk about the AI coordination problem",
+        "url": "https://www.lesswrong.com/posts/QYDZzuGjrKu7wKdC8/let-s-talk-about-the-ai-coordination-problem"
       },
       {
-        "title": "Cached correlated randomization: a tweak to UDT in adversarial games",
-        "url": "https://www.lesswrong.com/posts/o3C3hicNkx3tmW4TP/cached-correlated-randomization-a-tweak-to-udt-in"
+        "title": "Probing for Calibrated Rare Action",
+        "url": "https://www.lesswrong.com/posts/8TKozKnfCAPzjGuTc/probing-for-calibrated-rare-action"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
-        "url": "https://arxiv.org/abs/2609.01611"
+        "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+        "url": "https://arxiv.org/abs/2609.02981"
       },
       {
-        "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
-        "url": "https://arxiv.org/abs/2609.01685"
+        "title": "MasterControl Seventeen Every Time",
+        "url": "https://arxiv.org/abs/2609.03209"
       },
       {
-        "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
-        "url": "https://arxiv.org/abs/2609.01741"
+        "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+        "url": "https://arxiv.org/abs/2609.03236"
       },
       {
-        "title": "When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection",
-        "url": "https://arxiv.org/abs/2609.01814"
+        "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+        "url": "https://arxiv.org/abs/2609.03340"
       },
       {
-        "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
-        "url": "https://arxiv.org/abs/2609.01815"
+        "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+        "url": "https://arxiv.org/abs/2609.03402"
       },
       {
-        "title": "Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern",
-        "url": "https://arxiv.org/abs/2609.01834"
+        "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
+        "url": "https://arxiv.org/abs/2609.03407"
       },
       {
-        "title": "SSAKG 2.0: An Open-Source Package for Structural Associative Sequence Memory and Context-Based Retrieval",
-        "url": "https://arxiv.org/abs/2609.01849"
+        "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
+        "url": "https://arxiv.org/abs/2609.03416"
       },
       {
-        "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
-        "url": "https://arxiv.org/abs/2609.01852"
+        "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
+        "url": "https://arxiv.org/abs/2609.03423"
       },
       {
-        "title": "Belief-Calibrated Optimization: An Explicit World Model for Agentic Optimization",
-        "url": "https://arxiv.org/abs/2609.01861"
+        "title": "Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents",
+        "url": "https://arxiv.org/abs/2609.03438"
       },
       {
-        "title": "Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence",
-        "url": "https://arxiv.org/abs/2609.01873"
+        "title": "Beyond \"Made with AI\": Visualizing Provenance Density to Mitigate the Transparency Penalty",
+        "url": "https://arxiv.org/abs/2609.03460"
       }
     ]
   },
@@ -188,7 +188,7 @@
         "url": "https://www.anthropic.com/news/news/tino-cuellar"
       },
       {
-        "title": "Jul 30, 2026Investigating three real-world incidents in our cybersecurity evaluations",
+        "title": "Jul 30, 2026AnnouncementsInvestigating three real-world incidents in our cybersecurity evaluations",
         "url": "https://www.anthropic.com/news/news/investigating-incidents-cybersecurity-evals"
       }
     ]
