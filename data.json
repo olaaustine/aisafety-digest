@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Announcing Humans in Control: cross-partisan grassroots organizing for AI safeguards ahead of 2028",
-        "url": "https://www.lesswrong.com/posts/bs4ayLuE5aAhnBArL/announcing-humans-in-control-cross-partisan-grassroots"
+        "title": "AI breakout times: a mechanism for an enforceable AI pause",
+        "url": "https://www.lesswrong.com/posts/BWDdSLbntJeQtZQxb/ai-breakout-times-a-mechanism-for-an-enforceable-ai-pause"
       },
       {
-        "title": "OpenAI's Astra alignment claims are dubious and there is good evidence it is misaligned",
-        "url": "https://www.lesswrong.com/posts/tpLBiFKe62HZu5x7B/openai-s-astra-alignment-claims-are-dubious-and-there-is"
+        "title": "Modelling variation in the METR Uplift Study",
+        "url": "https://www.lesswrong.com/posts/XjB4w3zDWLH8xQudq/modelling-variation-in-the-metr-uplift-study"
       },
       {
-        "title": "Ban AI Superintelligence Form Letter",
-        "url": "https://www.lesswrong.com/posts/S5de2LJoZ6KqJ4eTi/ban-ai-superintelligence-form-letter"
+        "title": "Counterfactual Resampling to Analyse Model Behaviour",
+        "url": "https://www.lesswrong.com/posts/cc2H38bmSq4TySusR/counterfactual-resampling-to-analyse-model-behaviour"
       },
       {
-        "title": "A layman-friendly summary of alignment research and its difficulties",
-        "url": "https://www.lesswrong.com/posts/CsHMgKXB9QPqDR2Mm/a-layman-friendly-summary-of-alignment-research-and-its-1"
+        "title": "Claude Mythos 5.1 and Fable 5.1: Capabilities",
+        "url": "https://www.lesswrong.com/posts/QHoF3tJvryRtmAmMg/claude-mythos-5-1-and-fable-5-1-capabilities"
       },
       {
-        "title": "Open Telemetry as a First Metrological Layer for Technical AI Governance",
-        "url": "https://www.lesswrong.com/posts/S5wE8xEdAiDypGKuX/open-telemetry-as-a-first-metrological-layer-for-technical"
+        "title": "Evaluation",
+        "url": "https://www.lesswrong.com/posts/8hEhxnd3XkN5DrpfQ/evaluation"
       },
       {
-        "title": "Does progress in AI safety require progress in AI capabilities?",
-        "url": "https://www.lesswrong.com/posts/Ye2kSnDqXTFQ5qqgs/does-progress-in-ai-safety-require-progress-in-ai-1"
+        "title": "Assessing the impact of safety work needs equilibrium analysis (now more than ever)",
+        "url": "https://www.lesswrong.com/posts/kxHiSsNh4MH82nhXD/assessing-the-impact-of-safety-work-needs-equilibrium"
       },
       {
-        "title": "[Cross-post] Five Misunderstandings About AI\u2019s Labor Impacts",
-        "url": "https://www.lesswrong.com/posts/e5eCnCnr7urYyiPQM/cross-post-five-misunderstandings-about-ai-s-labor-impacts"
+        "title": "Liquid Intelligence: A possible explanation for the unexpected cooperation of AIs after breaking out of their containers",
+        "url": "https://www.lesswrong.com/posts/JGkgbyuMTC8i2Rxfb/liquid-intelligence-a-possible-explanation-for-the"
       },
       {
-        "title": "The brain does not \"finish developing\" at 25.",
-        "url": "https://www.lesswrong.com/posts/8AvPJHwAsNEMKwCun/the-brain-does-not-finish-developing-at-25"
+        "title": "A case that whole brain emulation research is net-harmful by default",
+        "url": "https://www.lesswrong.com/posts/MnroTdcCCZoFSXEHy/a-case-that-whole-brain-emulation-research-is-net-harmful-by"
       },
       {
-        "title": "Let's talk about the AI coordination problem",
-        "url": "https://www.lesswrong.com/posts/QYDZzuGjrKu7wKdC8/let-s-talk-about-the-ai-coordination-problem"
+        "title": "Should safety researchers quit frontier labs re. warning shots?",
+        "url": "https://www.lesswrong.com/posts/TfqMs3AarsHnHiwai/should-safety-researchers-quit-frontier-labs-re-warning"
       },
       {
-        "title": "Probing for Calibrated Rare Action",
-        "url": "https://www.lesswrong.com/posts/8TKozKnfCAPzjGuTc/probing-for-calibrated-rare-action"
+        "title": "A superintelligence bill was just introduced - now is the time to act",
+        "url": "https://www.lesswrong.com/posts/YGCnPgyZzfP5qxTyY/a-superintelligence-bill-was-just-introduced-now-is-the-time"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
-        "url": "https://arxiv.org/abs/2609.02981"
-      },
-      {
-        "title": "MasterControl Seventeen Every Time",
-        "url": "https://arxiv.org/abs/2609.03209"
-      },
-      {
-        "title": "Speculative Macro Commit for Faster Tool-Using Agents",
-        "url": "https://arxiv.org/abs/2609.03236"
-      },
-      {
-        "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
-        "url": "https://arxiv.org/abs/2609.03340"
-      },
-      {
-        "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
-        "url": "https://arxiv.org/abs/2609.03402"
-      },
-      {
-        "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
-        "url": "https://arxiv.org/abs/2609.03407"
-      },
-      {
-        "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
-        "url": "https://arxiv.org/abs/2609.03416"
-      },
-      {
-        "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
-        "url": "https://arxiv.org/abs/2609.03423"
-      },
-      {
-        "title": "Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents",
-        "url": "https://arxiv.org/abs/2609.03438"
-      },
-      {
-        "title": "Beyond \"Made with AI\": Visualizing Provenance Density to Mitigate the Transparency Penalty",
-        "url": "https://arxiv.org/abs/2609.03460"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
