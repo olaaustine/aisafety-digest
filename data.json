@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Blocking Monitors are Bad",
-        "url": "https://www.lesswrong.com/posts/GcYpJXqoaQHTvxLRP/blocking-monitors-are-bad"
+        "title": "How good are slop-vestigators?",
+        "url": "https://www.lesswrong.com/posts/wt4kk6vFPEhkXvF8Q/how-good-are-slop-vestigators"
       },
       {
-        "title": "Machine Organizations",
-        "url": "https://www.lesswrong.com/posts/zmC5Nhx36wt47WHfu/machine-organizations"
+        "title": "Allow Carriers on Planes",
+        "url": "https://www.lesswrong.com/posts/nBCx5zFEgQAtGj7M4/allow-carriers-on-planes"
       },
       {
-        "title": "Dear God, Please Do Not Resign In Protest",
-        "url": "https://www.lesswrong.com/posts/6j3kBHdowGLCeqobg/dear-god-please-do-not-resign-in-protest"
+        "title": "Is there an acceptable way to store clothes?",
+        "url": "https://www.lesswrong.com/posts/LQeoR4wsh7tN3eSWB/is-there-an-acceptable-way-to-store-clothes"
       },
       {
-        "title": "Where are the token-level LLM kill-switches?",
-        "url": "https://www.lesswrong.com/posts/ZqFD6HzrhZdMFxoqn/where-are-the-token-level-llm-kill-switches"
+        "title": "FLOP Around and Find Out: LLM Training Workload Size Estimation With Power Monitoring",
+        "url": "https://www.lesswrong.com/posts/7qXmra77D49dJp2ik/flop-around-and-find-out-llm-training-workload-size"
       },
       {
-        "title": "The Scramble: getting in position to pace the frontier",
-        "url": "https://www.lesswrong.com/posts/S7e7swkWDyKdtvRqM/the-scramble-getting-in-position-to-pace-the-frontier"
+        "title": "A Conceptual Framework for Reasoning about Exploration Hacking",
+        "url": "https://www.lesswrong.com/posts/am5w2t9LzJB4sRhKw/a-conceptual-framework-for-reasoning-about-exploration"
       },
       {
-        "title": "The Magnus Challenge",
-        "url": "https://www.lesswrong.com/posts/ZxC23QApzYPgcYXpz/the-magnus-challenge"
+        "title": "Exploration Hacking in AI Debate: Initial Empirics and Generalisation Splitting",
+        "url": "https://www.lesswrong.com/posts/xjwtNid2xjqSJWB7z/exploration-hacking-in-ai-debate-initial-empirics-and"
       },
       {
-        "title": "Model ethology for understanding average case alignment",
-        "url": "https://www.lesswrong.com/posts/iQbkb9yXH5ATLa6br/model-ethology-for-understanding-average-case-alignment"
+        "title": "Pausing AI ASAP is preferable to agreeing to pause at some future time",
+        "url": "https://www.lesswrong.com/posts/nX2Wudqbz2r8tJKwT/pausing-ai-asap-is-preferable-to-agreeing-to-pause-at-some"
       },
       {
-        "title": "An Alien Mind: Jakub Pachocki Warns Us",
-        "url": "https://www.lesswrong.com/posts/8E6ng6CseuzafSxQR/an-alien-mind-jakub-pachocki-warns-us"
+        "title": "Attunement, not alignment",
+        "url": "https://www.lesswrong.com/posts/Drdpybjuj8jEx7Zjn/attunement-not-alignment"
       },
       {
-        "title": "What is the Case For Prosaic AI Safety Work Being Net-Beneficial?",
-        "url": "https://www.lesswrong.com/posts/6QjmWCtyT7xXyKy3A/what-is-the-case-for-prosaic-ai-safety-work-being-net"
+        "title": "OpenAI have solved the Navier-Stokes Problem with a substantially more powerful model than Astra.",
+        "url": "https://www.lesswrong.com/posts/yekQKwmQJNk7thDtQ/openai-have-solved-the-navier-stokes-problem-with-a"
       },
       {
-        "title": "The Wormtongue Test",
-        "url": "https://www.lesswrong.com/posts/M9EuHPg8vBapFEDe9/the-wormtongue-test"
+        "title": "Training on probes: Research ideas",
+        "url": "https://www.lesswrong.com/posts/HGfMBEFnsXYkKvbRo/training-on-probes-research-ideas"
       }
     ]
   },
@@ -49,6 +49,14 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Training on probes: Research ideas",
+        "url": "https://www.alignmentforum.org/posts/HGfMBEFnsXYkKvbRo/training-on-probes-research-ideas"
+      },
+      {
+        "title": "Training on probes: What's going on",
+        "url": "https://www.alignmentforum.org/posts/gHFCgrvfxQtaEnJye/training-on-probes-what-s-going-on"
+      },
       {
         "title": "The Alignment Journal: Organization, Personnel, and Scope",
         "url": "https://www.alignmentforum.org/posts/9vm2wtAtb34pEkjje/the-alignment-journal-organization-personnel-and-scope"
@@ -80,14 +88,6 @@
       {
         "title": "AI swarms are starting to pose indirect takeover risk",
         "url": "https://www.alignmentforum.org/posts/8oFYZdXkTaNGRtcn8/ai-swarms-are-starting-to-pose-indirect-takeover-risk"
-      },
-      {
-        "title": "An anytime algorithm for mixing the computable measures",
-        "url": "https://www.alignmentforum.org/posts/MgYCraoxMwfWwgWa5/an-anytime-algorithm-for-mixing-the-computable-measures"
-      },
-      {
-        "title": "Misaligned AIs could use killer robots to take over",
-        "url": "https://www.alignmentforum.org/posts/9jKhqmFjMzdAvHANr/misaligned-ais-could-use-killer-robots-to-take-over"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "EXAONE Forecast for Finance",
-        "url": "https://arxiv.org/abs/2609.04239"
-      },
-      {
-        "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
-        "url": "https://arxiv.org/abs/2609.04286"
-      },
-      {
-        "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
-        "url": "https://arxiv.org/abs/2609.04298"
-      },
-      {
-        "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
-        "url": "https://arxiv.org/abs/2609.04300"
-      },
-      {
-        "title": "Iris: Climbing to the Search Frontier",
-        "url": "https://arxiv.org/abs/2609.04304"
-      },
-      {
-        "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
-        "url": "https://arxiv.org/abs/2609.04343"
-      },
-      {
-        "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
-        "url": "https://arxiv.org/abs/2609.04373"
-      },
-      {
-        "title": "Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer",
-        "url": "https://arxiv.org/abs/2609.04377"
-      },
-      {
-        "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
-        "url": "https://arxiv.org/abs/2609.04444"
-      },
-      {
-        "title": "PerfReasoning: How Well Do LLMs Reason on Hardware Performance?",
-        "url": "https://arxiv.org/abs/2609.04476"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
