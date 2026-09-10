@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "The Counterexamples",
-        "url": "https://www.lesswrong.com/posts/zAFZKDRJqu2TEc8mo/the-counterexamples"
+        "title": "AI lab employees should consider a strike before it's too late!",
+        "url": "https://www.lesswrong.com/posts/TyNqr6aseb6TT5KyY/ai-lab-employees-should-consider-a-strike-before-it-s-too"
       },
       {
-        "title": "People are more worried about AI x-risk than they let on",
-        "url": "https://www.lesswrong.com/posts/iNGDbhgShw8zCRvZC/people-are-more-worried-about-ai-x-risk-than-they-let-on"
+        "title": "Astra is much better at reasoning with filler tokens\u00a0than previous models",
+        "url": "https://www.lesswrong.com/posts/uvhuZHFtrgk8kNiZc/astra-is-much-better-at-reasoning-with-filler-tokens-than"
       },
       {
-        "title": "Can a superintelligence do THAT?",
-        "url": "https://www.lesswrong.com/posts/hXozGp2rsbZgXnH3o/can-a-superintelligence-do-that"
+        "title": "To Thine Own AI Be Truthful: emergent misalignment in alignment research",
+        "url": "https://www.lesswrong.com/posts/DrKu92Cjeo3EeGtcB/to-thine-own-ai-be-truthful-emergent-misalignment-in"
       },
       {
-        "title": "Final research agenda #3: towards automated Husserlian CEV",
-        "url": "https://www.lesswrong.com/posts/ptQWPRqXm3BfJmmnY/final-research-agenda-3-towards-automated-husserlian-cev"
+        "title": "Megastructures can speed up interstellar travel, but they have to be HUUUUGE",
+        "url": "https://www.lesswrong.com/posts/q5gjr6gDvCJoRnNPJ/megastructures-can-speed-up-interstellar-travel-but-they"
       },
       {
-        "title": "Have deranged conspiracy theories actually exploded? The short answer: probably not.",
-        "url": "https://www.lesswrong.com/posts/9W7yq2wiEgHKo4GGE/have-deranged-conspiracy-theories-actually-exploded-the"
+        "title": "Mischievous AIs",
+        "url": "https://www.lesswrong.com/posts/6qfQkLDwyTrRX6A8T/mischievous-ais"
       },
       {
-        "title": "Constitutional AI Widens Narrow Secret Loyalty of LLMs",
-        "url": "https://www.lesswrong.com/posts/NwSp3cvKFWbviqmy7/constitutional-ai-widens-narrow-secret-loyalty-of-llms"
+        "title": "First Bill Introduced to Ban Superintelligent AI",
+        "url": "https://www.lesswrong.com/posts/uzoLm4prFzRiuznJt/first-bill-introduced-to-ban-superintelligent-ai"
       },
       {
-        "title": "Recurrent KV-cache sharing may undermine the bounded-depth argument for CoT monitorability",
-        "url": "https://www.lesswrong.com/posts/LaR7joZu4QyaM7hqq/recurrent-kv-cache-sharing-may-undermine-the-bounded-depth"
+        "title": "Claims about Properties are Claims about Symmetries",
+        "url": "https://www.lesswrong.com/posts/boZr6d9FWPtmrreuY/claims-about-properties-are-claims-about-symmetries"
       },
       {
-        "title": "The Risks of Anti-AI Voters Turning Against AI Alignment",
-        "url": "https://www.lesswrong.com/posts/uSbqxRPYMAY78CFCB/the-risks-of-anti-ai-voters-turning-against-ai-alignment"
+        "title": "RSI systems may collapse into a small set of goals",
+        "url": "https://www.lesswrong.com/posts/YtNBcuquv4J4PcYcm/rsi-systems-may-collapse-into-a-small-set-of-goals"
       },
       {
-        "title": "Fighting scope and frame control from the frontier-labs",
-        "url": "https://www.lesswrong.com/posts/zZZaoFHo5HPvWFFH3/fighting-scope-and-frame-control-from-the-frontier-labs"
+        "title": "Doom as a bad method not a utopia trade-off",
+        "url": "https://www.lesswrong.com/posts/pDyLMRoi2BDq34rFe/doom-as-a-bad-method-not-a-utopia-trade-off"
       },
       {
-        "title": "An Ode to LessWrong",
-        "url": "https://www.lesswrong.com/posts/4Nknaprzbde7ZBW8j/an-ode-to-lesswrong-1"
+        "title": "What the Pro-Democracy Movement Knows About Quitting in Protest",
+        "url": "https://www.lesswrong.com/posts/grzX6NB2JcZDvSRJ2/what-the-pro-democracy-movement-knows-about-quitting-in"
       }
     ]
   },
@@ -49,6 +49,22 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "An operationalization of opaque serial depth",
+        "url": "https://www.alignmentforum.org/posts/x8BvtWxtoajBGHS3g/an-operationalization-of-opaque-serial-depth"
+      },
+      {
+        "title": "Proposal for tracking the effects of architecture on monitorability",
+        "url": "https://www.alignmentforum.org/posts/hLPGv8QjPcNLtDp3A/proposal-for-tracking-the-effects-of-architecture-on"
+      },
+      {
+        "title": "Astra\u00a0can do a concerning amount with no chain of thought",
+        "url": "https://www.alignmentforum.org/posts/eRmzz8J8Qkzqvzrgg/astra-can-do-a-concerning-amount-with-no-chain-of-thought"
+      },
+      {
+        "title": "How good are slop-vestigators?",
+        "url": "https://www.alignmentforum.org/posts/wt4kk6vFPEhkXvF8Q/how-good-are-slop-vestigators"
+      },
       {
         "title": "Training on probes: Research ideas",
         "url": "https://www.alignmentforum.org/posts/HGfMBEFnsXYkKvbRo/training-on-probes-research-ideas"
@@ -72,22 +88,6 @@
       {
         "title": "Value generalisation Theory of Change: the theory behind the approach",
         "url": "https://www.alignmentforum.org/posts/f79SNtqFD7SqJY2vf/value-generalisation-theory-of-change-the-theory-behind-the"
-      },
-      {
-        "title": "Brief independent investigation of agents\u2019 behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident",
-        "url": "https://www.alignmentforum.org/posts/nB8KKapnWGBXtKKiM/brief-independent-investigation-of-agents-behavior-reasoning"
-      },
-      {
-        "title": "Debate Training Reduces Reward Hacking in RLAIF",
-        "url": "https://www.alignmentforum.org/posts/BB8o7b8A4Aykeksvw/debate-training-reduces-reward-hacking-in-rlaif"
-      },
-      {
-        "title": "Does DiffusionGemma do latent reasoning?",
-        "url": "https://www.alignmentforum.org/posts/QBuJ3suRZxrrxSTtv/does-diffusiongemma-do-latent-reasoning"
-      },
-      {
-        "title": "AI swarms are starting to pose indirect takeover risk",
-        "url": "https://www.alignmentforum.org/posts/8oFYZdXkTaNGRtcn8/ai-swarms-are-starting-to-pose-indirect-takeover-risk"
       }
     ]
   },
@@ -104,19 +104,60 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+        "url": "https://arxiv.org/abs/2609.05437"
+      },
+      {
+        "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+        "url": "https://arxiv.org/abs/2609.05439"
+      },
+      {
+        "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+        "url": "https://arxiv.org/abs/2609.05441"
+      },
+      {
+        "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+        "url": "https://arxiv.org/abs/2609.05446"
+      },
+      {
+        "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
+        "url": "https://arxiv.org/abs/2609.05448"
+      },
+      {
+        "title": "Compiling VGDL into Causal Models",
+        "url": "https://arxiv.org/abs/2609.05459"
+      },
+      {
+        "title": "ARC-Bench: Closed-Loop Replanning Masks Broken Action Ranking in Frozen JEPA World Models",
+        "url": "https://arxiv.org/abs/2609.05461"
+      },
+      {
+        "title": "RAPID: Reliability-Aware Pair Importance Distillation",
+        "url": "https://arxiv.org/abs/2609.05481"
+      },
+      {
+        "title": "PGP-Clinical-TimeKAN: Prior-Guided Joint Probabilistic Forecasting of Clinical Trajectories",
+        "url": "https://arxiv.org/abs/2609.05488"
+      },
+      {
+        "title": "SciLitBench: Benchmark and Design Principles for LLM-Powered Systematic Literature Reviews",
+        "url": "https://arxiv.org/abs/2609.05505"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "articles": [
       {
-        "title": "AnnouncementsAug 27, 2026Previewing the Model Hardware StandardWe\u2019re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
-        "url": "https://www.anthropic.com/news/news/model-hardware-standard-research-preview"
+        "title": "AnnouncementsAug 31, 2026Improving our alignment and security effortsOn July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we\u2019re sharing some of the changes we\u2019ve made over the past month.",
+        "url": "https://www.anthropic.com/news/news/improving-alignment-security-efforts"
       },
       {
-        "title": "AnnouncementsAug 14, 2026How Claude\u2019s text watermark worksIn this article, we share answers to some of the questions we\u2019ve received about how our chosen watermarking method works, whether it affects Claude\u2019s outputs, and why we\u2019re making this change.",
-        "url": "https://www.anthropic.com/news/news/claude-text-watermark"
+        "title": "AnnouncementsAug 27, 2026Previewing the Model Hardware StandardWe\u2019re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+        "url": "https://www.anthropic.com/news/news/model-hardware-standard-research-preview"
       },
       {
         "title": "ProductJul 24, 2026Introducing Claude Opus 5Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
@@ -127,16 +168,16 @@
         "url": "https://www.anthropic.com/news/news/enterprise-frontier-safeguards"
       },
       {
-        "title": "Aug 31, 2026AnnouncementsImproving our alignment and security efforts",
-        "url": "https://www.anthropic.com/news/news/improving-alignment-security-efforts"
-      },
-      {
         "title": "Aug 27, 2026AnnouncementsExpanding our support for scientists",
         "url": "https://www.anthropic.com/news/news/expanding-support-for-scientists"
       },
       {
         "title": "Aug 25, 2026AnnouncementsFunding better evaluations of AI\u2019s impact on wellbeing",
         "url": "https://www.anthropic.com/news/news/wellbeing-research-grants"
+      },
+      {
+        "title": "Aug 14, 2026AnnouncementsHow Claude\u2019s text watermark works",
+        "url": "https://www.anthropic.com/news/news/claude-text-watermark"
       },
       {
         "title": "Aug 7, 2026ProductImproving Fable 5's biology safeguards",
