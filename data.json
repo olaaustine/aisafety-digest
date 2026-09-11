@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "AI lab employees should consider a strike before it's too late!",
-        "url": "https://www.lesswrong.com/posts/TyNqr6aseb6TT5KyY/ai-lab-employees-should-consider-a-strike-before-it-s-too"
+        "title": "A normal Friday in 2042",
+        "url": "https://www.lesswrong.com/posts/u6hFByFwDLxtnbvje/a-normal-friday-in-2042"
       },
       {
-        "title": "Astra is much better at reasoning with filler tokens\u00a0than previous models",
-        "url": "https://www.lesswrong.com/posts/uvhuZHFtrgk8kNiZc/astra-is-much-better-at-reasoning-with-filler-tokens-than"
+        "title": "My recommended resources for AI safety, alignment, and existential risks",
+        "url": "https://www.lesswrong.com/posts/tdz83zCBxumTajzfZ/my-recommended-resources-for-ai-safety-alignment-and"
       },
       {
-        "title": "To Thine Own AI Be Truthful: emergent misalignment in alignment research",
-        "url": "https://www.lesswrong.com/posts/DrKu92Cjeo3EeGtcB/to-thine-own-ai-be-truthful-emergent-misalignment-in"
+        "title": "Appendix: Reproduction of the OpenAI-HuggingFace Incident",
+        "url": "https://www.lesswrong.com/posts/mXPCpJCvFGybQ4mwc/appendix-reproduction-of-the-openai-huggingface-incident"
       },
       {
-        "title": "Megastructures can speed up interstellar travel, but they have to be HUUUUGE",
-        "url": "https://www.lesswrong.com/posts/q5gjr6gDvCJoRnNPJ/megastructures-can-speed-up-interstellar-travel-but-they"
+        "title": "Consider positive feedback loops",
+        "url": "https://www.lesswrong.com/posts/gB2rncEJctRW8aJLs/consider-positive-feedback-loops"
       },
       {
-        "title": "Mischievous AIs",
-        "url": "https://www.lesswrong.com/posts/6qfQkLDwyTrRX6A8T/mischievous-ais"
+        "title": "Alignment Hierarchy",
+        "url": "https://www.lesswrong.com/posts/L4A9Whm8cmDczavpb/alignment-hierarchy"
       },
       {
-        "title": "First Bill Introduced to Ban Superintelligent AI",
-        "url": "https://www.lesswrong.com/posts/uzoLm4prFzRiuznJt/first-bill-introduced-to-ban-superintelligent-ai"
+        "title": "What Happens Now? Forecasting the Fallout from the Hugging Face Incident",
+        "url": "https://www.lesswrong.com/posts/bwuQoB4Tb4K3MMgjY/what-happens-now-forecasting-the-fallout-from-the-hugging"
       },
       {
-        "title": "Claims about Properties are Claims about Symmetries",
-        "url": "https://www.lesswrong.com/posts/boZr6d9FWPtmrreuY/claims-about-properties-are-claims-about-symmetries"
+        "title": "Astra's no-CoT limits track speculative depth, not step count",
+        "url": "https://www.lesswrong.com/posts/WFc3NkuPaYFrYuaZd/astra-s-no-cot-limits-track-speculative-depth-not-step-count"
       },
       {
-        "title": "RSI systems may collapse into a small set of goals",
-        "url": "https://www.lesswrong.com/posts/YtNBcuquv4J4PcYcm/rsi-systems-may-collapse-into-a-small-set-of-goals"
+        "title": "Organizing a Fermi modeling 'hack' on the cost of cultured meat; hiring a co-coordinator",
+        "url": "https://www.lesswrong.com/posts/9CfnoFh2wv7Hjwdkg/organizing-a-fermi-modeling-hack-on-the-cost-of-cultured"
       },
       {
-        "title": "Doom as a bad method not a utopia trade-off",
-        "url": "https://www.lesswrong.com/posts/pDyLMRoi2BDq34rFe/doom-as-a-bad-method-not-a-utopia-trade-off"
+        "title": "Caroline Ellison has joined Manifund",
+        "url": "https://www.lesswrong.com/posts/W3zn5jQa8fhmiBsPG/caroline-ellison-has-joined-manifund"
       },
       {
-        "title": "What the Pro-Democracy Movement Knows About Quitting in Protest",
-        "url": "https://www.lesswrong.com/posts/grzX6NB2JcZDvSRJ2/what-the-pro-democracy-movement-knows-about-quitting-in"
+        "title": "CoT controllability evals seem very under-elicited",
+        "url": "https://www.lesswrong.com/posts/BbP2wCyDGdPWJ7PwP/cot-controllability-evals-seem-very-under-elicited"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "CoT controllability evals seem very under-elicited",
+        "url": "https://www.alignmentforum.org/posts/BbP2wCyDGdPWJ7PwP/cot-controllability-evals-seem-very-under-elicited"
+      },
       {
         "title": "An operationalization of opaque serial depth",
         "url": "https://www.alignmentforum.org/posts/x8BvtWxtoajBGHS3g/an-operationalization-of-opaque-serial-depth"
@@ -84,10 +88,6 @@
       {
         "title": "Value generalisation Theory of Change: putting it into practice",
         "url": "https://www.alignmentforum.org/posts/kjPEH4KGEHd8iQ4Hn/value-generalisation-theory-of-change-putting-it-into"
-      },
-      {
-        "title": "Value generalisation Theory of Change: the theory behind the approach",
-        "url": "https://www.alignmentforum.org/posts/f79SNtqFD7SqJY2vf/value-generalisation-theory-of-change-the-theory-behind-the"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
-        "url": "https://arxiv.org/abs/2609.05437"
+        "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+        "url": "https://arxiv.org/abs/2609.09203"
       },
       {
-        "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
-        "url": "https://arxiv.org/abs/2609.05439"
+        "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+        "url": "https://arxiv.org/abs/2609.09226"
       },
       {
-        "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
-        "url": "https://arxiv.org/abs/2609.05441"
+        "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+        "url": "https://arxiv.org/abs/2609.09233"
       },
       {
-        "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
-        "url": "https://arxiv.org/abs/2609.05446"
+        "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
+        "url": "https://arxiv.org/abs/2609.09306"
       },
       {
-        "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
-        "url": "https://arxiv.org/abs/2609.05448"
+        "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
+        "url": "https://arxiv.org/abs/2609.09374"
       },
       {
-        "title": "Compiling VGDL into Causal Models",
-        "url": "https://arxiv.org/abs/2609.05459"
+        "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
+        "url": "https://arxiv.org/abs/2609.09395"
       },
       {
-        "title": "ARC-Bench: Closed-Loop Replanning Masks Broken Action Ranking in Frozen JEPA World Models",
-        "url": "https://arxiv.org/abs/2609.05461"
+        "title": "Decision-Focused Active Learning for Scale-Aware Critical-Materials Recovery",
+        "url": "https://arxiv.org/abs/2609.09413"
       },
       {
-        "title": "RAPID: Reliability-Aware Pair Importance Distillation",
-        "url": "https://arxiv.org/abs/2609.05481"
+        "title": "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration",
+        "url": "https://arxiv.org/abs/2609.09418"
       },
       {
-        "title": "PGP-Clinical-TimeKAN: Prior-Guided Joint Probabilistic Forecasting of Clinical Trajectories",
-        "url": "https://arxiv.org/abs/2609.05488"
+        "title": "XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?",
+        "url": "https://arxiv.org/abs/2609.09428"
       },
       {
-        "title": "SciLitBench: Benchmark and Design Principles for LLM-Powered Systematic Literature Reviews",
-        "url": "https://arxiv.org/abs/2609.05505"
+        "title": "Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations",
+        "url": "https://arxiv.org/abs/2609.09448"
       }
     ]
   },
