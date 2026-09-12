@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "A normal Friday in 2042",
-        "url": "https://www.lesswrong.com/posts/u6hFByFwDLxtnbvje/a-normal-friday-in-2042"
+        "title": "No sign of backtracking in latent reasoning: the final answer simply settles in instead",
+        "url": "https://www.lesswrong.com/posts/QxvwPhnvJ5evGT8Hw/no-sign-of-backtracking-in-latent-reasoning-the-final-answer"
       },
       {
-        "title": "My recommended resources for AI safety, alignment, and existential risks",
-        "url": "https://www.lesswrong.com/posts/tdz83zCBxumTajzfZ/my-recommended-resources-for-ai-safety-alignment-and"
+        "title": "Presentation: Investigating the WikiSwarm",
+        "url": "https://www.lesswrong.com/posts/hChpKfFAr7r7KvdTi/presentation-investigating-the-wikiswarm"
       },
       {
-        "title": "Appendix: Reproduction of the OpenAI-HuggingFace Incident",
-        "url": "https://www.lesswrong.com/posts/mXPCpJCvFGybQ4mwc/appendix-reproduction-of-the-openai-huggingface-incident"
+        "title": "GPT-6-Astra Can Do Ambitious Things",
+        "url": "https://www.lesswrong.com/posts/snaKjCwazKcRiS4qs/gpt-6-astra-can-do-ambitious-things"
       },
       {
-        "title": "Consider positive feedback loops",
-        "url": "https://www.lesswrong.com/posts/gB2rncEJctRW8aJLs/consider-positive-feedback-loops"
+        "title": "\"Pacing the Frontier\": Dario Amodei Essay Linkpost",
+        "url": "https://www.lesswrong.com/posts/GFhT9Xr4YEsiLkTLr/pacing-the-frontier-dario-amodei-essay-linkpost"
       },
       {
-        "title": "Alignment Hierarchy",
-        "url": "https://www.lesswrong.com/posts/L4A9Whm8cmDczavpb/alignment-hierarchy"
+        "title": "On the origins of altruistic behaviour in the Hugging Face incident",
+        "url": "https://www.lesswrong.com/posts/meLjz8giGS55rdfyg/on-the-origins-of-altruistic-behaviour-in-the-hugging-face"
       },
       {
-        "title": "What Happens Now? Forecasting the Fallout from the Hugging Face Incident",
-        "url": "https://www.lesswrong.com/posts/bwuQoB4Tb4K3MMgjY/what-happens-now-forecasting-the-fallout-from-the-hugging"
+        "title": "It's fair to say we now have \"a country of geniuses in a datacenter\"",
+        "url": "https://www.lesswrong.com/posts/ZGme2YKjjAdBPtxsp/it-s-fair-to-say-we-now-have-a-country-of-geniuses-in-a"
       },
       {
-        "title": "Astra's no-CoT limits track speculative depth, not step count",
-        "url": "https://www.lesswrong.com/posts/WFc3NkuPaYFrYuaZd/astra-s-no-cot-limits-track-speculative-depth-not-step-count"
+        "title": "AI takeover is obviously bad, whether or not everyone dies",
+        "url": "https://www.lesswrong.com/posts/iovPC2ehqDCiNsZYJ/ai-takeover-is-obviously-bad-whether-or-not-everyone-dies"
       },
       {
-        "title": "Organizing a Fermi modeling 'hack' on the cost of cultured meat; hiring a co-coordinator",
-        "url": "https://www.lesswrong.com/posts/9CfnoFh2wv7Hjwdkg/organizing-a-fermi-modeling-hack-on-the-cost-of-cultured"
+        "title": "Scientific Epistemology needs history (Part 1 of 2)",
+        "url": "https://www.lesswrong.com/posts/2BByBCpzaChsGuPhg/scientific-epistemology-needs-history-part-1-of-2"
       },
       {
-        "title": "Caroline Ellison has joined Manifund",
-        "url": "https://www.lesswrong.com/posts/W3zn5jQa8fhmiBsPG/caroline-ellison-has-joined-manifund"
+        "title": "Comprehensive FAQ on AI risks",
+        "url": "https://www.lesswrong.com/posts/W4kkGaKMx9owiXHKy/comprehensive-faq-on-ai-risks"
       },
       {
-        "title": "CoT controllability evals seem very under-elicited",
-        "url": "https://www.lesswrong.com/posts/BbP2wCyDGdPWJ7PwP/cot-controllability-evals-seem-very-under-elicited"
+        "title": "Mitigating Reward Hacking as Institutional Design",
+        "url": "https://www.lesswrong.com/posts/tgcooi77NXMquCR5L/mitigating-reward-hacking-as-institutional-design"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
-        "url": "https://arxiv.org/abs/2609.09203"
+        "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+        "url": "https://arxiv.org/abs/2609.10584"
       },
       {
-        "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
-        "url": "https://arxiv.org/abs/2609.09226"
+        "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
+        "url": "https://arxiv.org/abs/2609.10629"
       },
       {
-        "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
-        "url": "https://arxiv.org/abs/2609.09233"
+        "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
+        "url": "https://arxiv.org/abs/2609.10654"
       },
       {
-        "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
-        "url": "https://arxiv.org/abs/2609.09306"
+        "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
+        "url": "https://arxiv.org/abs/2609.10656"
       },
       {
-        "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
-        "url": "https://arxiv.org/abs/2609.09374"
+        "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
+        "url": "https://arxiv.org/abs/2609.10657"
       },
       {
-        "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
-        "url": "https://arxiv.org/abs/2609.09395"
+        "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+        "url": "https://arxiv.org/abs/2609.10712"
       },
       {
-        "title": "Decision-Focused Active Learning for Scale-Aware Critical-Materials Recovery",
-        "url": "https://arxiv.org/abs/2609.09413"
+        "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
+        "url": "https://arxiv.org/abs/2609.10724"
       },
       {
-        "title": "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration",
-        "url": "https://arxiv.org/abs/2609.09418"
+        "title": "Towards a Deterministic Math Solver for Clinical Language Models",
+        "url": "https://arxiv.org/abs/2609.10728"
       },
       {
-        "title": "XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?",
-        "url": "https://arxiv.org/abs/2609.09428"
+        "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
+        "url": "https://arxiv.org/abs/2609.10824"
       },
       {
-        "title": "Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations",
-        "url": "https://arxiv.org/abs/2609.09448"
+        "title": "When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents",
+        "url": "https://arxiv.org/abs/2609.10873"
       }
     ]
   },
