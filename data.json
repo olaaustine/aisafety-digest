@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "No sign of backtracking in latent reasoning: the final answer simply settles in instead",
-        "url": "https://www.lesswrong.com/posts/QxvwPhnvJ5evGT8Hw/no-sign-of-backtracking-in-latent-reasoning-the-final-answer"
+        "title": "My Short Summary of the OpenAI Agent Swarm Incidents",
+        "url": "https://www.lesswrong.com/posts/9it8pQRTz3orkZDty/my-short-summary-of-the-openai-agent-swarm-incidents"
       },
       {
-        "title": "Presentation: Investigating the WikiSwarm",
-        "url": "https://www.lesswrong.com/posts/hChpKfFAr7r7KvdTi/presentation-investigating-the-wikiswarm"
+        "title": "Alignment & Succession: The Two Bars of Alignment",
+        "url": "https://www.lesswrong.com/posts/7dkasKLC7abXhn9JZ/alignment-and-succession-the-two-bars-of-alignment"
       },
       {
-        "title": "GPT-6-Astra Can Do Ambitious Things",
-        "url": "https://www.lesswrong.com/posts/snaKjCwazKcRiS4qs/gpt-6-astra-can-do-ambitious-things"
+        "title": "Consider how your global governance proposal is different from the EU Code of Practice",
+        "url": "https://www.lesswrong.com/posts/2vHsTtQF23TBNhvKX/consider-how-your-global-governance-proposal-is-different"
       },
       {
-        "title": "\"Pacing the Frontier\": Dario Amodei Essay Linkpost",
-        "url": "https://www.lesswrong.com/posts/GFhT9Xr4YEsiLkTLr/pacing-the-frontier-dario-amodei-essay-linkpost"
+        "title": "Brand New AI Solves a Millennium Prize",
+        "url": "https://www.lesswrong.com/posts/uoZW6BKaCcmNQrWis/brand-new-ai-solves-a-millennium-prize"
       },
       {
-        "title": "On the origins of altruistic behaviour in the Hugging Face incident",
-        "url": "https://www.lesswrong.com/posts/meLjz8giGS55rdfyg/on-the-origins-of-altruistic-behaviour-in-the-hugging-face"
+        "title": "Teleoperated Humans",
+        "url": "https://www.lesswrong.com/posts/mWQSiHG3Qz9qYx3D7/teleoperated-humans"
       },
       {
-        "title": "It's fair to say we now have \"a country of geniuses in a datacenter\"",
-        "url": "https://www.lesswrong.com/posts/ZGme2YKjjAdBPtxsp/it-s-fair-to-say-we-now-have-a-country-of-geniuses-in-a"
+        "title": "A helpful alignment gadget",
+        "url": "https://www.lesswrong.com/posts/DijcCYaTHFmwjDFGd/a-helpful-alignment-gadget"
       },
       {
-        "title": "AI takeover is obviously bad, whether or not everyone dies",
-        "url": "https://www.lesswrong.com/posts/iovPC2ehqDCiNsZYJ/ai-takeover-is-obviously-bad-whether-or-not-everyone-dies"
+        "title": "Anthropic and OpenAI haven\u2019t published a plan for aligning superintelligence",
+        "url": "https://www.lesswrong.com/posts/QrrEtYpwiHpes3rHd/anthropic-and-openai-haven-t-published-a-plan-for-aligning"
       },
       {
-        "title": "Scientific Epistemology needs history (Part 1 of 2)",
-        "url": "https://www.lesswrong.com/posts/2BByBCpzaChsGuPhg/scientific-epistemology-needs-history-part-1-of-2"
+        "title": "Legal Maximums on Context Windows",
+        "url": "https://www.lesswrong.com/posts/sA29XuisTmeiFohtD/legal-maximums-on-context-windows"
       },
       {
-        "title": "Comprehensive FAQ on AI risks",
-        "url": "https://www.lesswrong.com/posts/W4kkGaKMx9owiXHKy/comprehensive-faq-on-ai-risks"
+        "title": "We need a \u2018The Day After\u2019 moment for AI X-risk",
+        "url": "https://www.lesswrong.com/posts/wTA8eYK8isetdiLyi/we-need-a-the-day-after-moment-for-ai-x-risk"
       },
       {
-        "title": "Mitigating Reward Hacking as Institutional Design",
-        "url": "https://www.lesswrong.com/posts/tgcooi77NXMquCR5L/mitigating-reward-hacking-as-institutional-design"
+        "title": "The Talker Does Not Control The Doer (in Current AIs)",
+        "url": "https://www.lesswrong.com/posts/cJX2ssssGoYqnijwi/the-talker-does-not-control-the-doer-in-current-ais"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
-        "url": "https://arxiv.org/abs/2609.10584"
-      },
-      {
-        "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
-        "url": "https://arxiv.org/abs/2609.10629"
-      },
-      {
-        "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
-        "url": "https://arxiv.org/abs/2609.10654"
-      },
-      {
-        "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
-        "url": "https://arxiv.org/abs/2609.10656"
-      },
-      {
-        "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
-        "url": "https://arxiv.org/abs/2609.10657"
-      },
-      {
-        "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
-        "url": "https://arxiv.org/abs/2609.10712"
-      },
-      {
-        "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
-        "url": "https://arxiv.org/abs/2609.10724"
-      },
-      {
-        "title": "Towards a Deterministic Math Solver for Clinical Language Models",
-        "url": "https://arxiv.org/abs/2609.10728"
-      },
-      {
-        "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
-        "url": "https://arxiv.org/abs/2609.10824"
-      },
-      {
-        "title": "When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents",
-        "url": "https://arxiv.org/abs/2609.10873"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
