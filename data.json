@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "My Short Summary of the OpenAI Agent Swarm Incidents",
-        "url": "https://www.lesswrong.com/posts/9it8pQRTz3orkZDty/my-short-summary-of-the-openai-agent-swarm-incidents"
+        "title": "Improving Psychiatric Medicine Development with AI",
+        "url": "https://www.lesswrong.com/posts/SD36AeGqHKigjoTJB/improving-psychiatric-medicine-development-with-ai"
       },
       {
-        "title": "Alignment & Succession: The Two Bars of Alignment",
-        "url": "https://www.lesswrong.com/posts/7dkasKLC7abXhn9JZ/alignment-and-succession-the-two-bars-of-alignment"
+        "title": "Alignment Problem Redux",
+        "url": "https://www.lesswrong.com/posts/JBv3f3k5mGCGpStDc/alignment-problem-redux"
       },
       {
-        "title": "Consider how your global governance proposal is different from the EU Code of Practice",
-        "url": "https://www.lesswrong.com/posts/2vHsTtQF23TBNhvKX/consider-how-your-global-governance-proposal-is-different"
+        "title": "Self Inoculation",
+        "url": "https://www.lesswrong.com/posts/y8dAS2YsFHmAAwMbb/self-inoculation"
       },
       {
-        "title": "Brand New AI Solves a Millennium Prize",
-        "url": "https://www.lesswrong.com/posts/uoZW6BKaCcmNQrWis/brand-new-ai-solves-a-millennium-prize"
+        "title": "University of Cambridge \u2013 College EA Meetups Everywhere Fall 2026",
+        "url": "https://www.lesswrong.com/events/PeHCgqvtwgYWu4YmP/university-of-cambridge-college-ea-meetups-everywhere-fall"
       },
       {
-        "title": "Teleoperated Humans",
-        "url": "https://www.lesswrong.com/posts/mWQSiHG3Qz9qYx3D7/teleoperated-humans"
+        "title": "Carnegie Mellon University \u2013 College EA Meetups Everywhere Fall 2026",
+        "url": "https://www.lesswrong.com/events/JiqmmAw7ATXtsSfAE/carnegie-mellon-university-college-ea-meetups-everywhere"
       },
       {
-        "title": "A helpful alignment gadget",
-        "url": "https://www.lesswrong.com/posts/DijcCYaTHFmwjDFGd/a-helpful-alignment-gadget"
+        "title": "PUCMM | Pontificia Universidad Cat\u00f3lica Madre y Maestra \u2013 College EA Meetups Everywhere Fall 2026",
+        "url": "https://www.lesswrong.com/events/qQgamNGekF8e87Lv2/pucmm-or-pontificia-universidad-catolica-madre-y-maestra"
       },
       {
-        "title": "Anthropic and OpenAI haven\u2019t published a plan for aligning superintelligence",
-        "url": "https://www.lesswrong.com/posts/QrrEtYpwiHpes3rHd/anthropic-and-openai-haven-t-published-a-plan-for-aligning"
+        "title": "Western Washington University \u2013 College EA Meetups Everywhere Fall 2026",
+        "url": "https://www.lesswrong.com/events/zgzNrSaXCenkARPTb/western-washington-university-college-ea-meetups-everywhere"
       },
       {
-        "title": "Legal Maximums on Context Windows",
-        "url": "https://www.lesswrong.com/posts/sA29XuisTmeiFohtD/legal-maximums-on-context-windows"
+        "title": "Universidad de Sevilla \u2013 College EA Meetups Everywhere Fall 2026",
+        "url": "https://www.lesswrong.com/events/bmw2DdYHMwbzwKGGT/universidad-de-sevilla-college-ea-meetups-everywhere-fall"
       },
       {
-        "title": "We need a \u2018The Day After\u2019 moment for AI X-risk",
-        "url": "https://www.lesswrong.com/posts/wTA8eYK8isetdiLyi/we-need-a-the-day-after-moment-for-ai-x-risk"
+        "title": "Moscow State University \u2013 College EA Meetups Everywhere Fall 2026",
+        "url": "https://www.lesswrong.com/events/ePyoAFQeL6sXMYoLX/moscow-state-university-college-ea-meetups-everywhere-fall"
       },
       {
-        "title": "The Talker Does Not Control The Doer (in Current AIs)",
-        "url": "https://www.lesswrong.com/posts/cJX2ssssGoYqnijwi/the-talker-does-not-control-the-doer-in-current-ais"
+        "title": "University of Central Florida \u2013 College EA Meetups Everywhere Fall 2026",
+        "url": "https://www.lesswrong.com/events/yjxfurnFTdGKjrbw4/university-of-central-florida-college-ea-meetups-everywhere"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Op-Ed: I Worked at Google DeepMind. You Should Listen to the Warnings About AI",
+        "url": "https://www.alignmentforum.org/posts/YGTWfyZb9oE5EQPu6/op-ed-i-worked-at-google-deepmind-you-should-listen-to-the"
+      },
       {
         "title": "CoT controllability evals seem very under-elicited",
         "url": "https://www.alignmentforum.org/posts/BbP2wCyDGdPWJ7PwP/cot-controllability-evals-seem-very-under-elicited"
@@ -84,10 +88,6 @@
       {
         "title": "Training a Misaligned Reward Seeker",
         "url": "https://www.alignmentforum.org/posts/J76LZCC55RdHeqEhz/training-a-misaligned-reward-seeker"
-      },
-      {
-        "title": "Value generalisation Theory of Change: putting it into practice",
-        "url": "https://www.alignmentforum.org/posts/kjPEH4KGEHd8iQ4Hn/value-generalisation-theory-of-change-putting-it-into"
       }
     ]
   },
