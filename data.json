@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Improving Psychiatric Medicine Development with AI",
-        "url": "https://www.lesswrong.com/posts/SD36AeGqHKigjoTJB/improving-psychiatric-medicine-development-with-ai"
+        "title": "Inoculation Midtraining with Learned Neologisms",
+        "url": "https://www.lesswrong.com/posts/o4Jmyn25TWm8jRAy8/inoculation-midtraining-with-learned-neologisms"
       },
       {
-        "title": "Alignment Problem Redux",
-        "url": "https://www.lesswrong.com/posts/JBv3f3k5mGCGpStDc/alignment-problem-redux"
+        "title": "Quick notes from teaching technical profiles how to talk in public",
+        "url": "https://www.lesswrong.com/posts/nKsyMfNsAuTrxmjmi/quick-notes-from-teaching-technical-profiles-how-to-talk-in"
       },
       {
-        "title": "Self Inoculation",
-        "url": "https://www.lesswrong.com/posts/y8dAS2YsFHmAAwMbb/self-inoculation"
+        "title": "Shallow Beliefs: Midtraining does not inoculate against EM from reward hacking",
+        "url": "https://www.lesswrong.com/posts/khxvR2fgAeDvG5N2F/shallow-beliefs-midtraining-does-not-inoculate-against-em"
       },
       {
-        "title": "University of Cambridge \u2013 College EA Meetups Everywhere Fall 2026",
-        "url": "https://www.lesswrong.com/events/PeHCgqvtwgYWu4YmP/university-of-cambridge-college-ea-meetups-everywhere-fall"
+        "title": "We Should Assume We Have One Chance At AI Legislation",
+        "url": "https://www.lesswrong.com/posts/dbD8MKa3oKhZD4XCu/we-should-assume-we-have-one-chance-at-ai-legislation"
       },
       {
-        "title": "Carnegie Mellon University \u2013 College EA Meetups Everywhere Fall 2026",
-        "url": "https://www.lesswrong.com/events/JiqmmAw7ATXtsSfAE/carnegie-mellon-university-college-ea-meetups-everywhere"
+        "title": "Why I'm doing the Susan Calvin Project",
+        "url": "https://www.lesswrong.com/posts/mBmHFBQn6KECewGsn/why-i-m-doing-the-susan-calvin-project"
       },
       {
-        "title": "PUCMM | Pontificia Universidad Cat\u00f3lica Madre y Maestra \u2013 College EA Meetups Everywhere Fall 2026",
-        "url": "https://www.lesswrong.com/events/qQgamNGekF8e87Lv2/pucmm-or-pontificia-universidad-catolica-madre-y-maestra"
+        "title": "Any AI pause will have defectors. How to ensure their incarceration actually prevents them from covertly contributing to AI research from behind bars?",
+        "url": "https://www.lesswrong.com/posts/TJcbuXzs7bhccAofY/any-ai-pause-will-have-defectors-how-to-ensure-their"
       },
       {
-        "title": "Western Washington University \u2013 College EA Meetups Everywhere Fall 2026",
-        "url": "https://www.lesswrong.com/events/zgzNrSaXCenkARPTb/western-washington-university-college-ea-meetups-everywhere"
+        "title": "You Don\u2019t Have to Trust the AI Labs (in order to take their call for regulation seriously)",
+        "url": "https://www.lesswrong.com/posts/ombnX49ccCj3Ax3Hw/you-don-t-have-to-trust-the-ai-labs-in-order-to-take-their"
       },
       {
-        "title": "Universidad de Sevilla \u2013 College EA Meetups Everywhere Fall 2026",
-        "url": "https://www.lesswrong.com/events/bmw2DdYHMwbzwKGGT/universidad-de-sevilla-college-ea-meetups-everywhere-fall"
+        "title": "Cooperation with AIs seems to be a low-hanging fruit for better eval practices",
+        "url": "https://www.lesswrong.com/posts/fztW73KCCs3MZXFJh/cooperation-with-ais-seems-to-be-a-low-hanging-fruit-for"
       },
       {
-        "title": "Moscow State University \u2013 College EA Meetups Everywhere Fall 2026",
-        "url": "https://www.lesswrong.com/events/ePyoAFQeL6sXMYoLX/moscow-state-university-college-ea-meetups-everywhere-fall"
+        "title": "Alignment & Succession: Morality Lives in the Human Individual",
+        "url": "https://www.lesswrong.com/posts/cGFBX3CokqXpzcFbj/alignment-and-succession-morality-lives-in-the-human"
       },
       {
-        "title": "University of Central Florida \u2013 College EA Meetups Everywhere Fall 2026",
-        "url": "https://www.lesswrong.com/events/yjxfurnFTdGKjrbw4/university-of-central-florida-college-ea-meetups-everywhere"
+        "title": "Why Focus on Extinction?",
+        "url": "https://www.lesswrong.com/posts/JrmLzrCqtpXSvjeDj/why-focus-on-extinction"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Shallow Beliefs: Midtraining does not inoculate against EM from reward hacking",
+        "url": "https://www.alignmentforum.org/posts/khxvR2fgAeDvG5N2F/shallow-beliefs-midtraining-does-not-inoculate-against-em"
+      },
       {
         "title": "Op-Ed: I Worked at Google DeepMind. You Should Listen to the Warnings About AI",
         "url": "https://www.alignmentforum.org/posts/YGTWfyZb9oE5EQPu6/op-ed-i-worked-at-google-deepmind-you-should-listen-to-the"
@@ -84,10 +88,6 @@
       {
         "title": "The Alignment Journal: Organization, Personnel, and Scope",
         "url": "https://www.alignmentforum.org/posts/9vm2wtAtb34pEkjje/the-alignment-journal-organization-personnel-and-scope"
-      },
-      {
-        "title": "Training a Misaligned Reward Seeker",
-        "url": "https://www.alignmentforum.org/posts/J76LZCC55RdHeqEhz/training-a-misaligned-reward-seeker"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+        "url": "https://arxiv.org/abs/2609.13356"
+      },
+      {
+        "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
+        "url": "https://arxiv.org/abs/2609.13396"
+      },
+      {
+        "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
+        "url": "https://arxiv.org/abs/2609.13406"
+      },
+      {
+        "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
+        "url": "https://arxiv.org/abs/2609.13422"
+      },
+      {
+        "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+        "url": "https://arxiv.org/abs/2609.13436"
+      },
+      {
+        "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents",
+        "url": "https://arxiv.org/abs/2609.13437"
+      },
+      {
+        "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
+        "url": "https://arxiv.org/abs/2609.13457"
+      },
+      {
+        "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
+        "url": "https://arxiv.org/abs/2609.13463"
+      },
+      {
+        "title": "Governing at Machine Speed: An Adaptive Intelligence Architecture for Real-Time AI Policy Enforcement",
+        "url": "https://arxiv.org/abs/2609.13466"
+      },
+      {
+        "title": "OrchSLM: Probing the Dynamics of Small Language Model Orchestration",
+        "url": "https://arxiv.org/abs/2609.13470"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
