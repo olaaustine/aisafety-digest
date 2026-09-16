@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Inoculation Midtraining with Learned Neologisms",
-        "url": "https://www.lesswrong.com/posts/o4Jmyn25TWm8jRAy8/inoculation-midtraining-with-learned-neologisms"
+        "title": "Reducing the Resource Gap Between Lab and External Safety Researchers",
+        "url": "https://www.lesswrong.com/posts/aCGx79eGafwDcXEgf/reducing-the-resource-gap-between-lab-and-external-safety"
       },
       {
-        "title": "Quick notes from teaching technical profiles how to talk in public",
-        "url": "https://www.lesswrong.com/posts/nKsyMfNsAuTrxmjmi/quick-notes-from-teaching-technical-profiles-how-to-talk-in"
+        "title": "Thought anchors don't transfer between models",
+        "url": "https://www.lesswrong.com/posts/EmcEPCFSKKMtCBBkw/thought-anchors-don-t-transfer-between-models"
       },
       {
-        "title": "Shallow Beliefs: Midtraining does not inoculate against EM from reward hacking",
-        "url": "https://www.lesswrong.com/posts/khxvR2fgAeDvG5N2F/shallow-beliefs-midtraining-does-not-inoculate-against-em"
+        "title": "Why is AI so unregulated?",
+        "url": "https://www.lesswrong.com/posts/NGdFdLRe3DHAanu3o/why-is-ai-so-unregulated"
       },
       {
-        "title": "We Should Assume We Have One Chance At AI Legislation",
-        "url": "https://www.lesswrong.com/posts/dbD8MKa3oKhZD4XCu/we-should-assume-we-have-one-chance-at-ai-legislation"
+        "title": "The Most Important City in AI Safety May Be Singapore",
+        "url": "https://www.lesswrong.com/posts/pjxAPdDtGKLgeaDZE/the-most-important-city-in-ai-safety-may-be-singapore"
       },
       {
-        "title": "Why I'm doing the Susan Calvin Project",
-        "url": "https://www.lesswrong.com/posts/mBmHFBQn6KECewGsn/why-i-m-doing-the-susan-calvin-project"
+        "title": "Launching RESI, the Institute for Responsible Superintelligence",
+        "url": "https://www.lesswrong.com/posts/BZHEczCfkD7ntC76t/launching-resi-the-institute-for-responsible"
       },
       {
-        "title": "Any AI pause will have defectors. How to ensure their incarceration actually prevents them from covertly contributing to AI research from behind bars?",
-        "url": "https://www.lesswrong.com/posts/TJcbuXzs7bhccAofY/any-ai-pause-will-have-defectors-how-to-ensure-their"
+        "title": "What the Huggingface Incident tells us about multi-agent interactions?",
+        "url": "https://www.lesswrong.com/posts/JKHCSA9TFHmjmWJE8/what-the-huggingface-incident-tells-us-about-multi-agent"
       },
       {
-        "title": "You Don\u2019t Have to Trust the AI Labs (in order to take their call for regulation seriously)",
-        "url": "https://www.lesswrong.com/posts/ombnX49ccCj3Ax3Hw/you-don-t-have-to-trust-the-ai-labs-in-order-to-take-their"
+        "title": "Always ask your agent to be honest",
+        "url": "https://www.lesswrong.com/posts/iPAqm9BmmFvTK6mDy/always-ask-your-agent-to-be-honest"
       },
       {
-        "title": "Cooperation with AIs seems to be a low-hanging fruit for better eval practices",
-        "url": "https://www.lesswrong.com/posts/fztW73KCCs3MZXFJh/cooperation-with-ais-seems-to-be-a-low-hanging-fruit-for"
+        "title": "Obstacles to the scalable oversight of auto-alignment research",
+        "url": "https://www.lesswrong.com/posts/PBGKWNrJAbpDgSsPo/obstacles-to-the-scalable-oversight-of-auto-alignment"
       },
       {
-        "title": "Alignment & Succession: Morality Lives in the Human Individual",
-        "url": "https://www.lesswrong.com/posts/cGFBX3CokqXpzcFbj/alignment-and-succession-morality-lives-in-the-human"
+        "title": "Finding heterogeneous agent swarms in the wild",
+        "url": "https://www.lesswrong.com/posts/pK9HxvPuCNS8gQnBn/finding-heterogeneous-agent-swarms-in-the-wild"
       },
       {
-        "title": "Why Focus on Extinction?",
-        "url": "https://www.lesswrong.com/posts/JrmLzrCqtpXSvjeDj/why-focus-on-extinction"
+        "title": "If Anyone Builds It, Everyone Dies: One Year Closer",
+        "url": "https://www.lesswrong.com/posts/BFrRJYgpBvziuuJLs/if-anyone-builds-it-everyone-dies-one-year-closer"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
-        "url": "https://arxiv.org/abs/2609.13356"
+        "title": "Optimal Pruning for Neural Architectures using Fisher Information Distances",
+        "url": "https://arxiv.org/abs/2609.16129"
       },
       {
-        "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
-        "url": "https://arxiv.org/abs/2609.13396"
+        "title": "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation",
+        "url": "https://arxiv.org/abs/2609.16145"
       },
       {
-        "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
-        "url": "https://arxiv.org/abs/2609.13406"
+        "title": "GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events",
+        "url": "https://arxiv.org/abs/2609.16163"
       },
       {
-        "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
-        "url": "https://arxiv.org/abs/2609.13422"
+        "title": "Position: AI Is Not Ready for Strategic Conflicts",
+        "url": "https://arxiv.org/abs/2609.16189"
       },
       {
-        "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
-        "url": "https://arxiv.org/abs/2609.13436"
+        "title": "Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving",
+        "url": "https://arxiv.org/abs/2609.16206"
       },
       {
-        "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents",
-        "url": "https://arxiv.org/abs/2609.13437"
+        "title": "Artificial intelligence and biosecurity: capabilities, threat pathways, and defense-in-depth governance",
+        "url": "https://arxiv.org/abs/2609.16213"
       },
       {
-        "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
-        "url": "https://arxiv.org/abs/2609.13457"
+        "title": "Where Should the KV Cache Live? Placement Policies Across GPU, CPU, and SSD for Long-Lived Sessions",
+        "url": "https://arxiv.org/abs/2609.16215"
       },
       {
-        "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
-        "url": "https://arxiv.org/abs/2609.13463"
+        "title": "Toward Governance-Aware Autonomous GIS: A Narrative Review of Ethical and Privacy Risks in LLM-Enabled GeoAI",
+        "url": "https://arxiv.org/abs/2609.16232"
       },
       {
-        "title": "Governing at Machine Speed: An Adaptive Intelligence Architecture for Real-Time AI Policy Enforcement",
-        "url": "https://arxiv.org/abs/2609.13466"
+        "title": "Metacognitive Steering: Learning the Structure of Scientific Judgment",
+        "url": "https://arxiv.org/abs/2609.16245"
       },
       {
-        "title": "OrchSLM: Probing the Dynamics of Small Language Model Orchestration",
-        "url": "https://arxiv.org/abs/2609.13470"
+        "title": "The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It",
+        "url": "https://arxiv.org/abs/2609.16247"
       }
     ]
   },
