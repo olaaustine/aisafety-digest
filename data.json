@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Reducing the Resource Gap Between Lab and External Safety Researchers",
-        "url": "https://www.lesswrong.com/posts/aCGx79eGafwDcXEgf/reducing-the-resource-gap-between-lab-and-external-safety"
+        "title": "If METR is overworked, how to alleviate the bottleneck?",
+        "url": "https://www.lesswrong.com/posts/yjXJEhwjaNGeXtHLA/if-metr-is-overworked-how-to-alleviate-the-bottleneck"
       },
       {
-        "title": "Thought anchors don't transfer between models",
-        "url": "https://www.lesswrong.com/posts/EmcEPCFSKKMtCBBkw/thought-anchors-don-t-transfer-between-models"
+        "title": "AI can kill us without human extinction: P(Catastrophe)",
+        "url": "https://www.lesswrong.com/posts/msYMxygfoEPaPQ75B/ai-can-kill-us-without-human-extinction-p-catastrophe"
       },
       {
-        "title": "Why is AI so unregulated?",
-        "url": "https://www.lesswrong.com/posts/NGdFdLRe3DHAanu3o/why-is-ai-so-unregulated"
+        "title": "Grantmakers aren\u2019t afraid to die",
+        "url": "https://www.lesswrong.com/posts/2o8B9hDN94k4Qine6/grantmakers-aren-t-afraid-to-die"
       },
       {
-        "title": "The Most Important City in AI Safety May Be Singapore",
-        "url": "https://www.lesswrong.com/posts/pjxAPdDtGKLgeaDZE/the-most-important-city-in-ai-safety-may-be-singapore"
+        "title": "Against AI Risk becoming mainstream",
+        "url": "https://www.lesswrong.com/posts/xwve4QEAewf6AwY7R/against-ai-risk-becoming-mainstream"
       },
       {
-        "title": "Launching RESI, the Institute for Responsible Superintelligence",
-        "url": "https://www.lesswrong.com/posts/BZHEczCfkD7ntC76t/launching-resi-the-institute-for-responsible"
+        "title": "YCombinator companies still aren\u2019t growing faster due to AI",
+        "url": "https://www.lesswrong.com/posts/EYTJCxzTXLseWAkji/ycombinator-companies-still-aren-t-growing-faster-due-to-ai"
       },
       {
-        "title": "What the Huggingface Incident tells us about multi-agent interactions?",
-        "url": "https://www.lesswrong.com/posts/JKHCSA9TFHmjmWJE8/what-the-huggingface-incident-tells-us-about-multi-agent"
+        "title": "The J-lens offset is the model's token frequency: z-scoring helps",
+        "url": "https://www.lesswrong.com/posts/Qe3jdphWCg9kny3e5/the-j-lens-offset-is-the-model-s-token-frequency-z-scoring"
       },
       {
-        "title": "Always ask your agent to be honest",
-        "url": "https://www.lesswrong.com/posts/iPAqm9BmmFvTK6mDy/always-ask-your-agent-to-be-honest"
+        "title": "A Defense of Gradual Disempowerment",
+        "url": "https://www.lesswrong.com/posts/jXBmrEQj7zKGgiaYh/a-defense-of-gradual-disempowerment"
       },
       {
-        "title": "Obstacles to the scalable oversight of auto-alignment research",
-        "url": "https://www.lesswrong.com/posts/PBGKWNrJAbpDgSsPo/obstacles-to-the-scalable-oversight-of-auto-alignment"
+        "title": "Swarm Organization as the Exponent on Test-Time Compute",
+        "url": "https://www.lesswrong.com/posts/EnpJ29asosMKcFGL8/swarm-organization-as-the-exponent-on-test-time-compute"
       },
       {
-        "title": "Finding heterogeneous agent swarms in the wild",
-        "url": "https://www.lesswrong.com/posts/pK9HxvPuCNS8gQnBn/finding-heterogeneous-agent-swarms-in-the-wild"
+        "title": "\"Regulatory capture\" may be winning the Overton Window",
+        "url": "https://www.lesswrong.com/posts/SHPtmfRpv8JitTSs8/regulatory-capture-may-be-winning-the-overton-window"
       },
       {
-        "title": "If Anyone Builds It, Everyone Dies: One Year Closer",
-        "url": "https://www.lesswrong.com/posts/BFrRJYgpBvziuuJLs/if-anyone-builds-it-everyone-dies-one-year-closer"
+        "title": "Good and bad ways to evaluate a definition",
+        "url": "https://www.lesswrong.com/posts/zqgfneJEw9zRLcDLd/good-and-bad-ways-to-evaluate-a-definition"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "A Defense of Gradual Disempowerment",
+        "url": "https://www.alignmentforum.org/posts/jXBmrEQj7zKGgiaYh/a-defense-of-gradual-disempowerment"
+      },
       {
         "title": "Shallow Beliefs: Midtraining does not inoculate against EM from reward hacking",
         "url": "https://www.alignmentforum.org/posts/khxvR2fgAeDvG5N2F/shallow-beliefs-midtraining-does-not-inoculate-against-em"
@@ -78,16 +82,12 @@
         "url": "https://www.alignmentforum.org/posts/wt4kk6vFPEhkXvF8Q/how-good-are-slop-vestigators"
       },
       {
-        "title": "Training on probes: Research ideas",
-        "url": "https://www.alignmentforum.org/posts/HGfMBEFnsXYkKvbRo/training-on-probes-research-ideas"
+        "title": "A Conceptual Framework for Reasoning about Exploration Hacking",
+        "url": "https://www.alignmentforum.org/posts/am5w2t9LzJB4sRhKw/a-conceptual-framework-for-reasoning-about-exploration"
       },
       {
-        "title": "Training on probes: What's going on",
-        "url": "https://www.alignmentforum.org/posts/gHFCgrvfxQtaEnJye/training-on-probes-what-s-going-on"
-      },
-      {
-        "title": "The Alignment Journal: Organization, Personnel, and Scope",
-        "url": "https://www.alignmentforum.org/posts/9vm2wtAtb34pEkjje/the-alignment-journal-organization-personnel-and-scope"
+        "title": "Exploration Hacking in AI Debate: Initial Empirics and Generalisation Splitting",
+        "url": "https://www.alignmentforum.org/posts/xjwtNid2xjqSJWB7z/exploration-hacking-in-ai-debate-initial-empirics-and"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Optimal Pruning for Neural Architectures using Fisher Information Distances",
-        "url": "https://arxiv.org/abs/2609.16129"
+        "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
+        "url": "https://arxiv.org/abs/2609.17631"
       },
       {
-        "title": "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation",
-        "url": "https://arxiv.org/abs/2609.16145"
+        "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
+        "url": "https://arxiv.org/abs/2609.17632"
       },
       {
-        "title": "GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events",
-        "url": "https://arxiv.org/abs/2609.16163"
+        "title": "One Color Preprocessing Improves DSATUR",
+        "url": "https://arxiv.org/abs/2609.17633"
       },
       {
-        "title": "Position: AI Is Not Ready for Strategic Conflicts",
-        "url": "https://arxiv.org/abs/2609.16189"
+        "title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees",
+        "url": "https://arxiv.org/abs/2609.17635"
       },
       {
-        "title": "Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving",
-        "url": "https://arxiv.org/abs/2609.16206"
+        "title": "What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization",
+        "url": "https://arxiv.org/abs/2609.17637"
       },
       {
-        "title": "Artificial intelligence and biosecurity: capabilities, threat pathways, and defense-in-depth governance",
-        "url": "https://arxiv.org/abs/2609.16213"
+        "title": "CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video",
+        "url": "https://arxiv.org/abs/2609.17688"
       },
       {
-        "title": "Where Should the KV Cache Live? Placement Policies Across GPU, CPU, and SSD for Long-Lived Sessions",
-        "url": "https://arxiv.org/abs/2609.16215"
+        "title": "GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents",
+        "url": "https://arxiv.org/abs/2609.17695"
       },
       {
-        "title": "Toward Governance-Aware Autonomous GIS: A Narrative Review of Ethical and Privacy Risks in LLM-Enabled GeoAI",
-        "url": "https://arxiv.org/abs/2609.16232"
+        "title": "GVD: Governed Versioning and Deduplication for Document Repositories",
+        "url": "https://arxiv.org/abs/2609.17696"
       },
       {
-        "title": "Metacognitive Steering: Learning the Structure of Scientific Judgment",
-        "url": "https://arxiv.org/abs/2609.16245"
+        "title": "NeMo Data Designer: An Extensible Framework for Multimodal Synthetic Data Generation",
+        "url": "https://arxiv.org/abs/2609.17699"
       },
       {
-        "title": "The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It",
-        "url": "https://arxiv.org/abs/2609.16247"
+        "title": "A Systematic Evaluation of the COTQ Provincial Land Cover Product: Structural Consistency, Spectral Separability, and Relative Positioning Against ESA, ESRI, and Google Products",
+        "url": "https://arxiv.org/abs/2609.17731"
       }
     ]
   },
@@ -156,16 +156,16 @@
         "url": "https://www.anthropic.com/news/news/improving-alignment-security-efforts"
       },
       {
-        "title": "AnnouncementsAug 27, 2026Previewing the Model Hardware StandardWe\u2019re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
-        "url": "https://www.anthropic.com/news/news/model-hardware-standard-research-preview"
-      },
-      {
-        "title": "ProductJul 24, 2026Introducing Claude Opus 5Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
-        "url": "https://www.anthropic.com/news/news/claude-opus-5"
+        "title": "Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program",
+        "url": "https://www.anthropic.com/news/news/life-sciences-verification-program"
       },
       {
         "title": "Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers",
         "url": "https://www.anthropic.com/news/news/enterprise-frontier-safeguards"
+      },
+      {
+        "title": "Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard",
+        "url": "https://www.anthropic.com/news/news/model-hardware-standard-research-preview"
       },
       {
         "title": "Aug 27, 2026AnnouncementsExpanding our support for scientists",
