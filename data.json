@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "If METR is overworked, how to alleviate the bottleneck?",
-        "url": "https://www.lesswrong.com/posts/yjXJEhwjaNGeXtHLA/if-metr-is-overworked-how-to-alleviate-the-bottleneck"
+        "title": "You Should Apply to Inkhaven",
+        "url": "https://www.lesswrong.com/posts/CKkB9MqsBgAobFtPS/you-should-apply-to-inkhaven"
       },
       {
-        "title": "AI can kill us without human extinction: P(Catastrophe)",
-        "url": "https://www.lesswrong.com/posts/msYMxygfoEPaPQ75B/ai-can-kill-us-without-human-extinction-p-catastrophe"
+        "title": "Pretraining data, not verifiability, is why LLMs are especially good at math (and coding)",
+        "url": "https://www.lesswrong.com/posts/xvdngZAqFZfek7KGH/pretraining-data-not-verifiability-is-why-llms-are"
       },
       {
-        "title": "Grantmakers aren\u2019t afraid to die",
-        "url": "https://www.lesswrong.com/posts/2o8B9hDN94k4Qine6/grantmakers-aren-t-afraid-to-die"
+        "title": "[Paper] Stringological sequence prediction III",
+        "url": "https://www.lesswrong.com/posts/virawHQekJsozwotz/paper-stringological-sequence-prediction-iii"
       },
       {
-        "title": "Against AI Risk becoming mainstream",
-        "url": "https://www.lesswrong.com/posts/xwve4QEAewf6AwY7R/against-ai-risk-becoming-mainstream"
+        "title": "Stopgap Measures to Address Immediate AI Security Threats",
+        "url": "https://www.lesswrong.com/posts/LqBAxFdyAiybnPL8e/stopgap-measures-to-address-immediate-ai-security-threats"
       },
       {
-        "title": "YCombinator companies still aren\u2019t growing faster due to AI",
-        "url": "https://www.lesswrong.com/posts/EYTJCxzTXLseWAkji/ycombinator-companies-still-aren-t-growing-faster-due-to-ai"
+        "title": "Persuasion Undermining Control: Can AI Talk its Way Out of Human Control?",
+        "url": "https://www.lesswrong.com/posts/9tJZntDWXCwZRGk6k/persuasion-undermining-control-can-ai-talk-its-way-out-of"
       },
       {
-        "title": "The J-lens offset is the model's token frequency: z-scoring helps",
-        "url": "https://www.lesswrong.com/posts/Qe3jdphWCg9kny3e5/the-j-lens-offset-is-the-model-s-token-frequency-z-scoring"
+        "title": "The J-Space Debate, Agent Swarms, and Pacing Frontier AI - Digital Minds Newsletter #4",
+        "url": "https://www.lesswrong.com/posts/aXCm8pze46tErTyg4/the-j-space-debate-agent-swarms-and-pacing-frontier-ai"
       },
       {
-        "title": "A Defense of Gradual Disempowerment",
-        "url": "https://www.lesswrong.com/posts/jXBmrEQj7zKGgiaYh/a-defense-of-gradual-disempowerment"
+        "title": "A non-generative model as a trusted monitor for AI Control: Testing TypeSafe's Jev",
+        "url": "https://www.lesswrong.com/posts/d7pQicW8EhpPBDRqz/a-non-generative-model-as-a-trusted-monitor-for-ai-control"
       },
       {
-        "title": "Swarm Organization as the Exponent on Test-Time Compute",
-        "url": "https://www.lesswrong.com/posts/EnpJ29asosMKcFGL8/swarm-organization-as-the-exponent-on-test-time-compute"
+        "title": "My Reflections Towards the Path to Greatness",
+        "url": "https://www.lesswrong.com/posts/dzFuujaW6MLoyTLsc/my-reflections-towards-the-path-to-greatness"
       },
       {
-        "title": "\"Regulatory capture\" may be winning the Overton Window",
-        "url": "https://www.lesswrong.com/posts/SHPtmfRpv8JitTSs8/regulatory-capture-may-be-winning-the-overton-window"
+        "title": "The Preference Cascade Is Only Getting Started",
+        "url": "https://www.lesswrong.com/posts/sDiSqZmctQ78hsLcP/the-preference-cascade-is-only-getting-started"
       },
       {
-        "title": "Good and bad ways to evaluate a definition",
-        "url": "https://www.lesswrong.com/posts/zqgfneJEw9zRLcDLd/good-and-bad-ways-to-evaluate-a-definition"
+        "title": "Announcing Formal Verification at RESI (The Institute for Responsible Superintelligence)",
+        "url": "https://www.lesswrong.com/posts/NDBbatEejiAtTAr3z/announcing-formal-verification-at-resi-the-institute-for"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "[Paper] Stringological sequence prediction III",
+        "url": "https://www.alignmentforum.org/posts/virawHQekJsozwotz/paper-stringological-sequence-prediction-iii"
+      },
       {
         "title": "A Defense of Gradual Disempowerment",
         "url": "https://www.alignmentforum.org/posts/jXBmrEQj7zKGgiaYh/a-defense-of-gradual-disempowerment"
@@ -84,10 +88,6 @@
       {
         "title": "A Conceptual Framework for Reasoning about Exploration Hacking",
         "url": "https://www.alignmentforum.org/posts/am5w2t9LzJB4sRhKw/a-conceptual-framework-for-reasoning-about-exploration"
-      },
-      {
-        "title": "Exploration Hacking in AI Debate: Initial Empirics and Generalisation Splitting",
-        "url": "https://www.alignmentforum.org/posts/xjwtNid2xjqSJWB7z/exploration-hacking-in-ai-debate-initial-empirics-and"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
-        "url": "https://arxiv.org/abs/2609.17631"
+        "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+        "url": "https://arxiv.org/abs/2609.19170"
       },
       {
-        "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
-        "url": "https://arxiv.org/abs/2609.17632"
+        "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
+        "url": "https://arxiv.org/abs/2609.19180"
       },
       {
-        "title": "One Color Preprocessing Improves DSATUR",
-        "url": "https://arxiv.org/abs/2609.17633"
+        "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
+        "url": "https://arxiv.org/abs/2609.19182"
       },
       {
-        "title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees",
-        "url": "https://arxiv.org/abs/2609.17635"
+        "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
+        "url": "https://arxiv.org/abs/2609.19203"
       },
       {
-        "title": "What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization",
-        "url": "https://arxiv.org/abs/2609.17637"
+        "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
+        "url": "https://arxiv.org/abs/2609.19212"
       },
       {
-        "title": "CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video",
-        "url": "https://arxiv.org/abs/2609.17688"
+        "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
+        "url": "https://arxiv.org/abs/2609.19244"
       },
       {
-        "title": "GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents",
-        "url": "https://arxiv.org/abs/2609.17695"
+        "title": "Do AI Agents Understand Computer Architecture?",
+        "url": "https://arxiv.org/abs/2609.19387"
       },
       {
-        "title": "GVD: Governed Versioning and Deduplication for Document Repositories",
-        "url": "https://arxiv.org/abs/2609.17696"
+        "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
+        "url": "https://arxiv.org/abs/2609.19391"
       },
       {
-        "title": "NeMo Data Designer: An Extensible Framework for Multimodal Synthetic Data Generation",
-        "url": "https://arxiv.org/abs/2609.17699"
+        "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
+        "url": "https://arxiv.org/abs/2609.19425"
       },
       {
-        "title": "A Systematic Evaluation of the COTQ Provincial Land Cover Product: Structural Consistency, Spectral Separability, and Relative Positioning Against ESA, ESRI, and Google Products",
-        "url": "https://arxiv.org/abs/2609.17731"
+        "title": "The syntax and semantics of goals",
+        "url": "https://arxiv.org/abs/2609.19448"
       }
     ]
   },
@@ -154,6 +154,10 @@
       {
         "title": "AnnouncementsAug 31, 2026Improving our alignment and security effortsOn July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we\u2019re sharing some of the changes we\u2019ve made over the past month.",
         "url": "https://www.anthropic.com/news/news/improving-alignment-security-efforts"
+      },
+      {
+        "title": "Sep 18, 2026AnnouncementsPartnering with Accenture on embedded evaluation",
+        "url": "https://www.anthropic.com/news/news/accenture-embedded-evaluation"
       },
       {
         "title": "Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program",
@@ -186,10 +190,6 @@
       {
         "title": "Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
         "url": "https://www.anthropic.com/news/news/tino-cuellar"
-      },
-      {
-        "title": "Jul 30, 2026AnnouncementsInvestigating three real-world incidents in our cybersecurity evaluations",
-        "url": "https://www.anthropic.com/news/news/investigating-incidents-cybersecurity-evals"
       }
     ]
   }
