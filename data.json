@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Why advance automated scientific labs rather than slow them?",
-        "url": "https://www.lesswrong.com/posts/JjJeGGQ8yegu5CG5K/why-advance-automated-scientific-labs-rather-than-slow-them"
+        "title": "Fusion Energy Projects are Not Trying to Imitate the Sun",
+        "url": "https://www.lesswrong.com/posts/wmBHMAxphyT8iPvqz/fusion-energy-projects-are-not-trying-to-imitate-the-sun"
       },
       {
-        "title": "What if not Circuits?",
-        "url": "https://www.lesswrong.com/posts/mMERyrvEJ4xbiozie/what-if-not-circuits"
+        "title": "AI: artificial immigrants",
+        "url": "https://www.lesswrong.com/posts/Xzr9G5Atvyp7PEna7/ai-artificial-immigrants"
       },
       {
-        "title": "Campaign spending limits would reduce extinction risk (but spending limits might not accord with Constitutional principles)",
-        "url": "https://www.lesswrong.com/posts/mbaKNLu5JuTHgpThf/campaign-spending-limits-would-reduce-extinction-risk-but"
+        "title": "A plan for a perpetual motion research center that runs forever",
+        "url": "https://www.lesswrong.com/posts/28w2FaBQh5KHuhwhJ/a-plan-for-a-perpetual-motion-research-center-that-runs"
       },
       {
-        "title": "CLT Features Support Manifold Steering, but Hold Only Partial Steering Signal",
-        "url": "https://www.lesswrong.com/posts/Qiy7pziBEKYZHEn26/clt-features-support-manifold-steering-but-hold-only-partial"
+        "title": "Announcing B-Side Labs: Measuring Character (Seeking Collaborators and\u00a0Testers)",
+        "url": "https://www.lesswrong.com/posts/PcJSvtpwsu6pWSz5z/announcing-b-side-labs-measuring-character-seeking-1"
       },
       {
-        "title": "Cairo University \u2013 College EA Meetups Everywhere Fall 2026",
-        "url": "https://www.lesswrong.com/events/yy2JsgdoaiCkLTjT8/cairo-university-college-ea-meetups-everywhere-fall-2026"
+        "title": "Trading firms could control meaningful amounts of compute by 2030",
+        "url": "https://www.lesswrong.com/posts/mQrJqdDt44YDdHKSs/trading-firms-could-control-meaningful-amounts-of-compute-by-1"
       },
       {
-        "title": "Swarm Scaling",
-        "url": "https://www.lesswrong.com/posts/6cb7qd3RSkgnviCpf/swarm-scaling"
+        "title": "Premature Optimization",
+        "url": "https://www.lesswrong.com/posts/yq9mKKu5dconxYLNr/premature-optimization"
       },
       {
-        "title": "Turbulence & Fragility: Prompting-Based Experiments are Sensitive to Stray Details (And other lessons for new researchers.)",
-        "url": "https://www.lesswrong.com/posts/iMo69AgAyzXrPm4kb/turbulence-and-fragility-prompting-based-experiments-are"
+        "title": "Introducing Opus 5.5: Anthropic Linkpost",
+        "url": "https://www.lesswrong.com/posts/nwrX623kkwLs9gNWe/introducing-opus-5-5-anthropic-linkpost"
       },
       {
-        "title": "Alignment Midtraining Cracks Under Pressure",
-        "url": "https://www.lesswrong.com/posts/QH86EzNsjRw3wtCGs/alignment-midtraining-cracks-under-pressure"
+        "title": "Initial DIY Cleanroom Experimentation",
+        "url": "https://www.lesswrong.com/posts/jGAh5CzEXhL7mq2kh/initial-diy-cleanroom-experimentation"
       },
       {
-        "title": "We\u2019re not ready for the e/Acc \u00d7 Longevity preference cascade",
-        "url": "https://www.lesswrong.com/posts/BKc4xrqN4mdXoprzy/we-re-not-ready-for-the-e-acc-longevity-preference-cascade"
+        "title": "Modern LLMs have tiny GPTs hidden inside them",
+        "url": "https://www.lesswrong.com/posts/Pwc4YffTQvNRF3dbB/modern-llms-have-tiny-gpts-hidden-inside-them"
       },
       {
-        "title": "A class of statement between conjecture and theorem",
-        "url": "https://www.lesswrong.com/posts/ZnNvci7jk9qEGr3z3/a-class-of-statement-between-conjecture-and-theorem"
+        "title": "Controllable-CoT leads to covert reasoning capabilities",
+        "url": "https://www.lesswrong.com/posts/CPJ2kYRKo77ucZEEG/controllable-cot-leads-to-covert-reasoning-capabilities"
       }
     ]
   },
@@ -156,6 +156,10 @@
         "url": "https://www.anthropic.com/news/news/improving-alignment-security-efforts"
       },
       {
+        "title": "AnnouncementsAug 27, 2026Previewing the Model Hardware StandardWe\u2019re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+        "url": "https://www.anthropic.com/news/news/model-hardware-standard-research-preview"
+      },
+      {
         "title": "Sep 18, 2026AnnouncementsPartnering with Accenture on embedded evaluation",
         "url": "https://www.anthropic.com/news/news/accenture-embedded-evaluation"
       },
@@ -166,10 +170,6 @@
       {
         "title": "Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers",
         "url": "https://www.anthropic.com/news/news/enterprise-frontier-safeguards"
-      },
-      {
-        "title": "Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard",
-        "url": "https://www.anthropic.com/news/news/model-hardware-standard-research-preview"
       },
       {
         "title": "Aug 27, 2026AnnouncementsExpanding our support for scientists",
