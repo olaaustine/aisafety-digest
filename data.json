@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Fusion Energy Projects are Not Trying to Imitate the Sun",
-        "url": "https://www.lesswrong.com/posts/wmBHMAxphyT8iPvqz/fusion-energy-projects-are-not-trying-to-imitate-the-sun"
+        "title": "\"I am an AI Safety Researcher\"",
+        "url": "https://www.lesswrong.com/posts/HekpnSkrt89tMm3Dc/i-am-an-ai-safety-researcher"
       },
       {
-        "title": "AI: artificial immigrants",
-        "url": "https://www.lesswrong.com/posts/Xzr9G5Atvyp7PEna7/ai-artificial-immigrants"
+        "title": "It's Pretty Easy To Meet With Congressional Staffers Apparently",
+        "url": "https://www.lesswrong.com/posts/qThcAE3CADaPwjDzy/it-s-pretty-easy-to-meet-with-congressional-staffers"
       },
       {
-        "title": "A plan for a perpetual motion research center that runs forever",
-        "url": "https://www.lesswrong.com/posts/28w2FaBQh5KHuhwhJ/a-plan-for-a-perpetual-motion-research-center-that-runs"
+        "title": "Claude Opus 5.5: The System Card",
+        "url": "https://www.lesswrong.com/posts/vMNTWTDWLorDqd3LS/claude-opus-5-5-the-system-card"
       },
       {
-        "title": "Announcing B-Side Labs: Measuring Character (Seeking Collaborators and\u00a0Testers)",
-        "url": "https://www.lesswrong.com/posts/PcJSvtpwsu6pWSz5z/announcing-b-side-labs-measuring-character-seeking-1"
+        "title": "MIRI\u2019s Position on the Ban Artificial Superintelligence Act of 2026",
+        "url": "https://www.lesswrong.com/posts/jszKCKwvzfmsNetNZ/miri-s-position-on-the-ban-artificial-superintelligence-act"
       },
       {
-        "title": "Trading firms could control meaningful amounts of compute by 2030",
-        "url": "https://www.lesswrong.com/posts/mQrJqdDt44YDdHKSs/trading-firms-could-control-meaningful-amounts-of-compute-by-1"
+        "title": "Latent reasoning architectures would undermine CoT, our strongest oversight tool",
+        "url": "https://www.lesswrong.com/posts/6m29SfjbittooYojj/latent-reasoning-architectures-would-undermine-cot-our"
       },
       {
-        "title": "Premature Optimization",
-        "url": "https://www.lesswrong.com/posts/yq9mKKu5dconxYLNr/premature-optimization"
+        "title": "Thermodynamics and Objects",
+        "url": "https://www.lesswrong.com/posts/pLapRTLoKuytooAwx/thermodynamics-and-objects"
       },
       {
-        "title": "Introducing Opus 5.5: Anthropic Linkpost",
-        "url": "https://www.lesswrong.com/posts/nwrX623kkwLs9gNWe/introducing-opus-5-5-anthropic-linkpost"
+        "title": "The First American Bill to Ban Superintelligent AI Is Here",
+        "url": "https://www.lesswrong.com/posts/ZprfxCZthEir5WNev/the-first-american-bill-to-ban-superintelligent-ai-is-here"
       },
       {
-        "title": "Initial DIY Cleanroom Experimentation",
-        "url": "https://www.lesswrong.com/posts/jGAh5CzEXhL7mq2kh/initial-diy-cleanroom-experimentation"
+        "title": "University of Oxford \u2013 College EA Meetups Everywhere Fall 2026",
+        "url": "https://www.lesswrong.com/events/DxaKv9TdauBbhvywb/university-of-oxford-college-ea-meetups-everywhere-fall-2026"
       },
       {
-        "title": "Modern LLMs have tiny GPTs hidden inside them",
-        "url": "https://www.lesswrong.com/posts/Pwc4YffTQvNRF3dbB/modern-llms-have-tiny-gpts-hidden-inside-them"
+        "title": "Encoded Coordination on the Open Web",
+        "url": "https://www.lesswrong.com/posts/SCdR7W6L5GvKaEzaZ/encoded-coordination-on-the-open-web"
       },
       {
-        "title": "Controllable-CoT leads to covert reasoning capabilities",
-        "url": "https://www.lesswrong.com/posts/CPJ2kYRKo77ucZEEG/controllable-cot-leads-to-covert-reasoning-capabilities"
+        "title": "Jensen Huang Says If We Cannot Align AI, Shut Down the AI Labs",
+        "url": "https://www.lesswrong.com/posts/cmdbNijFsopqfqEq7/jensen-huang-says-if-we-cannot-align-ai-shut-down-the-ai"
       }
     ]
   },
@@ -49,6 +49,14 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Why I'm scared of RL",
+        "url": "https://www.alignmentforum.org/posts/LcQ9x72eNji2gpS9b/why-i-m-scared-of-rl"
+      },
+      {
+        "title": "WorkspaceBench: Evaluating Interpretability Methods for the Global Workspace",
+        "url": "https://www.alignmentforum.org/posts/Zeg2JztbdhguL48uH/workspacebench-evaluating-interpretability-methods-for-the"
+      },
       {
         "title": "[Paper] Stringological sequence prediction III",
         "url": "https://www.alignmentforum.org/posts/virawHQekJsozwotz/paper-stringological-sequence-prediction-iii"
@@ -80,14 +88,6 @@
       {
         "title": "Astra\u00a0can do a concerning amount with no chain of thought",
         "url": "https://www.alignmentforum.org/posts/eRmzz8J8Qkzqvzrgg/astra-can-do-a-concerning-amount-with-no-chain-of-thought"
-      },
-      {
-        "title": "How good are slop-vestigators?",
-        "url": "https://www.alignmentforum.org/posts/wt4kk6vFPEhkXvF8Q/how-good-are-slop-vestigators"
-      },
-      {
-        "title": "A Conceptual Framework for Reasoning about Exploration Hacking",
-        "url": "https://www.alignmentforum.org/posts/am5w2t9LzJB4sRhKw/a-conceptual-framework-for-reasoning-about-exploration"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
-        "url": "https://arxiv.org/abs/2609.20971"
+        "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
+        "url": "https://arxiv.org/abs/2609.22161"
       },
       {
-        "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
-        "url": "https://arxiv.org/abs/2609.20974"
+        "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
+        "url": "https://arxiv.org/abs/2609.22277"
       },
       {
-        "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
-        "url": "https://arxiv.org/abs/2609.20981"
+        "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
+        "url": "https://arxiv.org/abs/2609.22353"
       },
       {
-        "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
-        "url": "https://arxiv.org/abs/2609.21061"
+        "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
+        "url": "https://arxiv.org/abs/2609.22408"
       },
       {
-        "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
-        "url": "https://arxiv.org/abs/2609.21096"
+        "title": "Learning 3D biophysical cell properties from 2D images and cell-population statistics",
+        "url": "https://arxiv.org/abs/2609.22410"
       },
       {
-        "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
-        "url": "https://arxiv.org/abs/2609.21113"
+        "title": "Goal-driven Variant Categorization",
+        "url": "https://arxiv.org/abs/2609.22475"
       },
       {
-        "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
-        "url": "https://arxiv.org/abs/2609.21139"
+        "title": "Replication Without Persistence in Hosted LLMs: Measurement Sensitivity in Action-Time Belief Evaluation",
+        "url": "https://arxiv.org/abs/2609.22478"
       },
       {
-        "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
-        "url": "https://arxiv.org/abs/2609.21149"
+        "title": "The Wisdom of Artificial Deliberative Crowds",
+        "url": "https://arxiv.org/abs/2609.22497"
       },
       {
-        "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
-        "url": "https://arxiv.org/abs/2609.21157"
+        "title": "Agreement Overstates Evidence: Error Dependence in LLM Judge Consensus",
+        "url": "https://arxiv.org/abs/2609.22512"
       },
       {
-        "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
-        "url": "https://arxiv.org/abs/2609.21165"
+        "title": "IntLawNER: A Named Entity Recognition Dataset and Benchmark in International Law",
+        "url": "https://arxiv.org/abs/2609.22529"
       }
     ]
   },
@@ -152,12 +152,8 @@
     "url": "https://www.anthropic.com/news",
     "articles": [
       {
-        "title": "AnnouncementsAug 31, 2026Improving our alignment and security effortsOn July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we\u2019re sharing some of the changes we\u2019ve made over the past month.",
-        "url": "https://www.anthropic.com/news/news/improving-alignment-security-efforts"
-      },
-      {
-        "title": "AnnouncementsAug 27, 2026Previewing the Model Hardware StandardWe\u2019re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
-        "url": "https://www.anthropic.com/news/news/model-hardware-standard-research-preview"
+        "title": "Sep 23, 2026ScienceClaude discovers a novel enzyme system with CRISPR-like repeats",
+        "url": "https://www.anthropic.com/news/news/claude-discovers-novel-enzyme-system"
       },
       {
         "title": "Sep 18, 2026AnnouncementsPartnering with Accenture on embedded evaluation",
@@ -170,6 +166,14 @@
       {
         "title": "Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers",
         "url": "https://www.anthropic.com/news/news/enterprise-frontier-safeguards"
+      },
+      {
+        "title": "Aug 31, 2026AnnouncementsImproving our alignment and security efforts",
+        "url": "https://www.anthropic.com/news/news/improving-alignment-security-efforts"
+      },
+      {
+        "title": "Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard",
+        "url": "https://www.anthropic.com/news/news/model-hardware-standard-research-preview"
       },
       {
         "title": "Aug 27, 2026AnnouncementsExpanding our support for scientists",
@@ -186,10 +190,6 @@
       {
         "title": "Aug 7, 2026ProductImproving Fable 5's biology safeguards",
         "url": "https://www.anthropic.com/news/news/improving-fable-5-s-biology-safeguards"
-      },
-      {
-        "title": "Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
-        "url": "https://www.anthropic.com/news/news/tino-cuellar"
       }
     ]
   }
