@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "\"I am an AI Safety Researcher\"",
-        "url": "https://www.lesswrong.com/posts/HekpnSkrt89tMm3Dc/i-am-an-ai-safety-researcher"
+        "title": "The most important problem (you've never heard of)",
+        "url": "https://www.lesswrong.com/posts/RiSxundHxu2sDT8k2/the-most-important-problem-you-ve-never-heard-of"
       },
       {
-        "title": "It's Pretty Easy To Meet With Congressional Staffers Apparently",
-        "url": "https://www.lesswrong.com/posts/qThcAE3CADaPwjDzy/it-s-pretty-easy-to-meet-with-congressional-staffers"
+        "title": "First-Order Definable Policies",
+        "url": "https://www.lesswrong.com/posts/uXN9uWRnu6QnMkNXC/first-order-definable-policies"
       },
       {
-        "title": "Claude Opus 5.5: The System Card",
-        "url": "https://www.lesswrong.com/posts/vMNTWTDWLorDqd3LS/claude-opus-5-5-the-system-card"
+        "title": "Overtly misaligned trajectories score highly in RL.",
+        "url": "https://www.lesswrong.com/posts/cWuqxF7qB2eGSkkS4/overtly-misaligned-trajectories-score-highly-in-rl"
       },
       {
-        "title": "MIRI\u2019s Position on the Ban Artificial Superintelligence Act of 2026",
-        "url": "https://www.lesswrong.com/posts/jszKCKwvzfmsNetNZ/miri-s-position-on-the-ban-artificial-superintelligence-act"
+        "title": "AI in research and publishing (Sep 2026)",
+        "url": "https://www.lesswrong.com/posts/43yxfaejsrZi7cDff/ai-in-research-and-publishing-sep-2026"
       },
       {
-        "title": "Latent reasoning architectures would undermine CoT, our strongest oversight tool",
-        "url": "https://www.lesswrong.com/posts/6m29SfjbittooYojj/latent-reasoning-architectures-would-undermine-cot-our"
+        "title": "University of the Philippines - Diliman \u2013 College EA Meetups Everywhere Fall 2026",
+        "url": "https://www.lesswrong.com/events/SoeLbkEzfjiQBcTAv/university-of-the-philippines-diliman-college-ea-meetups"
       },
       {
-        "title": "Thermodynamics and Objects",
-        "url": "https://www.lesswrong.com/posts/pLapRTLoKuytooAwx/thermodynamics-and-objects"
+        "title": "University College Dublin \u2013 College EA Meetups Everywhere Fall 2026",
+        "url": "https://www.lesswrong.com/events/xKKdpZkgaM9Ph9c5E/university-college-dublin-college-ea-meetups-everywhere-fall"
       },
       {
-        "title": "The First American Bill to Ban Superintelligent AI Is Here",
-        "url": "https://www.lesswrong.com/posts/ZprfxCZthEir5WNev/the-first-american-bill-to-ban-superintelligent-ai-is-here"
+        "title": "Increasing Skill Level Recruits Deeper Attention Layers in a Frozen Chess Transformer",
+        "url": "https://www.lesswrong.com/posts/HzeuyQvqN4nHHvaXc/increasing-skill-level-recruits-deeper-attention-layers-in-a"
       },
       {
-        "title": "University of Oxford \u2013 College EA Meetups Everywhere Fall 2026",
-        "url": "https://www.lesswrong.com/events/DxaKv9TdauBbhvywb/university-of-oxford-college-ea-meetups-everywhere-fall-2026"
+        "title": "State of Pandemic Early Warning",
+        "url": "https://www.lesswrong.com/posts/uYd2ZdFMLyGPhLtqY/state-of-pandemic-early-warning"
       },
       {
-        "title": "Encoded Coordination on the Open Web",
-        "url": "https://www.lesswrong.com/posts/SCdR7W6L5GvKaEzaZ/encoded-coordination-on-the-open-web"
+        "title": "Five frontier LLMs fact-checked the same 1,000 claims. They disagree on 63% of them.",
+        "url": "https://www.lesswrong.com/posts/C7cdXKL2DL2mnuLTs/five-frontier-llms-fact-checked-the-same-1-000-claims-they"
       },
       {
-        "title": "Jensen Huang Says If We Cannot Align AI, Shut Down the AI Labs",
-        "url": "https://www.lesswrong.com/posts/cmdbNijFsopqfqEq7/jensen-huang-says-if-we-cannot-align-ai-shut-down-the-ai"
+        "title": "Abliterated models are now served cheaply and conveniently via a chat interface - how dangerous are they?",
+        "url": "https://www.lesswrong.com/posts/BShGBvtxGoaZvCqBk/abliterated-models-are-now-served-cheaply-and-conveniently-1"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Latent reasoning architectures would undermine CoT, our strongest oversight tool",
+        "url": "https://www.alignmentforum.org/posts/6m29SfjbittooYojj/latent-reasoning-architectures-would-undermine-cot-our"
+      },
       {
         "title": "Why I'm scared of RL",
         "url": "https://www.alignmentforum.org/posts/LcQ9x72eNji2gpS9b/why-i-m-scared-of-rl"
@@ -84,10 +88,6 @@
       {
         "title": "Proposal for tracking the effects of architecture on monitorability",
         "url": "https://www.alignmentforum.org/posts/hLPGv8QjPcNLtDp3A/proposal-for-tracking-the-effects-of-architecture-on"
-      },
-      {
-        "title": "Astra\u00a0can do a concerning amount with no chain of thought",
-        "url": "https://www.alignmentforum.org/posts/eRmzz8J8Qkzqvzrgg/astra-can-do-a-concerning-amount-with-no-chain-of-thought"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
-        "url": "https://arxiv.org/abs/2609.22161"
+        "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
+        "url": "https://arxiv.org/abs/2609.26836"
       },
       {
-        "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
-        "url": "https://arxiv.org/abs/2609.22277"
+        "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
+        "url": "https://arxiv.org/abs/2609.26891"
       },
       {
-        "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
-        "url": "https://arxiv.org/abs/2609.22353"
+        "title": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
+        "url": "https://arxiv.org/abs/2609.26911"
       },
       {
-        "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
-        "url": "https://arxiv.org/abs/2609.22408"
+        "title": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations",
+        "url": "https://arxiv.org/abs/2609.26927"
       },
       {
-        "title": "Learning 3D biophysical cell properties from 2D images and cell-population statistics",
-        "url": "https://arxiv.org/abs/2609.22410"
+        "title": "Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment",
+        "url": "https://arxiv.org/abs/2609.26929"
       },
       {
-        "title": "Goal-driven Variant Categorization",
-        "url": "https://arxiv.org/abs/2609.22475"
+        "title": "Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution",
+        "url": "https://arxiv.org/abs/2609.26952"
       },
       {
-        "title": "Replication Without Persistence in Hosted LLMs: Measurement Sensitivity in Action-Time Belief Evaluation",
-        "url": "https://arxiv.org/abs/2609.22478"
+        "title": "Same evidence, different judgments: Evidence noncommutative in vision/speech-text conflicts",
+        "url": "https://arxiv.org/abs/2609.26986"
       },
       {
-        "title": "The Wisdom of Artificial Deliberative Crowds",
-        "url": "https://arxiv.org/abs/2609.22497"
+        "title": "Reinforcement Learning with Decomposed Subtasks",
+        "url": "https://arxiv.org/abs/2609.27035"
       },
       {
-        "title": "Agreement Overstates Evidence: Error Dependence in LLM Judge Consensus",
-        "url": "https://arxiv.org/abs/2609.22512"
+        "title": "Training Intelligent Voice Assistant Wakeup with Controllable Synthetic Conversations",
+        "url": "https://arxiv.org/abs/2609.27037"
       },
       {
-        "title": "IntLawNER: A Named Entity Recognition Dataset and Benchmark in International Law",
-        "url": "https://arxiv.org/abs/2609.22529"
+        "title": "Are Stated Reasoning Steps Causally Load-Bearing?",
+        "url": "https://arxiv.org/abs/2609.27038"
       }
     ]
   },
