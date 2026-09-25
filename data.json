@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "The most important problem (you've never heard of)",
-        "url": "https://www.lesswrong.com/posts/RiSxundHxu2sDT8k2/the-most-important-problem-you-ve-never-heard-of"
+        "title": "Evidence about risk should be transparent",
+        "url": "https://www.lesswrong.com/posts/LawgAaGTvbbnZi7u2/evidence-about-risk-should-be-transparent"
       },
       {
-        "title": "First-Order Definable Policies",
-        "url": "https://www.lesswrong.com/posts/uXN9uWRnu6QnMkNXC/first-order-definable-policies"
+        "title": "Plan R: AI Safety by ASICs",
+        "url": "https://www.lesswrong.com/posts/n8u3BfqFoGh4jnzpo/plan-r-ai-safety-by-asics"
       },
       {
-        "title": "Overtly misaligned trajectories score highly in RL.",
-        "url": "https://www.lesswrong.com/posts/cWuqxF7qB2eGSkkS4/overtly-misaligned-trajectories-score-highly-in-rl"
+        "title": "What did AI researchers think at the end of 2024?",
+        "url": "https://www.lesswrong.com/posts/62j5mPY8pFo2GD5fo/what-did-ai-researchers-think-at-the-end-of-2024-1"
       },
       {
-        "title": "AI in research and publishing (Sep 2026)",
-        "url": "https://www.lesswrong.com/posts/43yxfaejsrZi7cDff/ai-in-research-and-publishing-sep-2026"
+        "title": "Alignment Forecasting: Predicting Misalignment from Training Data",
+        "url": "https://www.lesswrong.com/posts/f7r9QCmjoYFG9ReyF/alignment-forecasting-predicting-misalignment-from-training"
       },
       {
-        "title": "University of the Philippines - Diliman \u2013 College EA Meetups Everywhere Fall 2026",
-        "url": "https://www.lesswrong.com/events/SoeLbkEzfjiQBcTAv/university-of-the-philippines-diliman-college-ea-meetups"
+        "title": "Spurious probes as a black-box alternative to activation probing",
+        "url": "https://www.lesswrong.com/posts/gZh6txHhp8sm832sE/spurious-probes-as-a-black-box-alternative-to-activation"
       },
       {
-        "title": "University College Dublin \u2013 College EA Meetups Everywhere Fall 2026",
-        "url": "https://www.lesswrong.com/events/xKKdpZkgaM9Ph9c5E/university-college-dublin-college-ea-meetups-everywhere-fall"
+        "title": "Applications open: Winter 2027 AFFINE Alignment Seminar (due Nov 22)",
+        "url": "https://www.lesswrong.com/posts/gbExicZvKtHBboLR6/applications-open-winter-2027-affine-alignment-seminar-due"
       },
       {
-        "title": "Increasing Skill Level Recruits Deeper Attention Layers in a Frozen Chess Transformer",
-        "url": "https://www.lesswrong.com/posts/HzeuyQvqN4nHHvaXc/increasing-skill-level-recruits-deeper-attention-layers-in-a"
+        "title": "Allow Babywearing Carriers on Planes",
+        "url": "https://www.lesswrong.com/posts/jYPtws3Nuem7cCWHq/allow-babywearing-carriers-on-planes"
       },
       {
-        "title": "State of Pandemic Early Warning",
-        "url": "https://www.lesswrong.com/posts/uYd2ZdFMLyGPhLtqY/state-of-pandemic-early-warning"
+        "title": "We need a better theory of polarization, because it's failing to predict the AI debate",
+        "url": "https://www.lesswrong.com/posts/WMBgSseHJpghhma4n/we-need-a-better-theory-of-polarization-because-it-s-failing"
       },
       {
-        "title": "Five frontier LLMs fact-checked the same 1,000 claims. They disagree on 63% of them.",
-        "url": "https://www.lesswrong.com/posts/C7cdXKL2DL2mnuLTs/five-frontier-llms-fact-checked-the-same-1-000-claims-they"
+        "title": "On Ezra Klein\u2019s Podcast With Jensen Huang",
+        "url": "https://www.lesswrong.com/posts/j3xefrWrNqsmMfJEi/on-ezra-klein-s-podcast-with-jensen-huang"
       },
       {
-        "title": "Abliterated models are now served cheaply and conveniently via a chat interface - how dangerous are they?",
-        "url": "https://www.lesswrong.com/posts/BShGBvtxGoaZvCqBk/abliterated-models-are-now-served-cheaply-and-conveniently-1"
+        "title": "Foundational premises of advanced AI",
+        "url": "https://www.lesswrong.com/posts/ioFYSZbCysLDjH3DN/foundational-premises-of-advanced-ai"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Continual learning might make your blocking monitors nearly useless",
+        "url": "https://www.alignmentforum.org/posts/QnDqGbKehEB3DxJAp/continual-learning-might-make-your-blocking-monitors-nearly"
+      },
       {
         "title": "Latent reasoning architectures would undermine CoT, our strongest oversight tool",
         "url": "https://www.alignmentforum.org/posts/6m29SfjbittooYojj/latent-reasoning-architectures-would-undermine-cot-our"
@@ -84,10 +88,6 @@
       {
         "title": "An operationalization of opaque serial depth",
         "url": "https://www.alignmentforum.org/posts/x8BvtWxtoajBGHS3g/an-operationalization-of-opaque-serial-depth"
-      },
-      {
-        "title": "Proposal for tracking the effects of architecture on monitorability",
-        "url": "https://www.alignmentforum.org/posts/hLPGv8QjPcNLtDp3A/proposal-for-tracking-the-effects-of-architecture-on"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
-        "url": "https://arxiv.org/abs/2609.26836"
+        "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+        "url": "https://arxiv.org/abs/2609.28475"
       },
       {
-        "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
-        "url": "https://arxiv.org/abs/2609.26891"
+        "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+        "url": "https://arxiv.org/abs/2609.28506"
       },
       {
-        "title": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
-        "url": "https://arxiv.org/abs/2609.26911"
+        "title": "PAWS: Policy-driven Agentic World Simulation",
+        "url": "https://arxiv.org/abs/2609.28547"
       },
       {
-        "title": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations",
-        "url": "https://arxiv.org/abs/2609.26927"
+        "title": "Pistis Technical Report",
+        "url": "https://arxiv.org/abs/2609.28554"
       },
       {
-        "title": "Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment",
-        "url": "https://arxiv.org/abs/2609.26929"
+        "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
+        "url": "https://arxiv.org/abs/2609.28557"
       },
       {
-        "title": "Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution",
-        "url": "https://arxiv.org/abs/2609.26952"
+        "title": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
+        "url": "https://arxiv.org/abs/2609.28570"
       },
       {
-        "title": "Same evidence, different judgments: Evidence noncommutative in vision/speech-text conflicts",
-        "url": "https://arxiv.org/abs/2609.26986"
+        "title": "TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment",
+        "url": "https://arxiv.org/abs/2609.28575"
       },
       {
-        "title": "Reinforcement Learning with Decomposed Subtasks",
-        "url": "https://arxiv.org/abs/2609.27035"
+        "title": "Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents",
+        "url": "https://arxiv.org/abs/2609.28609"
       },
       {
-        "title": "Training Intelligent Voice Assistant Wakeup with Controllable Synthetic Conversations",
-        "url": "https://arxiv.org/abs/2609.27037"
+        "title": "Training Object Permanence in World Models",
+        "url": "https://arxiv.org/abs/2609.28654"
       },
       {
-        "title": "Are Stated Reasoning Steps Causally Load-Bearing?",
-        "url": "https://arxiv.org/abs/2609.27038"
+        "title": "Beyond Surface Style: Aligning Multi-Turn User Simulators with Behavioral Consistency",
+        "url": "https://arxiv.org/abs/2609.28690"
       }
     ]
   },
