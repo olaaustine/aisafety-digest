@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Securing AI Research Needs an Owner",
-        "url": "https://www.lesswrong.com/posts/wHk27yEizetExqQGE/securing-ai-research-needs-an-owner"
+        "title": "AI Companies Are Not (Necessarily) Liable for Unintended AI Cyberattacks",
+        "url": "https://www.lesswrong.com/posts/xcBkybcLbQqETtvPr/ai-companies-are-not-necessarily-liable-for-unintended-ai"
       },
       {
-        "title": "From Australia? Consider Contacting Your Representative to Express Concern Over OpenAI Attack",
-        "url": "https://www.lesswrong.com/posts/dFaGkhYERdudowux5/from-australia-consider-contacting-your-representative-to"
+        "title": "TeX was invented to typeset math but is now used for reasoning",
+        "url": "https://www.lesswrong.com/posts/CFKyfZm5JBYZQ8aG6/tex-was-invented-to-typeset-math-but-is-now-used-for"
       },
       {
-        "title": "Game-Theoretic Disempowerment: Loss of Control to Agencyless AI",
-        "url": "https://www.lesswrong.com/posts/JkZm3YRcmZ5jmvYwQ/game-theoretic-disempowerment-loss-of-control-to-agencyless"
+        "title": "Even if others are less responsible you can still make things worse",
+        "url": "https://www.lesswrong.com/posts/CEwmQWjBwaF5tai2T/even-if-others-are-less-responsible-you-can-still-make"
       },
       {
-        "title": "Sector: de-slopping AI-driven research",
-        "url": "https://www.lesswrong.com/posts/jBZStdgC3wz9Mzqxz/sector-de-slopping-ai-driven-research"
+        "title": "Fixed-weight models are adversarially vulnerable: hence misaligned",
+        "url": "https://www.lesswrong.com/posts/9LWK9Hh3Qsg36e3FS/fixed-weight-models-are-adversarially-vulnerable-hence"
       },
       {
-        "title": "The Quest for Embedded Evaluators",
-        "url": "https://www.lesswrong.com/posts/uLmf3GmBywsmG8LLZ/the-quest-for-embedded-evaluators"
+        "title": "The Alignment Community Is Unintentionally Building a Censor's Toolkit",
+        "url": "https://www.lesswrong.com/posts/BBPwycfKMBqwqDejk/the-alignment-community-is-unintentionally-building-a-censor"
       },
       {
-        "title": "Why research personas despite RL scaling?",
-        "url": "https://www.lesswrong.com/posts/i4yswYDSrPFHWpCbi/why-research-personas-despite-rl-scaling"
+        "title": "My Second End of the World",
+        "url": "https://www.lesswrong.com/posts/zzYMmx47fmgEvXYYt/my-second-end-of-the-world"
       },
       {
-        "title": "9/26/26: Petrov's Shadow",
-        "url": "https://www.lesswrong.com/posts/2AfzRbGRJSGFwKsdK/9-26-26-petrov-s-shadow"
+        "title": "The likely outcome of an AI pause is that we unpause too early and everyone dies",
+        "url": "https://www.lesswrong.com/posts/PgbAnqdqdJcrS2Gsy/the-likely-outcome-of-an-ai-pause-is-that-we-unpause-too"
       },
       {
-        "title": "Skeuomorphic AI Safety",
-        "url": "https://www.lesswrong.com/posts/uwtnWvnJAEccksKNk/skeuomorphic-ai-safety-2"
+        "title": "Missing markets in executive function",
+        "url": "https://www.lesswrong.com/posts/MRwjmuBRFYufGdyDq/missing-markets-in-executive-function"
       },
       {
-        "title": "My best anti-doom argument",
-        "url": "https://www.lesswrong.com/posts/LE6Y8Cfhi9qRrz5XS/my-best-anti-doom-argument"
+        "title": "AI: cognitive labor glut + new guys",
+        "url": "https://www.lesswrong.com/posts/mE4ohQqadfRfTTQnY/ai-cognitive-labor-glut-new-guys-1"
       },
       {
-        "title": "Why I expect AI replication incidents by 2027",
-        "url": "https://www.lesswrong.com/posts/BhcymsLgyYazh6sme/why-i-expect-ai-replication-incidents-by-2027"
+        "title": "9 reasons against a near-term AI slow-down",
+        "url": "https://www.lesswrong.com/posts/fNtHtppSgXBvDrxFD/9-reasons-against-a-near-term-ai-slow-down"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Fixed-weight models are adversarially vulnerable: hence misaligned",
+        "url": "https://www.alignmentforum.org/posts/9LWK9Hh3Qsg36e3FS/fixed-weight-models-are-adversarially-vulnerable-hence"
+      },
       {
         "title": "Continual learning might make your blocking monitors nearly useless",
         "url": "https://www.alignmentforum.org/posts/QnDqGbKehEB3DxJAp/continual-learning-might-make-your-blocking-monitors-nearly"
@@ -84,10 +88,6 @@
       {
         "title": "CoT controllability evals seem very under-elicited",
         "url": "https://www.alignmentforum.org/posts/BbP2wCyDGdPWJ7PwP/cot-controllability-evals-seem-very-under-elicited"
-      },
-      {
-        "title": "An operationalization of opaque serial depth",
-        "url": "https://www.alignmentforum.org/posts/x8BvtWxtoajBGHS3g/an-operationalization-of-opaque-serial-depth"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+        "url": "https://arxiv.org/abs/2609.30291"
+      },
+      {
+        "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+        "url": "https://arxiv.org/abs/2609.30325"
+      },
+      {
+        "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+        "url": "https://arxiv.org/abs/2609.30328"
+      },
+      {
+        "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+        "url": "https://arxiv.org/abs/2609.30341"
+      },
+      {
+        "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
+        "url": "https://arxiv.org/abs/2609.30383"
+      },
+      {
+        "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
+        "url": "https://arxiv.org/abs/2609.30397"
+      },
+      {
+        "title": "Predicting Transmembrane Protein Topology from 3D Structure",
+        "url": "https://arxiv.org/abs/2609.30446"
+      },
+      {
+        "title": "Spectral Feedback for Test-Time Alignment of Protein Diffusion Models",
+        "url": "https://arxiv.org/abs/2609.30456"
+      },
+      {
+        "title": "Pretrained ASR Pseudo-labeling for Noisy Police Audio",
+        "url": "https://arxiv.org/abs/2609.30469"
+      },
+      {
+        "title": "Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework",
+        "url": "https://arxiv.org/abs/2609.30484"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
