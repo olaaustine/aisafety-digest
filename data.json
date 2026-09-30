@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "AI Companies Are Not (Necessarily) Liable for Unintended AI Cyberattacks",
-        "url": "https://www.lesswrong.com/posts/xcBkybcLbQqETtvPr/ai-companies-are-not-necessarily-liable-for-unintended-ai"
+        "title": "The world's best gradual disempowerment model organism: Frontier AI labs",
+        "url": "https://www.lesswrong.com/posts/jbttuCF4wFZmXakcj/the-world-s-best-gradual-disempowerment-model-organism"
       },
       {
-        "title": "TeX was invented to typeset math but is now used for reasoning",
-        "url": "https://www.lesswrong.com/posts/CFKyfZm5JBYZQ8aG6/tex-was-invented-to-typeset-math-but-is-now-used-for"
+        "title": "How Much Do Reward Hackers Generalize?",
+        "url": "https://www.lesswrong.com/posts/bqdbti6sjuguhggzH/how-much-do-reward-hackers-generalize"
       },
       {
-        "title": "Even if others are less responsible you can still make things worse",
-        "url": "https://www.lesswrong.com/posts/CEwmQWjBwaF5tai2T/even-if-others-are-less-responsible-you-can-still-make"
+        "title": "Superintelligence ban, but then what?",
+        "url": "https://www.lesswrong.com/posts/zzYL84YTp3qbYQe8L/superintelligence-ban-but-then-what"
       },
       {
-        "title": "Fixed-weight models are adversarially vulnerable: hence misaligned",
-        "url": "https://www.lesswrong.com/posts/9LWK9Hh3Qsg36e3FS/fixed-weight-models-are-adversarially-vulnerable-hence"
+        "title": "Bryan Caplan vs Effective Altruism",
+        "url": "https://www.lesswrong.com/posts/b4AijGneyTW9SzNC3/bryan-caplan-vs-effective-altruism"
       },
       {
-        "title": "The Alignment Community Is Unintentionally Building a Censor's Toolkit",
-        "url": "https://www.lesswrong.com/posts/BBPwycfKMBqwqDejk/the-alignment-community-is-unintentionally-building-a-censor"
+        "title": "An Alternative to Fully-Aligned Swarms",
+        "url": "https://www.lesswrong.com/posts/wm5Dby6uELsQqxBeM/an-alternative-to-fully-aligned-swarms-1"
       },
       {
-        "title": "My Second End of the World",
-        "url": "https://www.lesswrong.com/posts/zzYMmx47fmgEvXYYt/my-second-end-of-the-world"
+        "title": "Against strong decision-theoretic realism",
+        "url": "https://www.lesswrong.com/posts/5ro9kSxhP8mHXGmn4/against-strong-decision-theoretic-realism-1"
       },
       {
-        "title": "The likely outcome of an AI pause is that we unpause too early and everyone dies",
-        "url": "https://www.lesswrong.com/posts/PgbAnqdqdJcrS2Gsy/the-likely-outcome-of-an-ai-pause-is-that-we-unpause-too"
+        "title": "Listening Disorders as Eating Disorders",
+        "url": "https://www.lesswrong.com/posts/gXWz2szs7jKSGLiRv/listening-disorders-as-eating-disorders"
       },
       {
-        "title": "Missing markets in executive function",
-        "url": "https://www.lesswrong.com/posts/MRwjmuBRFYufGdyDq/missing-markets-in-executive-function"
+        "title": "Astra 6.1 Pulled As Insufficiently Aligned",
+        "url": "https://www.lesswrong.com/posts/gEDNSiCY2GGQrFS65/astra-6-1-pulled-as-insufficiently-aligned"
       },
       {
-        "title": "AI: cognitive labor glut + new guys",
-        "url": "https://www.lesswrong.com/posts/mE4ohQqadfRfTTQnY/ai-cognitive-labor-glut-new-guys-1"
+        "title": "Fast grants for AI x Animals",
+        "url": "https://www.lesswrong.com/posts/ZpEjYDrbZx8hooLkK/fast-grants-for-ai-x-animals"
       },
       {
-        "title": "9 reasons against a near-term AI slow-down",
-        "url": "https://www.lesswrong.com/posts/fNtHtppSgXBvDrxFD/9-reasons-against-a-near-term-ai-slow-down"
+        "title": "Alignment Is to a Virtual Governor: A Theory of Coordination in Diverse Intelligence",
+        "url": "https://www.lesswrong.com/posts/9GxQBHfiAASLzmAbY/alignment-is-to-a-virtual-governor-a-theory-of-coordination"
       }
     ]
   },
@@ -58,8 +58,8 @@
         "url": "https://www.alignmentforum.org/posts/QnDqGbKehEB3DxJAp/continual-learning-might-make-your-blocking-monitors-nearly"
       },
       {
-        "title": "Latent reasoning architectures would undermine CoT, our strongest oversight tool",
-        "url": "https://www.alignmentforum.org/posts/6m29SfjbittooYojj/latent-reasoning-architectures-would-undermine-cot-our"
+        "title": "Latent reasoning architectures would likely undermine CoT, our strongest oversight tool",
+        "url": "https://www.alignmentforum.org/posts/6m29SfjbittooYojj/latent-reasoning-architectures-would-likely-undermine-cot"
       },
       {
         "title": "Why I'm scared of RL",
