@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "The world's best gradual disempowerment model organism: Frontier AI labs",
-        "url": "https://www.lesswrong.com/posts/jbttuCF4wFZmXakcj/the-world-s-best-gradual-disempowerment-model-organism"
+        "title": "A potential post-AGI world government",
+        "url": "https://www.lesswrong.com/posts/ZEeohhaL4qwBarygH/a-potential-post-agi-world-government"
       },
       {
-        "title": "How Much Do Reward Hackers Generalize?",
-        "url": "https://www.lesswrong.com/posts/bqdbti6sjuguhggzH/how-much-do-reward-hackers-generalize"
+        "title": "Model Hermeneutics: Monitoring Closed-Weight Models with Open-Weight Internals",
+        "url": "https://www.lesswrong.com/posts/CZLhfNGaDqtYxvGJD/model-hermeneutics-monitoring-closed-weight-models-with-open"
       },
       {
-        "title": "Superintelligence ban, but then what?",
-        "url": "https://www.lesswrong.com/posts/zzYL84YTp3qbYQe8L/superintelligence-ban-but-then-what"
+        "title": "Rather than allow or ban open weights, rethinking access",
+        "url": "https://www.lesswrong.com/posts/WLdsxrDFbgRnWKstm/rather-than-allow-or-ban-open-weights-rethinking-access"
       },
       {
-        "title": "Bryan Caplan vs Effective Altruism",
-        "url": "https://www.lesswrong.com/posts/b4AijGneyTW9SzNC3/bryan-caplan-vs-effective-altruism"
+        "title": "Funding for-profits with charitable dollars",
+        "url": "https://www.lesswrong.com/posts/FxhF65jLvHFkbzdqn/funding-for-profits-with-charitable-dollars"
       },
       {
-        "title": "An Alternative to Fully-Aligned Swarms",
-        "url": "https://www.lesswrong.com/posts/wm5Dby6uELsQqxBeM/an-alternative-to-fully-aligned-swarms-1"
+        "title": "Launching Babel Translation",
+        "url": "https://www.lesswrong.com/posts/u973rQm56oijS5Adf/launching-babel-translation"
       },
       {
-        "title": "Against strong decision-theoretic realism",
-        "url": "https://www.lesswrong.com/posts/5ro9kSxhP8mHXGmn4/against-strong-decision-theoretic-realism-1"
+        "title": "Principles for Embedded Evaluations",
+        "url": "https://www.lesswrong.com/posts/jD32DPYdZEcyLZqto/principles-for-embedded-evaluations"
       },
       {
-        "title": "Listening Disorders as Eating Disorders",
-        "url": "https://www.lesswrong.com/posts/gXWz2szs7jKSGLiRv/listening-disorders-as-eating-disorders"
+        "title": "Frontier models state different decision theory preferences depending on who's asking",
+        "url": "https://www.lesswrong.com/posts/MzenSrmZ3pT2pCnvp/frontier-models-state-different-decision-theory-preferences-2"
       },
       {
-        "title": "Astra 6.1 Pulled As Insufficiently Aligned",
-        "url": "https://www.lesswrong.com/posts/gEDNSiCY2GGQrFS65/astra-6-1-pulled-as-insufficiently-aligned"
+        "title": "By default, Chinese AI falls very behind",
+        "url": "https://www.lesswrong.com/posts/fDE6k8SGr9ANtMFcj/by-default-chinese-ai-falls-very-behind"
       },
       {
-        "title": "Fast grants for AI x Animals",
-        "url": "https://www.lesswrong.com/posts/ZpEjYDrbZx8hooLkK/fast-grants-for-ai-x-animals"
+        "title": "Corrigibility Prizes for Existing Work",
+        "url": "https://www.lesswrong.com/posts/3uJqhrC2idf4eNj5h/corrigibility-prizes-for-existing-work"
       },
       {
-        "title": "Alignment Is to a Virtual Governor: A Theory of Coordination in Diverse Intelligence",
-        "url": "https://www.lesswrong.com/posts/9GxQBHfiAASLzmAbY/alignment-is-to-a-virtual-governor-a-theory-of-coordination"
+        "title": "A \u2018Morally Binding\u2019 White House Accord on AI Safety",
+        "url": "https://www.lesswrong.com/posts/YuqaJ5bENoyyg9eMY/a-morally-binding-white-house-accord-on-ai-safety"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
-        "url": "https://arxiv.org/abs/2609.30291"
+        "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+        "url": "https://arxiv.org/abs/2609.35799"
       },
       {
-        "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
-        "url": "https://arxiv.org/abs/2609.30325"
+        "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
+        "url": "https://arxiv.org/abs/2609.35833"
       },
       {
-        "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
-        "url": "https://arxiv.org/abs/2609.30328"
+        "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
+        "url": "https://arxiv.org/abs/2609.35868"
       },
       {
-        "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
-        "url": "https://arxiv.org/abs/2609.30341"
+        "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
+        "url": "https://arxiv.org/abs/2609.35869"
       },
       {
-        "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
-        "url": "https://arxiv.org/abs/2609.30383"
+        "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
+        "url": "https://arxiv.org/abs/2609.35873"
       },
       {
-        "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
-        "url": "https://arxiv.org/abs/2609.30397"
+        "title": "Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees",
+        "url": "https://arxiv.org/abs/2609.35874"
       },
       {
-        "title": "Predicting Transmembrane Protein Topology from 3D Structure",
-        "url": "https://arxiv.org/abs/2609.30446"
+        "title": "Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models",
+        "url": "https://arxiv.org/abs/2609.35875"
       },
       {
-        "title": "Spectral Feedback for Test-Time Alignment of Protein Diffusion Models",
-        "url": "https://arxiv.org/abs/2609.30456"
+        "title": "Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training",
+        "url": "https://arxiv.org/abs/2609.35890"
       },
       {
-        "title": "Pretrained ASR Pseudo-labeling for Noisy Police Audio",
-        "url": "https://arxiv.org/abs/2609.30469"
+        "title": "Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?",
+        "url": "https://arxiv.org/abs/2609.35897"
       },
       {
-        "title": "Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework",
-        "url": "https://arxiv.org/abs/2609.30484"
+        "title": "Grab a Coffee: Future-Aware Guidance for Discrete Diffusion with Compiled Objectives",
+        "url": "https://arxiv.org/abs/2609.35924"
       }
     ]
   },
