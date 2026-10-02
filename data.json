@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "A potential post-AGI world government",
-        "url": "https://www.lesswrong.com/posts/ZEeohhaL4qwBarygH/a-potential-post-agi-world-government"
+        "title": "Athletic education vs. athletic torment",
+        "url": "https://www.lesswrong.com/posts/Rt97G7LpYySgzdcQG/athletic-education-vs-athletic-torment"
       },
       {
-        "title": "Model Hermeneutics: Monitoring Closed-Weight Models with Open-Weight Internals",
-        "url": "https://www.lesswrong.com/posts/CZLhfNGaDqtYxvGJD/model-hermeneutics-monitoring-closed-weight-models-with-open"
+        "title": "On Social Reality in China",
+        "url": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china"
       },
       {
-        "title": "Rather than allow or ban open weights, rethinking access",
-        "url": "https://www.lesswrong.com/posts/WLdsxrDFbgRnWKstm/rather-than-allow-or-ban-open-weights-rethinking-access"
+        "title": "Book Review: Obsolete",
+        "url": "https://www.lesswrong.com/posts/cMpCgoYw53WictTLH/book-review-obsolete"
       },
       {
-        "title": "Funding for-profits with charitable dollars",
-        "url": "https://www.lesswrong.com/posts/FxhF65jLvHFkbzdqn/funding-for-profits-with-charitable-dollars"
+        "title": "Evaluating the Ban Artificial Superintelligence Act",
+        "url": "https://www.lesswrong.com/posts/mmfYDH6hwYAMToNKL/evaluating-the-ban-artificial-superintelligence-act"
       },
       {
-        "title": "Launching Babel Translation",
-        "url": "https://www.lesswrong.com/posts/u973rQm56oijS5Adf/launching-babel-translation"
+        "title": "Do you understand what I mean when I say \u201cexistential risk\u201d?",
+        "url": "https://www.lesswrong.com/posts/hcSkr4fucZ4cnqPaJ/do-you-understand-what-i-mean-when-i-say-existential-risk"
       },
       {
-        "title": "Principles for Embedded Evaluations",
-        "url": "https://www.lesswrong.com/posts/jD32DPYdZEcyLZqto/principles-for-embedded-evaluations"
+        "title": "My retrospective from MATS 10.0",
+        "url": "https://www.lesswrong.com/posts/rktrjGjXEbWsg7zof/my-retrospective-from-mats-10-0"
       },
       {
-        "title": "Frontier models state different decision theory preferences depending on who's asking",
-        "url": "https://www.lesswrong.com/posts/MzenSrmZ3pT2pCnvp/frontier-models-state-different-decision-theory-preferences-2"
+        "title": "Endogenous Alignment Requires Dependence",
+        "url": "https://www.lesswrong.com/posts/rp4sB5a6HaPpfD4rA/endogenous-alignment-requires-dependence"
       },
       {
-        "title": "By default, Chinese AI falls very behind",
-        "url": "https://www.lesswrong.com/posts/fDE6k8SGr9ANtMFcj/by-default-chinese-ai-falls-very-behind"
+        "title": "2026 SFF grants",
+        "url": "https://www.lesswrong.com/posts/fBR3kG2FAcrDChd6L/2026-sff-grants"
       },
       {
-        "title": "Corrigibility Prizes for Existing Work",
-        "url": "https://www.lesswrong.com/posts/3uJqhrC2idf4eNj5h/corrigibility-prizes-for-existing-work"
+        "title": "Scientists on the Manhattan Project continued developing the atomic bomb even after it was clear that there was no need to",
+        "url": "https://www.lesswrong.com/posts/CjZJLXRMDdbgAH3iG/scientists-on-the-manhattan-project-continued-developing-the"
       },
       {
-        "title": "A \u2018Morally Binding\u2019 White House Accord on AI Safety",
-        "url": "https://www.lesswrong.com/posts/YuqaJ5bENoyyg9eMY/a-morally-binding-white-house-accord-on-ai-safety"
+        "title": "Learning Steganography Is Easy, Learning Steganographic Reasoning Is Hard",
+        "url": "https://www.lesswrong.com/posts/5L7beYAmpu8zEvnYq/learning-steganography-is-easy-learning-steganographic"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
-        "url": "https://arxiv.org/abs/2609.35799"
+        "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
+        "url": "https://arxiv.org/abs/2609.38282"
       },
       {
-        "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
-        "url": "https://arxiv.org/abs/2609.35833"
+        "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+        "url": "https://arxiv.org/abs/2609.38288"
       },
       {
-        "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
-        "url": "https://arxiv.org/abs/2609.35868"
+        "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
+        "url": "https://arxiv.org/abs/2609.38294"
       },
       {
-        "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
-        "url": "https://arxiv.org/abs/2609.35869"
+        "title": "AI Agents are Vulnerable to Radicalization",
+        "url": "https://arxiv.org/abs/2609.38296"
       },
       {
-        "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
-        "url": "https://arxiv.org/abs/2609.35873"
+        "title": "CARAT: Do Materials LLMs Reason or Recite?",
+        "url": "https://arxiv.org/abs/2609.38340"
       },
       {
-        "title": "Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees",
-        "url": "https://arxiv.org/abs/2609.35874"
+        "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
+        "url": "https://arxiv.org/abs/2609.38346"
       },
       {
-        "title": "Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models",
-        "url": "https://arxiv.org/abs/2609.35875"
+        "title": "Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks",
+        "url": "https://arxiv.org/abs/2609.38359"
       },
       {
-        "title": "Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training",
-        "url": "https://arxiv.org/abs/2609.35890"
+        "title": "Can an AI Agent Rediscover a Blaschke-Curve Invariant?",
+        "url": "https://arxiv.org/abs/2609.38369"
       },
       {
-        "title": "Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?",
-        "url": "https://arxiv.org/abs/2609.35897"
+        "title": "Self-Evolving Harness on Multiple Tasks with the Agent as Its Own Optimizer",
+        "url": "https://arxiv.org/abs/2609.38372"
       },
       {
-        "title": "Grab a Coffee: Future-Aware Guidance for Discrete Diffusion with Compiled Objectives",
-        "url": "https://arxiv.org/abs/2609.35924"
+        "title": "Aligned Data Can Induce Misalignment via Context Confusion",
+        "url": "https://arxiv.org/abs/2609.38379"
       }
     ]
   },
@@ -151,6 +151,10 @@
     "name": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "articles": [
+      {
+        "title": "Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience",
+        "url": "https://www.anthropic.com/news/news/barclays-scales-claude"
+      },
       {
         "title": "Sep 23, 2026ScienceClaude discovers a novel enzyme system with CRISPR-like repeats",
         "url": "https://www.anthropic.com/news/news/claude-discovers-novel-enzyme-system"
@@ -186,10 +190,6 @@
       {
         "title": "Aug 14, 2026AnnouncementsHow Claude\u2019s text watermark works",
         "url": "https://www.anthropic.com/news/news/claude-text-watermark"
-      },
-      {
-        "title": "Aug 7, 2026ProductImproving Fable 5's biology safeguards",
-        "url": "https://www.anthropic.com/news/news/improving-fable-5-s-biology-safeguards"
       }
     ]
   }
