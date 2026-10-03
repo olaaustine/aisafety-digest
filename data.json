@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Athletic education vs. athletic torment",
-        "url": "https://www.lesswrong.com/posts/Rt97G7LpYySgzdcQG/athletic-education-vs-athletic-torment"
+        "title": "What is recursive self-improvement and what would it mean to ban it?",
+        "url": "https://www.lesswrong.com/posts/ZT2rKu3Z6RaargYYF/what-is-recursive-self-improvement-and-what-would-it-mean-to"
       },
       {
-        "title": "On Social Reality in China",
-        "url": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china"
+        "title": "State of the Field: AI for Epistemics and Coordination",
+        "url": "https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination"
       },
       {
-        "title": "Book Review: Obsolete",
-        "url": "https://www.lesswrong.com/posts/cMpCgoYw53WictTLH/book-review-obsolete"
+        "title": "How to apply to AI safety fellowships (and beyond)",
+        "url": "https://www.lesswrong.com/posts/PiP4JqQFKhoqHGG2n/how-to-apply-to-ai-safety-fellowships-and-beyond"
       },
       {
-        "title": "Evaluating the Ban Artificial Superintelligence Act",
-        "url": "https://www.lesswrong.com/posts/mmfYDH6hwYAMToNKL/evaluating-the-ban-artificial-superintelligence-act"
+        "title": "Petrov Day in Cusco, with a candle",
+        "url": "https://www.lesswrong.com/posts/nmBXMp97vhxC4ucuE/petrov-day-in-cusco-with-a-candle-1"
       },
       {
-        "title": "Do you understand what I mean when I say \u201cexistential risk\u201d?",
-        "url": "https://www.lesswrong.com/posts/hcSkr4fucZ4cnqPaJ/do-you-understand-what-i-mean-when-i-say-existential-risk"
+        "title": "Dialogue with Eliezer Yudkowsky on Neural Networks",
+        "url": "https://www.lesswrong.com/posts/PA7f9a9ZFcqpjmGEZ/dialogue-with-eliezer-yudkowsky-on-neural-networks"
       },
       {
-        "title": "My retrospective from MATS 10.0",
-        "url": "https://www.lesswrong.com/posts/rktrjGjXEbWsg7zof/my-retrospective-from-mats-10-0"
+        "title": "Humans are not aligned either",
+        "url": "https://www.lesswrong.com/posts/bnyvXhrdnpXxDqFi7/humans-are-not-aligned-either"
       },
       {
-        "title": "Endogenous Alignment Requires Dependence",
-        "url": "https://www.lesswrong.com/posts/rp4sB5a6HaPpfD4rA/endogenous-alignment-requires-dependence"
+        "title": "A decision theoretic case for AI niceness",
+        "url": "https://www.lesswrong.com/posts/D6ctcnrJtPLPKJkxK/a-decision-theoretic-case-for-ai-niceness-1"
       },
       {
-        "title": "2026 SFF grants",
-        "url": "https://www.lesswrong.com/posts/fBR3kG2FAcrDChd6L/2026-sff-grants"
+        "title": "AI Safety Can't Afford to Pick a Side on Consciousness",
+        "url": "https://www.lesswrong.com/posts/xvABT7XDFG5gdGrsZ/ai-safety-can-t-afford-to-pick-a-side-on-consciousness"
       },
       {
-        "title": "Scientists on the Manhattan Project continued developing the atomic bomb even after it was clear that there was no need to",
-        "url": "https://www.lesswrong.com/posts/CjZJLXRMDdbgAH3iG/scientists-on-the-manhattan-project-continued-developing-the"
+        "title": "Capabilities\u00a0research expands the safety-usefulness\u00a0Pareto frontier too",
+        "url": "https://www.lesswrong.com/posts/nwrx9DHpZfW2Q6zLW/capabilities-research-expands-the-safety-usefulness-pareto"
       },
       {
-        "title": "Learning Steganography Is Easy, Learning Steganographic Reasoning Is Hard",
-        "url": "https://www.lesswrong.com/posts/5L7beYAmpu8zEvnYq/learning-steganography-is-easy-learning-steganographic"
+        "title": "[Video] Why acausal dynamics are important",
+        "url": "https://www.lesswrong.com/posts/eXiP9A5KnkatjAX7y/video-why-acausal-dynamics-are-important"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Endogenous Alignment Requires Dependence",
+        "url": "https://www.alignmentforum.org/posts/rp4sB5a6HaPpfD4rA/endogenous-alignment-requires-dependence"
+      },
       {
         "title": "Fixed-weight models are adversarially vulnerable: hence misaligned",
         "url": "https://www.alignmentforum.org/posts/9LWK9Hh3Qsg36e3FS/fixed-weight-models-are-adversarially-vulnerable-hence"
@@ -84,10 +88,6 @@
       {
         "title": "Op-Ed: I Worked at Google DeepMind. You Should Listen to the Warnings About AI",
         "url": "https://www.alignmentforum.org/posts/YGTWfyZb9oE5EQPu6/op-ed-i-worked-at-google-deepmind-you-should-listen-to-the"
-      },
-      {
-        "title": "CoT controllability evals seem very under-elicited",
-        "url": "https://www.alignmentforum.org/posts/BbP2wCyDGdPWJ7PwP/cot-controllability-evals-seem-very-under-elicited"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
-        "url": "https://arxiv.org/abs/2609.38282"
+        "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+        "url": "https://arxiv.org/abs/2610.00010"
       },
       {
-        "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
-        "url": "https://arxiv.org/abs/2609.38288"
+        "title": "When Do Causal World Models Help Modular LLM Agents",
+        "url": "https://arxiv.org/abs/2610.00012"
       },
       {
-        "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
-        "url": "https://arxiv.org/abs/2609.38294"
+        "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+        "url": "https://arxiv.org/abs/2610.00015"
       },
       {
-        "title": "AI Agents are Vulnerable to Radicalization",
-        "url": "https://arxiv.org/abs/2609.38296"
+        "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
+        "url": "https://arxiv.org/abs/2610.00018"
       },
       {
-        "title": "CARAT: Do Materials LLMs Reason or Recite?",
-        "url": "https://arxiv.org/abs/2609.38340"
+        "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+        "url": "https://arxiv.org/abs/2610.00025"
       },
       {
-        "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
-        "url": "https://arxiv.org/abs/2609.38346"
+        "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
+        "url": "https://arxiv.org/abs/2610.00047"
       },
       {
-        "title": "Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks",
-        "url": "https://arxiv.org/abs/2609.38359"
+        "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
+        "url": "https://arxiv.org/abs/2610.00061"
       },
       {
-        "title": "Can an AI Agent Rediscover a Blaschke-Curve Invariant?",
-        "url": "https://arxiv.org/abs/2609.38369"
+        "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
+        "url": "https://arxiv.org/abs/2610.00074"
       },
       {
-        "title": "Self-Evolving Harness on Multiple Tasks with the Agent as Its Own Optimizer",
-        "url": "https://arxiv.org/abs/2609.38372"
+        "title": "Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks",
+        "url": "https://arxiv.org/abs/2610.00084"
       },
       {
-        "title": "Aligned Data Can Induce Misalignment via Context Confusion",
-        "url": "https://arxiv.org/abs/2609.38379"
+        "title": "Comedic Fool's Gold: Reward Exploits and Countermeasures in Conversational Humor",
+        "url": "https://arxiv.org/abs/2610.00197"
       }
     ]
   },
@@ -151,6 +151,10 @@
     "name": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "articles": [
+      {
+        "title": "Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+        "url": "https://www.anthropic.com/news/news/claude-frontier-academy"
+      },
       {
         "title": "Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience",
         "url": "https://www.anthropic.com/news/news/barclays-scales-claude"
@@ -186,10 +190,6 @@
       {
         "title": "Aug 25, 2026AnnouncementsFunding better evaluations of AI\u2019s impact on wellbeing",
         "url": "https://www.anthropic.com/news/news/wellbeing-research-grants"
-      },
-      {
-        "title": "Aug 14, 2026AnnouncementsHow Claude\u2019s text watermark works",
-        "url": "https://www.anthropic.com/news/news/claude-text-watermark"
       }
     ]
   }
