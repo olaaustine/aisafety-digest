@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Kurzgesagt's video on the Hugging Face incident: \"AI Just Crossed the Terrifying Line - Now What?\"",
-        "url": "https://www.lesswrong.com/posts/rtqK2L6FPvDiooxAS/kurzgesagt-s-video-on-the-hugging-face-incident-ai-just"
+        "title": "Childhood and Education #21: Grades and Standards",
+        "url": "https://www.lesswrong.com/posts/QXmyxaQnB57reu7ie/childhood-and-education-21-grades-and-standards"
       },
       {
-        "title": "Three types of AI risk: why (some) leftists are against (some) AI regulations",
-        "url": "https://www.lesswrong.com/posts/tLDcSELHCufEtuMgf/three-types-of-ai-risk-why-some-leftists-are-against-some-ai"
+        "title": "AI Safety at the Frontier: Paper Highlights of August & September 2026",
+        "url": "https://www.lesswrong.com/posts/sxtB288gm2tAaLfNu/ai-safety-at-the-frontier-paper-highlights-of-august-and"
       },
       {
-        "title": "A closer look at what ozone and nuclear arms control tell us about regulating AI",
-        "url": "https://www.lesswrong.com/posts/JDgrAYviP2MJDW9Pj/a-closer-look-at-what-ozone-and-nuclear-arms-control-tell-us"
+        "title": "Why did we get warning shots?",
+        "url": "https://www.lesswrong.com/posts/uvWhi8FrMD3bo7YRY/why-did-we-get-warning-shots"
       },
       {
-        "title": "Humans Are Not Chinchillas: Revisiting \u201cHow Quick and Big Would A Software Intelligence Explosion Be?\u201d",
-        "url": "https://www.lesswrong.com/posts/xoChjkJeefmoP2ufH/humans-are-not-chinchillas-revisiting-how-quick-and-big"
+        "title": "Comparing AI Policy Courses",
+        "url": "https://www.lesswrong.com/posts/Jgjj9rZPqjffuzXwN/comparing-ai-policy-courses"
       },
       {
-        "title": "The Unacknowledgable Labor of Pastor's Wives",
-        "url": "https://www.lesswrong.com/posts/gAjWKHwMpXmcoaxpT/the-unacknowledgable-labor-of-pastor-s-wives"
+        "title": "Readings on the nature of alignment research",
+        "url": "https://www.lesswrong.com/posts/mskmgoE8HwgkD8hSo/readings-on-the-nature-of-alignment-research"
       },
       {
-        "title": "Dance, Dance",
-        "url": "https://www.lesswrong.com/posts/R7jsxihAzvd6Gf24R/dance-dance"
+        "title": "If cleantech funding is scarce, does founding another startup actually help the world?",
+        "url": "https://www.lesswrong.com/posts/Z7TcwNzzndxn7tBc9/if-cleantech-funding-is-scarce-does-founding-another-startup"
       },
       {
-        "title": "How Would We Know? Reflections on trying to make AI go well amid deep uncertainty",
-        "url": "https://www.lesswrong.com/posts/ZjAEgv3mrimKNepa5/how-would-we-know-reflections-on-trying-to-make-ai-go-well"
+        "title": "A fascinating case of an LLM prompt-injecting its own user",
+        "url": "https://www.lesswrong.com/posts/CMWivoHeRNNErEykc/a-fascinating-case-of-an-llm-prompt-injecting-its-own-user"
       },
       {
-        "title": "Self-Modeling Interventions Modulate Emergent Misalignment",
-        "url": "https://www.lesswrong.com/posts/7wrzfaiCq3u8xkY5G/self-modeling-interventions-modulate-emergent-misalignment"
+        "title": "Qualitative impressions from creating AI honeypots for six months",
+        "url": "https://www.lesswrong.com/posts/kifFQuvu7yq6eHrb8/qualitative-impressions-from-creating-ai-honeypots-for-six"
       },
       {
-        "title": "Current AIs out-persuade professionals in lab settings but (probably) not in the world",
-        "url": "https://www.lesswrong.com/posts/CzmMvnPy7YdSRucDH/current-ais-out-persuade-professionals-in-lab-settings-but"
+        "title": "March to Stop Building AI",
+        "url": "https://www.lesswrong.com/events/ZmTdRM6NaXPmTtrxS/march-to-stop-building-ai"
       },
       {
-        "title": "Anthropic's updated Certificate of Incorporation",
-        "url": "https://www.lesswrong.com/posts/MKbe2fr7mJBqvMmNu/anthropic-s-updated-certificate-of-incorporation-1"
+        "title": "TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human Experts",
+        "url": "https://www.lesswrong.com/posts/bAGagjZAPgXEHmkAH/tasteval-measuring-the-experimental-research-taste-of-ai"
       }
     ]
   },
@@ -104,53 +104,16 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
-        "url": "https://arxiv.org/abs/2610.02260"
-      },
-      {
-        "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
-        "url": "https://arxiv.org/abs/2610.02267"
-      },
-      {
-        "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
-        "url": "https://arxiv.org/abs/2610.02281"
-      },
-      {
-        "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
-        "url": "https://arxiv.org/abs/2610.02300"
-      },
-      {
-        "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
-        "url": "https://arxiv.org/abs/2610.02330"
-      },
-      {
-        "title": "World Editing: Intervening on Executable Worlds at Increasing Depth",
-        "url": "https://arxiv.org/abs/2610.02331"
-      },
-      {
-        "title": "A Multi Method Importance and Performance Efficiency Analysis of Topological Metrics for Natural Visibility Graph Based Cyber Attack Detection",
-        "url": "https://arxiv.org/abs/2610.02342"
-      },
-      {
-        "title": "DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents",
-        "url": "https://arxiv.org/abs/2610.02351"
-      },
-      {
-        "title": "Traversing the Satisfaction-Diversity Frontier in Text-to-Image Diffusion",
-        "url": "https://arxiv.org/abs/2610.02372"
-      },
-      {
-        "title": "THPL: A Vision-to-Language Decision Support Framework for Rainbow Trout Feeding Management in RAS",
-        "url": "https://arxiv.org/abs/2610.02378"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "articles": [
+      {
+        "title": "Oct 6, 2026AnnouncementsExpanding the Cyber Verification Program",
+        "url": "https://www.anthropic.com/news/news/cyber-verification-program"
+      },
       {
         "title": "Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
         "url": "https://www.anthropic.com/news/news/claude-frontier-academy"
@@ -186,10 +149,6 @@
       {
         "title": "Aug 27, 2026AnnouncementsExpanding our support for scientists",
         "url": "https://www.anthropic.com/news/news/expanding-support-for-scientists"
-      },
-      {
-        "title": "Aug 25, 2026AnnouncementsFunding better evaluations of AI\u2019s impact on wellbeing",
-        "url": "https://www.anthropic.com/news/news/wellbeing-research-grants"
       }
     ]
   }
