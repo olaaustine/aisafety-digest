@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Childhood and Education #21: Grades and Standards",
-        "url": "https://www.lesswrong.com/posts/QXmyxaQnB57reu7ie/childhood-and-education-21-grades-and-standards"
+        "title": "Brains Fellowship Applications Open!",
+        "url": "https://www.lesswrong.com/posts/e76Dbmmiurx9cB6DZ/brains-fellowship-applications-open"
       },
       {
-        "title": "AI Safety at the Frontier: Paper Highlights of August & September 2026",
-        "url": "https://www.lesswrong.com/posts/sxtB288gm2tAaLfNu/ai-safety-at-the-frontier-paper-highlights-of-august-and"
+        "title": "Existing literature as writing deterrent, and AI",
+        "url": "https://www.lesswrong.com/posts/dxNWMFtr7Z46jQZfF/existing-literature-as-writing-deterrent-and-ai"
       },
       {
-        "title": "Why did we get warning shots?",
-        "url": "https://www.lesswrong.com/posts/uvWhi8FrMD3bo7YRY/why-did-we-get-warning-shots"
+        "title": "Orgs: unreasonable boyfriend as service",
+        "url": "https://www.lesswrong.com/posts/ddpGW44q2vG9KakRT/orgs-unreasonable-boyfriend-as-service"
       },
       {
-        "title": "Comparing AI Policy Courses",
-        "url": "https://www.lesswrong.com/posts/Jgjj9rZPqjffuzXwN/comparing-ai-policy-courses"
+        "title": "Are OpenAI's math results \"creative\" in an important way?",
+        "url": "https://www.lesswrong.com/posts/neHiCSdL4tJDg7Hrm/are-openai-s-math-results-creative-in-an-important-way"
       },
       {
-        "title": "Readings on the nature of alignment research",
-        "url": "https://www.lesswrong.com/posts/mskmgoE8HwgkD8hSo/readings-on-the-nature-of-alignment-research"
+        "title": "Gluten-free water",
+        "url": "https://www.lesswrong.com/posts/J7s9NG8FndwfuW4Rr/gluten-free-water"
       },
       {
-        "title": "If cleantech funding is scarce, does founding another startup actually help the world?",
-        "url": "https://www.lesswrong.com/posts/Z7TcwNzzndxn7tBc9/if-cleantech-funding-is-scarce-does-founding-another-startup"
+        "title": "The Curve Bends You",
+        "url": "https://www.lesswrong.com/posts/qFa5qpw9bJiQMpJks/the-curve-bends-you"
       },
       {
-        "title": "A fascinating case of an LLM prompt-injecting its own user",
-        "url": "https://www.lesswrong.com/posts/CMWivoHeRNNErEykc/a-fascinating-case-of-an-llm-prompt-injecting-its-own-user"
+        "title": "Training with conflicting values can induce CoT override",
+        "url": "https://www.lesswrong.com/posts/3xrtMGQEdKv26Xthx/training-with-conflicting-values-can-induce-cot-override"
       },
       {
-        "title": "Qualitative impressions from creating AI honeypots for six months",
-        "url": "https://www.lesswrong.com/posts/kifFQuvu7yq6eHrb8/qualitative-impressions-from-creating-ai-honeypots-for-six"
+        "title": "Visual explainer of empirical Neural Tangent Kernels",
+        "url": "https://www.lesswrong.com/posts/Dp6QAadFPmwmQFtCE/visual-explainer-of-empirical-neural-tangent-kernels"
       },
       {
-        "title": "March to Stop Building AI",
-        "url": "https://www.lesswrong.com/events/ZmTdRM6NaXPmTtrxS/march-to-stop-building-ai"
+        "title": "Evidence suggests RSI may decelerate",
+        "url": "https://www.lesswrong.com/posts/eReLsyTBhxDrG2rN3/evidence-suggests-rsi-may-decelerate"
       },
       {
-        "title": "TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human Experts",
-        "url": "https://www.lesswrong.com/posts/bAGagjZAPgXEHmkAH/tasteval-measuring-the-experimental-research-taste-of-ai"
+        "title": "SS27 Color Stats",
+        "url": "https://www.lesswrong.com/posts/g3iaGEHqu87Tssggz/ss27-color-stats"
       }
     ]
   },
@@ -104,14 +104,55 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+        "url": "https://arxiv.org/abs/2610.06910"
+      },
+      {
+        "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+        "url": "https://arxiv.org/abs/2610.06914"
+      },
+      {
+        "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
+        "url": "https://arxiv.org/abs/2610.06917"
+      },
+      {
+        "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
+        "url": "https://arxiv.org/abs/2610.06919"
+      },
+      {
+        "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
+        "url": "https://arxiv.org/abs/2610.06923"
+      },
+      {
+        "title": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers",
+        "url": "https://arxiv.org/abs/2610.06928"
+      },
+      {
+        "title": "Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction",
+        "url": "https://arxiv.org/abs/2610.06964"
+      },
+      {
+        "title": "AegisFlow: A Multi-Agent Agentic AI Framework for Autonomous Remediation and Self-Healing in Fragile Data Ecosystems",
+        "url": "https://arxiv.org/abs/2610.06971"
+      },
+      {
+        "title": "EPOCH: Reliable Discovery through Evidence-Governed Search",
+        "url": "https://arxiv.org/abs/2610.06986"
+      },
+      {
+        "title": "When better traffic forecasts fail to improve signal control: a layered diagnostic study of forecast-to-decision value",
+        "url": "https://arxiv.org/abs/2610.06992"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "articles": [
       {
-        "title": "Oct 6, 2026AnnouncementsExpanding the Cyber Verification Program",
+        "title": "AnnouncementsOct 6, 2026Expanding the Cyber Verification ProgramWe\u2019re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
         "url": "https://www.anthropic.com/news/news/cyber-verification-program"
       },
       {
