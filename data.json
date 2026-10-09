@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Brains Fellowship Applications Open!",
-        "url": "https://www.lesswrong.com/posts/e76Dbmmiurx9cB6DZ/brains-fellowship-applications-open"
+        "title": "On Kink & Status in the Rationalist Community",
+        "url": "https://www.lesswrong.com/posts/dHGjqpbfmdEN7TssX/on-kink-and-status-in-the-rationalist-community"
       },
       {
-        "title": "Existing literature as writing deterrent, and AI",
-        "url": "https://www.lesswrong.com/posts/dxNWMFtr7Z46jQZfF/existing-literature-as-writing-deterrent-and-ai"
+        "title": "Social Theory and Agent Foundations",
+        "url": "https://www.lesswrong.com/posts/DwHvtm8vLipAQPest/social-theory-and-agent-foundations"
       },
       {
-        "title": "Orgs: unreasonable boyfriend as service",
-        "url": "https://www.lesswrong.com/posts/ddpGW44q2vG9KakRT/orgs-unreasonable-boyfriend-as-service"
+        "title": "Why you should run a rationality group at your university",
+        "url": "https://www.lesswrong.com/posts/NAHnayEuQ2PdFRXHQ/why-you-should-run-a-rationality-group-at-your-university"
       },
       {
-        "title": "Are OpenAI's math results \"creative\" in an important way?",
-        "url": "https://www.lesswrong.com/posts/neHiCSdL4tJDg7Hrm/are-openai-s-math-results-creative-in-an-important-way"
+        "title": "Telling a CoT monitor that a wrong answer is correct makes it un-see errors it already found",
+        "url": "https://www.lesswrong.com/posts/vhNpprNHZYWj3kpME/telling-a-cot-monitor-that-a-wrong-answer-is-correct-makes"
       },
       {
-        "title": "Gluten-free water",
-        "url": "https://www.lesswrong.com/posts/J7s9NG8FndwfuW4Rr/gluten-free-water"
+        "title": "The salad market mystery",
+        "url": "https://www.lesswrong.com/posts/3XzDJTfGMBgGcJTJY/the-salad-market-mystery-1"
       },
       {
-        "title": "The Curve Bends You",
-        "url": "https://www.lesswrong.com/posts/qFa5qpw9bJiQMpJks/the-curve-bends-you"
+        "title": "When will AI surpass us at being limited?",
+        "url": "https://www.lesswrong.com/posts/tuRWzwsop7jEiRbzm/when-will-ai-surpass-us-at-being-limited"
       },
       {
-        "title": "Training with conflicting values can induce CoT override",
-        "url": "https://www.lesswrong.com/posts/3xrtMGQEdKv26Xthx/training-with-conflicting-values-can-induce-cot-override"
+        "title": "Towards embedded evaluations for scheming propensities",
+        "url": "https://www.lesswrong.com/posts/LZGuqoYHphet9sfZs/towards-embedded-evaluations-for-scheming-propensities"
       },
       {
-        "title": "Visual explainer of empirical Neural Tangent Kernels",
-        "url": "https://www.lesswrong.com/posts/Dp6QAadFPmwmQFtCE/visual-explainer-of-empirical-neural-tangent-kernels"
+        "title": "Reviewing failure modes in science as we prepare for AI researchers",
+        "url": "https://www.lesswrong.com/posts/otoPaykRRAkjfzpHN/reviewing-failure-modes-in-science-as-we-prepare-for-ai"
       },
       {
-        "title": "Evidence suggests RSI may decelerate",
-        "url": "https://www.lesswrong.com/posts/eReLsyTBhxDrG2rN3/evidence-suggests-rsi-may-decelerate"
+        "title": "Porcus Poem",
+        "url": "https://www.lesswrong.com/posts/mDnvhyjtctZbivASg/porcus-poem"
       },
       {
-        "title": "SS27 Color Stats",
-        "url": "https://www.lesswrong.com/posts/g3iaGEHqu87Tssggz/ss27-color-stats"
+        "title": "J++ Lens: Jacobian Filtering Enables More Faithful Workspace Lenses",
+        "url": "https://www.lesswrong.com/posts/nc9dHfcB22JdMzGbr/j-lens-jacobian-filtering-enables-more-faithful-workspace"
       }
     ]
   },
@@ -156,6 +156,18 @@
         "url": "https://www.anthropic.com/news/news/cyber-verification-program"
       },
       {
+        "title": "Oct 8, 2026Announcements2026 Usage Policy update",
+        "url": "https://www.anthropic.com/news/news/2026-usage-policy-update"
+      },
+      {
+        "title": "Oct 8, 2026AnnouncementsBuilding on our commitment to American scientific discovery",
+        "url": "https://www.anthropic.com/news/news/genesis-mission-commitment"
+      },
+      {
+        "title": "Oct 8, 2026AnnouncementsIntroducing the Anthropic Cyber Mission",
+        "url": "https://www.anthropic.com/news/news/anthropic-cyber-mission"
+      },
+      {
         "title": "Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
         "url": "https://www.anthropic.com/news/news/claude-frontier-academy"
       },
@@ -178,18 +190,6 @@
       {
         "title": "Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers",
         "url": "https://www.anthropic.com/news/news/enterprise-frontier-safeguards"
-      },
-      {
-        "title": "Aug 31, 2026AnnouncementsImproving our alignment and security efforts",
-        "url": "https://www.anthropic.com/news/news/improving-alignment-security-efforts"
-      },
-      {
-        "title": "Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard",
-        "url": "https://www.anthropic.com/news/news/model-hardware-standard-research-preview"
-      },
-      {
-        "title": "Aug 27, 2026AnnouncementsExpanding our support for scientists",
-        "url": "https://www.anthropic.com/news/news/expanding-support-for-scientists"
       }
     ]
   }
