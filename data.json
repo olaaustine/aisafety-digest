@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "On Kink & Status in the Rationalist Community",
-        "url": "https://www.lesswrong.com/posts/dHGjqpbfmdEN7TssX/on-kink-and-status-in-the-rationalist-community"
+        "title": "Cracks in the Narcissus Mirror",
+        "url": "https://www.lesswrong.com/posts/2DWgtyDfafWAzuD6w/cracks-in-the-narcissus-mirror"
       },
       {
-        "title": "Social Theory and Agent Foundations",
-        "url": "https://www.lesswrong.com/posts/DwHvtm8vLipAQPest/social-theory-and-agent-foundations"
+        "title": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
+        "url": "https://www.lesswrong.com/posts/qwk7Xc2qhMChXqntK/paper-distillation-for-incrimination-and-distillation-for"
       },
       {
-        "title": "Why you should run a rationality group at your university",
-        "url": "https://www.lesswrong.com/posts/NAHnayEuQ2PdFRXHQ/why-you-should-run-a-rationality-group-at-your-university"
+        "title": "Admiration and Alignment",
+        "url": "https://www.lesswrong.com/posts/4jig8Fpm4Fhrkv5Y2/admiration-and-alignment"
       },
       {
-        "title": "Telling a CoT monitor that a wrong answer is correct makes it un-see errors it already found",
-        "url": "https://www.lesswrong.com/posts/vhNpprNHZYWj3kpME/telling-a-cot-monitor-that-a-wrong-answer-is-correct-makes"
+        "title": "What can language models teach us about understanding?",
+        "url": "https://www.lesswrong.com/posts/vpdAKFnGqx8emZ2rm/what-can-language-models-teach-us-about-understanding"
       },
       {
-        "title": "The salad market mystery",
-        "url": "https://www.lesswrong.com/posts/3XzDJTfGMBgGcJTJY/the-salad-market-mystery-1"
+        "title": "Pivotal Research Fellowship Q1 2027 Applications Open (deadline November 1)",
+        "url": "https://www.lesswrong.com/posts/QDaDEyiBssRXD5cPk/pivotal-research-fellowship-q1-2027-applications-open"
       },
       {
-        "title": "When will AI surpass us at being limited?",
-        "url": "https://www.lesswrong.com/posts/tuRWzwsop7jEiRbzm/when-will-ai-surpass-us-at-being-limited"
+        "title": "Information-Proliferating Dynamics",
+        "url": "https://www.lesswrong.com/posts/oTdbavyFJswr6fSKJ/information-proliferating-dynamics"
       },
       {
-        "title": "Towards embedded evaluations for scheming propensities",
-        "url": "https://www.lesswrong.com/posts/LZGuqoYHphet9sfZs/towards-embedded-evaluations-for-scheming-propensities"
+        "title": "Clarifying types of rogue AI activity: Breakout, breakin, exfiltration, \u2026 What\u2019s what?",
+        "url": "https://www.lesswrong.com/posts/GqrJjNkiWbogxCLL5/clarifying-types-of-rogue-ai-activity-breakout-breakin"
       },
       {
-        "title": "Reviewing failure modes in science as we prepare for AI researchers",
-        "url": "https://www.lesswrong.com/posts/otoPaykRRAkjfzpHN/reviewing-failure-modes-in-science-as-we-prepare-for-ai"
+        "title": "The Public Intellectual Is Dead. And AI Has Killed Them.",
+        "url": "https://www.lesswrong.com/posts/c6pzD74rqLyTvbg9f/the-public-intellectual-is-dead-and-ai-has-killed-them"
       },
       {
-        "title": "Porcus Poem",
-        "url": "https://www.lesswrong.com/posts/mDnvhyjtctZbivASg/porcus-poem"
+        "title": "Filling in the convex hull",
+        "url": "https://www.lesswrong.com/posts/EXS6g2SpyzGaRwHcw/filling-in-the-convex-hull"
       },
       {
-        "title": "J++ Lens: Jacobian Filtering Enables More Faithful Workspace Lenses",
-        "url": "https://www.lesswrong.com/posts/nc9dHfcB22JdMzGbr/j-lens-jacobian-filtering-enables-more-faithful-workspace"
+        "title": "I can't believe it's not BUTTER!",
+        "url": "https://www.lesswrong.com/posts/5uRvnCko4oanpmCsh/i-can-t-believe-it-s-not-butter"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
-        "url": "https://arxiv.org/abs/2610.06910"
+        "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+        "url": "https://arxiv.org/abs/2610.10541"
       },
       {
-        "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
-        "url": "https://arxiv.org/abs/2610.06914"
+        "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+        "url": "https://arxiv.org/abs/2610.10549"
       },
       {
-        "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
-        "url": "https://arxiv.org/abs/2610.06917"
+        "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+        "url": "https://arxiv.org/abs/2610.10590"
       },
       {
-        "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
-        "url": "https://arxiv.org/abs/2610.06919"
+        "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+        "url": "https://arxiv.org/abs/2610.10611"
       },
       {
-        "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
-        "url": "https://arxiv.org/abs/2610.06923"
+        "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+        "url": "https://arxiv.org/abs/2610.10629"
       },
       {
-        "title": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers",
-        "url": "https://arxiv.org/abs/2610.06928"
+        "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
+        "url": "https://arxiv.org/abs/2610.10635"
       },
       {
-        "title": "Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction",
-        "url": "https://arxiv.org/abs/2610.06964"
+        "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
+        "url": "https://arxiv.org/abs/2610.10786"
       },
       {
-        "title": "AegisFlow: A Multi-Agent Agentic AI Framework for Autonomous Remediation and Self-Healing in Fragile Data Ecosystems",
-        "url": "https://arxiv.org/abs/2610.06971"
+        "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
+        "url": "https://arxiv.org/abs/2610.10805"
       },
       {
-        "title": "EPOCH: Reliable Discovery through Evidence-Governed Search",
-        "url": "https://arxiv.org/abs/2610.06986"
+        "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
+        "url": "https://arxiv.org/abs/2610.10833"
       },
       {
-        "title": "When better traffic forecasts fail to improve signal control: a layered diagnostic study of forecast-to-decision value",
-        "url": "https://arxiv.org/abs/2610.06992"
+        "title": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
+        "url": "https://arxiv.org/abs/2610.10857"
       }
     ]
   },
