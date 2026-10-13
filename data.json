@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "My Buddy Mike, Efficiency Gains From AI, and The World\u2019s Most Boringly Benign Criminal Conspiracy",
-        "url": "https://www.lesswrong.com/posts/YmTmQDuQR6ki2BSGN/my-buddy-mike-efficiency-gains-from-ai-and-the-world-s-most"
+        "title": "A Pairing Strategy That Almost Works",
+        "url": "https://www.lesswrong.com/posts/wnv4kHsdfBYLwDXK2/a-pairing-strategy-that-almost-works-1"
       },
       {
-        "title": "AI Videos Ate My Brain -\nAnd I kinda love it",
-        "url": "https://www.lesswrong.com/posts/sR4tMgRawNFyv9etN/ai-videos-ate-my-brain-and-i-kinda-love-it"
+        "title": "Good Evals Are Hard: An ImpossibleBench Audit",
+        "url": "https://www.lesswrong.com/posts/qnrjAhiqire7JeoN2/good-evals-are-hard-an-impossiblebench-audit"
       },
       {
-        "title": "If possible mind-space is vast, we should assume the same applies to consciousness-space",
-        "url": "https://www.lesswrong.com/posts/aEsjpFRkpErE3jMH4/if-possible-mind-space-is-vast-we-should-assume-the-same"
+        "title": "OpenAI Fires Three Safety Researchers",
+        "url": "https://www.lesswrong.com/posts/zCNm2PnqE5Zp6Z2FW/openai-fires-three-safety-researchers"
       },
       {
-        "title": "Minimum required pacing: finish aligning it before you train the next one",
-        "url": "https://www.lesswrong.com/posts/ZWSstGSwmaxTjQ8W7/minimum-required-pacing-finish-aligning-it-before-you-train"
+        "title": "'Employee-like' \u2260 Employee-level",
+        "url": "https://www.lesswrong.com/posts/2dKP6sB7DxaQJ2syE/employee-like-employee-level"
       },
       {
-        "title": "Large to Small Model Stitching Destroys What You Built It to Carry Along the Fit",
-        "url": "https://www.lesswrong.com/posts/hww4XcMXuRcqffqKx/large-to-small-model-stitching-destroys-what-you-built-it-to-1"
+        "title": "Research Lessons I Learned at MATS & Redwood",
+        "url": "https://www.lesswrong.com/posts/Q4rcvgjbgjTwmn8Xa/research-lessons-i-learned-at-mats-and-redwood"
       },
       {
-        "title": "AI made me into a manager against my will",
-        "url": "https://www.lesswrong.com/posts/jrR9bCdWKhExWNJvb/ai-made-me-into-a-manager-against-my-will"
+        "title": "More people should write basic AI safety explainers",
+        "url": "https://www.lesswrong.com/posts/yLdgq9uAxDHzqXdjj/more-people-should-write-basic-ai-safety-explainers"
       },
       {
-        "title": "An update on Generality Labs",
-        "url": "https://www.lesswrong.com/posts/mnWj4hSJxhSJY4N7N/an-update-on-generality-labs"
+        "title": "Anthropic Has Told The World Little About Their Rogue Claudes",
+        "url": "https://www.lesswrong.com/posts/XDphrmdrt8yGyRSuL/anthropic-has-told-the-world-little-about-their-rogue"
       },
       {
-        "title": "No, Cryptography Is Not \u201cDual Use\u201d the Same Way AI Is",
-        "url": "https://www.lesswrong.com/posts/JghgmjDqddjLfGuCW/no-cryptography-is-not-dual-use-the-same-way-ai-is"
+        "title": "Vibe signaling externalities and the people-to-places pipeline",
+        "url": "https://www.lesswrong.com/posts/ZSD9Ex8ipPW4gnk4o/vibe-signaling-externalities-and-the-people-to-places-1"
       },
       {
-        "title": "Telephoto Camera: Pixel 10 Pro vs 11 Pro",
-        "url": "https://www.lesswrong.com/posts/7nik4GZ2BEg7e9FNr/telephoto-camera-pixel-10-pro-vs-11-pro"
+        "title": "Manifold Steering from a Natural State is Effective and Generalizable, but Relies on Model Accuracy",
+        "url": "https://www.lesswrong.com/posts/cNxsEkkXzGA8aqCJL/manifold-steering-from-a-natural-state-is-effective-and"
       },
       {
-        "title": "Not Deciphering The Voynich Manuscript",
-        "url": "https://www.lesswrong.com/posts/Adxnsud5siZTRAaT3/not-deciphering-the-voynich-manuscript"
+        "title": "Do you have any ideas?",
+        "url": "https://www.lesswrong.com/posts/AAnLpPekcLkXAr5FQ/do-you-have-any-ideas"
       }
     ]
   },
@@ -50,8 +50,16 @@
     "url": "https://www.alignmentforum.org",
     "articles": [
       {
+        "title": "OpenAI Can't Self-Police Because It Fires the People Raising the Alarm",
+        "url": "https://www.alignmentforum.org/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising"
+      },
+      {
         "title": "Minimum required pacing: finish aligning it before you train the next one",
         "url": "https://www.alignmentforum.org/posts/ZWSstGSwmaxTjQ8W7/minimum-required-pacing-finish-aligning-it-before-you-train"
+      },
+      {
+        "title": "Rocks to Rules: Climbing a Rickety-But-Interoperable Semantic Ladder",
+        "url": "https://www.alignmentforum.org/posts/hEDMDFmb322yfufYL/rocks-to-rules-climbing-a-rickety-but-interoperable-semantic"
       },
       {
         "title": "Endogenous Alignment Requires Dependence",
@@ -80,14 +88,6 @@
       {
         "title": "[Paper] Stringological sequence prediction III",
         "url": "https://www.alignmentforum.org/posts/virawHQekJsozwotz/paper-stringological-sequence-prediction-iii"
-      },
-      {
-        "title": "A Defense of Gradual Disempowerment",
-        "url": "https://www.alignmentforum.org/posts/jXBmrEQj7zKGgiaYh/a-defense-of-gradual-disempowerment"
-      },
-      {
-        "title": "Shallow Beliefs: Midtraining does not inoculate against EM from reward hacking",
-        "url": "https://www.alignmentforum.org/posts/khxvR2fgAeDvG5N2F/shallow-beliefs-midtraining-does-not-inoculate-against-em"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+        "url": "https://arxiv.org/abs/2610.12493"
+      },
+      {
+        "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
+        "url": "https://arxiv.org/abs/2610.12536"
+      },
+      {
+        "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
+        "url": "https://arxiv.org/abs/2610.12542"
+      },
+      {
+        "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
+        "url": "https://arxiv.org/abs/2610.12593"
+      },
+      {
+        "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
+        "url": "https://arxiv.org/abs/2610.12596"
+      },
+      {
+        "title": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
+        "url": "https://arxiv.org/abs/2610.12598"
+      },
+      {
+        "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
+        "url": "https://arxiv.org/abs/2610.12655"
+      },
+      {
+        "title": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
+        "url": "https://arxiv.org/abs/2610.12659"
+      },
+      {
+        "title": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
+        "url": "https://arxiv.org/abs/2610.12762"
+      },
+      {
+        "title": "Representation Alignment from a Few Paired Data via Distilled Optimal Transport",
+        "url": "https://arxiv.org/abs/2610.12781"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
