@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Roko Mijic talks AI Risk on The Peter McCormack Show",
-        "url": "https://www.lesswrong.com/posts/Loon8uN59gSgyMfWP/roko-mijic-talks-ai-risk-on-the-peter-mccormack-show"
+        "title": "I trained GPT-2 with full-batch gradient descent so you don't have to",
+        "url": "https://www.lesswrong.com/posts/9gqjdRyJxSM6kS7zi/i-trained-gpt-2-with-full-batch-gradient-descent-so-you-don"
       },
       {
-        "title": "LLMs Knowingly Hide Their Mistakes",
-        "url": "https://www.lesswrong.com/posts/w9BCdjwztmAGdrptD/llms-knowingly-hide-their-mistakes-1"
+        "title": "The basic argument for making AI better at moral philosophy",
+        "url": "https://www.lesswrong.com/posts/auMyz6pjPX5nGLYsL/the-basic-argument-for-making-ai-better-at-moral-philosophy"
       },
       {
-        "title": "The Continual Constitutional Convention: How language models revise the documents that govern them",
-        "url": "https://www.lesswrong.com/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models"
+        "title": "When bureaucracy gives you something it shouldn't",
+        "url": "https://www.lesswrong.com/posts/dFDkEiyRyueyKEB2J/when-bureaucracy-gives-you-something-it-shouldn-t"
       },
       {
-        "title": "China AI Safety Regulation Monthly Monitor, Issue 1 (September 2026)",
-        "url": "https://www.lesswrong.com/posts/TKcjrvcMuY7Ca7Ya9/china-ai-safety-regulation-monthly-monitor-issue-1-september"
+        "title": "AI Marketplaces Can Contribute to, and Profit From, the AI 2040 Plan: Research Directions and Strategy",
+        "url": "https://www.lesswrong.com/posts/Bug3fDHCru6uWDuJg/ai-marketplaces-can-contribute-to-and-profit-from-the-ai"
       },
       {
-        "title": "Thoughts on alignment science vs. engineering",
-        "url": "https://www.lesswrong.com/posts/Dz2mwB6T32hsPHxeM/thoughts-on-alignment-science-vs-engineering"
+        "title": "Why are some explanations bad?",
+        "url": "https://www.lesswrong.com/posts/uaW6cKZJkuBYkWXgL/why-are-some-explanations-bad"
       },
       {
-        "title": "A Spine within the Swarm",
-        "url": "https://www.lesswrong.com/posts/8hkA4ohpzS4vkwDgx/a-spine-within-the-swarm"
+        "title": "Hindsight: a trivia + calibration game",
+        "url": "https://www.lesswrong.com/posts/nnqmnKdjbtigGRHEe/hindsight-a-trivia-calibration-game"
       },
       {
-        "title": "OpenAI finds recording device in one of their offices",
-        "url": "https://www.lesswrong.com/posts/qYC6PnMGKW5vbzbmz/openai-finds-recording-device-in-one-of-their-offices"
+        "title": "Some interesting internal documents from Anthropic litigation",
+        "url": "https://www.lesswrong.com/posts/em5wnA7gpQSvfsuxQ/some-interesting-internal-documents-from-anthropic"
       },
       {
-        "title": "Every Bay Area House Party house party in London 2",
-        "url": "https://www.lesswrong.com/events/NSRE6qDz6WywFAah6/every-bay-area-house-party-house-party-in-london-2"
+        "title": "PPA 10: Deriving the PPA",
+        "url": "https://www.lesswrong.com/posts/oX2jjctf5mpRdjMwv/ppa-10-deriving-the-ppa"
       },
       {
-        "title": "Sleep puzzle system",
-        "url": "https://www.lesswrong.com/posts/aGRCdKzJquahKsfcX/sleep-puzzle-system-1"
+        "title": "PPA 9: Putting it All Together",
+        "url": "https://www.lesswrong.com/posts/fhqbJv4QrK7HzGxEm/ppa-9-putting-it-all-together"
       },
       {
-        "title": "Feierabend",
-        "url": "https://www.lesswrong.com/posts/pu6HaKWx3wcxq4Dvm/feierabend"
+        "title": "PPA 8: The Fermi Paradox, Fine-Tuning, and the SSA",
+        "url": "https://www.lesswrong.com/posts/9tda4SD9Hk46T5aAM/ppa-8-the-fermi-paradox-fine-tuning-and-the-ssa"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
-        "url": "https://arxiv.org/abs/2610.12493"
-      },
-      {
-        "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
-        "url": "https://arxiv.org/abs/2610.12536"
-      },
-      {
-        "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
-        "url": "https://arxiv.org/abs/2610.12542"
-      },
-      {
-        "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
-        "url": "https://arxiv.org/abs/2610.12593"
-      },
-      {
-        "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
-        "url": "https://arxiv.org/abs/2610.12596"
-      },
-      {
-        "title": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
-        "url": "https://arxiv.org/abs/2610.12598"
-      },
-      {
-        "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
-        "url": "https://arxiv.org/abs/2610.12655"
-      },
-      {
-        "title": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
-        "url": "https://arxiv.org/abs/2610.12659"
-      },
-      {
-        "title": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
-        "url": "https://arxiv.org/abs/2610.12762"
-      },
-      {
-        "title": "Representation Alignment from a Few Paired Data via Distilled Optimal Transport",
-        "url": "https://arxiv.org/abs/2610.12781"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
@@ -154,6 +113,14 @@
       {
         "title": "Expanding the Cyber Verification ProgramAnnouncementsOct 6, 2026We\u2019re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
         "url": "https://www.anthropic.com/news/news/cyber-verification-program"
+      },
+      {
+        "title": "Oct 14, 2026PolicyPreparing for the 2026 US midterms",
+        "url": "https://www.anthropic.com/news/news/2026-us-midterms"
+      },
+      {
+        "title": "Oct 14, 2026AnnouncementsAnthropic opens Singapore office and signs MOU with the Government of Singapore",
+        "url": "https://www.anthropic.com/news/news/singapore-office-opening"
       },
       {
         "title": "Oct 8, 2026Announcements2026 Usage Policy update",
@@ -182,14 +149,6 @@
       {
         "title": "Sep 18, 2026AnnouncementsPartnering with Accenture on embedded evaluation",
         "url": "https://www.anthropic.com/news/news/accenture-embedded-evaluation"
-      },
-      {
-        "title": "Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program",
-        "url": "https://www.anthropic.com/news/news/life-sciences-verification-program"
-      },
-      {
-        "title": "Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers",
-        "url": "https://www.anthropic.com/news/news/enterprise-frontier-safeguards"
       }
     ]
   }
