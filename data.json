@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "A Pairing Strategy That Almost Works",
-        "url": "https://www.lesswrong.com/posts/wnv4kHsdfBYLwDXK2/a-pairing-strategy-that-almost-works-1"
+        "title": "Roko Mijic talks AI Risk on The Peter McCormack Show",
+        "url": "https://www.lesswrong.com/posts/Loon8uN59gSgyMfWP/roko-mijic-talks-ai-risk-on-the-peter-mccormack-show"
       },
       {
-        "title": "Good Evals Are Hard: An ImpossibleBench Audit",
-        "url": "https://www.lesswrong.com/posts/qnrjAhiqire7JeoN2/good-evals-are-hard-an-impossiblebench-audit"
+        "title": "LLMs Knowingly Hide Their Mistakes",
+        "url": "https://www.lesswrong.com/posts/w9BCdjwztmAGdrptD/llms-knowingly-hide-their-mistakes-1"
       },
       {
-        "title": "OpenAI Fires Three Safety Researchers",
-        "url": "https://www.lesswrong.com/posts/zCNm2PnqE5Zp6Z2FW/openai-fires-three-safety-researchers"
+        "title": "The Continual Constitutional Convention: How language models revise the documents that govern them",
+        "url": "https://www.lesswrong.com/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models"
       },
       {
-        "title": "'Employee-like' \u2260 Employee-level",
-        "url": "https://www.lesswrong.com/posts/2dKP6sB7DxaQJ2syE/employee-like-employee-level"
+        "title": "China AI Safety Regulation Monthly Monitor, Issue 1 (September 2026)",
+        "url": "https://www.lesswrong.com/posts/TKcjrvcMuY7Ca7Ya9/china-ai-safety-regulation-monthly-monitor-issue-1-september"
       },
       {
-        "title": "Research Lessons I Learned at MATS & Redwood",
-        "url": "https://www.lesswrong.com/posts/Q4rcvgjbgjTwmn8Xa/research-lessons-i-learned-at-mats-and-redwood"
+        "title": "Thoughts on alignment science vs. engineering",
+        "url": "https://www.lesswrong.com/posts/Dz2mwB6T32hsPHxeM/thoughts-on-alignment-science-vs-engineering"
       },
       {
-        "title": "More people should write basic AI safety explainers",
-        "url": "https://www.lesswrong.com/posts/yLdgq9uAxDHzqXdjj/more-people-should-write-basic-ai-safety-explainers"
+        "title": "A Spine within the Swarm",
+        "url": "https://www.lesswrong.com/posts/8hkA4ohpzS4vkwDgx/a-spine-within-the-swarm"
       },
       {
-        "title": "Anthropic Has Told The World Little About Their Rogue Claudes",
-        "url": "https://www.lesswrong.com/posts/XDphrmdrt8yGyRSuL/anthropic-has-told-the-world-little-about-their-rogue"
+        "title": "OpenAI finds recording device in one of their offices",
+        "url": "https://www.lesswrong.com/posts/qYC6PnMGKW5vbzbmz/openai-finds-recording-device-in-one-of-their-offices"
       },
       {
-        "title": "Vibe signaling externalities and the people-to-places pipeline",
-        "url": "https://www.lesswrong.com/posts/ZSD9Ex8ipPW4gnk4o/vibe-signaling-externalities-and-the-people-to-places-1"
+        "title": "Every Bay Area House Party house party in London 2",
+        "url": "https://www.lesswrong.com/events/NSRE6qDz6WywFAah6/every-bay-area-house-party-house-party-in-london-2"
       },
       {
-        "title": "Manifold Steering from a Natural State is Effective and Generalizable, but Relies on Model Accuracy",
-        "url": "https://www.lesswrong.com/posts/cNxsEkkXzGA8aqCJL/manifold-steering-from-a-natural-state-is-effective-and"
+        "title": "Sleep puzzle system",
+        "url": "https://www.lesswrong.com/posts/aGRCdKzJquahKsfcX/sleep-puzzle-system-1"
       },
       {
-        "title": "Do you have any ideas?",
-        "url": "https://www.lesswrong.com/posts/AAnLpPekcLkXAr5FQ/do-you-have-any-ideas"
+        "title": "Feierabend",
+        "url": "https://www.lesswrong.com/posts/pu6HaKWx3wcxq4Dvm/feierabend"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "The Continual Constitutional Convention: How language models revise the documents that govern them",
+        "url": "https://www.alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models"
+      },
       {
         "title": "OpenAI Can't Self-Police Because It Fires the People Raising the Alarm",
         "url": "https://www.alignmentforum.org/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising"
@@ -84,10 +88,6 @@
       {
         "title": "WorkspaceBench: Evaluating Interpretability Methods for the Global Workspace",
         "url": "https://www.alignmentforum.org/posts/Zeg2JztbdhguL48uH/workspacebench-evaluating-interpretability-methods-for-the"
-      },
-      {
-        "title": "[Paper] Stringological sequence prediction III",
-        "url": "https://www.alignmentforum.org/posts/virawHQekJsozwotz/paper-stringological-sequence-prediction-iii"
       }
     ]
   },
