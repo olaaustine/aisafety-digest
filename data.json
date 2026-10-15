@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "I trained GPT-2 with full-batch gradient descent so you don't have to",
-        "url": "https://www.lesswrong.com/posts/9gqjdRyJxSM6kS7zi/i-trained-gpt-2-with-full-batch-gradient-descent-so-you-don"
+        "title": "Staying sane while trying to save the world: Highlights from Spencer Greenberg and Luisa Rodriguez",
+        "url": "https://www.lesswrong.com/posts/7ekHfnQAuDBcpsfy2/staying-sane-while-trying-to-save-the-world-highlights-from"
       },
       {
-        "title": "The basic argument for making AI better at moral philosophy",
-        "url": "https://www.lesswrong.com/posts/auMyz6pjPX5nGLYsL/the-basic-argument-for-making-ai-better-at-moral-philosophy"
+        "title": "A Chinese Perspective on \u201cOn Social Reality in China\u201d",
+        "url": "https://www.lesswrong.com/posts/m4fWCPqWkpb39SKi7/a-chinese-perspective-on-on-social-reality-in-china-2"
       },
       {
-        "title": "When bureaucracy gives you something it shouldn't",
-        "url": "https://www.lesswrong.com/posts/dFDkEiyRyueyKEB2J/when-bureaucracy-gives-you-something-it-shouldn-t"
+        "title": "Headwinds Everywhere (in the Chinese AI Safety Field)",
+        "url": "https://www.lesswrong.com/posts/AdM6Sdg5fZPnrHWSe/headwinds-everywhere-in-the-chinese-ai-safety-field"
       },
       {
-        "title": "AI Marketplaces Can Contribute to, and Profit From, the AI 2040 Plan: Research Directions and Strategy",
-        "url": "https://www.lesswrong.com/posts/Bug3fDHCru6uWDuJg/ai-marketplaces-can-contribute-to-and-profit-from-the-ai"
+        "title": "AI #190: Scion of the Times",
+        "url": "https://www.lesswrong.com/posts/z4guBXZeymkgvd75S/ai-190-scion-of-the-times"
       },
       {
-        "title": "Why are some explanations bad?",
-        "url": "https://www.lesswrong.com/posts/uaW6cKZJkuBYkWXgL/why-are-some-explanations-bad"
+        "title": "What\u2019s up with GPT\u2019s welfare?",
+        "url": "https://www.lesswrong.com/posts/JBGxCBiDWmX48cYry/what-s-up-with-gpt-s-welfare"
       },
       {
-        "title": "Hindsight: a trivia + calibration game",
-        "url": "https://www.lesswrong.com/posts/nnqmnKdjbtigGRHEe/hindsight-a-trivia-calibration-game"
+        "title": "You Should Specify Your Code Unambiguously (and Prove That You Did)",
+        "url": "https://www.lesswrong.com/posts/cfvwcdYxkcLsiSABk/you-should-specify-your-code-unambiguously-and-prove-that"
       },
       {
-        "title": "Some interesting internal documents from Anthropic litigation",
-        "url": "https://www.lesswrong.com/posts/em5wnA7gpQSvfsuxQ/some-interesting-internal-documents-from-anthropic"
+        "title": "Superhuman charisma is coming, and will be tremendously fun and interesting and cause lots of problems",
+        "url": "https://www.lesswrong.com/posts/aZTBBfbfY9GQ48FG7/superhuman-charisma-is-coming-and-will-be-tremendously-fun"
       },
       {
-        "title": "PPA 10: Deriving the PPA",
-        "url": "https://www.lesswrong.com/posts/oX2jjctf5mpRdjMwv/ppa-10-deriving-the-ppa"
+        "title": "Anthropic's unreleased model submits visa applications",
+        "url": "https://www.lesswrong.com/posts/ukjLpcAYLxHKTLhpZ/anthropic-s-unreleased-model-submits-visa-applications"
       },
       {
-        "title": "PPA 9: Putting it All Together",
-        "url": "https://www.lesswrong.com/posts/fhqbJv4QrK7HzGxEm/ppa-9-putting-it-all-together"
+        "title": "Which AI safety organization does what? Puzzle/party games",
+        "url": "https://www.lesswrong.com/posts/cA6Y9TwFbbTwGdXuj/which-ai-safety-organization-does-what-puzzle-party-games"
       },
       {
-        "title": "PPA 8: The Fermi Paradox, Fine-Tuning, and the SSA",
-        "url": "https://www.lesswrong.com/posts/9tda4SD9Hk46T5aAM/ppa-8-the-fermi-paradox-fine-tuning-and-the-ssa"
+        "title": "Linkpost: Neural Networks Are Already Clean",
+        "url": "https://www.lesswrong.com/posts/x4kvabkF2Jk8GLZp8/linkpost-neural-networks-are-already-clean"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Preface to the Computational Agent Theory and ASI Alignment Sequence",
+        "url": "https://www.alignmentforum.org/posts/NQLCdfeNsQHZaJ8iC/preface-to-the-computational-agent-theory-and-asi-alignment"
+      },
       {
         "title": "The Continual Constitutional Convention: How language models revise the documents that govern them",
         "url": "https://www.alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models"
@@ -84,10 +88,6 @@
       {
         "title": "Why I'm scared of RL",
         "url": "https://www.alignmentforum.org/posts/LcQ9x72eNji2gpS9b/why-i-m-scared-of-rl"
-      },
-      {
-        "title": "WorkspaceBench: Evaluating Interpretability Methods for the Global Workspace",
-        "url": "https://www.alignmentforum.org/posts/Zeg2JztbdhguL48uH/workspacebench-evaluating-interpretability-methods-for-the"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+        "url": "https://arxiv.org/abs/2610.14005"
+      },
+      {
+        "title": "The Silent Failures in Agentic Data Science",
+        "url": "https://arxiv.org/abs/2610.14115"
+      },
+      {
+        "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+        "url": "https://arxiv.org/abs/2610.14118"
+      },
+      {
+        "title": "Correction Training for Diffusion Models",
+        "url": "https://arxiv.org/abs/2610.14136"
+      },
+      {
+        "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
+        "url": "https://arxiv.org/abs/2610.14146"
+      },
+      {
+        "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
+        "url": "https://arxiv.org/abs/2610.14149"
+      },
+      {
+        "title": "Unconstrained CTI-REALM with Open-Weights",
+        "url": "https://arxiv.org/abs/2610.14180"
+      },
+      {
+        "title": "Visualizing the World Model in an Agent's Value Function",
+        "url": "https://arxiv.org/abs/2610.14186"
+      },
+      {
+        "title": "Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models",
+        "url": "https://arxiv.org/abs/2610.14190"
+      },
+      {
+        "title": "Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs",
+        "url": "https://arxiv.org/abs/2610.14209"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
@@ -113,6 +154,10 @@
       {
         "title": "Expanding the Cyber Verification ProgramAnnouncementsOct 6, 2026We\u2019re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
         "url": "https://www.anthropic.com/news/news/cyber-verification-program"
+      },
+      {
+        "title": "Oct 15, 2026AnnouncementsAn update on independent evaluators",
+        "url": "https://www.anthropic.com/news/news/an-update-on-independent-evaluators"
       },
       {
         "title": "Oct 14, 2026PolicyPreparing for the 2026 US midterms",
@@ -145,10 +190,6 @@
       {
         "title": "Sep 23, 2026ScienceClaude discovers a novel enzyme system with CRISPR-like repeats",
         "url": "https://www.anthropic.com/news/news/claude-discovers-novel-enzyme-system"
-      },
-      {
-        "title": "Sep 18, 2026AnnouncementsPartnering with Accenture on embedded evaluation",
-        "url": "https://www.anthropic.com/news/news/accenture-embedded-evaluation"
       }
     ]
   }
