@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Staying sane while trying to save the world: Highlights from Spencer Greenberg and Luisa Rodriguez",
-        "url": "https://www.lesswrong.com/posts/7ekHfnQAuDBcpsfy2/staying-sane-while-trying-to-save-the-world-highlights-from"
+        "title": "A semi-scientific account of what makes me happy and/or what happiness makes me do, etc",
+        "url": "https://www.lesswrong.com/posts/PBHGnRbDikH2XvajQ/a-semi-scientific-account-of-what-makes-me-happy-and-or-what"
       },
       {
-        "title": "A Chinese Perspective on \u201cOn Social Reality in China\u201d",
-        "url": "https://www.lesswrong.com/posts/m4fWCPqWkpb39SKi7/a-chinese-perspective-on-on-social-reality-in-china-2"
+        "title": "Beyond Owls: Subliminal Learning Can Transfer Learned Capabilities and Backdoors",
+        "url": "https://www.lesswrong.com/posts/QJ9hwjDWKyK6hJPuo/beyond-owls-subliminal-learning-can-transfer-learned"
       },
       {
-        "title": "Headwinds Everywhere (in the Chinese AI Safety Field)",
-        "url": "https://www.lesswrong.com/posts/AdM6Sdg5fZPnrHWSe/headwinds-everywhere-in-the-chinese-ai-safety-field"
+        "title": "Character Training for Risk-Averse Agents",
+        "url": "https://www.lesswrong.com/posts/HXkQaWpuaxG6fMkTm/character-training-for-risk-averse-agents"
       },
       {
-        "title": "AI #190: Scion of the Times",
-        "url": "https://www.lesswrong.com/posts/z4guBXZeymkgvd75S/ai-190-scion-of-the-times"
+        "title": "\"About a quarter of them contained bugs\": Gemini 4's ML R&D benchmark",
+        "url": "https://www.lesswrong.com/posts/7jmfDBu2GLCfdwSte/about-a-quarter-of-them-contained-bugs-gemini-4-s-ml-r-and-d"
       },
       {
-        "title": "What\u2019s up with GPT\u2019s welfare?",
-        "url": "https://www.lesswrong.com/posts/JBGxCBiDWmX48cYry/what-s-up-with-gpt-s-welfare"
+        "title": "Screwtape: Adversarial Transcript Editing for Monitor Red-Teaming",
+        "url": "https://www.lesswrong.com/posts/Z8jjgjfpAJocqZiET/screwtape-adversarial-transcript-editing-for-monitor-red"
       },
       {
-        "title": "You Should Specify Your Code Unambiguously (and Prove That You Did)",
-        "url": "https://www.lesswrong.com/posts/cfvwcdYxkcLsiSABk/you-should-specify-your-code-unambiguously-and-prove-that"
+        "title": "P(Anyone Builds It & Everyone Dies) = 0.62?",
+        "url": "https://www.lesswrong.com/posts/JfiW3k56PKapsephz/p-anyone-builds-it-and-everyone-dies-0-62"
       },
       {
-        "title": "Superhuman charisma is coming, and will be tremendously fun and interesting and cause lots of problems",
-        "url": "https://www.lesswrong.com/posts/aZTBBfbfY9GQ48FG7/superhuman-charisma-is-coming-and-will-be-tremendously-fun"
+        "title": "Monthly Roundup #47: October 2026",
+        "url": "https://www.lesswrong.com/posts/aLjkbY3KMajc5zemE/monthly-roundup-47-october-2026"
       },
       {
-        "title": "Anthropic's unreleased model submits visa applications",
-        "url": "https://www.lesswrong.com/posts/ukjLpcAYLxHKTLhpZ/anthropic-s-unreleased-model-submits-visa-applications"
+        "title": "Projection sampling preserves capabilities but diminishes gains from alignment fine-tuning",
+        "url": "https://www.lesswrong.com/posts/xFxmqkjLNa2Bvs7cw/projection-sampling-preserves-capabilities-but-diminishes"
       },
       {
-        "title": "Which AI safety organization does what? Puzzle/party games",
-        "url": "https://www.lesswrong.com/posts/cA6Y9TwFbbTwGdXuj/which-ai-safety-organization-does-what-puzzle-party-games"
+        "title": "Tips for Multiagent Work with Claude Opus 5.5",
+        "url": "https://www.lesswrong.com/posts/5uyo9fsd2wbuzXZE4/tips-for-multiagent-work-with-claude-opus-5-5"
       },
       {
-        "title": "Linkpost: Neural Networks Are Already Clean",
-        "url": "https://www.lesswrong.com/posts/x4kvabkF2Jk8GLZp8/linkpost-neural-networks-are-already-clean"
+        "title": "Astra and Sol can take low probability actions with no CoT",
+        "url": "https://www.lesswrong.com/posts/yEdknsLwbooQAnxX6/astra-and-sol-can-take-low-probability-actions-with-no-cot"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "A Simpler and Better Debate Protocol for Scalable Oversight",
+        "url": "https://www.alignmentforum.org/posts/Rct9zd4Nd7H8Xzxz8/a-simpler-and-better-debate-protocol-for-scalable-oversight"
+      },
       {
         "title": "Preface to the Computational Agent Theory and ASI Alignment Sequence",
         "url": "https://www.alignmentforum.org/posts/NQLCdfeNsQHZaJ8iC/preface-to-the-computational-agent-theory-and-asi-alignment"
@@ -84,10 +88,6 @@
       {
         "title": "Latent reasoning architectures would likely undermine CoT, our strongest oversight tool",
         "url": "https://www.alignmentforum.org/posts/6m29SfjbittooYojj/latent-reasoning-architectures-would-likely-undermine-cot"
-      },
-      {
-        "title": "Why I'm scared of RL",
-        "url": "https://www.alignmentforum.org/posts/LcQ9x72eNji2gpS9b/why-i-m-scared-of-rl"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
-        "url": "https://arxiv.org/abs/2610.14005"
+        "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+        "url": "https://arxiv.org/abs/2610.20665"
       },
       {
-        "title": "The Silent Failures in Agentic Data Science",
-        "url": "https://arxiv.org/abs/2610.14115"
+        "title": "Evaluating Model Capabilities After Benchmark Saturation",
+        "url": "https://arxiv.org/abs/2610.20667"
       },
       {
-        "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
-        "url": "https://arxiv.org/abs/2610.14118"
+        "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
+        "url": "https://arxiv.org/abs/2610.20669"
       },
       {
-        "title": "Correction Training for Diffusion Models",
-        "url": "https://arxiv.org/abs/2610.14136"
+        "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
+        "url": "https://arxiv.org/abs/2610.20675"
       },
       {
-        "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
-        "url": "https://arxiv.org/abs/2610.14146"
+        "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
+        "url": "https://arxiv.org/abs/2610.20676"
       },
       {
-        "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
-        "url": "https://arxiv.org/abs/2610.14149"
+        "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
+        "url": "https://arxiv.org/abs/2610.20679"
       },
       {
-        "title": "Unconstrained CTI-REALM with Open-Weights",
-        "url": "https://arxiv.org/abs/2610.14180"
+        "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
+        "url": "https://arxiv.org/abs/2610.20681"
       },
       {
-        "title": "Visualizing the World Model in an Agent's Value Function",
-        "url": "https://arxiv.org/abs/2610.14186"
+        "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
+        "url": "https://arxiv.org/abs/2610.20685"
       },
       {
-        "title": "Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models",
-        "url": "https://arxiv.org/abs/2610.14190"
+        "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
+        "url": "https://arxiv.org/abs/2610.20764"
       },
       {
-        "title": "Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs",
-        "url": "https://arxiv.org/abs/2610.14209"
+        "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
+        "url": "https://arxiv.org/abs/2610.20780"
       }
     ]
   },
