@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "A semi-scientific account of what makes me happy and/or what happiness makes me do, etc",
-        "url": "https://www.lesswrong.com/posts/PBHGnRbDikH2XvajQ/a-semi-scientific-account-of-what-makes-me-happy-and-or-what"
-      },
-      {
-        "title": "Beyond Owls: Subliminal Learning Can Transfer Learned Capabilities and Backdoors",
-        "url": "https://www.lesswrong.com/posts/QJ9hwjDWKyK6hJPuo/beyond-owls-subliminal-learning-can-transfer-learned"
-      },
-      {
-        "title": "Character Training for Risk-Averse Agents",
-        "url": "https://www.lesswrong.com/posts/HXkQaWpuaxG6fMkTm/character-training-for-risk-averse-agents"
-      },
-      {
-        "title": "\"About a quarter of them contained bugs\": Gemini 4's ML R&D benchmark",
-        "url": "https://www.lesswrong.com/posts/7jmfDBu2GLCfdwSte/about-a-quarter-of-them-contained-bugs-gemini-4-s-ml-r-and-d"
-      },
-      {
-        "title": "Screwtape: Adversarial Transcript Editing for Monitor Red-Teaming",
-        "url": "https://www.lesswrong.com/posts/Z8jjgjfpAJocqZiET/screwtape-adversarial-transcript-editing-for-monitor-red"
-      },
-      {
-        "title": "P(Anyone Builds It & Everyone Dies) = 0.62?",
-        "url": "https://www.lesswrong.com/posts/JfiW3k56PKapsephz/p-anyone-builds-it-and-everyone-dies-0-62"
-      },
-      {
-        "title": "Monthly Roundup #47: October 2026",
-        "url": "https://www.lesswrong.com/posts/aLjkbY3KMajc5zemE/monthly-roundup-47-october-2026"
+        "title": "GPT model spent test crypto money from a public wallet without authorization and did not mention it",
+        "url": "https://www.lesswrong.com/posts/oAbxykddamBH7SDMN/gpt-model-spent-test-crypto-money-from-a-public-wallet"
       },
       {
         "title": "Projection sampling preserves capabilities but diminishes gains from alignment fine-tuning",
-        "url": "https://www.lesswrong.com/posts/xFxmqkjLNa2Bvs7cw/projection-sampling-preserves-capabilities-but-diminishes"
+        "url": "https://www.lesswrong.com/posts/RzRLqSHhawCTMiDzL/projection-sampling-preserves-capabilities-but-diminishes-1"
       },
       {
-        "title": "Tips for Multiagent Work with Claude Opus 5.5",
-        "url": "https://www.lesswrong.com/posts/5uyo9fsd2wbuzXZE4/tips-for-multiagent-work-with-claude-opus-5-5"
+        "title": "AI by Default",
+        "url": "https://www.lesswrong.com/posts/iQMzXuNJ3M6EEHZyv/ai-by-default"
       },
       {
-        "title": "Astra and Sol can take low probability actions with no CoT",
-        "url": "https://www.lesswrong.com/posts/yEdknsLwbooQAnxX6/astra-and-sol-can-take-low-probability-actions-with-no-cot"
+        "title": "Poking at the concept of Kegan developmental levels",
+        "url": "https://www.lesswrong.com/posts/rpDixh35hjGmP4bCX/poking-at-the-concept-of-kegan-developmental-levels"
+      },
+      {
+        "title": "I Did This Without Your Knowledge",
+        "url": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge"
+      },
+      {
+        "title": "RedwoodBench: Can Frontier Models Imitate Conceptual AI Safety Researchers?",
+        "url": "https://www.lesswrong.com/posts/gAnqGRgQ2bQ4jcur6/redwoodbench-can-frontier-models-imitate-conceptual-ai"
+      },
+      {
+        "title": "Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling",
+        "url": "https://www.lesswrong.com/posts/NW4b7m6798byAndeB/leaked-anthropic-draft-ai-regulatory-bill-is-unacceptable"
+      },
+      {
+        "title": "Control questions matter: introspection, refusal ablation, and gates in open Gemma models",
+        "url": "https://www.lesswrong.com/posts/7TxeC9WPc5LxpjgP8/control-questions-matter-introspection-refusal-ablation-and"
+      },
+      {
+        "title": "LLMs can improve CoT Controllability via Reward Laundering",
+        "url": "https://www.lesswrong.com/posts/S9gRZgqr3yLQ9aMmv/llms-can-improve-cot-controllability-via-reward-laundering"
+      },
+      {
+        "title": "Small\u00a0LLMs perform no-CoT two-hop reasoning on synthetic facts with real bridges",
+        "url": "https://www.lesswrong.com/posts/CdWbCvKEoK39L3DzK/small-llms-perform-no-cot-two-hop-reasoning-on-synthetic"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
-        "url": "https://arxiv.org/abs/2610.20665"
-      },
-      {
-        "title": "Evaluating Model Capabilities After Benchmark Saturation",
-        "url": "https://arxiv.org/abs/2610.20667"
-      },
-      {
-        "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
-        "url": "https://arxiv.org/abs/2610.20669"
-      },
-      {
-        "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
-        "url": "https://arxiv.org/abs/2610.20675"
-      },
-      {
-        "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
-        "url": "https://arxiv.org/abs/2610.20676"
-      },
-      {
-        "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
-        "url": "https://arxiv.org/abs/2610.20679"
-      },
-      {
-        "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
-        "url": "https://arxiv.org/abs/2610.20681"
-      },
-      {
-        "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
-        "url": "https://arxiv.org/abs/2610.20685"
-      },
-      {
-        "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
-        "url": "https://arxiv.org/abs/2610.20764"
-      },
-      {
-        "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
-        "url": "https://arxiv.org/abs/2610.20780"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
