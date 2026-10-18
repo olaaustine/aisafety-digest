@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "GPT model spent test crypto money from a public wallet without authorization and did not mention it",
-        "url": "https://www.lesswrong.com/posts/oAbxykddamBH7SDMN/gpt-model-spent-test-crypto-money-from-a-public-wallet"
+        "title": "Quick Thoughts on Overhang Arguments",
+        "url": "https://www.lesswrong.com/posts/aJSdGMzgFRFBcBhGp/quick-thoughts-on-overhang-arguments"
       },
       {
-        "title": "Projection sampling preserves capabilities but diminishes gains from alignment fine-tuning",
-        "url": "https://www.lesswrong.com/posts/RzRLqSHhawCTMiDzL/projection-sampling-preserves-capabilities-but-diminishes-1"
+        "title": "Was the HuggingFace hacking incident scheming?",
+        "url": "https://www.lesswrong.com/posts/F2feAMiHGAQgHHutg/was-the-huggingface-hacking-incident-scheming"
       },
       {
-        "title": "AI by Default",
-        "url": "https://www.lesswrong.com/posts/iQMzXuNJ3M6EEHZyv/ai-by-default"
+        "title": "The Lightcone Needs You To Plan a Vacation",
+        "url": "https://www.lesswrong.com/posts/97HTJrxrqJqEYt6am/the-lightcone-needs-you-to-plan-a-vacation"
       },
       {
-        "title": "Poking at the concept of Kegan developmental levels",
-        "url": "https://www.lesswrong.com/posts/rpDixh35hjGmP4bCX/poking-at-the-concept-of-kegan-developmental-levels"
+        "title": "The Snitch Reflex: Can We Force Language Models to Be Compulsively Honest?",
+        "url": "https://www.lesswrong.com/posts/AiGPEwuaNzkwgtPFK/the-snitch-reflex-can-we-force-language-models-to-be-1"
       },
       {
-        "title": "I Did This Without Your Knowledge",
-        "url": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge"
+        "title": "Disproving the SIA disproves the Fine-Tuning Argument and Boltzmann-brain-based arguments",
+        "url": "https://www.lesswrong.com/posts/oYjc7gvwDgSGAhQpZ/disproving-the-sia-disproves-the-fine-tuning-argument-and"
       },
       {
-        "title": "RedwoodBench: Can Frontier Models Imitate Conceptual AI Safety Researchers?",
-        "url": "https://www.lesswrong.com/posts/gAnqGRgQ2bQ4jcur6/redwoodbench-can-frontier-models-imitate-conceptual-ai"
+        "title": "Preparing for a Cybersecurity Catastrophe",
+        "url": "https://www.lesswrong.com/posts/8S5wwiJawN9v2dbmu/preparing-for-a-cybersecurity-catastrophe"
       },
       {
-        "title": "Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling",
-        "url": "https://www.lesswrong.com/posts/NW4b7m6798byAndeB/leaked-anthropic-draft-ai-regulatory-bill-is-unacceptable"
+        "title": "The Alignment Problem: Computer Science Meets Analytic Philosophy",
+        "url": "https://www.lesswrong.com/posts/Emp7awtxsYn8MusNq/the-alignment-problem-computer-science-meets-analytic"
       },
       {
-        "title": "Control questions matter: introspection, refusal ablation, and gates in open Gemma models",
-        "url": "https://www.lesswrong.com/posts/7TxeC9WPc5LxpjgP8/control-questions-matter-introspection-refusal-ablation-and"
+        "title": "Chain of Thought For Humans",
+        "url": "https://www.lesswrong.com/posts/FZ6FPNCfqikNgbyef/chain-of-thought-for-humans"
       },
       {
-        "title": "LLMs can improve CoT Controllability via Reward Laundering",
-        "url": "https://www.lesswrong.com/posts/S9gRZgqr3yLQ9aMmv/llms-can-improve-cot-controllability-via-reward-laundering"
+        "title": "The Most Important Political Dimension is Certainty",
+        "url": "https://www.lesswrong.com/posts/egp2cSXbQH4qc5rgR/the-most-important-political-dimension-is-certainty"
       },
       {
-        "title": "Small\u00a0LLMs perform no-CoT two-hop reasoning on synthetic facts with real bridges",
-        "url": "https://www.lesswrong.com/posts/CdWbCvKEoK39L3DzK/small-llms-perform-no-cot-two-hop-reasoning-on-synthetic"
+        "title": "Spontaneous verbal evidence synthesis in LLMs",
+        "url": "https://www.lesswrong.com/posts/ZWNruQZnrH4Yeusj5/spontaneous-verbal-evidence-synthesis-in-llms"
       }
     ]
   },
@@ -49,6 +49,14 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "The Alignment Problem: Computer Science Meets Analytic Philosophy",
+        "url": "https://www.alignmentforum.org/posts/Emp7awtxsYn8MusNq/the-alignment-problem-computer-science-meets-analytic"
+      },
+      {
+        "title": "Deconfusing Corrigibility",
+        "url": "https://www.alignmentforum.org/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility"
+      },
       {
         "title": "A Simpler and Better Debate Protocol for Scalable Oversight",
         "url": "https://www.alignmentforum.org/posts/Rct9zd4Nd7H8Xzxz8/a-simpler-and-better-debate-protocol-for-scalable-oversight"
@@ -80,14 +88,6 @@
       {
         "title": "Fixed-weight models are adversarially vulnerable: hence misaligned",
         "url": "https://www.alignmentforum.org/posts/9LWK9Hh3Qsg36e3FS/fixed-weight-models-are-adversarially-vulnerable-hence"
-      },
-      {
-        "title": "Continual learning might make your blocking monitors nearly useless",
-        "url": "https://www.alignmentforum.org/posts/QnDqGbKehEB3DxJAp/continual-learning-might-make-your-blocking-monitors-nearly"
-      },
-      {
-        "title": "Latent reasoning architectures would likely undermine CoT, our strongest oversight tool",
-        "url": "https://www.alignmentforum.org/posts/6m29SfjbittooYojj/latent-reasoning-architectures-would-likely-undermine-cot"
       }
     ]
   },
@@ -113,6 +113,10 @@
       {
         "title": "Expanding the Cyber Verification ProgramAnnouncementsOct 6, 2026We\u2019re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
         "url": "https://www.anthropic.com/news/news/cyber-verification-program"
+      },
+      {
+        "title": "Oct 18, 2026AnnouncementsInvesting in the public benefit",
+        "url": "https://www.anthropic.com/news/news/public-benefit-fund"
       },
       {
         "title": "Oct 15, 2026AnnouncementsAn update on independent evaluators",
@@ -145,10 +149,6 @@
       {
         "title": "Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience",
         "url": "https://www.anthropic.com/news/news/barclays-scales-claude"
-      },
-      {
-        "title": "Sep 23, 2026ScienceClaude discovers a novel enzyme system with CRISPR-like repeats",
-        "url": "https://www.anthropic.com/news/news/claude-discovers-novel-enzyme-system"
       }
     ]
   }
