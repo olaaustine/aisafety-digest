@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Quick Thoughts on Overhang Arguments",
-        "url": "https://www.lesswrong.com/posts/aJSdGMzgFRFBcBhGp/quick-thoughts-on-overhang-arguments"
+        "title": "Human vs AI in Go in 2026: Lessons for superintelligence?",
+        "url": "https://www.lesswrong.com/posts/FZmEpvcdbgnRLmAKg/human-vs-ai-in-go-in-2026-lessons-for-superintelligence"
       },
       {
-        "title": "Was the HuggingFace hacking incident scheming?",
-        "url": "https://www.lesswrong.com/posts/F2feAMiHGAQgHHutg/was-the-huggingface-hacking-incident-scheming"
+        "title": "GLM-5.1 Has ~Astra Level CoT Control",
+        "url": "https://www.lesswrong.com/posts/q3pckKRxRXWBthbKb/glm-5-1-has-astra-level-cot-control"
       },
       {
-        "title": "The Lightcone Needs You To Plan a Vacation",
-        "url": "https://www.lesswrong.com/posts/97HTJrxrqJqEYt6am/the-lightcone-needs-you-to-plan-a-vacation"
+        "title": "What do the other 80 percent mean?",
+        "url": "https://www.lesswrong.com/posts/Bzk4g9KvRWr8GPr6F/what-do-the-other-80-percent-mean"
       },
       {
-        "title": "The Snitch Reflex: Can We Force Language Models to Be Compulsively Honest?",
-        "url": "https://www.lesswrong.com/posts/AiGPEwuaNzkwgtPFK/the-snitch-reflex-can-we-force-language-models-to-be-1"
+        "title": "Permanent underclass taxonomy",
+        "url": "https://www.lesswrong.com/posts/7LGcCDcNrWvXpH2RP/permanent-underclass-taxonomy"
       },
       {
-        "title": "Disproving the SIA disproves the Fine-Tuning Argument and Boltzmann-brain-based arguments",
-        "url": "https://www.lesswrong.com/posts/oYjc7gvwDgSGAhQpZ/disproving-the-sia-disproves-the-fine-tuning-argument-and"
+        "title": "How is \"prosaic aligned AI\" supposed to work?",
+        "url": "https://www.lesswrong.com/posts/YxCS3snoMRGDhyrZk/how-is-prosaic-aligned-ai-supposed-to-work"
       },
       {
-        "title": "Preparing for a Cybersecurity Catastrophe",
-        "url": "https://www.lesswrong.com/posts/8S5wwiJawN9v2dbmu/preparing-for-a-cybersecurity-catastrophe"
+        "title": "Gradient Routing Localizes and Removes Unintended Behaviors in RL",
+        "url": "https://www.lesswrong.com/posts/mKJEBiuuxHKuCoTB6/gradient-routing-localizes-and-removes-unintended-behaviors"
       },
       {
-        "title": "The Alignment Problem: Computer Science Meets Analytic Philosophy",
-        "url": "https://www.lesswrong.com/posts/Emp7awtxsYn8MusNq/the-alignment-problem-computer-science-meets-analytic"
+        "title": "A Video by Adam Conover and the \u201cA.I. Distraction Narrative\u201d",
+        "url": "https://www.lesswrong.com/posts/9RRqT2EdysASmdRmt/a-video-by-adam-conover-and-the-a-i-distraction-narrative"
       },
       {
-        "title": "Chain of Thought For Humans",
-        "url": "https://www.lesswrong.com/posts/FZ6FPNCfqikNgbyef/chain-of-thought-for-humans"
+        "title": "Improving the flow of interesting things",
+        "url": "https://www.lesswrong.com/posts/adCPqbs47dsckoao9/improving-the-flow-of-interesting-things"
       },
       {
-        "title": "The Most Important Political Dimension is Certainty",
-        "url": "https://www.lesswrong.com/posts/egp2cSXbQH4qc5rgR/the-most-important-political-dimension-is-certainty"
+        "title": "huggingface.wtf, an accessible but complete explanation",
+        "url": "https://www.lesswrong.com/posts/BBQdGJZSjMTnhccZC/huggingface-wtf-an-accessible-but-complete-explanation"
       },
       {
-        "title": "Spontaneous verbal evidence synthesis in LLMs",
-        "url": "https://www.lesswrong.com/posts/ZWNruQZnrH4Yeusj5/spontaneous-verbal-evidence-synthesis-in-llms"
+        "title": "AI as a Normal Technology should be a vision",
+        "url": "https://www.lesswrong.com/posts/3eD7Bab5kArqkdrQs/ai-as-a-normal-technology-should-be-a-vision"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
+        "url": "https://arxiv.org/abs/2610.22373"
+      },
+      {
+        "title": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
+        "url": "https://arxiv.org/abs/2610.22400"
+      },
+      {
+        "title": "From Events to Reasoning: Hierarchical Rule Composition over Explicit States",
+        "url": "https://arxiv.org/abs/2610.22403"
+      },
+      {
+        "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
+        "url": "https://arxiv.org/abs/2610.22408"
+      },
+      {
+        "title": "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model",
+        "url": "https://arxiv.org/abs/2610.22420"
+      },
+      {
+        "title": "PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents",
+        "url": "https://arxiv.org/abs/2610.22426"
+      },
+      {
+        "title": "From Natural Language Intent to Executable Control: Hierarchical Feedback-Guided LLM Planning for Multi-component Cyber-Physical Systems",
+        "url": "https://arxiv.org/abs/2610.22441"
+      },
+      {
+        "title": "Null Controls Are Necessary but Not Sufficient: Evaluating Acceptance Guards for Scientific Discovery and Interpretability",
+        "url": "https://arxiv.org/abs/2610.22445"
+      },
+      {
+        "title": "Learnable Splines for Unstructured Neural Operators",
+        "url": "https://arxiv.org/abs/2610.22446"
+      },
+      {
+        "title": "Functional Welfare for AI Safety",
+        "url": "https://arxiv.org/abs/2610.22460"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
