@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Human vs AI in Go in 2026: Lessons for superintelligence?",
-        "url": "https://www.lesswrong.com/posts/FZmEpvcdbgnRLmAKg/human-vs-ai-in-go-in-2026-lessons-for-superintelligence"
+        "title": "Anthropic Does Not Understand Why Its Draft Bill Was Unacceptable and Troubling",
+        "url": "https://www.lesswrong.com/posts/qxAroimgs4BvBHz2i/anthropic-does-not-understand-why-its-draft-bill-was"
       },
       {
-        "title": "GLM-5.1 Has ~Astra Level CoT Control",
-        "url": "https://www.lesswrong.com/posts/q3pckKRxRXWBthbKb/glm-5-1-has-astra-level-cot-control"
+        "title": "Updatelessness explained",
+        "url": "https://www.lesswrong.com/posts/dhdCnNbqcPkvFdxnC/updatelessness-explained"
       },
       {
-        "title": "What do the other 80 percent mean?",
-        "url": "https://www.lesswrong.com/posts/Bzk4g9KvRWr8GPr6F/what-do-the-other-80-percent-mean"
+        "title": "Why do fictional jailbreaks work?",
+        "url": "https://www.lesswrong.com/posts/MttHvYu8SeKogg7xE/why-do-fictional-jailbreaks-work"
       },
       {
-        "title": "Permanent underclass taxonomy",
-        "url": "https://www.lesswrong.com/posts/7LGcCDcNrWvXpH2RP/permanent-underclass-taxonomy"
+        "title": "How I discovered an Exoplanet & the science apocalypse",
+        "url": "https://www.lesswrong.com/posts/kdybMpcFJ5iwCDJsd/how-i-discovered-an-exoplanet-and-the-science-apocalypse"
       },
       {
-        "title": "How is \"prosaic aligned AI\" supposed to work?",
-        "url": "https://www.lesswrong.com/posts/YxCS3snoMRGDhyrZk/how-is-prosaic-aligned-ai-supposed-to-work"
+        "title": "Which AI economics and governance research most needs independent expert evaluation? (help The Unjournal prioritize it)",
+        "url": "https://www.lesswrong.com/posts/eXiXGMpyBqvHQarTA/which-ai-economics-and-governance-research-most-needs"
       },
       {
-        "title": "Gradient Routing Localizes and Removes Unintended Behaviors in RL",
-        "url": "https://www.lesswrong.com/posts/mKJEBiuuxHKuCoTB6/gradient-routing-localizes-and-removes-unintended-behaviors"
+        "title": "A brief(ish) introduction to LM psychology",
+        "url": "https://www.lesswrong.com/posts/EW8oncpXdanfjssZ3/a-brief-ish-introduction-to-lm-psychology"
       },
       {
-        "title": "A Video by Adam Conover and the \u201cA.I. Distraction Narrative\u201d",
-        "url": "https://www.lesswrong.com/posts/9RRqT2EdysASmdRmt/a-video-by-adam-conover-and-the-a-i-distraction-narrative"
+        "title": "ACS Infra: free access to large base models for LLM psychology research",
+        "url": "https://www.lesswrong.com/posts/yzaKWxsJzJjyExSAP/acs-infra-free-access-to-large-base-models-for-llm"
       },
       {
-        "title": "Improving the flow of interesting things",
-        "url": "https://www.lesswrong.com/posts/adCPqbs47dsckoao9/improving-the-flow-of-interesting-things"
+        "title": "Agent Action Steering",
+        "url": "https://www.lesswrong.com/posts/foyyX4y9eGYYfELoH/agent-action-steering"
       },
       {
-        "title": "huggingface.wtf, an accessible but complete explanation",
-        "url": "https://www.lesswrong.com/posts/BBQdGJZSjMTnhccZC/huggingface-wtf-an-accessible-but-complete-explanation"
+        "title": "What to sort out before the money lands",
+        "url": "https://www.lesswrong.com/posts/6KuEywqzBDmFayRpQ/what-to-sort-out-before-the-money-lands"
       },
       {
-        "title": "AI as a Normal Technology should be a vision",
-        "url": "https://www.lesswrong.com/posts/3eD7Bab5kArqkdrQs/ai-as-a-normal-technology-should-be-a-vision"
+        "title": "VPD's Evaluation Adversary Finds Systematic Defects in the Released Decomposition",
+        "url": "https://www.lesswrong.com/posts/tGdKJPmyaiHnqkLem/vpd-s-evaluation-adversary-finds-systematic-defects-in-the"
       }
     ]
   },
@@ -104,92 +104,51 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
-        "url": "https://arxiv.org/abs/2610.22373"
-      },
-      {
-        "title": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
-        "url": "https://arxiv.org/abs/2610.22400"
-      },
-      {
-        "title": "From Events to Reasoning: Hierarchical Rule Composition over Explicit States",
-        "url": "https://arxiv.org/abs/2610.22403"
-      },
-      {
-        "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
-        "url": "https://arxiv.org/abs/2610.22408"
-      },
-      {
-        "title": "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model",
-        "url": "https://arxiv.org/abs/2610.22420"
-      },
-      {
-        "title": "PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents",
-        "url": "https://arxiv.org/abs/2610.22426"
-      },
-      {
-        "title": "From Natural Language Intent to Executable Control: Hierarchical Feedback-Guided LLM Planning for Multi-component Cyber-Physical Systems",
-        "url": "https://arxiv.org/abs/2610.22441"
-      },
-      {
-        "title": "Null Controls Are Necessary but Not Sufficient: Evaluating Acceptance Guards for Scientific Discovery and Interpretability",
-        "url": "https://arxiv.org/abs/2610.22445"
-      },
-      {
-        "title": "Learnable Splines for Unstructured Neural Operators",
-        "url": "https://arxiv.org/abs/2610.22446"
-      },
-      {
-        "title": "Functional Welfare for AI Safety",
-        "url": "https://arxiv.org/abs/2610.22460"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "articles": [
       {
-        "title": "Expanding the Cyber Verification ProgramAnnouncementsOct 6, 2026We\u2019re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+        "title": "Announcements",
+        "url": "https://www.anthropic.com/news/news/announcements"
+      },
+      {
+        "title": "Expanding the Cyber Verification ProgramWe\u2019re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
         "url": "https://www.anthropic.com/news/news/cyber-verification-program"
       },
       {
-        "title": "Oct 18, 2026AnnouncementsInvesting in the public benefit",
+        "title": "Partnerships",
+        "url": "https://www.anthropic.com/news/news/partnerships"
+      },
+      {
+        "title": "Investing in the public benefit",
         "url": "https://www.anthropic.com/news/news/public-benefit-fund"
       },
       {
-        "title": "Oct 15, 2026AnnouncementsAn update on independent evaluators",
+        "title": "An update on independent evaluators",
         "url": "https://www.anthropic.com/news/news/an-update-on-independent-evaluators"
       },
       {
-        "title": "Oct 14, 2026PolicyPreparing for the 2026 US midterms",
+        "title": "Preparing for the 2026 US midterms",
         "url": "https://www.anthropic.com/news/news/2026-us-midterms"
       },
       {
-        "title": "Oct 14, 2026AnnouncementsAnthropic opens Singapore office and signs MOU with the Government of Singapore",
+        "title": "Safeguards",
+        "url": "https://www.anthropic.com/news/news/safeguards"
+      },
+      {
+        "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
         "url": "https://www.anthropic.com/news/news/singapore-office-opening"
       },
       {
-        "title": "Oct 8, 2026Announcements2026 Usage Policy update",
-        "url": "https://www.anthropic.com/news/news/2026-usage-policy-update"
+        "title": "Strengthening our defenses against distillation attacks",
+        "url": "https://www.anthropic.com/news/news/distillation-defenses"
       },
       {
-        "title": "Oct 8, 2026AnnouncementsBuilding on our commitment to American scientific discovery",
-        "url": "https://www.anthropic.com/news/news/genesis-mission-commitment"
-      },
-      {
-        "title": "Oct 8, 2026AnnouncementsIntroducing the Anthropic Cyber Mission",
+        "title": "Introducing the Anthropic Cyber Mission",
         "url": "https://www.anthropic.com/news/news/anthropic-cyber-mission"
-      },
-      {
-        "title": "Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-        "url": "https://www.anthropic.com/news/news/claude-frontier-academy"
-      },
-      {
-        "title": "Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience",
-        "url": "https://www.anthropic.com/news/news/barclays-scales-claude"
       }
     ]
   }
