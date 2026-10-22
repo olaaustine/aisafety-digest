@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "What's in CODI's latent recurrent thoughts?",
-        "url": "https://www.lesswrong.com/posts/yetmqjCXEav9iaJGw/what-s-in-codi-s-latent-recurrent-thoughts"
+        "title": "Wah wah wah wah do more AI R&D",
+        "url": "https://www.lesswrong.com/posts/pY76hHbdD4jduX3YH/wah-wah-wah-wah-do-more-ai-r-and-d"
       },
       {
-        "title": "Misaligned!",
-        "url": "https://www.lesswrong.com/posts/TB49wHkqpEb7KdxM2/misaligned"
+        "title": "Is social policing of unusual norm violations hard to learn?",
+        "url": "https://www.lesswrong.com/posts/m8gZSi9pwmciHjqpk/is-social-policing-of-unusual-norm-violations-hard-to-learn"
       },
       {
-        "title": "Model whisperers",
-        "url": "https://www.lesswrong.com/posts/HGwjBmCKWtj5apGkK/model-whisperers"
+        "title": "The full context of the AI agent quote at the end of AI Gone Wild on Netflix",
+        "url": "https://www.lesswrong.com/posts/DjT6CqbNiWNFuHBXw/the-full-context-of-the-ai-agent-quote-at-the-end-of-ai-gone"
       },
       {
-        "title": "Even GPT-2 passes most functional global workspace tests",
-        "url": "https://www.lesswrong.com/posts/GeKveaNdruATcj2Fj/even-gpt-2-passes-most-functional-global-workspace-tests"
+        "title": "Suddenly, Unclean",
+        "url": "https://www.lesswrong.com/posts/8ozpJjwi5wjiyvuvd/suddenly-unclean"
       },
       {
-        "title": "D\u0336o\u0336n\u0336\u2019\u0336t\u0335\u2800Can\u2019t Look Up",
-        "url": "https://www.lesswrong.com/posts/2YmtD4BLTqaBketsp/d-o-n-t-can-t-look-up"
+        "title": "How could the US and China verifiably slow AI?",
+        "url": "https://www.lesswrong.com/posts/ywrgeAPMn83FxzFBk/how-could-the-us-and-china-verifiably-slow-ai"
       },
       {
-        "title": "Olmo's Kitchen: Probing a Model's Behaviour Across Various Checkpoints.",
-        "url": "https://www.lesswrong.com/posts/rtGq2KyurpauvkboL/olmo-s-kitchen-probing-a-model-s-behaviour-across-various"
+        "title": "Opening up Attention: A QK Transcoder  Dashboard for Feature Pairs",
+        "url": "https://www.lesswrong.com/posts/nYSuQ8YD3QNCPc6vY/opening-up-attention-a-qk-transcoder-dashboard-for-feature-3"
       },
       {
-        "title": "AM-Bench: A theoretically-grounded benchmark for agentic misalignment",
-        "url": "https://www.lesswrong.com/posts/JamFW6CSyrHuWW8FB/am-bench-a-theoretically-grounded-benchmark-for-agentic"
+        "title": "Greater good arguments in AI safety",
+        "url": "https://www.lesswrong.com/posts/WRvxRHMCmc3Qt4axz/greater-good-arguments-in-ai-safety"
       },
       {
-        "title": "Cross-Model In-Context Neurofeedback Reveals (Limited) Activation Control in LLMs",
-        "url": "https://www.lesswrong.com/posts/FqHkuL56oCyBnfsMv/cross-model-in-context-neurofeedback-reveals-limited"
+        "title": "AI #191: The Hackening Begins",
+        "url": "https://www.lesswrong.com/posts/ZoMJdvq9meE4shyzJ/ai-191-the-hackening-begins"
       },
       {
-        "title": "AI Needs A Culture",
-        "url": "https://www.lesswrong.com/posts/3rigoDkMcKj8f9pGF/ai-needs-a-culture"
+        "title": "The Alignment Journal: Our Approach and Related Projects",
+        "url": "https://www.lesswrong.com/posts/xGucXHQ3NLkHZL3Cg/the-alignment-journal-our-approach-and-related-projects"
       },
       {
-        "title": "Frontier models may not be reliable auditors",
-        "url": "https://www.lesswrong.com/posts/GQw8rbMTgNuG5224m/frontier-models-may-not-be-reliable-auditors"
+        "title": "Monitorability evaluations and policy proposals",
+        "url": "https://www.lesswrong.com/posts/zAczYuHQS6jdG5DTg/monitorability-evaluations-and-policy-proposals"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Monitorability evaluations and policy proposals",
+        "url": "https://www.alignmentforum.org/posts/zAczYuHQS6jdG5DTg/monitorability-evaluations-and-policy-proposals"
+      },
       {
         "title": "Neural nets are exceptionally vulnerable to goal self-hack",
         "url": "https://www.alignmentforum.org/posts/eCR373J3NZwFbacnd/neural-nets-are-exceptionally-vulnerable-to-goal-self-hack"
@@ -84,10 +88,6 @@
       {
         "title": "Rocks to Rules: Climbing a Rickety-But-Interoperable Semantic Ladder",
         "url": "https://www.alignmentforum.org/posts/hEDMDFmb322yfufYL/rocks-to-rules-climbing-a-rickety-but-interoperable-semantic"
-      },
-      {
-        "title": "Endogenous Alignment Requires Dependence",
-        "url": "https://www.alignmentforum.org/posts/rp4sB5a6HaPpfD4rA/endogenous-alignment-requires-dependence"
       }
     ]
   },
@@ -164,6 +164,14 @@
         "url": "https://www.anthropic.com/news/news/cyber-verification-program"
       },
       {
+        "title": "Donating Agent Skills to the Agentic AI Foundation",
+        "url": "https://www.anthropic.com/news/news/donating-agent-skills-to-the-agentic-ai-foundation"
+      },
+      {
+        "title": "Open call for guest investigators in the life sciences",
+        "url": "https://www.anthropic.com/news/news/open-call-guest-investigators-life-sciences"
+      },
+      {
         "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
         "url": "https://www.anthropic.com/news/news/christopher-stubbs-joins-long-term-benefit-trust"
       },
@@ -182,14 +190,6 @@
       {
         "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
         "url": "https://www.anthropic.com/news/news/singapore-office-opening"
-      },
-      {
-        "title": "Strengthening our defenses against distillation attacks",
-        "url": "https://www.anthropic.com/news/news/distillation-defenses"
-      },
-      {
-        "title": "Introducing the Anthropic Cyber Mission",
-        "url": "https://www.anthropic.com/news/news/anthropic-cyber-mission"
       }
     ]
   }
