@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Wah wah wah wah do more AI R&D",
-        "url": "https://www.lesswrong.com/posts/pY76hHbdD4jduX3YH/wah-wah-wah-wah-do-more-ai-r-and-d"
+        "title": "Simulated Control Evaluations",
+        "url": "https://www.lesswrong.com/posts/uXiqyoKwpfjWfQXk5/simulated-control-evaluations"
       },
       {
-        "title": "Is social policing of unusual norm violations hard to learn?",
-        "url": "https://www.lesswrong.com/posts/m8gZSi9pwmciHjqpk/is-social-policing-of-unusual-norm-violations-hard-to-learn"
+        "title": "The AGI Chronicles",
+        "url": "https://www.lesswrong.com/posts/x2ZAgjs7XoHvJ4YpN/the-agi-chronicles"
       },
       {
-        "title": "The full context of the AI agent quote at the end of AI Gone Wild on Netflix",
-        "url": "https://www.lesswrong.com/posts/DjT6CqbNiWNFuHBXw/the-full-context-of-the-ai-agent-quote-at-the-end-of-ai-gone"
+        "title": "The Hackening",
+        "url": "https://www.lesswrong.com/posts/iqgZaJMnmyDCYfnuC/the-hackening-1"
       },
       {
-        "title": "Suddenly, Unclean",
-        "url": "https://www.lesswrong.com/posts/8ozpJjwi5wjiyvuvd/suddenly-unclean"
+        "title": "Gradient Routing Generalizes to Unrouted Hack Types",
+        "url": "https://www.lesswrong.com/posts/ie7bSp5ZDwYkCQxuv/gradient-routing-generalizes-to-unrouted-hack-types"
       },
       {
-        "title": "How could the US and China verifiably slow AI?",
-        "url": "https://www.lesswrong.com/posts/ywrgeAPMn83FxzFBk/how-could-the-us-and-china-verifiably-slow-ai"
+        "title": "Power \u2014 a guide for the perplexed",
+        "url": "https://www.lesswrong.com/posts/LCpSwJ5Eks2yJgStY/power-a-guide-for-the-perplexed"
       },
       {
-        "title": "Opening up Attention: A QK Transcoder  Dashboard for Feature Pairs",
-        "url": "https://www.lesswrong.com/posts/nYSuQ8YD3QNCPc6vY/opening-up-attention-a-qk-transcoder-dashboard-for-feature-3"
+        "title": "The Evil is where you aren\u2019t looking",
+        "url": "https://www.lesswrong.com/posts/cdvrAAJATccRhhBGd/the-evil-is-where-you-aren-t-looking"
       },
       {
-        "title": "Greater good arguments in AI safety",
-        "url": "https://www.lesswrong.com/posts/WRvxRHMCmc3Qt4axz/greater-good-arguments-in-ai-safety"
+        "title": "Is Gaming the Future of Humanity?",
+        "url": "https://www.lesswrong.com/posts/vgB7SvquptoagiR7L/is-gaming-the-future-of-humanity"
       },
       {
-        "title": "AI #191: The Hackening Begins",
-        "url": "https://www.lesswrong.com/posts/ZoMJdvq9meE4shyzJ/ai-191-the-hackening-begins"
+        "title": "Why Governments Might Race to Build ASI Even If It Could Kill Us All",
+        "url": "https://www.lesswrong.com/posts/tqxj7wsHEY6JkAReW/why-governments-might-race-to-build-asi-even-if-it-could"
       },
       {
-        "title": "The Alignment Journal: Our Approach and Related Projects",
-        "url": "https://www.lesswrong.com/posts/xGucXHQ3NLkHZL3Cg/the-alignment-journal-our-approach-and-related-projects"
+        "title": "Gnerk Asks How Big a Swarm Can Get Before It Stops Being One Agent",
+        "url": "https://www.lesswrong.com/posts/goawvtgQcrMZtezXv/gnerk-asks-how-big-a-swarm-can-get-before-it-stops-being-one"
       },
       {
-        "title": "Monitorability evaluations and policy proposals",
-        "url": "https://www.lesswrong.com/posts/zAczYuHQS6jdG5DTg/monitorability-evaluations-and-policy-proposals"
+        "title": "Instrumental convergence is incoherent",
+        "url": "https://www.lesswrong.com/posts/oxZfMvQS9NxcNTozL/instrumental-convergence-is-incoherent"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
-        "url": "https://arxiv.org/abs/2610.26887"
+        "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
+        "url": "https://arxiv.org/abs/2610.28686"
       },
       {
-        "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
-        "url": "https://arxiv.org/abs/2610.26899"
+        "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
+        "url": "https://arxiv.org/abs/2610.28698"
       },
       {
-        "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
-        "url": "https://arxiv.org/abs/2610.26904"
+        "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
+        "url": "https://arxiv.org/abs/2610.28706"
       },
       {
-        "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
-        "url": "https://arxiv.org/abs/2610.26913"
+        "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
+        "url": "https://arxiv.org/abs/2610.28763"
       },
       {
-        "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
-        "url": "https://arxiv.org/abs/2610.26924"
+        "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
+        "url": "https://arxiv.org/abs/2610.28815"
       },
       {
-        "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
-        "url": "https://arxiv.org/abs/2610.26941"
+        "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
+        "url": "https://arxiv.org/abs/2610.28826"
       },
       {
-        "title": "Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4",
-        "url": "https://arxiv.org/abs/2610.26942"
+        "title": "Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis",
+        "url": "https://arxiv.org/abs/2610.28836"
       },
       {
-        "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
-        "url": "https://arxiv.org/abs/2610.26943"
+        "title": "Speedrunning Relational Foundation Model Pretraining",
+        "url": "https://arxiv.org/abs/2610.28855"
       },
       {
-        "title": "LightCRS: Lightweight Multi-Domain Conversational Recommendation System",
-        "url": "https://arxiv.org/abs/2610.26948"
+        "title": "To Manipulate or Not: Opinion Dynamics in LLM Interactions",
+        "url": "https://arxiv.org/abs/2610.28875"
       },
       {
-        "title": "When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability",
-        "url": "https://arxiv.org/abs/2610.26964"
+        "title": "Fig: Automated Multiagent Behavior Elicitor",
+        "url": "https://arxiv.org/abs/2610.28891"
       }
     ]
   },
