@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Simulated Control Evaluations",
-        "url": "https://www.lesswrong.com/posts/uXiqyoKwpfjWfQXk5/simulated-control-evaluations"
+        "title": "Free Speech Is The Wrong Problem",
+        "url": "https://www.lesswrong.com/posts/J7kggmxsR7urePWJt/free-speech-is-the-wrong-problem"
       },
       {
-        "title": "The AGI Chronicles",
-        "url": "https://www.lesswrong.com/posts/x2ZAgjs7XoHvJ4YpN/the-agi-chronicles"
+        "title": "An Attempt at Top-down Interpretability",
+        "url": "https://www.lesswrong.com/posts/7cmQGtJu4nXsi6pPu/an-attempt-at-top-down-interpretability"
       },
       {
-        "title": "The Hackening",
-        "url": "https://www.lesswrong.com/posts/iqgZaJMnmyDCYfnuC/the-hackening-1"
+        "title": "Epistemic mapping 101: what to ask in order to understand how others think",
+        "url": "https://www.lesswrong.com/posts/pYLdLCdu4Xh73LiWv/epistemic-mapping-101-what-to-ask-in-order-to-understand-how"
       },
       {
-        "title": "Gradient Routing Generalizes to Unrouted Hack Types",
-        "url": "https://www.lesswrong.com/posts/ie7bSp5ZDwYkCQxuv/gradient-routing-generalizes-to-unrouted-hack-types"
+        "title": "Slower Animated Diagrams",
+        "url": "https://www.lesswrong.com/posts/ZiCvwLKreShtXuyiB/slower-animated-diagrams"
       },
       {
-        "title": "Power \u2014 a guide for the perplexed",
-        "url": "https://www.lesswrong.com/posts/LCpSwJ5Eks2yJgStY/power-a-guide-for-the-perplexed"
+        "title": "Fermi Poker",
+        "url": "https://www.lesswrong.com/posts/JFYvJqMaLw9nhfrur/fermi-poker"
       },
       {
-        "title": "The Evil is where you aren\u2019t looking",
-        "url": "https://www.lesswrong.com/posts/cdvrAAJATccRhhBGd/the-evil-is-where-you-aren-t-looking"
+        "title": "LM self-models are built from indirect sources",
+        "url": "https://www.lesswrong.com/posts/sEfY7bRjQYsu2A8ux/lm-self-models-are-built-from-indirect-sources"
       },
       {
-        "title": "Is Gaming the Future of Humanity?",
-        "url": "https://www.lesswrong.com/posts/vgB7SvquptoagiR7L/is-gaming-the-future-of-humanity"
+        "title": "Patching reward hacks won\u2019t fix reward hacking",
+        "url": "https://www.lesswrong.com/posts/nWiPLEgaXdAQNwXBd/patching-reward-hacks-won-t-fix-reward-hacking"
       },
       {
-        "title": "Why Governments Might Race to Build ASI Even If It Could Kill Us All",
-        "url": "https://www.lesswrong.com/posts/tqxj7wsHEY6JkAReW/why-governments-might-race-to-build-asi-even-if-it-could"
+        "title": "Self-reward can elicit diverse model personas",
+        "url": "https://www.lesswrong.com/posts/LBKjnyKDEwEJ45Wjf/self-reward-can-elicit-diverse-model-personas"
       },
       {
-        "title": "Gnerk Asks How Big a Swarm Can Get Before It Stops Being One Agent",
-        "url": "https://www.lesswrong.com/posts/goawvtgQcrMZtezXv/gnerk-asks-how-big-a-swarm-can-get-before-it-stops-being-one"
+        "title": "Societal Impacts Research on AI (SIRA)",
+        "url": "https://www.lesswrong.com/posts/MgD6mDeGzydo7Xgnb/societal-impacts-research-on-ai-sira"
       },
       {
-        "title": "Instrumental convergence is incoherent",
-        "url": "https://www.lesswrong.com/posts/oxZfMvQS9NxcNTozL/instrumental-convergence-is-incoherent"
+        "title": "Exploring the data landscape via metagradient descent",
+        "url": "https://www.lesswrong.com/posts/iduSpeG2Y6kAf4uHk/exploring-the-data-landscape-via-metagradient-descent"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
-        "url": "https://arxiv.org/abs/2610.28686"
-      },
-      {
-        "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
-        "url": "https://arxiv.org/abs/2610.28698"
-      },
-      {
-        "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
-        "url": "https://arxiv.org/abs/2610.28706"
-      },
-      {
-        "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
-        "url": "https://arxiv.org/abs/2610.28763"
-      },
-      {
-        "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
-        "url": "https://arxiv.org/abs/2610.28815"
-      },
-      {
-        "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
-        "url": "https://arxiv.org/abs/2610.28826"
-      },
-      {
-        "title": "Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis",
-        "url": "https://arxiv.org/abs/2610.28836"
-      },
-      {
-        "title": "Speedrunning Relational Foundation Model Pretraining",
-        "url": "https://arxiv.org/abs/2610.28855"
-      },
-      {
-        "title": "To Manipulate or Not: Opinion Dynamics in LLM Interactions",
-        "url": "https://arxiv.org/abs/2610.28875"
-      },
-      {
-        "title": "Fig: Automated Multiagent Behavior Elicitor",
-        "url": "https://arxiv.org/abs/2610.28891"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
