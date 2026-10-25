@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Free Speech Is The Wrong Problem",
-        "url": "https://www.lesswrong.com/posts/J7kggmxsR7urePWJt/free-speech-is-the-wrong-problem"
+        "title": "The AI buildout is the largest bet in the history of capitalism.",
+        "url": "https://www.lesswrong.com/posts/qjsdvaaPC624Eropw/the-ai-buildout-is-the-largest-bet-in-the-history-of"
       },
       {
-        "title": "An Attempt at Top-down Interpretability",
-        "url": "https://www.lesswrong.com/posts/7cmQGtJu4nXsi6pPu/an-attempt-at-top-down-interpretability"
+        "title": "Different eval awareness may track different graders",
+        "url": "https://www.lesswrong.com/posts/dbBeff68R4toeegyw/different-eval-awareness-may-track-different-graders"
       },
       {
-        "title": "Epistemic mapping 101: what to ask in order to understand how others think",
-        "url": "https://www.lesswrong.com/posts/pYLdLCdu4Xh73LiWv/epistemic-mapping-101-what-to-ask-in-order-to-understand-how"
+        "title": "San Francisco State University in Twilight",
+        "url": "https://www.lesswrong.com/posts/Y3G26fHXYM3SKYEHh/san-francisco-state-university-in-twilight"
       },
       {
-        "title": "Slower Animated Diagrams",
-        "url": "https://www.lesswrong.com/posts/ZiCvwLKreShtXuyiB/slower-animated-diagrams"
+        "title": "Personal Experience Does Not A Study of China Make",
+        "url": "https://www.lesswrong.com/posts/rgwJjfKHGmArnqZsv/personal-experience-does-not-a-study-of-china-make"
       },
       {
-        "title": "Fermi Poker",
-        "url": "https://www.lesswrong.com/posts/JFYvJqMaLw9nhfrur/fermi-poker"
+        "title": "From overeliciting to undereliciting LLM propensities in just a few months",
+        "url": "https://www.lesswrong.com/posts/ChixHL6AcaRgeHkp9/from-overeliciting-to-undereliciting-llm-propensities-in"
       },
       {
-        "title": "LM self-models are built from indirect sources",
-        "url": "https://www.lesswrong.com/posts/sEfY7bRjQYsu2A8ux/lm-self-models-are-built-from-indirect-sources"
+        "title": "Tracing Subliminal Learning Through Pretraining",
+        "url": "https://www.lesswrong.com/posts/53XwjN2gAKzjKCp5s/tracing-subliminal-learning-through-pretraining"
       },
       {
-        "title": "Patching reward hacks won\u2019t fix reward hacking",
-        "url": "https://www.lesswrong.com/posts/nWiPLEgaXdAQNwXBd/patching-reward-hacks-won-t-fix-reward-hacking"
+        "title": "Is GPT 2XL already clean?",
+        "url": "https://www.lesswrong.com/posts/drMv4SM2gaxk3oz3m/is-gpt-2xl-already-clean"
       },
       {
-        "title": "Self-reward can elicit diverse model personas",
-        "url": "https://www.lesswrong.com/posts/LBKjnyKDEwEJ45Wjf/self-reward-can-elicit-diverse-model-personas"
+        "title": "Setting the Scene (Public v1; October 25)",
+        "url": "https://www.lesswrong.com/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25"
       },
       {
-        "title": "Societal Impacts Research on AI (SIRA)",
-        "url": "https://www.lesswrong.com/posts/MgD6mDeGzydo7Xgnb/societal-impacts-research-on-ai-sira"
+        "title": "Mech Interp is a La Croix of Actual Safety Research",
+        "url": "https://www.lesswrong.com/posts/ciZ4YxZeY4M89SLT2/mech-interp-is-a-la-croix-of-actual-safety-research"
       },
       {
-        "title": "Exploring the data landscape via metagradient descent",
-        "url": "https://www.lesswrong.com/posts/iduSpeG2Y6kAf4uHk/exploring-the-data-landscape-via-metagradient-descent"
+        "title": "Relevance Realization as Human Comparative Advantage",
+        "url": "https://www.lesswrong.com/posts/ybhJbJK3XTXNwyBy5/relevance-realization-as-human-comparative-advantage"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Setting the Scene (Public v1; October 25)",
+        "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25"
+      },
       {
         "title": "Monitorability evaluations and policy proposals",
         "url": "https://www.alignmentforum.org/posts/zAczYuHQS6jdG5DTg/monitorability-evaluations-and-policy-proposals"
@@ -84,10 +88,6 @@
       {
         "title": "Minimum required pacing: finish aligning it before you train the next one",
         "url": "https://www.alignmentforum.org/posts/ZWSstGSwmaxTjQ8W7/minimum-required-pacing-finish-aligning-it-before-you-train"
-      },
-      {
-        "title": "Rocks to Rules: Climbing a Rickety-But-Interoperable Semantic Ladder",
-        "url": "https://www.alignmentforum.org/posts/hEDMDFmb322yfufYL/rocks-to-rules-climbing-a-rickety-but-interoperable-semantic"
       }
     ]
   },
