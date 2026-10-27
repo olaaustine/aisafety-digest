@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "The AI buildout is the largest bet in the history of capitalism.",
-        "url": "https://www.lesswrong.com/posts/qjsdvaaPC624Eropw/the-ai-buildout-is-the-largest-bet-in-the-history-of"
+        "title": "Are Persona Features Coherent?",
+        "url": "https://www.lesswrong.com/posts/W2ACsq8XJ3FmDwNL2/are-persona-features-coherent"
       },
       {
-        "title": "Different eval awareness may track different graders",
-        "url": "https://www.lesswrong.com/posts/dbBeff68R4toeegyw/different-eval-awareness-may-track-different-graders"
+        "title": "Towards an Architecture-Agnostic Definition of \"Attention\"",
+        "url": "https://www.lesswrong.com/posts/LFFpT5oev3jRgxZ9D/towards-an-architecture-agnostic-definition-of-attention"
       },
       {
-        "title": "San Francisco State University in Twilight",
-        "url": "https://www.lesswrong.com/posts/Y3G26fHXYM3SKYEHh/san-francisco-state-university-in-twilight"
+        "title": "[Transcript] Kevin Roose does a science communication and AGI sociology in Vox interview",
+        "url": "https://www.lesswrong.com/posts/WnJaYKuMnJP5SGzEy/transcript-kevin-roose-does-a-science-communication-and-agi"
       },
       {
-        "title": "Personal Experience Does Not A Study of China Make",
-        "url": "https://www.lesswrong.com/posts/rgwJjfKHGmArnqZsv/personal-experience-does-not-a-study-of-china-make"
+        "title": "Small Groups of Correlated Researchers",
+        "url": "https://www.lesswrong.com/posts/kvr2mYT3ZmyiAEq6z/small-groups-of-correlated-researchers"
       },
       {
-        "title": "From overeliciting to undereliciting LLM propensities in just a few months",
-        "url": "https://www.lesswrong.com/posts/ChixHL6AcaRgeHkp9/from-overeliciting-to-undereliciting-llm-propensities-in"
+        "title": "Brute-Force Progress on AlgZoo's 432-param Interpretability Challenge",
+        "url": "https://www.lesswrong.com/posts/sAhFp6gYoyw3xeCaF/brute-force-progress-on-algzoo-s-432-param-interpretability"
       },
       {
-        "title": "Tracing Subliminal Learning Through Pretraining",
-        "url": "https://www.lesswrong.com/posts/53XwjN2gAKzjKCp5s/tracing-subliminal-learning-through-pretraining"
+        "title": "Can the Assistant Axis Predict Reward-Hacking?",
+        "url": "https://www.lesswrong.com/posts/3jFqBYF5CP7JCWjux/can-the-assistant-axis-predict-reward-hacking"
       },
       {
-        "title": "Is GPT 2XL already clean?",
-        "url": "https://www.lesswrong.com/posts/drMv4SM2gaxk3oz3m/is-gpt-2xl-already-clean"
+        "title": "The Ability of Frontier Models to Control Robots is Rapidly Improving",
+        "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly"
       },
       {
-        "title": "Setting the Scene (Public v1; October 25)",
-        "url": "https://www.lesswrong.com/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25"
+        "title": "A basic case for differentially accelerating conceptual reasoning capabilities",
+        "url": "https://www.lesswrong.com/posts/eimAN67tiNsrrtnbK/a-basic-case-for-differentially-accelerating-conceptual"
       },
       {
-        "title": "Mech Interp is a La Croix of Actual Safety Research",
-        "url": "https://www.lesswrong.com/posts/ciZ4YxZeY4M89SLT2/mech-interp-is-a-la-croix-of-actual-safety-research"
+        "title": "Giving AI the rights of pets is much safer than giving them human-equal rights",
+        "url": "https://www.lesswrong.com/posts/qyJQcBxeMkuEwjohZ/giving-ai-the-rights-of-pets-is-much-safer-than-giving-them"
       },
       {
-        "title": "Relevance Realization as Human Comparative Advantage",
-        "url": "https://www.lesswrong.com/posts/ybhJbJK3XTXNwyBy5/relevance-realization-as-human-comparative-advantage"
+        "title": "Woo Tribe vs. Pinko Tribe",
+        "url": "https://www.lesswrong.com/posts/rxarPm4aJCSJuNDqn/woo-tribe-vs-pinko-tribe"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+        "url": "https://arxiv.org/abs/2610.31701"
+      },
+      {
+        "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+        "url": "https://arxiv.org/abs/2610.31789"
+      },
+      {
+        "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+        "url": "https://arxiv.org/abs/2610.31808"
+      },
+      {
+        "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+        "url": "https://arxiv.org/abs/2610.31810"
+      },
+      {
+        "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+        "url": "https://arxiv.org/abs/2610.31846"
+      },
+      {
+        "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+        "url": "https://arxiv.org/abs/2610.31882"
+      },
+      {
+        "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
+        "url": "https://arxiv.org/abs/2610.31916"
+      },
+      {
+        "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
+        "url": "https://arxiv.org/abs/2610.31918"
+      },
+      {
+        "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
+        "url": "https://arxiv.org/abs/2610.31937"
+      },
+      {
+        "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
+        "url": "https://arxiv.org/abs/2610.31971"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
@@ -121,6 +162,10 @@
       {
         "title": "Expanding the Cyber Verification ProgramWe\u2019re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
         "url": "https://www.anthropic.com/news/news/cyber-verification-program"
+      },
+      {
+        "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+        "url": "https://www.anthropic.com/news/news/s1-sec"
       },
       {
         "title": "Donating Agent Skills to the Agentic AI Foundation",
@@ -145,10 +190,6 @@
       {
         "title": "Safeguards",
         "url": "https://www.anthropic.com/news/news/safeguards"
-      },
-      {
-        "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-        "url": "https://www.anthropic.com/news/news/singapore-office-opening"
       }
     ]
   }
