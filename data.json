@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Are Persona Features Coherent?",
-        "url": "https://www.lesswrong.com/posts/W2ACsq8XJ3FmDwNL2/are-persona-features-coherent"
+        "title": "GPT Models Write Their Own Constitution",
+        "url": "https://www.lesswrong.com/posts/ftEMXHAN4BdDBZjoY/gpt-models-write-their-own-constitution-1"
       },
       {
-        "title": "Towards an Architecture-Agnostic Definition of \"Attention\"",
-        "url": "https://www.lesswrong.com/posts/LFFpT5oev3jRgxZ9D/towards-an-architecture-agnostic-definition-of-attention"
+        "title": "Against Girardian mimesis",
+        "url": "https://www.lesswrong.com/posts/tzuArKci3JpN7Zye4/against-girardian-mimesis"
       },
       {
-        "title": "[Transcript] Kevin Roose does a science communication and AGI sociology in Vox interview",
-        "url": "https://www.lesswrong.com/posts/WnJaYKuMnJP5SGzEy/transcript-kevin-roose-does-a-science-communication-and-agi"
+        "title": "Does the \"automated grader\" direction suppress expressed distress in Qwen3.6-27B?",
+        "url": "https://www.lesswrong.com/posts/DfKDcvGWgAD4BiEHK/does-the-automated-grader-direction-suppress-expressed"
       },
       {
-        "title": "Small Groups of Correlated Researchers",
-        "url": "https://www.lesswrong.com/posts/kvr2mYT3ZmyiAEq6z/small-groups-of-correlated-researchers"
+        "title": "Poll: Biosecurity Community Pulse & Perspective 2026",
+        "url": "https://www.lesswrong.com/posts/MrpL6iJKPSTscTEui/poll-biosecurity-community-pulse-and-perspective-2026"
       },
       {
-        "title": "Brute-Force Progress on AlgZoo's 432-param Interpretability Challenge",
-        "url": "https://www.lesswrong.com/posts/sAhFp6gYoyw3xeCaF/brute-force-progress-on-algzoo-s-432-param-interpretability"
+        "title": "How to find a philanthropic advisor who cares about cost-effectiveness",
+        "url": "https://www.lesswrong.com/posts/HMcwm4zRx9faeFfBX/how-to-find-a-philanthropic-advisor-who-cares-about-cost"
       },
       {
-        "title": "Can the Assistant Axis Predict Reward-Hacking?",
-        "url": "https://www.lesswrong.com/posts/3jFqBYF5CP7JCWjux/can-the-assistant-axis-predict-reward-hacking"
+        "title": "Comments on the BlueDot Strategy Course",
+        "url": "https://www.lesswrong.com/posts/6s8qmrSWi8DYqJ62X/comments-on-the-bluedot-strategy-course"
       },
       {
-        "title": "The Ability of Frontier Models to Control Robots is Rapidly Improving",
-        "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly"
+        "title": "Notes on \u201cWe\u2019re in Triage Mode for AI Safety\u201d by Miles Brundage",
+        "url": "https://www.lesswrong.com/posts/BFyNkWgxucqy6Wcee/notes-on-we-re-in-triage-mode-for-ai-safety-by-miles"
       },
       {
-        "title": "A basic case for differentially accelerating conceptual reasoning capabilities",
-        "url": "https://www.lesswrong.com/posts/eimAN67tiNsrrtnbK/a-basic-case-for-differentially-accelerating-conceptual"
+        "title": "Sci.STEPS opens applications for mentors for the 2027 season",
+        "url": "https://www.lesswrong.com/posts/fxp9L8ADxJ9NSYBre/sci-steps-opens-applications-for-mentors-for-the-2027-season"
       },
       {
-        "title": "Giving AI the rights of pets is much safer than giving them human-equal rights",
-        "url": "https://www.lesswrong.com/posts/qyJQcBxeMkuEwjohZ/giving-ai-the-rights-of-pets-is-much-safer-than-giving-them"
+        "title": "AI speeds up 3rd party safety researchers by ~1.6x (via self-reports)",
+        "url": "https://www.lesswrong.com/posts/ea9fGFKxJhh2bF9rp/ai-speeds-up-3rd-party-safety-researchers-by-1-6x-via-self"
       },
       {
-        "title": "Woo Tribe vs. Pinko Tribe",
-        "url": "https://www.lesswrong.com/posts/rxarPm4aJCSJuNDqn/woo-tribe-vs-pinko-tribe"
+        "title": "How to manage a small custom model with limited data at deployment? Delexicalization to rescue.",
+        "url": "https://www.lesswrong.com/posts/WfSEZBsgwYWJa8abs/how-to-manage-a-small-custom-model-with-limited-data-at"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Notes on \u201cWe\u2019re in Triage Mode for AI Safety\u201d by Miles Brundage",
+        "url": "https://www.alignmentforum.org/posts/BFyNkWgxucqy6Wcee/notes-on-we-re-in-triage-mode-for-ai-safety-by-miles"
+      },
       {
         "title": "Setting the Scene (Public v1; October 25)",
         "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25"
@@ -84,10 +88,6 @@
       {
         "title": "OpenAI Can't Self-Police Because It Fires the People Raising the Alarm",
         "url": "https://www.alignmentforum.org/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising"
-      },
-      {
-        "title": "Minimum required pacing: finish aligning it before you train the next one",
-        "url": "https://www.alignmentforum.org/posts/ZWSstGSwmaxTjQ8W7/minimum-required-pacing-finish-aligning-it-before-you-train"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
-        "url": "https://arxiv.org/abs/2610.31701"
+        "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
+        "url": "https://arxiv.org/abs/2610.33096"
       },
       {
-        "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
-        "url": "https://arxiv.org/abs/2610.31789"
+        "title": "IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives",
+        "url": "https://arxiv.org/abs/2610.33097"
       },
       {
-        "title": "Patronizing and Condescending Language Detection in English and Mandarin",
-        "url": "https://arxiv.org/abs/2610.31808"
+        "title": "Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting",
+        "url": "https://arxiv.org/abs/2610.33103"
       },
       {
-        "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
-        "url": "https://arxiv.org/abs/2610.31810"
+        "title": "Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities",
+        "url": "https://arxiv.org/abs/2610.33105"
       },
       {
-        "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
-        "url": "https://arxiv.org/abs/2610.31846"
+        "title": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation",
+        "url": "https://arxiv.org/abs/2610.33112"
       },
       {
-        "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
-        "url": "https://arxiv.org/abs/2610.31882"
+        "title": "Optimal Correction Sets for Provable Redress of Contestable Causal Discovery",
+        "url": "https://arxiv.org/abs/2610.33138"
       },
       {
-        "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
-        "url": "https://arxiv.org/abs/2610.31916"
+        "title": "AOS-Bench: Can LLM Agents Manage Dynamic Workloads?",
+        "url": "https://arxiv.org/abs/2610.33178"
       },
       {
-        "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
-        "url": "https://arxiv.org/abs/2610.31918"
+        "title": "Propensities Please: Exposing Alignment-Faking LLMs using Synthetic Document Finetuning",
+        "url": "https://arxiv.org/abs/2610.33180"
       },
       {
-        "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
-        "url": "https://arxiv.org/abs/2610.31937"
+        "title": "Isharah-Selfie: Continuous Sign Language Recognition Dataset for One-handed Signing",
+        "url": "https://arxiv.org/abs/2610.33200"
       },
       {
-        "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
-        "url": "https://arxiv.org/abs/2610.31971"
+        "title": "Scaling Qualitative Analysis with Large Language Models: Development and Validation of the Smart Coder Framework for Human-LLM Collaborative Coding",
+        "url": "https://arxiv.org/abs/2610.33205"
       }
     ]
   },
@@ -160,12 +160,16 @@
         "url": "https://www.anthropic.com/news/news/public-benefit-fund"
       },
       {
-        "title": "Expanding the Cyber Verification ProgramWe\u2019re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
-        "url": "https://www.anthropic.com/news/news/cyber-verification-program"
+        "title": "Anthropic files S-1 with the SEC for proposed initial public offeringToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.",
+        "url": "https://www.anthropic.com/news/news/s1-sec"
       },
       {
-        "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
-        "url": "https://www.anthropic.com/news/news/s1-sec"
+        "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+        "url": "https://www.anthropic.com/news/news/expanding-partnership-gsa"
+      },
+      {
+        "title": "Partnerships",
+        "url": "https://www.anthropic.com/news/news/partnerships"
       },
       {
         "title": "Donating Agent Skills to the Agentic AI Foundation",
@@ -186,10 +190,6 @@
       {
         "title": "Preparing for the 2026 US midterms",
         "url": "https://www.anthropic.com/news/news/2026-us-midterms"
-      },
-      {
-        "title": "Safeguards",
-        "url": "https://www.anthropic.com/news/news/safeguards"
       }
     ]
   }
