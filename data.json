@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "A Mind's I",
-        "url": "https://www.lesswrong.com/posts/c9LyxCzEMK25wsZ72/a-mind-s-i"
+        "title": "Formalising Newcomblike Problems",
+        "url": "https://www.lesswrong.com/posts/ziFazSwhnWzW78oew/formalising-newcomblike-problems"
       },
       {
-        "title": "Tracking the Cyber Capabilities of Cheap Open-Weight Models",
-        "url": "https://www.lesswrong.com/posts/tWrzaGMbzfX7eTdzZ/tracking-the-cyber-capabilities-of-cheap-open-weight-models"
+        "title": "Formally Defining Wavefunction Branches",
+        "url": "https://www.lesswrong.com/posts/cZamk8LRKaeuTgepy/formally-defining-wavefunction-branches"
       },
       {
-        "title": "You can now \"@Grok\" on LessWrong",
-        "url": "https://www.lesswrong.com/posts/fSaxGFMysTTeKxoMF/you-can-now-grok-on-lesswrong"
+        "title": "What is OpenAI's Mission Advisory Council?",
+        "url": "https://www.lesswrong.com/posts/KxbeqePFBooJteoeC/what-is-openai-s-mission-advisory-council-1"
       },
       {
-        "title": "You Don't Have a Glycine Deficiency",
-        "url": "https://www.lesswrong.com/posts/QBHhSq9xMjZmeCzxm/you-don-t-have-a-glycine-deficiency"
+        "title": "Probability ranges are a cop-out with 90\u201393% probability",
+        "url": "https://www.lesswrong.com/posts/4oNHbN3mwmfktEPMx/probability-ranges-are-a-cop-out-with-90-93-probability"
       },
       {
-        "title": "Reconceptualize things as your top affordances",
-        "url": "https://www.lesswrong.com/posts/F3P5BSjNeAazKB7wm/reconceptualize-things-as-your-top-affordances"
+        "title": "[Paper] Propensities Please: Exposing Alignment-Faking LLMs using Synthetic Document Finetuning",
+        "url": "https://www.lesswrong.com/posts/vDj9HZnBpBECLzshv/paper-propensities-please-exposing-alignment-faking-llms"
       },
       {
-        "title": "ACX Atlanta November Meetup",
-        "url": "https://www.lesswrong.com/events/TKnbjj758iaYsHkvC/acx-atlanta-november-meetup-1"
+        "title": "Someone Made an Infra-Bayesian RL Agent, and it One-Boxes!",
+        "url": "https://www.lesswrong.com/posts/BnFPBevp8Cdw2NKoq/someone-made-an-infra-bayesian-rl-agent-and-it-one-boxes"
       },
       {
-        "title": "Against Moloch #49",
-        "url": "https://www.lesswrong.com/posts/pqvzEkeMRMiPwAoGa/against-moloch-49"
+        "title": "J-Lens can't detect what a subliminal learning teacher is transmitting (in 7B-32B models)",
+        "url": "https://www.lesswrong.com/posts/LnnZHgdsLBZpgBDvW/j-lens-can-t-detect-what-a-subliminal-learning-teacher-is"
       },
       {
-        "title": "Some different lenses of agency and their implications for alignment",
-        "url": "https://www.lesswrong.com/posts/94LkQyqrrHqDKhT26/some-different-lenses-of-agency-and-their-implications-for"
+        "title": "Lie detection is best when it's cheap to cooperate",
+        "url": "https://www.lesswrong.com/posts/u7nEaWygHkvfDiwa2/lie-detection-is-best-when-it-s-cheap-to-cooperate"
       },
       {
-        "title": "Some thoughts on GRAFT and follow-up work",
-        "url": "https://www.lesswrong.com/posts/6ro3dngDGaLJaumYb/some-thoughts-on-graft-and-follow-up-work"
+        "title": "The Newly \"Needed\" Labor: Under AI 2040, economic growth is normal, but prices fall exponentially",
+        "url": "https://www.lesswrong.com/posts/3Sc4nz4eQHGKyEWvC/the-newly-needed-labor-under-ai-2040-economic-growth-is"
       },
       {
-        "title": "Subtly wrong advice misaligns models more than obviously wrong advice - Replication",
-        "url": "https://www.lesswrong.com/posts/yMPR6Pkv6jQXM4rWu/subtly-wrong-advice-misaligns-models-more-than-obviously"
+        "title": "Leaking Muse's Charter, Meta's model spec",
+        "url": "https://www.lesswrong.com/posts/TJGPL5FAk9sCioPbE/leaking-muse-s-charter-meta-s-model-spec"
       }
     ]
   },
@@ -54,8 +54,8 @@
         "url": "https://www.alignmentforum.org/posts/BFyNkWgxucqy6Wcee/notes-on-we-re-in-triage-mode-for-ai-safety-by-miles"
       },
       {
-        "title": "Setting the Scene (Public v1; October 25)",
-        "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25"
+        "title": "Setting the Scene (Public v1; October 2026)",
+        "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-2026"
       },
       {
         "title": "Monitorability evaluations and policy proposals",
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "Counting the Bandages: On measuring the time that AI saves",
-        "url": "https://arxiv.org/abs/2610.35942"
-      },
-      {
-        "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
-        "url": "https://arxiv.org/abs/2610.35984"
-      },
-      {
-        "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
-        "url": "https://arxiv.org/abs/2610.36077"
-      },
-      {
-        "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
-        "url": "https://arxiv.org/abs/2610.36100"
-      },
-      {
-        "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
-        "url": "https://arxiv.org/abs/2610.36116"
-      },
-      {
-        "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
-        "url": "https://arxiv.org/abs/2610.36146"
-      },
-      {
-        "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
-        "url": "https://arxiv.org/abs/2610.36169"
-      },
-      {
-        "title": "Learning Human Sports Motion Feasibility via Quantile Regression on Tracking Data",
-        "url": "https://arxiv.org/abs/2610.36183"
-      },
-      {
-        "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams",
-        "url": "https://arxiv.org/abs/2610.36188"
-      },
-      {
-        "title": "MARQ: A Modular, LLM-Agnostic Requirement Quality Assessor Infused with Systems Engineering Knowledge",
-        "url": "https://arxiv.org/abs/2610.36234"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
