@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Conclusions of my DIY Inkhaven",
-        "url": "https://www.lesswrong.com/posts/579yLaP6YfL9ZRtdN/conclusions-of-my-diy-inkhaven"
+        "title": "Against Against SURA",
+        "url": "https://www.lesswrong.com/posts/pbMyiCXhHCfp3WSq2/against-against-sura"
       },
       {
-        "title": "Explaining \u201cAI might obliterate you\u201d to senior policymakers in India",
-        "url": "https://www.lesswrong.com/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in"
+        "title": "On Evenhandedness",
+        "url": "https://www.lesswrong.com/posts/TNvr3YAAtxLRzkMja/on-evenhandedness"
       },
       {
-        "title": "Sanity Checks for Sanity Checks for Sparse Autoencoders",
-        "url": "https://www.lesswrong.com/posts/EC5H7xakTgxxNXm5g/sanity-checks-for-sanity-checks-for-sparse-autoencoders"
+        "title": "Offer Tours to Bands",
+        "url": "https://www.lesswrong.com/posts/wCajrrobHn8Zqdu2F/offer-tours-to-bands"
       },
       {
-        "title": "Accidentally Misleading People Should Be Embarrassing; Or, Higher Innocence",
-        "url": "https://www.lesswrong.com/posts/XpBwFsRhkQRQJN2pt/accidentally-misleading-people-should-be-embarrassing-or"
+        "title": "Magma is partnering with CASSA to investigate recent unintended model behavior",
+        "url": "https://www.lesswrong.com/posts/eDxQzpSvjDHnkicMH/magma-is-partnering-with-cassa-to-investigate-recent"
       },
       {
-        "title": "Against SURA",
-        "url": "https://www.lesswrong.com/posts/xikGZ8fuhdG6DApAo/against-sura"
+        "title": "Anthropomorphic vs Biological reasoning for thinking about human analogies for LLM behavior",
+        "url": "https://www.lesswrong.com/posts/ceZpZqEqiGNQEjT2e/anthropomorphic-vs-biological-reasoning-for-thinking-about"
       },
       {
-        "title": "Regulate the Deployment, Not Just the Model",
-        "url": "https://www.lesswrong.com/posts/woCAtAxfTkNzEPkLq/regulate-the-deployment-not-just-the-model"
+        "title": "Towards The Autograntor",
+        "url": "https://www.lesswrong.com/posts/Sfkv6JF2ozmAkggKu/towards-the-autograntor"
       },
       {
-        "title": "Generalized belief states in transformers",
-        "url": "https://www.lesswrong.com/posts/4f9p7brLdnTMFuwfB/generalized-belief-states-in-transformers-1"
+        "title": "A Taxonomy of Agency",
+        "url": "https://www.lesswrong.com/posts/EfvG2LqhvoeuhqGTy/a-taxonomy-of-agency"
       },
       {
-        "title": "What Social Constructs Are (And Are Not)",
-        "url": "https://www.lesswrong.com/posts/aHqKqTcvLEkMNkAHX/what-social-constructs-are-and-are-not"
+        "title": "Is your chatbot less helpful because it thinks you\u2019re a bad person? \u2014 Replicating a blogpost",
+        "url": "https://www.lesswrong.com/posts/73jyKwdbxjsD7SECv/is-your-chatbot-less-helpful-because-it-thinks-you-re-a-bad"
       },
       {
-        "title": "Dialogue with Davidad about Emergent Wisdom in Language Models",
-        "url": "https://www.lesswrong.com/posts/DpfvWSaGtujM6rL8R/dialogue-with-davidad-about-emergent-wisdom-in-language"
+        "title": "Free-Floating Social Patterns",
+        "url": "https://www.lesswrong.com/posts/T4AS8MpnZwxh33GRD/free-floating-social-patterns"
       },
       {
-        "title": "Reviewing my 2017 AI Risk Project",
-        "url": "https://www.lesswrong.com/posts/s4z629mkjFtQCY654/reviewing-my-2017-ai-risk-project"
+        "title": "Misalignment traps lie in wait",
+        "url": "https://www.lesswrong.com/posts/o9CYcjZDqCQf5qeJy/misalignment-traps-lie-in-wait"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
-        "url": "https://arxiv.org/abs/2610.37720"
-      },
-      {
-        "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
-        "url": "https://arxiv.org/abs/2610.37731"
-      },
-      {
-        "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
-        "url": "https://arxiv.org/abs/2610.37732"
-      },
-      {
-        "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
-        "url": "https://arxiv.org/abs/2610.37739"
-      },
-      {
-        "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
-        "url": "https://arxiv.org/abs/2610.37786"
-      },
-      {
-        "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
-        "url": "https://arxiv.org/abs/2610.37809"
-      },
-      {
-        "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
-        "url": "https://arxiv.org/abs/2610.37830"
-      },
-      {
-        "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
-        "url": "https://arxiv.org/abs/2610.37849"
-      },
-      {
-        "title": "Evaluating and improving AI agents for sequencing protocol understanding",
-        "url": "https://arxiv.org/abs/2610.37851"
-      },
-      {
-        "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
-        "url": "https://arxiv.org/abs/2610.37859"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
