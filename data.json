@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Against Against SURA",
-        "url": "https://www.lesswrong.com/posts/pbMyiCXhHCfp3WSq2/against-against-sura"
+        "title": "Organizations I'd recommend for funding",
+        "url": "https://www.lesswrong.com/posts/jNs9CxEbPxFdjnGA2/organizations-i-d-recommend-for-funding"
       },
       {
-        "title": "On Evenhandedness",
-        "url": "https://www.lesswrong.com/posts/TNvr3YAAtxLRzkMja/on-evenhandedness"
+        "title": "Against strawmanning unilateral pauses",
+        "url": "https://www.lesswrong.com/posts/enzpS72uDmomiWN7a/against-strawmanning-unilateral-pauses"
       },
       {
-        "title": "Offer Tours to Bands",
-        "url": "https://www.lesswrong.com/posts/wCajrrobHn8Zqdu2F/offer-tours-to-bands"
+        "title": "The Power Broker Book Review",
+        "url": "https://www.lesswrong.com/posts/uHNEZRBMejMB8Lcta/the-power-broker-book-review"
       },
       {
-        "title": "Magma is partnering with CASSA to investigate recent unintended model behavior",
-        "url": "https://www.lesswrong.com/posts/eDxQzpSvjDHnkicMH/magma-is-partnering-with-cassa-to-investigate-recent"
+        "title": "Nectome 2026 retrospective (and our final pre-sale!)",
+        "url": "https://www.lesswrong.com/posts/ChbBygjhBgzvjGkQB/nectome-2026-retrospective-and-our-final-pre-sale-1"
       },
       {
-        "title": "Anthropomorphic vs Biological reasoning for thinking about human analogies for LLM behavior",
-        "url": "https://www.lesswrong.com/posts/ceZpZqEqiGNQEjT2e/anthropomorphic-vs-biological-reasoning-for-thinking-about"
+        "title": "Keeping promises to digital minds",
+        "url": "https://www.lesswrong.com/posts/K9zWbLxPLGeYkGanz/keeping-promises-to-digital-minds"
       },
       {
-        "title": "Towards The Autograntor",
-        "url": "https://www.lesswrong.com/posts/Sfkv6JF2ozmAkggKu/towards-the-autograntor"
+        "title": "You can't make an omelette without breaking some urns",
+        "url": "https://www.lesswrong.com/posts/eNPLWgFrzZLvidBcc/you-can-t-make-an-omelette-without-breaking-some-urns"
       },
       {
-        "title": "A Taxonomy of Agency",
-        "url": "https://www.lesswrong.com/posts/EfvG2LqhvoeuhqGTy/a-taxonomy-of-agency"
+        "title": "The Giant Measurement at the End of Time",
+        "url": "https://www.lesswrong.com/posts/aSEeex8eTyABGKsBX/the-giant-measurement-at-the-end-of-time"
       },
       {
-        "title": "Is your chatbot less helpful because it thinks you\u2019re a bad person? \u2014 Replicating a blogpost",
-        "url": "https://www.lesswrong.com/posts/73jyKwdbxjsD7SECv/is-your-chatbot-less-helpful-because-it-thinks-you-re-a-bad"
+        "title": "San Francisco Rationalist Dinner",
+        "url": "https://www.lesswrong.com/events/zYgkeBrD4idG2CJ4e/san-francisco-rationalist-dinner-1"
       },
       {
-        "title": "Free-Floating Social Patterns",
-        "url": "https://www.lesswrong.com/posts/T4AS8MpnZwxh33GRD/free-floating-social-patterns"
+        "title": "Could Insurance Companies Help with AI Safety?",
+        "url": "https://www.lesswrong.com/posts/4LGnonYpxGdZ343Dw/could-insurance-companies-help-with-ai-safety"
       },
       {
-        "title": "Misalignment traps lie in wait",
-        "url": "https://www.lesswrong.com/posts/o9CYcjZDqCQf5qeJy/misalignment-traps-lie-in-wait"
+        "title": "Scott Alexander\u2019s Against SURA Seems Deeply Confused",
+        "url": "https://www.lesswrong.com/posts/ziMP83D2JYWRQ5jtu/scott-alexander-s-against-sura-seems-deeply-confused"
       }
     ]
   },
@@ -49,6 +49,14 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Additional Course Context (for AI Safety Fundamentals; unofficial)",
+        "url": "https://www.alignmentforum.org/posts/6qDn6H5XG5Hc6BJFe/additional-course-context-for-ai-safety-fundamentals"
+      },
+      {
+        "title": "Some \u201ccoherence arguments\u201d are two different things in a trenchcoat",
+        "url": "https://www.alignmentforum.org/posts/5a4tuSNDNodPsiS26/some-coherence-arguments-are-two-different-things-in-a"
+      },
       {
         "title": "Explaining \u201cAI might obliterate you\u201d to senior policymakers in India",
         "url": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in"
@@ -80,14 +88,6 @@
       {
         "title": "A Simpler and Better Debate Protocol for Scalable Oversight",
         "url": "https://www.alignmentforum.org/posts/Rct9zd4Nd7H8Xzxz8/a-simpler-and-better-debate-protocol-for-scalable-oversight"
-      },
-      {
-        "title": "Preface to the Computational Agent Theory and ASI Alignment Sequence",
-        "url": "https://www.alignmentforum.org/posts/NQLCdfeNsQHZaJ8iC/preface-to-the-computational-agent-theory-and-asi-alignment"
-      },
-      {
-        "title": "The Continual Constitutional Convention: How language models revise the documents that govern them",
-        "url": "https://www.alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models"
       }
     ]
   },
