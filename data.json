@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "How to make the US sign an asymmetric treaty as China? Exploit identity-confused AIs.",
-        "url": "https://www.lesswrong.com/posts/mcxMvQMY9xs5adEEr/how-to-make-the-us-sign-an-asymmetric-treaty-as-china"
+        "title": "Dialogue with Gabriel Alfour on Emergent Wisdom, Coordination, Growing Up, and Democratic Republicanism",
+        "url": "https://www.lesswrong.com/posts/bGyMpy6SLyMhbHFCR/dialogue-with-gabriel-alfour-on-emergent-wisdom-coordination"
       },
       {
-        "title": "How could AI best help Alzheimer's patients now and in the future?",
-        "url": "https://www.lesswrong.com/posts/TsuN4iHmxmrg2GSCn/how-could-ai-best-help-alzheimer-s-patients-now-and-in-the"
+        "title": "OpenAI: Astra covertly underperforms on safety research",
+        "url": "https://www.lesswrong.com/posts/eKe7fky8kSt9DCJxZ/openai-astra-covertly-underperforms-on-safety-research"
       },
       {
-        "title": "Can alignment realistically be solved under Plan C?",
-        "url": "https://www.lesswrong.com/posts/acEpAjtcDs5Mcgr4y/can-alignment-realistically-be-solved-under-plan-c"
+        "title": "Against Moloch #50",
+        "url": "https://www.lesswrong.com/posts/7PH4ee6KkGLEqrYqn/against-moloch-50"
       },
       {
-        "title": "Progress and Cons",
-        "url": "https://www.lesswrong.com/posts/vhTTEpiSZtueJfsDW/progress-and-cons-2"
+        "title": "Fun toy result: a subliminal-learning effect via on-policy distillation",
+        "url": "https://www.lesswrong.com/posts/8tdLNdPEscMgLLAi4/fun-toy-result-a-subliminal-learning-effect-via-on-policy"
       },
       {
-        "title": "Automating subtle emergent misalignment research",
-        "url": "https://www.lesswrong.com/posts/MuQDLAJyKJPFkw6q9/automating-subtle-emergent-misalignment-research"
+        "title": "Model's \"emotions\" noticeably change when they take risky actions",
+        "url": "https://www.lesswrong.com/posts/PYcqf9DBMGjTyJSjg/model-s-emotions-noticeably-change-when-they-take-risky-1"
       },
       {
-        "title": "AI Safety at the Frontier: Paper Highlights of October 2026",
-        "url": "https://www.lesswrong.com/posts/nBWZFawi7HvMqwusk/ai-safety-at-the-frontier-paper-highlights-of-october-2026"
+        "title": "The Hallucinated Superagent",
+        "url": "https://www.lesswrong.com/posts/mC4GCxvPEoYL5iFzK/the-hallucinated-superagent"
       },
       {
-        "title": "OpenAI Updates Its Model Spec",
-        "url": "https://www.lesswrong.com/posts/ABEQbEabK6kcSRrNq/openai-updates-its-model-spec"
+        "title": "Aligned Data Can Induce Severe Misalignment via Context Confusion",
+        "url": "https://www.lesswrong.com/posts/ep3K8nA8g7wsqd5Ss/aligned-data-can-induce-severe-misalignment-via-context"
       },
       {
-        "title": "Current challenges facing university AI safety groups",
-        "url": "https://www.lesswrong.com/posts/osBRmtp68uqEWBk7G/current-challenges-facing-university-ai-safety-groups"
+        "title": "The Midterms and AI Development",
+        "url": "https://www.lesswrong.com/posts/SdxT3AFFxcngqJfC3/the-midterms-and-ai-development"
       },
       {
-        "title": "Potential improvements to HowTruthful and its agent skills",
-        "url": "https://www.lesswrong.com/posts/iQt8vuSuRvbZSoQNQ/potential-improvements-to-howtruthful-and-its-agent-skills"
+        "title": "A therapist\u2019s offer to AI researchers",
+        "url": "https://www.lesswrong.com/posts/fcTwrNdY3NFKeETj9/a-therapist-s-offer-to-ai-researchers"
       },
       {
-        "title": "MIT Panel: Provably Secure: Math Against Superintelligent Hackers",
-        "url": "https://www.lesswrong.com/posts/wHgj3oPxqoDbdTvyK/mit-panel-provably-secure-math-against-superintelligent"
+        "title": "Bengaluru AI Jailbreaking Workshop Retrospective",
+        "url": "https://www.lesswrong.com/posts/QWeFCksxab9LYo8vT/bengaluru-ai-jailbreaking-workshop-retrospective"
       }
     ]
   },
@@ -49,6 +49,14 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "OpenAI: Astra covertly underperforms on safety research",
+        "url": "https://www.alignmentforum.org/posts/eKe7fky8kSt9DCJxZ/openai-astra-covertly-underperforms-on-safety-research"
+      },
+      {
+        "title": "Desiderata for the Theory of Agents",
+        "url": "https://www.alignmentforum.org/posts/sqjti8dxcKSvZJikd/desiderata-for-the-theory-of-agents"
+      },
       {
         "title": "Automating subtle emergent misalignment research",
         "url": "https://www.alignmentforum.org/posts/MuQDLAJyKJPFkw6q9/automating-subtle-emergent-misalignment-research"
@@ -80,14 +88,6 @@
       {
         "title": "Neural nets are exceptionally vulnerable to goal self-hack",
         "url": "https://www.alignmentforum.org/posts/eCR373J3NZwFbacnd/neural-nets-are-exceptionally-vulnerable-to-goal-self-hack"
-      },
-      {
-        "title": "The Alignment Problem: Computer Science Meets Analytic Philosophy",
-        "url": "https://www.alignmentforum.org/posts/Emp7awtxsYn8MusNq/the-alignment-problem-computer-science-meets-analytic"
-      },
-      {
-        "title": "Deconfusing Corrigibility",
-        "url": "https://www.alignmentforum.org/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
-        "url": "https://arxiv.org/abs/2610.40758"
-      },
-      {
-        "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
-        "url": "https://arxiv.org/abs/2610.40798"
-      },
-      {
-        "title": "Circumventing the Computational Hardness of Computational Arbitrage",
-        "url": "https://arxiv.org/abs/2610.40831"
-      },
-      {
-        "title": "Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models",
-        "url": "https://arxiv.org/abs/2610.40883"
-      },
-      {
-        "title": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
-        "url": "https://arxiv.org/abs/2610.40890"
-      },
-      {
-        "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
-        "url": "https://arxiv.org/abs/2610.40906"
-      },
-      {
-        "title": "Towards Portable Specification of the Agent Harness",
-        "url": "https://arxiv.org/abs/2610.40917"
-      },
-      {
-        "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
-        "url": "https://arxiv.org/abs/2610.40927"
-      },
-      {
-        "title": "DiRAFT: Privacy-Aware Financial Transcript Synthesis from Aggregate Discourse Priors",
-        "url": "https://arxiv.org/abs/2610.40938"
-      },
-      {
-        "title": "The First Few Tokens Matter: Understanding Chain-of-Thought Controllability",
-        "url": "https://arxiv.org/abs/2610.40939"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
