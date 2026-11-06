@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Dialogue with Gabriel Alfour on Emergent Wisdom, Coordination, Growing Up, and Democratic Republicanism",
-        "url": "https://www.lesswrong.com/posts/bGyMpy6SLyMhbHFCR/dialogue-with-gabriel-alfour-on-emergent-wisdom-coordination"
+        "title": "Frontier coding agents claim work they didn't do",
+        "url": "https://www.lesswrong.com/posts/HjDuFZnQrr7rimHmg/frontier-coding-agents-claim-work-they-didn-t-do"
       },
       {
-        "title": "OpenAI: Astra covertly underperforms on safety research",
-        "url": "https://www.lesswrong.com/posts/eKe7fky8kSt9DCJxZ/openai-astra-covertly-underperforms-on-safety-research"
+        "title": "Humans can (almost) natively read neural network weights",
+        "url": "https://www.lesswrong.com/posts/uvKSq6eWkud997ie7/humans-can-almost-natively-read-neural-network-weights"
       },
       {
-        "title": "Against Moloch #50",
-        "url": "https://www.lesswrong.com/posts/7PH4ee6KkGLEqrYqn/against-moloch-50"
+        "title": "Why would an AI pause (significantly) hurt the economy?",
+        "url": "https://www.lesswrong.com/posts/aXA73PnhdJXPb4SWn/why-would-an-ai-pause-significantly-hurt-the-economy"
       },
       {
-        "title": "Fun toy result: a subliminal-learning effect via on-policy distillation",
-        "url": "https://www.lesswrong.com/posts/8tdLNdPEscMgLLAi4/fun-toy-result-a-subliminal-learning-effect-via-on-policy"
+        "title": "Where's all the blackmail?",
+        "url": "https://www.lesswrong.com/posts/bJtBvxMcbDSNdzveA/where-s-all-the-blackmail"
       },
       {
-        "title": "Model's \"emotions\" noticeably change when they take risky actions",
-        "url": "https://www.lesswrong.com/posts/PYcqf9DBMGjTyJSjg/model-s-emotions-noticeably-change-when-they-take-risky-1"
+        "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+        "url": "https://www.lesswrong.com/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at"
       },
       {
-        "title": "The Hallucinated Superagent",
-        "url": "https://www.lesswrong.com/posts/mC4GCxvPEoYL5iFzK/the-hallucinated-superagent"
+        "title": "Is it better to directly or indirectly ban ASI?",
+        "url": "https://www.lesswrong.com/posts/R3xWw6baZSKZMk8et/is-it-better-to-directly-or-indirectly-ban-asi"
       },
       {
-        "title": "Aligned Data Can Induce Severe Misalignment via Context Confusion",
-        "url": "https://www.lesswrong.com/posts/ep3K8nA8g7wsqd5Ss/aligned-data-can-induce-severe-misalignment-via-context"
+        "title": "Linkpost to METR\u2019s Anthropic Speedup Assessment",
+        "url": "https://www.lesswrong.com/posts/diKDKhQZtfpQ7PPu9/linkpost-to-metr-s-anthropic-speedup-assessment"
       },
       {
-        "title": "The Midterms and AI Development",
-        "url": "https://www.lesswrong.com/posts/SdxT3AFFxcngqJfC3/the-midterms-and-ai-development"
+        "title": "AI #193: Progress May Dramatically Accelerate",
+        "url": "https://www.lesswrong.com/posts/NrQGzNcicMThuGEEM/ai-193-progress-may-dramatically-accelerate"
       },
       {
-        "title": "A therapist\u2019s offer to AI researchers",
-        "url": "https://www.lesswrong.com/posts/fcTwrNdY3NFKeETj9/a-therapist-s-offer-to-ai-researchers"
+        "title": "On marrying the egregore",
+        "url": "https://www.lesswrong.com/posts/AmyoCMhSzNA6svsMp/on-marrying-the-egregore"
       },
       {
-        "title": "Bengaluru AI Jailbreaking Workshop Retrospective",
-        "url": "https://www.lesswrong.com/posts/QWeFCksxab9LYo8vT/bengaluru-ai-jailbreaking-workshop-retrospective"
+        "title": "Clashing Intuitions for the Plausibility of Alignment (Illustrated via Differing Causal Models)",
+        "url": "https://www.lesswrong.com/posts/tegGJxqCKCvCXNhen/clashing-intuitions-for-the-plausibility-of-alignment"
       }
     ]
   },
@@ -50,8 +50,16 @@
     "url": "https://www.alignmentforum.org",
     "articles": [
       {
+        "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+        "url": "https://www.alignmentforum.org/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at"
+      },
+      {
         "title": "OpenAI: Astra covertly underperforms on safety research",
         "url": "https://www.alignmentforum.org/posts/eKe7fky8kSt9DCJxZ/openai-astra-covertly-underperforms-on-safety-research"
+      },
+      {
+        "title": "Positive and Negative AI Futures",
+        "url": "https://www.alignmentforum.org/posts/MrWZfxHCEgm7uvHJj/positive-and-negative-ai-futures"
       },
       {
         "title": "Desiderata for the Theory of Agents",
@@ -80,14 +88,6 @@
       {
         "title": "Setting the Scene (Public v1; October 2026)",
         "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-2026"
-      },
-      {
-        "title": "Monitorability evaluations and policy proposals",
-        "url": "https://www.alignmentforum.org/posts/zAczYuHQS6jdG5DTg/monitorability-evaluations-and-policy-proposals"
-      },
-      {
-        "title": "Neural nets are exceptionally vulnerable to goal self-hack",
-        "url": "https://www.alignmentforum.org/posts/eCR373J3NZwFbacnd/neural-nets-are-exceptionally-vulnerable-to-goal-self-hack"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+        "url": "https://arxiv.org/abs/2611.05390"
+      },
+      {
+        "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+        "url": "https://arxiv.org/abs/2611.05391"
+      },
+      {
+        "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+        "url": "https://arxiv.org/abs/2611.05392"
+      },
+      {
+        "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+        "url": "https://arxiv.org/abs/2611.05393"
+      },
+      {
+        "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+        "url": "https://arxiv.org/abs/2611.05394"
+      },
+      {
+        "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
+        "url": "https://arxiv.org/abs/2611.05450"
+      },
+      {
+        "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
+        "url": "https://arxiv.org/abs/2611.05459"
+      },
+      {
+        "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
+        "url": "https://arxiv.org/abs/2611.05512"
+      },
+      {
+        "title": "MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models",
+        "url": "https://arxiv.org/abs/2611.05524"
+      },
+      {
+        "title": "Towards Efficient Whole Page Ranking with One-Pass Inference",
+        "url": "https://arxiv.org/abs/2611.05542"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
