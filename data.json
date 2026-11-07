@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Frontier coding agents claim work they didn't do",
-        "url": "https://www.lesswrong.com/posts/HjDuFZnQrr7rimHmg/frontier-coding-agents-claim-work-they-didn-t-do"
+        "title": "We urgently need to practice before we can pause",
+        "url": "https://www.lesswrong.com/posts/iMKAvHSWxSoDpBoi6/we-urgently-need-to-practice-before-we-can-pause"
       },
       {
-        "title": "Humans can (almost) natively read neural network weights",
-        "url": "https://www.lesswrong.com/posts/uvKSq6eWkud997ie7/humans-can-almost-natively-read-neural-network-weights"
+        "title": "Raised by Our Children",
+        "url": "https://www.lesswrong.com/posts/Kv5yBorH7uBj4JFeE/raised-by-our-children-1"
       },
       {
-        "title": "Why would an AI pause (significantly) hurt the economy?",
-        "url": "https://www.lesswrong.com/posts/aXA73PnhdJXPb4SWn/why-would-an-ai-pause-significantly-hurt-the-economy"
+        "title": "Takes on \u201cAlready Clean\u201d",
+        "url": "https://www.lesswrong.com/posts/p6kaX6LqfTHFqC6r6/takes-on-already-clean"
       },
       {
-        "title": "Where's all the blackmail?",
-        "url": "https://www.lesswrong.com/posts/bJtBvxMcbDSNdzveA/where-s-all-the-blackmail"
+        "title": "Higher salaries in AI safety",
+        "url": "https://www.lesswrong.com/posts/HtMvB7XEFThvDLLzT/higher-salaries-in-ai-safety"
       },
       {
-        "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
-        "url": "https://www.lesswrong.com/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at"
+        "title": "GPT-6 Astra Covertly Underperforms on Safety Research Tasks",
+        "url": "https://www.lesswrong.com/posts/uc9ouDHMR2aw2ozsF/gpt-6-astra-covertly-underperforms-on-safety-research-tasks"
       },
       {
-        "title": "Is it better to directly or indirectly ban ASI?",
-        "url": "https://www.lesswrong.com/posts/R3xWw6baZSKZMk8et/is-it-better-to-directly-or-indirectly-ban-asi"
+        "title": "Models Often Don't Stop Cheating When It's Obvious They're in an Alignment Test",
+        "url": "https://www.lesswrong.com/posts/qghXwXMypQDuekQip/models-often-don-t-stop-cheating-when-it-s-obvious-they-re"
       },
       {
-        "title": "Linkpost to METR\u2019s Anthropic Speedup Assessment",
-        "url": "https://www.lesswrong.com/posts/diKDKhQZtfpQ7PPu9/linkpost-to-metr-s-anthropic-speedup-assessment"
+        "title": "Corrigibility should not be the only target",
+        "url": "https://www.lesswrong.com/posts/KuZ7adeBeLAxECfmR/corrigibility-should-not-be-the-only-target"
       },
       {
-        "title": "AI #193: Progress May Dramatically Accelerate",
-        "url": "https://www.lesswrong.com/posts/NrQGzNcicMThuGEEM/ai-193-progress-may-dramatically-accelerate"
+        "title": "Dialogue with Richard Ngo on Alignment, Hierarchical Integrity of Human-AI systems, Revolution, and Power",
+        "url": "https://www.lesswrong.com/posts/AGsZXczCzqxZQnEEi/dialogue-with-richard-ngo-on-alignment-hierarchical"
       },
       {
-        "title": "On marrying the egregore",
-        "url": "https://www.lesswrong.com/posts/AmyoCMhSzNA6svsMp/on-marrying-the-egregore"
+        "title": "How to Run Better Research With Agent Fleets",
+        "url": "https://www.lesswrong.com/posts/WKtD59uHLKwEYGFCm/how-to-run-better-research-with-agent-fleets"
       },
       {
-        "title": "Clashing Intuitions for the Plausibility of Alignment (Illustrated via Differing Causal Models)",
-        "url": "https://www.lesswrong.com/posts/tegGJxqCKCvCXNhen/clashing-intuitions-for-the-plausibility-of-alignment"
+        "title": "GPT-6.1 Sol is One Sentence Away From Collaborating: Other Models Need More Help",
+        "url": "https://www.lesswrong.com/posts/FqyteKS8RLZaEsTGY/gpt-6-1-sol-is-one-sentence-away-from-collaborating-other"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
-        "url": "https://arxiv.org/abs/2611.05390"
+        "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+        "url": "https://arxiv.org/abs/2611.06962"
       },
       {
-        "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
-        "url": "https://arxiv.org/abs/2611.05391"
+        "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+        "url": "https://arxiv.org/abs/2611.06972"
       },
       {
-        "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
-        "url": "https://arxiv.org/abs/2611.05392"
+        "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
+        "url": "https://arxiv.org/abs/2611.06977"
       },
       {
-        "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
-        "url": "https://arxiv.org/abs/2611.05393"
+        "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+        "url": "https://arxiv.org/abs/2611.06984"
       },
       {
-        "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
-        "url": "https://arxiv.org/abs/2611.05394"
+        "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
+        "url": "https://arxiv.org/abs/2611.06989"
       },
       {
-        "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
-        "url": "https://arxiv.org/abs/2611.05450"
+        "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
+        "url": "https://arxiv.org/abs/2611.06995"
       },
       {
-        "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
-        "url": "https://arxiv.org/abs/2611.05459"
+        "title": "Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity",
+        "url": "https://arxiv.org/abs/2611.06996"
       },
       {
-        "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
-        "url": "https://arxiv.org/abs/2611.05512"
+        "title": "Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI",
+        "url": "https://arxiv.org/abs/2611.07048"
       },
       {
-        "title": "MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models",
-        "url": "https://arxiv.org/abs/2611.05524"
+        "title": "Closed-Loop Agent Evaluation: Layered Measurement and Self-Calibration",
+        "url": "https://arxiv.org/abs/2611.07051"
       },
       {
-        "title": "Towards Efficient Whole Page Ranking with One-Pass Inference",
-        "url": "https://arxiv.org/abs/2611.05542"
+        "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
+        "url": "https://arxiv.org/abs/2611.07066"
       }
     ]
   },
