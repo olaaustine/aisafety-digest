@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Eval Awareness as Eval-type Awareness",
-        "url": "https://www.lesswrong.com/posts/AuAvzmRCmTkxLDtAn/eval-awareness-as-eval-type-awareness"
+        "title": "Bay Area Solstice 2026: Auditions!",
+        "url": "https://www.lesswrong.com/posts/YXe6Ni3vMCYdNWmqN/bay-area-solstice-2026-auditions"
       },
       {
-        "title": "\"Illegible problems\" as the 2027 political boss fight",
-        "url": "https://www.lesswrong.com/posts/fjGgrzAkpSDouLwfx/illegible-problems-as-the-2027-political-boss-fight"
+        "title": "Onngi",
+        "url": "https://www.lesswrong.com/posts/NKHdE2RsGseGvdLsc/onngi"
       },
       {
-        "title": "Five Types of \u201cCorrigibility Projects\u201d I Don\u2019t Want to Fund",
-        "url": "https://www.lesswrong.com/posts/9ixerpx4DCQTaRYCz/five-types-of-corrigibility-projects-i-don-t-want-to-fund"
+        "title": "We asked 100 AI researchers at EMNLP whether AI could be conscious, how they define consciousness, and how they engage with it",
+        "url": "https://www.lesswrong.com/posts/34CgHvoSHA2TudSDp/we-asked-100-ai-researchers-at-emnlp-whether-ai-could-be"
       },
       {
-        "title": "The Logic of Disgust",
-        "url": "https://www.lesswrong.com/posts/psBCPYJ8HjR8pujAb/the-logic-of-disgust"
+        "title": "Confirming Claims of Superposition and Adversarial Examples in Vision Transformers",
+        "url": "https://www.lesswrong.com/posts/TRe3CxDirbjPC7bQg/confirming-claims-of-superposition-and-adversarial-examples-1"
       },
       {
-        "title": "Anthropic's AI acceleration is probably real",
-        "url": "https://www.lesswrong.com/posts/QgcgoMz7mviHL6Esr/anthropic-s-ai-acceleration-is-probably-real"
+        "title": "Three half-baked research ideas",
+        "url": "https://www.lesswrong.com/posts/vAniKbagqhyzpha6r/three-half-baked-research-ideas"
       },
       {
-        "title": "Hilarity ensues",
-        "url": "https://www.lesswrong.com/posts/PZjy52afLn89NdMta/hilarity-ensues"
+        "title": "Lying and Not Lying to Kids",
+        "url": "https://www.lesswrong.com/posts/QDwADpScuPDMYhJxC/lying-and-not-lying-to-kids"
       },
       {
-        "title": "Let's Try to Catch Misalignment Before a Model Learns to Hide It",
-        "url": "https://www.lesswrong.com/posts/iXKhtYuXtneXzw9fN/let-s-try-to-catch-misalignment-before-a-model-learns-to"
+        "title": "Restraint on the part of the front-runner seems like quite a strong signal.",
+        "url": "https://www.lesswrong.com/posts/F6HBzfNunpvH3staH/restraint-on-the-part-of-the-front-runner-seems-like-quite-a"
       },
       {
-        "title": "Minimalism, Stuff, and Brains",
-        "url": "https://www.lesswrong.com/posts/vyzHkheBG6y5zapve/minimalism-stuff-and-brains"
+        "title": "Ajeya: AI is dramatically accelerating AI research right now",
+        "url": "https://www.lesswrong.com/posts/8tL9f5HZxsTvn2LHp/ajeya-ai-is-dramatically-accelerating-ai-research-right-now"
       },
       {
-        "title": "We urgently need to practice before we can pause",
-        "url": "https://www.lesswrong.com/posts/iMKAvHSWxSoDpBoi6/we-urgently-need-to-practice-before-we-can-pause"
+        "title": "Help people outside of AI safety circles",
+        "url": "https://www.lesswrong.com/posts/FEgjbgjpHyDyqHjej/help-people-outside-of-ai-safety-circles"
       },
       {
-        "title": "Raised by Our Children",
-        "url": "https://www.lesswrong.com/posts/Kv5yBorH7uBj4JFeE/raised-by-our-children-1"
+        "title": "Elegy for What\u2019s Left of the Normal",
+        "url": "https://www.lesswrong.com/posts/fooXeRHjgpv4TcoRy/elegy-for-what-s-left-of-the-normal"
       }
     ]
   },
@@ -49,6 +49,14 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Ajeya: AI is dramatically accelerating AI research right now",
+        "url": "https://www.alignmentforum.org/posts/8tL9f5HZxsTvn2LHp/ajeya-ai-is-dramatically-accelerating-ai-research-right-now"
+      },
+      {
+        "title": "Notes on Take-Off Speeds and RSI",
+        "url": "https://www.alignmentforum.org/posts/ft9hzw82v7FRDKmpn/notes-on-take-off-speeds-and-rsi"
+      },
       {
         "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
         "url": "https://www.alignmentforum.org/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at"
@@ -80,14 +88,6 @@
       {
         "title": "Explaining \u201cAI might obliterate you\u201d to senior policymakers in India",
         "url": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in"
-      },
-      {
-        "title": "Notes on \u201cWe\u2019re in Triage Mode for AI Safety\u201d by Miles Brundage",
-        "url": "https://www.alignmentforum.org/posts/BFyNkWgxucqy6Wcee/notes-on-we-re-in-triage-mode-for-ai-safety-by-miles"
-      },
-      {
-        "title": "Setting the Scene (Public v1; October 2026)",
-        "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-2026"
       }
     ]
   },
