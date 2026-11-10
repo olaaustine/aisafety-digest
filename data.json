@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Bay Area Solstice 2026: Auditions!",
-        "url": "https://www.lesswrong.com/posts/YXe6Ni3vMCYdNWmqN/bay-area-solstice-2026-auditions"
+        "title": "Lightcone Commons: Round 1 complete, Round 2 underway",
+        "url": "https://www.lesswrong.com/posts/3ASLq8ePNqkbeGqdj/lightcone-commons-round-1-complete-round-2-underway"
       },
       {
-        "title": "Onngi",
-        "url": "https://www.lesswrong.com/posts/NKHdE2RsGseGvdLsc/onngi"
+        "title": "The Western AI safety playbook doesn\u2019t transfer to China",
+        "url": "https://www.lesswrong.com/posts/AcBzhiaTW9KnB4EBv/the-western-ai-safety-playbook-doesn-t-transfer-to-china-1"
       },
       {
-        "title": "We asked 100 AI researchers at EMNLP whether AI could be conscious, how they define consciousness, and how they engage with it",
-        "url": "https://www.lesswrong.com/posts/34CgHvoSHA2TudSDp/we-asked-100-ai-researchers-at-emnlp-whether-ai-could-be"
+        "title": "Epistemic Sudden Death",
+        "url": "https://www.lesswrong.com/posts/ijt6YdwSNpcevbFJy/epistemic-sudden-death"
       },
       {
-        "title": "Confirming Claims of Superposition and Adversarial Examples in Vision Transformers",
-        "url": "https://www.lesswrong.com/posts/TRe3CxDirbjPC7bQg/confirming-claims-of-superposition-and-adversarial-examples-1"
+        "title": "We need more transparency about alignment overfitting",
+        "url": "https://www.lesswrong.com/posts/JTB8JjQfmkHsJtBDs/we-need-more-transparency-about-alignment-overfitting"
       },
       {
-        "title": "Three half-baked research ideas",
-        "url": "https://www.lesswrong.com/posts/vAniKbagqhyzpha6r/three-half-baked-research-ideas"
+        "title": "A Circularity at the Heart of Safety Assurance",
+        "url": "https://www.lesswrong.com/posts/HrftJvbRpNaAFeB2Q/a-circularity-at-the-heart-of-safety-assurance"
       },
       {
-        "title": "Lying and Not Lying to Kids",
-        "url": "https://www.lesswrong.com/posts/QDwADpScuPDMYhJxC/lying-and-not-lying-to-kids"
+        "title": "My Paranoid Coding Machine Setup",
+        "url": "https://www.lesswrong.com/posts/6wenbjFjj8293PEdW/my-paranoid-coding-machine-setup"
       },
       {
-        "title": "Restraint on the part of the front-runner seems like quite a strong signal.",
-        "url": "https://www.lesswrong.com/posts/F6HBzfNunpvH3staH/restraint-on-the-part-of-the-front-runner-seems-like-quite-a"
+        "title": "\"Hardwired Pause\" should likely be your favorite (pause) plan.",
+        "url": "https://www.lesswrong.com/posts/jT272BNHFzgAR5u2m/hardwired-pause-should-likely-be-your-favorite-pause-plan"
       },
       {
-        "title": "Ajeya: AI is dramatically accelerating AI research right now",
-        "url": "https://www.lesswrong.com/posts/8tL9f5HZxsTvn2LHp/ajeya-ai-is-dramatically-accelerating-ai-research-right-now"
+        "title": "Whose Side? A game where you audit models for secret loyalties",
+        "url": "https://www.lesswrong.com/posts/NTWRL3cK8gEP3eE2v/whose-side-a-game-where-you-audit-models-for-secret"
       },
       {
-        "title": "Help people outside of AI safety circles",
-        "url": "https://www.lesswrong.com/posts/FEgjbgjpHyDyqHjej/help-people-outside-of-ai-safety-circles"
+        "title": "Would you press the button? The hard problem of alignment",
+        "url": "https://www.lesswrong.com/posts/KgQnkjtHRp6r2Br8L/would-you-press-the-button-the-hard-problem-of-alignment-1"
       },
       {
-        "title": "Elegy for What\u2019s Left of the Normal",
-        "url": "https://www.lesswrong.com/posts/fooXeRHjgpv4TcoRy/elegy-for-what-s-left-of-the-normal"
+        "title": "25% of People Have Avoidant Attachment (But It Can Be Healed!)",
+        "url": "https://www.lesswrong.com/posts/Rp6ajYLeTGyZJLmTZ/25-of-people-have-avoidant-attachment-but-it-can-be-healed"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Where is all the AI safety research uplift?",
+        "url": "https://www.alignmentforum.org/posts/wPrpnfaNL5JP9i6KT/where-is-all-the-ai-safety-research-uplift"
+      },
       {
         "title": "Ajeya: AI is dramatically accelerating AI research right now",
         "url": "https://www.alignmentforum.org/posts/8tL9f5HZxsTvn2LHp/ajeya-ai-is-dramatically-accelerating-ai-research-right-now"
@@ -84,10 +88,6 @@
       {
         "title": "Some \u201ccoherence arguments\u201d are two different things in a trenchcoat",
         "url": "https://www.alignmentforum.org/posts/5a4tuSNDNodPsiS26/some-coherence-arguments-are-two-different-things-in-a"
-      },
-      {
-        "title": "Explaining \u201cAI might obliterate you\u201d to senior policymakers in India",
-        "url": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in"
       }
     ]
   },
