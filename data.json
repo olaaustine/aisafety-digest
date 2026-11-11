@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Lightcone Commons: Round 1 complete, Round 2 underway",
-        "url": "https://www.lesswrong.com/posts/3ASLq8ePNqkbeGqdj/lightcone-commons-round-1-complete-round-2-underway"
+        "title": "Characterizing secondary structure representation in ESM-2",
+        "url": "https://www.lesswrong.com/posts/BoBYFAbo9j8hJyKyn/characterizing-secondary-structure-representation-in-esm-2"
       },
       {
-        "title": "The Western AI safety playbook doesn\u2019t transfer to China",
-        "url": "https://www.lesswrong.com/posts/AcBzhiaTW9KnB4EBv/the-western-ai-safety-playbook-doesn-t-transfer-to-china-1"
+        "title": "What Can AI Welfare Buy Without Consciousness?",
+        "url": "https://www.lesswrong.com/posts/D3WYRopEnodnM5CzF/what-can-ai-welfare-buy-without-consciousness"
       },
       {
-        "title": "Epistemic Sudden Death",
-        "url": "https://www.lesswrong.com/posts/ijt6YdwSNpcevbFJy/epistemic-sudden-death"
+        "title": "Delaying Internal Deployments Until After X Days of Safety Testing",
+        "url": "https://www.lesswrong.com/posts/XNLhpWgzhF8GYZ4Er/delaying-internal-deployments-until-after-x-days-of-safety"
       },
       {
-        "title": "We need more transparency about alignment overfitting",
-        "url": "https://www.lesswrong.com/posts/JTB8JjQfmkHsJtBDs/we-need-more-transparency-about-alignment-overfitting"
+        "title": "San Francisco Rationalist Dinner",
+        "url": "https://www.lesswrong.com/events/m96X8qoe5bpwCMDKk/san-francisco-rationalist-dinner-2"
       },
       {
-        "title": "A Circularity at the Heart of Safety Assurance",
-        "url": "https://www.lesswrong.com/posts/HrftJvbRpNaAFeB2Q/a-circularity-at-the-heart-of-safety-assurance"
+        "title": "The Manifund team scores AI safety milestones",
+        "url": "https://www.lesswrong.com/posts/WfA3ffjEgQt4wx3xL/the-manifund-team-scores-ai-safety-milestones"
       },
       {
-        "title": "My Paranoid Coding Machine Setup",
-        "url": "https://www.lesswrong.com/posts/6wenbjFjj8293PEdW/my-paranoid-coding-machine-setup"
+        "title": "We don\u2019t understand whether GDM intentionally trains on CoT",
+        "url": "https://www.lesswrong.com/posts/JRYKFspYzCo97GqPN/we-don-t-understand-whether-gdm-intentionally-trains-on-cot"
       },
       {
-        "title": "\"Hardwired Pause\" should likely be your favorite (pause) plan.",
-        "url": "https://www.lesswrong.com/posts/jT272BNHFzgAR5u2m/hardwired-pause-should-likely-be-your-favorite-pause-plan"
+        "title": "Advances in interpretability would boost capabilities more than alignment",
+        "url": "https://www.lesswrong.com/posts/hz4kNf8tnowwSrh6R/advances-in-interpretability-would-boost-capabilities-more"
       },
       {
-        "title": "Whose Side? A game where you audit models for secret loyalties",
-        "url": "https://www.lesswrong.com/posts/NTWRL3cK8gEP3eE2v/whose-side-a-game-where-you-audit-models-for-secret"
+        "title": "Is AI Safety Becoming Environmentalism?",
+        "url": "https://www.lesswrong.com/posts/TDt922Lwsmbp3H3tS/is-ai-safety-becoming-environmentalism"
       },
       {
-        "title": "Would you press the button? The hard problem of alignment",
-        "url": "https://www.lesswrong.com/posts/KgQnkjtHRp6r2Br8L/would-you-press-the-button-the-hard-problem-of-alignment-1"
+        "title": "OpenAI estimates of researcher time horizon are smaller than AECI predictions",
+        "url": "https://www.lesswrong.com/posts/W3WyJJWN55yXXLh5r/openai-estimates-of-researcher-time-horizon-are-smaller-than"
       },
       {
-        "title": "25% of People Have Avoidant Attachment (But It Can Be Healed!)",
-        "url": "https://www.lesswrong.com/posts/Rp6ajYLeTGyZJLmTZ/25-of-people-have-avoidant-attachment-but-it-can-be-healed"
+        "title": "I don't use AI",
+        "url": "https://www.lesswrong.com/posts/PEHsGHp2HLxgdCxxA/i-don-t-use-ai"
       }
     ]
   },
@@ -49,6 +49,14 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Delaying Internal Deployments Until After X Days of Safety Testing",
+        "url": "https://www.alignmentforum.org/posts/XNLhpWgzhF8GYZ4Er/delaying-internal-deployments-until-after-x-days-of-safety"
+      },
+      {
+        "title": "Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
+        "url": "https://www.alignmentforum.org/posts/f9PajMLmBYzmWzyDv/q3-5-timelines-update-looks-like-the-intelligence-explosion"
+      },
       {
         "title": "Where is all the AI safety research uplift?",
         "url": "https://www.alignmentforum.org/posts/wPrpnfaNL5JP9i6KT/where-is-all-the-ai-safety-research-uplift"
@@ -80,14 +88,6 @@
       {
         "title": "Automating subtle emergent misalignment research",
         "url": "https://www.alignmentforum.org/posts/MuQDLAJyKJPFkw6q9/automating-subtle-emergent-misalignment-research"
-      },
-      {
-        "title": "Additional Course Context (for AI Safety Fundamentals; unofficial)",
-        "url": "https://www.alignmentforum.org/posts/6qDn6H5XG5Hc6BJFe/additional-course-context-for-ai-safety-fundamentals"
-      },
-      {
-        "title": "Some \u201ccoherence arguments\u201d are two different things in a trenchcoat",
-        "url": "https://www.alignmentforum.org/posts/5a4tuSNDNodPsiS26/some-coherence-arguments-are-two-different-things-in-a"
       }
     ]
   },
@@ -123,6 +123,10 @@
         "url": "https://www.anthropic.com/news/news/s1-sec"
       },
       {
+        "title": "Anthropic launches roadshow for proposed initial public offering",
+        "url": "https://www.anthropic.com/news/news/roadshow-launch"
+      },
+      {
         "title": "AI for Science expands to foundations and research institutions",
         "url": "https://www.anthropic.com/news/news/ai-for-science-expands-foundations-research-institutions"
       },
@@ -145,10 +149,6 @@
       {
         "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
         "url": "https://www.anthropic.com/news/news/christopher-stubbs-joins-long-term-benefit-trust"
-      },
-      {
-        "title": "An update on independent evaluators",
-        "url": "https://www.anthropic.com/news/news/an-update-on-independent-evaluators"
       }
     ]
   }
