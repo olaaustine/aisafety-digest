@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Characterizing secondary structure representation in ESM-2",
-        "url": "https://www.lesswrong.com/posts/BoBYFAbo9j8hJyKyn/characterizing-secondary-structure-representation-in-esm-2"
+        "title": "Stroh Violin",
+        "url": "https://www.lesswrong.com/posts/JbboQMxJtgqZcbdRg/stroh-violin"
       },
       {
-        "title": "What Can AI Welfare Buy Without Consciousness?",
-        "url": "https://www.lesswrong.com/posts/D3WYRopEnodnM5CzF/what-can-ai-welfare-buy-without-consciousness"
+        "title": "Is predicting AI behaviour a neglected AI safety agenda?",
+        "url": "https://www.lesswrong.com/posts/atEfFNcHpnPo9RhnZ/is-predicting-ai-behaviour-a-neglected-ai-safety-agenda"
       },
       {
-        "title": "Delaying Internal Deployments Until After X Days of Safety Testing",
-        "url": "https://www.lesswrong.com/posts/XNLhpWgzhF8GYZ4Er/delaying-internal-deployments-until-after-x-days-of-safety"
+        "title": "Don't Waste a Good Swarm Attack and the Colluder's Dilemma",
+        "url": "https://www.lesswrong.com/posts/oLHdtvYSrvDpWREo4/don-t-waste-a-good-swarm-attack-and-the-colluder-s-dilemma"
       },
       {
-        "title": "San Francisco Rationalist Dinner",
-        "url": "https://www.lesswrong.com/events/m96X8qoe5bpwCMDKk/san-francisco-rationalist-dinner-2"
+        "title": "Intuitions towards a theory of agent foundations",
+        "url": "https://www.lesswrong.com/posts/swkB6jLrAvFES6avT/intuitions-towards-a-theory-of-agent-foundations"
       },
       {
-        "title": "The Manifund team scores AI safety milestones",
-        "url": "https://www.lesswrong.com/posts/WfA3ffjEgQt4wx3xL/the-manifund-team-scores-ai-safety-milestones"
+        "title": "The Chain Lens [interim]",
+        "url": "https://www.lesswrong.com/posts/Nr6fksEqqxNpdz6rk/the-chain-lens-interim"
       },
       {
-        "title": "We don\u2019t understand whether GDM intentionally trains on CoT",
-        "url": "https://www.lesswrong.com/posts/JRYKFspYzCo97GqPN/we-don-t-understand-whether-gdm-intentionally-trains-on-cot"
+        "title": "Kimi's Room (Preliminary Results)",
+        "url": "https://www.lesswrong.com/posts/gXHhtGijBbs8q7iEY/kimi-s-room-preliminary-results"
       },
       {
-        "title": "Advances in interpretability would boost capabilities more than alignment",
-        "url": "https://www.lesswrong.com/posts/hz4kNf8tnowwSrh6R/advances-in-interpretability-would-boost-capabilities-more"
+        "title": "Your speculations about capabilities are not automatically safe",
+        "url": "https://www.lesswrong.com/posts/RDoGhfHE2MEXeMX75/your-speculations-about-capabilities-are-not-automatically"
       },
       {
-        "title": "Is AI Safety Becoming Environmentalism?",
-        "url": "https://www.lesswrong.com/posts/TDt922Lwsmbp3H3tS/is-ai-safety-becoming-environmentalism"
+        "title": "Fable and Mythos 5.2: The System Card",
+        "url": "https://www.lesswrong.com/posts/DXqmHa4XkjvwZiDcB/fable-and-mythos-5-2-the-system-card"
       },
       {
-        "title": "OpenAI estimates of researcher time horizon are smaller than AECI predictions",
-        "url": "https://www.lesswrong.com/posts/W3WyJJWN55yXXLh5r/openai-estimates-of-researcher-time-horizon-are-smaller-than"
+        "title": "LLMs can learn (some) multi-step reasoning on filler tokens",
+        "url": "https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2"
       },
       {
-        "title": "I don't use AI",
-        "url": "https://www.lesswrong.com/posts/PEHsGHp2HLxgdCxxA/i-don-t-use-ai"
+        "title": "What I might do if I were a high-schooler in 2027",
+        "url": "https://www.lesswrong.com/posts/EWYwNp2tmyiXh9Y5S/what-i-might-do-if-i-were-a-high-schooler-in-2027"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "How I'm thinking about different types of automated alignment",
+        "url": "https://www.alignmentforum.org/posts/NFkj9J2BBLSjNuH5G/how-i-m-thinking-about-different-types-of-automated"
+      },
       {
         "title": "Delaying Internal Deployments Until After X Days of Safety Testing",
         "url": "https://www.alignmentforum.org/posts/XNLhpWgzhF8GYZ4Er/delaying-internal-deployments-until-after-x-days-of-safety"
@@ -84,10 +88,6 @@
       {
         "title": "Desiderata for the Theory of Agents",
         "url": "https://www.alignmentforum.org/posts/sqjti8dxcKSvZJikd/desiderata-for-the-theory-of-agents"
-      },
-      {
-        "title": "Automating subtle emergent misalignment research",
-        "url": "https://www.alignmentforum.org/posts/MuQDLAJyKJPFkw6q9/automating-subtle-emergent-misalignment-research"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+        "url": "https://arxiv.org/abs/2611.12933"
+      },
+      {
+        "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+        "url": "https://arxiv.org/abs/2611.12934"
+      },
+      {
+        "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
+        "url": "https://arxiv.org/abs/2611.12935"
+      },
+      {
+        "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
+        "url": "https://arxiv.org/abs/2611.12936"
+      },
+      {
+        "title": "Tracing Psychometric Inference in Large Language Models",
+        "url": "https://arxiv.org/abs/2611.12937"
+      },
+      {
+        "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
+        "url": "https://arxiv.org/abs/2611.12938"
+      },
+      {
+        "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
+        "url": "https://arxiv.org/abs/2611.12940"
+      },
+      {
+        "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
+        "url": "https://arxiv.org/abs/2611.12941"
+      },
+      {
+        "title": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
+        "url": "https://arxiv.org/abs/2611.12942"
+      },
+      {
+        "title": "SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes",
+        "url": "https://arxiv.org/abs/2611.12950"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
