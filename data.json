@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Stroh Violin",
-        "url": "https://www.lesswrong.com/posts/JbboQMxJtgqZcbdRg/stroh-violin"
+        "title": "Thoughts on attending the March Against AI Extinction",
+        "url": "https://www.lesswrong.com/posts/u3CKQTMNffKrpJQcd/thoughts-on-attending-the-march-against-ai-extinction"
       },
       {
-        "title": "Is predicting AI behaviour a neglected AI safety agenda?",
-        "url": "https://www.lesswrong.com/posts/atEfFNcHpnPo9RhnZ/is-predicting-ai-behaviour-a-neglected-ai-safety-agenda"
+        "title": "Orienting to 1 year AGI timelines",
+        "url": "https://www.lesswrong.com/posts/biFHYdJnMSCmW9Xou/orienting-to-1-year-agi-timelines"
       },
       {
-        "title": "Don't Waste a Good Swarm Attack and the Colluder's Dilemma",
-        "url": "https://www.lesswrong.com/posts/oLHdtvYSrvDpWREo4/don-t-waste-a-good-swarm-attack-and-the-colluder-s-dilemma"
+        "title": "AGI is probably bad for startups, even if it doesn't lead to ASI",
+        "url": "https://www.lesswrong.com/posts/zdLN7bLPnh5jzWCAx/agi-is-probably-bad-for-startups-even-if-it-doesn-t-lead-to"
       },
       {
-        "title": "Intuitions towards a theory of agent foundations",
-        "url": "https://www.lesswrong.com/posts/swkB6jLrAvFES6avT/intuitions-towards-a-theory-of-agent-foundations"
+        "title": "Your Research Needs More of The Void",
+        "url": "https://www.lesswrong.com/posts/bmogjuWbrJfkprghx/your-research-needs-more-of-the-void"
       },
       {
-        "title": "The Chain Lens [interim]",
-        "url": "https://www.lesswrong.com/posts/Nr6fksEqqxNpdz6rk/the-chain-lens-interim"
+        "title": "Suppose we successfully train out self-preservation",
+        "url": "https://www.lesswrong.com/posts/ay2BtvafvrviBnLYr/suppose-we-successfully-train-out-self-preservation"
       },
       {
-        "title": "Kimi's Room (Preliminary Results)",
-        "url": "https://www.lesswrong.com/posts/gXHhtGijBbs8q7iEY/kimi-s-room-preliminary-results"
+        "title": "Ephemeral agents escape the Arrow Information Paradox",
+        "url": "https://www.lesswrong.com/posts/pRzTx7dAyrPv5bwca/ephemeral-agents-escape-the-arrow-information-paradox"
       },
       {
-        "title": "Your speculations about capabilities are not automatically safe",
-        "url": "https://www.lesswrong.com/posts/RDoGhfHE2MEXeMX75/your-speculations-about-capabilities-are-not-automatically"
+        "title": "Performative Neuroticism vs Genuine Connection",
+        "url": "https://www.lesswrong.com/posts/2uaxctSToqc5S7Ekf/performative-neuroticism-vs-genuine-connection"
       },
       {
-        "title": "Fable and Mythos 5.2: The System Card",
-        "url": "https://www.lesswrong.com/posts/DXqmHa4XkjvwZiDcB/fable-and-mythos-5-2-the-system-card"
+        "title": "Post-Glasswing cybersecurity projects",
+        "url": "https://www.lesswrong.com/posts/nW3g2spGXuoLsRsWh/post-glasswing-cybersecurity-projects"
       },
       {
-        "title": "LLMs can learn (some) multi-step reasoning on filler tokens",
-        "url": "https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2"
+        "title": "A New Kind of Prediction Market for Science",
+        "url": "https://www.lesswrong.com/posts/7xJeaAKTKxbHL6F9a/a-new-kind-of-prediction-market-for-science"
       },
       {
-        "title": "What I might do if I were a high-schooler in 2027",
-        "url": "https://www.lesswrong.com/posts/EWYwNp2tmyiXh9Y5S/what-i-might-do-if-i-were-a-high-schooler-in-2027"
+        "title": "Future of AI Honeypots",
+        "url": "https://www.lesswrong.com/posts/KSekmsGMeur2mJFA2/future-of-ai-honeypots"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
-        "url": "https://arxiv.org/abs/2611.12933"
-      },
-      {
-        "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
-        "url": "https://arxiv.org/abs/2611.12934"
-      },
-      {
-        "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
-        "url": "https://arxiv.org/abs/2611.12935"
-      },
-      {
-        "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
-        "url": "https://arxiv.org/abs/2611.12936"
-      },
-      {
-        "title": "Tracing Psychometric Inference in Large Language Models",
-        "url": "https://arxiv.org/abs/2611.12937"
-      },
-      {
-        "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
-        "url": "https://arxiv.org/abs/2611.12938"
-      },
-      {
-        "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
-        "url": "https://arxiv.org/abs/2611.12940"
-      },
-      {
-        "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
-        "url": "https://arxiv.org/abs/2611.12941"
-      },
-      {
-        "title": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
-        "url": "https://arxiv.org/abs/2611.12942"
-      },
-      {
-        "title": "SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes",
-        "url": "https://arxiv.org/abs/2611.12950"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
