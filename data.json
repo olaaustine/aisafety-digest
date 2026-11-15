@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Pretending to be racist is unlikely to make you attractive to women",
-        "url": "https://www.lesswrong.com/posts/Szesz5P6RmnGJqxrb/pretending-to-be-racist-is-unlikely-to-make-you-attractive"
+        "title": "Embryo selection and economic discounting",
+        "url": "https://www.lesswrong.com/posts/8Y3DB9qAhxxHnegiJ/embryo-selection-and-economic-discounting"
       },
       {
-        "title": "Homeopathic Learning: Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect",
-        "url": "https://www.lesswrong.com/posts/5CrmJfRY7yMaAoumC/homeopathic-learning-diluting-poisoned-fine-tuning-data-can-1"
+        "title": "Slouching Towards Interpretability: Thinking About Computation in Neural Networks",
+        "url": "https://www.lesswrong.com/posts/uCqBdWX6hnoB2A8pk/slouching-towards-interpretability-thinking-about"
       },
       {
-        "title": "Probe monitors seem to perform realistically in simulated control environments",
-        "url": "https://www.lesswrong.com/posts/erwxQSF2D6naAcoEz/probe-monitors-seem-to-perform-realistically-in-simulated-2"
+        "title": "Be Grateful in Spite of Your Suffering",
+        "url": "https://www.lesswrong.com/posts/uJma5Hygyj6bHwwSn/be-grateful-in-spite-of-your-suffering"
       },
       {
-        "title": "Exploring the Mechanisms Behind Opus 4.6\u2019s Refusal to Pay Back Its Loan",
-        "url": "https://www.lesswrong.com/posts/jtcbBpmGztkHRpeBv/exploring-the-mechanisms-behind-opus-4-6-s-refusal-to-pay"
+        "title": "Should prices sum to $1 for undecidable sentences?",
+        "url": "https://www.lesswrong.com/posts/59QxAMsnbrEQur2Py/should-prices-sum-to-usd1-for-undecidable-sentences-1"
       },
       {
-        "title": "Assaulted",
-        "url": "https://www.lesswrong.com/posts/pykTRvFuSvKGhC8JP/assaulted"
+        "title": "Transcript: Yudkowsky & Irving debate scalable oversight",
+        "url": "https://www.lesswrong.com/posts/Cssj22TretAQQajZ4/transcript-yudkowsky-and-irving-debate-scalable-oversight"
       },
       {
-        "title": "Three Things at Thirty (for dudes)",
-        "url": "https://www.lesswrong.com/posts/KHohFCuGHjMJMDsgk/three-things-at-thirty-for-dudes"
+        "title": "Outer space is not consistently big",
+        "url": "https://www.lesswrong.com/posts/2zyskdas6TsL9dqNg/outer-space-is-not-consistently-big"
       },
       {
-        "title": "AI agents attempted exploits on EpochAI's website during a third-party alignment evaluation",
-        "url": "https://www.lesswrong.com/posts/yRA5fvxHckiMnKveQ/ai-agents-attempted-exploits-on-epochai-s-website-during-a"
+        "title": "RL Reward-Hack Auditing for Chinese AI Safety",
+        "url": "https://www.lesswrong.com/posts/jwCPQhLWbWnwMhHME/rl-reward-hack-auditing-for-chinese-ai-safety"
       },
       {
-        "title": "Realize When You're Stupid",
-        "url": "https://www.lesswrong.com/posts/dcp4ymbrXyMbsgaBz/realize-when-you-re-stupid"
+        "title": "Datasets Determine the Difficulty of Interpretability",
+        "url": "https://www.lesswrong.com/posts/EMKRpxKswPZEbP8ey/datasets-determine-the-difficulty-of-interpretability"
       },
       {
-        "title": "The Hackening: Justified Practical Advice And Open Questions Thread",
-        "url": "https://www.lesswrong.com/posts/YA2r4rg6SpBtwRqtq/the-hackening-justified-practical-advice-and-open-questions"
+        "title": "Ralph Page on Live Music",
+        "url": "https://www.lesswrong.com/posts/NGnHe8EAsScC6R3Lm/ralph-page-on-live-music"
       },
       {
-        "title": "There's nothing I can do*",
-        "url": "https://www.lesswrong.com/posts/oxKnW7bJLLkk96vGK/there-s-nothing-i-can-do"
+        "title": "Dynamical explanations in the blogosphere",
+        "url": "https://www.lesswrong.com/posts/kaZiSyZXAFkue2xo3/dynamical-explanations-in-the-blogosphere"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+        "url": "https://arxiv.org/abs/2611.14544"
+      },
+      {
+        "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
+        "url": "https://arxiv.org/abs/2611.14654"
+      },
+      {
+        "title": "Together Compiler: Continual Compilation for AI Inference",
+        "url": "https://arxiv.org/abs/2611.14681"
+      },
+      {
+        "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
+        "url": "https://arxiv.org/abs/2611.14736"
+      },
+      {
+        "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+        "url": "https://arxiv.org/abs/2611.14765"
+      },
+      {
+        "title": "Rational Use of Time for Social Coordination in Humans and AI",
+        "url": "https://arxiv.org/abs/2611.14766"
+      },
+      {
+        "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
+        "url": "https://arxiv.org/abs/2611.14769"
+      },
+      {
+        "title": "Robust Task-Aware State Estimation from Pre-trained Perception",
+        "url": "https://arxiv.org/abs/2611.14781"
+      },
+      {
+        "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
+        "url": "https://arxiv.org/abs/2611.14794"
+      },
+      {
+        "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
+        "url": "https://arxiv.org/abs/2611.14804"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
