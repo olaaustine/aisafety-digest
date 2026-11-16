@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Embryo selection and economic discounting",
-        "url": "https://www.lesswrong.com/posts/8Y3DB9qAhxxHnegiJ/embryo-selection-and-economic-discounting"
+        "title": "[low effort post] The Non-extinctionist World",
+        "url": "https://www.lesswrong.com/posts/9KbbXaEwtQiQrAjYW/low-effort-post-the-non-extinctionist-world"
       },
       {
-        "title": "Slouching Towards Interpretability: Thinking About Computation in Neural Networks",
-        "url": "https://www.lesswrong.com/posts/uCqBdWX6hnoB2A8pk/slouching-towards-interpretability-thinking-about"
+        "title": "LLMs are weirdly below chance on TASTE without a shortcut",
+        "url": "https://www.lesswrong.com/posts/tpKE33scJGzqYKEBW/llms-are-weirdly-below-chance-on-taste-without-a-shortcut"
       },
       {
-        "title": "Be Grateful in Spite of Your Suffering",
-        "url": "https://www.lesswrong.com/posts/uJma5Hygyj6bHwwSn/be-grateful-in-spite-of-your-suffering"
+        "title": "Waluigi World",
+        "url": "https://www.lesswrong.com/posts/RvBivWJMbeA6trzN5/waluigi-world"
       },
       {
-        "title": "Should prices sum to $1 for undecidable sentences?",
-        "url": "https://www.lesswrong.com/posts/59QxAMsnbrEQur2Py/should-prices-sum-to-usd1-for-undecidable-sentences-1"
+        "title": "What Futures Do AI Models Want? An Exploratory Character Evaluation of AI for AI Strategy",
+        "url": "https://www.lesswrong.com/posts/A9o8f2jjwxRiph2ht/what-futures-do-ai-models-want-an-exploratory-character"
       },
       {
-        "title": "Transcript: Yudkowsky & Irving debate scalable oversight",
-        "url": "https://www.lesswrong.com/posts/Cssj22TretAQQajZ4/transcript-yudkowsky-and-irving-debate-scalable-oversight"
+        "title": "Giving Up on Saving the World",
+        "url": "https://www.lesswrong.com/posts/hvDpcoLqpHvQEmx8B/giving-up-on-saving-the-world"
       },
       {
-        "title": "Outer space is not consistently big",
-        "url": "https://www.lesswrong.com/posts/2zyskdas6TsL9dqNg/outer-space-is-not-consistently-big"
+        "title": "Easier To Be Good",
+        "url": "https://www.lesswrong.com/posts/4zbvagnfFsJbkSxij/easier-to-be-good"
       },
       {
-        "title": "RL Reward-Hack Auditing for Chinese AI Safety",
-        "url": "https://www.lesswrong.com/posts/jwCPQhLWbWnwMhHME/rl-reward-hack-auditing-for-chinese-ai-safety"
+        "title": "Bayesian Games with Nukes",
+        "url": "https://www.lesswrong.com/posts/b2tRteNzTGbEaDTMN/bayesian-games-with-nukes"
       },
       {
-        "title": "Datasets Determine the Difficulty of Interpretability",
-        "url": "https://www.lesswrong.com/posts/EMKRpxKswPZEbP8ey/datasets-determine-the-difficulty-of-interpretability"
+        "title": "Alignment 'train/test splits' should be sacred",
+        "url": "https://www.lesswrong.com/posts/FX2xcrsqBYonLfoge/alignment-train-test-splits-should-be-sacred"
       },
       {
-        "title": "Ralph Page on Live Music",
-        "url": "https://www.lesswrong.com/posts/NGnHe8EAsScC6R3Lm/ralph-page-on-live-music"
+        "title": "Where are the adults in AI safety?",
+        "url": "https://www.lesswrong.com/posts/iymi7FSdnbRAAn8To/where-are-the-adults-in-ai-safety"
       },
       {
-        "title": "Dynamical explanations in the blogosphere",
-        "url": "https://www.lesswrong.com/posts/kaZiSyZXAFkue2xo3/dynamical-explanations-in-the-blogosphere"
+        "title": "Where ASI Could Stumble",
+        "url": "https://www.lesswrong.com/posts/Jj2aLyZPYDv8ZsnCj/where-asi-could-stumble-1"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
-        "url": "https://arxiv.org/abs/2611.14544"
-      },
-      {
-        "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
-        "url": "https://arxiv.org/abs/2611.14654"
-      },
-      {
-        "title": "Together Compiler: Continual Compilation for AI Inference",
-        "url": "https://arxiv.org/abs/2611.14681"
-      },
-      {
-        "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
-        "url": "https://arxiv.org/abs/2611.14736"
-      },
-      {
-        "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
-        "url": "https://arxiv.org/abs/2611.14765"
-      },
-      {
-        "title": "Rational Use of Time for Social Coordination in Humans and AI",
-        "url": "https://arxiv.org/abs/2611.14766"
-      },
-      {
-        "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
-        "url": "https://arxiv.org/abs/2611.14769"
-      },
-      {
-        "title": "Robust Task-Aware State Estimation from Pre-trained Perception",
-        "url": "https://arxiv.org/abs/2611.14781"
-      },
-      {
-        "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
-        "url": "https://arxiv.org/abs/2611.14794"
-      },
-      {
-        "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
-        "url": "https://arxiv.org/abs/2611.14804"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
