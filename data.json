@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "[low effort post] The Non-extinctionist World",
-        "url": "https://www.lesswrong.com/posts/9KbbXaEwtQiQrAjYW/low-effort-post-the-non-extinctionist-world"
+        "title": "Thoughts on \"safety bad bc warning shots good\"",
+        "url": "https://www.lesswrong.com/posts/qJrhEoNbzKRQYhybh/thoughts-on-safety-bad-bc-warning-shots-good"
       },
       {
-        "title": "LLMs are weirdly below chance on TASTE without a shortcut",
-        "url": "https://www.lesswrong.com/posts/tpKE33scJGzqYKEBW/llms-are-weirdly-below-chance-on-taste-without-a-shortcut"
+        "title": "California State Politics AI Safety Overview",
+        "url": "https://www.lesswrong.com/posts/qNivEw2dxrFvNSPWi/california-state-politics-ai-safety-overview"
       },
       {
-        "title": "Waluigi World",
-        "url": "https://www.lesswrong.com/posts/RvBivWJMbeA6trzN5/waluigi-world"
+        "title": "A Beginner\u2019s Guide to Writing Essays/Blog Posts",
+        "url": "https://www.lesswrong.com/posts/59k2RuqxWkhMZekWQ/a-beginner-s-guide-to-writing-essays-blog-posts"
       },
       {
-        "title": "What Futures Do AI Models Want? An Exploratory Character Evaluation of AI for AI Strategy",
-        "url": "https://www.lesswrong.com/posts/A9o8f2jjwxRiph2ht/what-futures-do-ai-models-want-an-exploratory-character"
+        "title": "Two New Restaurants on Morrison Ave",
+        "url": "https://www.lesswrong.com/posts/vQMDevMR5MLJhELhC/two-new-restaurants-on-morrison-ave"
       },
       {
-        "title": "Giving Up on Saving the World",
-        "url": "https://www.lesswrong.com/posts/hvDpcoLqpHvQEmx8B/giving-up-on-saving-the-world"
+        "title": "The AI consciousness debate is a red herring",
+        "url": "https://www.lesswrong.com/posts/i76GuXDvGcbC7oWcb/the-ai-consciousness-debate-is-a-red-herring"
       },
       {
-        "title": "Easier To Be Good",
-        "url": "https://www.lesswrong.com/posts/4zbvagnfFsJbkSxij/easier-to-be-good"
+        "title": "The case against smoking (decision theory)",
+        "url": "https://www.lesswrong.com/posts/mP3rzhMthKpfYa7Ss/the-case-against-smoking-decision-theory"
       },
       {
-        "title": "Bayesian Games with Nukes",
-        "url": "https://www.lesswrong.com/posts/b2tRteNzTGbEaDTMN/bayesian-games-with-nukes"
+        "title": "A closer look at \u201cSparks of Weight-Space Programming\u201d",
+        "url": "https://www.lesswrong.com/posts/PD8Hmzro4N3piJSMP/a-closer-look-at-sparks-of-weight-space-programming"
       },
       {
-        "title": "Alignment 'train/test splits' should be sacred",
-        "url": "https://www.lesswrong.com/posts/FX2xcrsqBYonLfoge/alignment-train-test-splits-should-be-sacred"
+        "title": "A(nother) look at METR's time horizon: tasks of the same duration get solved months apart",
+        "url": "https://www.lesswrong.com/posts/qHztdHtoXixCWAr7z/a-nother-look-at-metr-s-time-horizon-tasks-of-the-same"
       },
       {
-        "title": "Where are the adults in AI safety?",
-        "url": "https://www.lesswrong.com/posts/iymi7FSdnbRAAn8To/where-are-the-adults-in-ai-safety"
+        "title": "Using AI to solve most of alignment is a fundamentally doomed approach: an intuition",
+        "url": "https://www.lesswrong.com/posts/b6GpdJb6QLZTQGhpr/using-ai-to-solve-most-of-alignment-is-a-fundamentally"
       },
       {
-        "title": "Where ASI Could Stumble",
-        "url": "https://www.lesswrong.com/posts/Jj2aLyZPYDv8ZsnCj/where-asi-could-stumble-1"
+        "title": "Announcing Control Tower",
+        "url": "https://www.lesswrong.com/posts/Yfm9AzioS9azgce8T/announcing-control-tower"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+        "url": "https://arxiv.org/abs/2611.17338"
+      },
+      {
+        "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+        "url": "https://arxiv.org/abs/2611.17339"
+      },
+      {
+        "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+        "url": "https://arxiv.org/abs/2611.17340"
+      },
+      {
+        "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+        "url": "https://arxiv.org/abs/2611.17341"
+      },
+      {
+        "title": "An Operationalization of Opaque Serial Depth",
+        "url": "https://arxiv.org/abs/2611.17495"
+      },
+      {
+        "title": "Advancing Quantization for R&R Models with Microscaling Formats",
+        "url": "https://arxiv.org/abs/2611.17501"
+      },
+      {
+        "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+        "url": "https://arxiv.org/abs/2611.17515"
+      },
+      {
+        "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
+        "url": "https://arxiv.org/abs/2611.17524"
+      },
+      {
+        "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
+        "url": "https://arxiv.org/abs/2611.17532"
+      },
+      {
+        "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
+        "url": "https://arxiv.org/abs/2611.17539"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
