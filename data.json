@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Thoughts on \"safety bad bc warning shots good\"",
-        "url": "https://www.lesswrong.com/posts/qJrhEoNbzKRQYhybh/thoughts-on-safety-bad-bc-warning-shots-good"
+        "title": "Designing Deceptive Model Organisms that Successfully Evade Auditing",
+        "url": "https://www.lesswrong.com/posts/7k3xBdhHb546oLBv4/designing-deceptive-model-organisms-that-successfully-evade"
       },
       {
-        "title": "California State Politics AI Safety Overview",
-        "url": "https://www.lesswrong.com/posts/qNivEw2dxrFvNSPWi/california-state-politics-ai-safety-overview"
+        "title": "[Research Note] Detecting Research Sabotage with Debate & Slopvestigators",
+        "url": "https://www.lesswrong.com/posts/Wr3bSxDmuLjcFBpxY/research-note-detecting-research-sabotage-with-debate-and"
       },
       {
-        "title": "A Beginner\u2019s Guide to Writing Essays/Blog Posts",
-        "url": "https://www.lesswrong.com/posts/59k2RuqxWkhMZekWQ/a-beginner-s-guide-to-writing-essays-blog-posts"
+        "title": "Lorxus Does Budget Inkhaven For a Third Time: 11/11~11/17",
+        "url": "https://www.lesswrong.com/posts/JcbLMtHP3SZqcc4gy/lorxus-does-budget-inkhaven-for-a-third-time-11-11-11-17"
       },
       {
-        "title": "Two New Restaurants on Morrison Ave",
-        "url": "https://www.lesswrong.com/posts/vQMDevMR5MLJhELhC/two-new-restaurants-on-morrison-ave"
+        "title": "It seems like misleading responses are mostly not intentional - Benchmarking LLM sophistry",
+        "url": "https://www.lesswrong.com/posts/k6EyvrDjgvmcjFzbi/it-seems-like-misleading-responses-are-mostly-not"
       },
       {
-        "title": "The AI consciousness debate is a red herring",
-        "url": "https://www.lesswrong.com/posts/i76GuXDvGcbC7oWcb/the-ai-consciousness-debate-is-a-red-herring"
+        "title": "EK (emancipatory knowledge) in EA (effective altruism)",
+        "url": "https://www.lesswrong.com/posts/CiTL4ihcADqfc6wPn/ek-emancipatory-knowledge-in-ea-effective-altruism"
       },
       {
-        "title": "The case against smoking (decision theory)",
-        "url": "https://www.lesswrong.com/posts/mP3rzhMthKpfYa7Ss/the-case-against-smoking-decision-theory"
+        "title": "How should we define \u201ccapabilities activities\u201d for the purpose of pacing?",
+        "url": "https://www.lesswrong.com/posts/Lxk79qD7DdRYv9Ri7/how-should-we-define-capabilities-activities-for-the-purpose"
       },
       {
-        "title": "A closer look at \u201cSparks of Weight-Space Programming\u201d",
-        "url": "https://www.lesswrong.com/posts/PD8Hmzro4N3piJSMP/a-closer-look-at-sparks-of-weight-space-programming"
+        "title": "The idiot's reductio",
+        "url": "https://www.lesswrong.com/posts/YgKhExegrhax5efrJ/the-idiot-s-reductio"
       },
       {
-        "title": "A(nother) look at METR's time horizon: tasks of the same duration get solved months apart",
-        "url": "https://www.lesswrong.com/posts/qHztdHtoXixCWAr7z/a-nother-look-at-metr-s-time-horizon-tasks-of-the-same"
+        "title": "A lab employee's guide to raising concerns",
+        "url": "https://www.lesswrong.com/posts/JPwYH3hEfLhEDaNFp/a-lab-employee-s-guide-to-raising-concerns"
       },
       {
-        "title": "Using AI to solve most of alignment is a fundamentally doomed approach: an intuition",
-        "url": "https://www.lesswrong.com/posts/b6GpdJb6QLZTQGhpr/using-ai-to-solve-most-of-alignment-is-a-fundamentally"
+        "title": "The Natural Alliance of Everyone Else",
+        "url": "https://www.lesswrong.com/posts/FqbKvFFsK2quvrMF5/the-natural-alliance-of-everyone-else"
       },
       {
-        "title": "Announcing Control Tower",
-        "url": "https://www.lesswrong.com/posts/Yfm9AzioS9azgce8T/announcing-control-tower"
+        "title": "Epoch's newly Bayesian ECI is sensitive to how 100% scores are clipped",
+        "url": "https://www.lesswrong.com/posts/XzhKeDjTFQTJKw2m8/epoch-s-newly-bayesian-eci-is-sensitive-to-how-100-scores"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
-        "url": "https://arxiv.org/abs/2611.17338"
-      },
-      {
-        "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
-        "url": "https://arxiv.org/abs/2611.17339"
-      },
-      {
-        "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
-        "url": "https://arxiv.org/abs/2611.17340"
-      },
-      {
-        "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
-        "url": "https://arxiv.org/abs/2611.17341"
-      },
-      {
-        "title": "An Operationalization of Opaque Serial Depth",
-        "url": "https://arxiv.org/abs/2611.17495"
-      },
-      {
-        "title": "Advancing Quantization for R&R Models with Microscaling Formats",
-        "url": "https://arxiv.org/abs/2611.17501"
-      },
-      {
-        "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
-        "url": "https://arxiv.org/abs/2611.17515"
-      },
-      {
-        "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
-        "url": "https://arxiv.org/abs/2611.17524"
-      },
-      {
-        "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
-        "url": "https://arxiv.org/abs/2611.17532"
-      },
-      {
-        "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
-        "url": "https://arxiv.org/abs/2611.17539"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
