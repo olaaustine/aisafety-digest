@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Designing Deceptive Model Organisms that Successfully Evade Auditing",
-        "url": "https://www.lesswrong.com/posts/7k3xBdhHb546oLBv4/designing-deceptive-model-organisms-that-successfully-evade"
+        "title": "Blue-teaming AI Through Safety Hillclimbing",
+        "url": "https://www.lesswrong.com/posts/adDkJvCzeBimXXxLs/blue-teaming-ai-through-safety-hillclimbing"
       },
       {
-        "title": "[Research Note] Detecting Research Sabotage with Debate & Slopvestigators",
-        "url": "https://www.lesswrong.com/posts/Wr3bSxDmuLjcFBpxY/research-note-detecting-research-sabotage-with-debate-and"
+        "title": "Has anyone here stopped saving for retirement?",
+        "url": "https://www.lesswrong.com/posts/reyRn6WBAtxPAdSqH/has-anyone-here-stopped-saving-for-retirement"
       },
       {
-        "title": "Lorxus Does Budget Inkhaven For a Third Time: 11/11~11/17",
-        "url": "https://www.lesswrong.com/posts/JcbLMtHP3SZqcc4gy/lorxus-does-budget-inkhaven-for-a-third-time-11-11-11-17"
+        "title": "Evaluation Awareness is Probably Distorting Monitor Evaluations",
+        "url": "https://www.lesswrong.com/posts/cZPQsTKDwgtvF8sjt/evaluation-awareness-is-probably-distorting-monitor"
       },
       {
-        "title": "It seems like misleading responses are mostly not intentional - Benchmarking LLM sophistry",
-        "url": "https://www.lesswrong.com/posts/k6EyvrDjgvmcjFzbi/it-seems-like-misleading-responses-are-mostly-not"
+        "title": "Only Talking About Yourself as a Defense Mechanism Against Being Vulnerable",
+        "url": "https://www.lesswrong.com/posts/t6DxjBM37X3egjxz2/only-talking-about-yourself-as-a-defense-mechanism-against"
       },
       {
-        "title": "EK (emancipatory knowledge) in EA (effective altruism)",
-        "url": "https://www.lesswrong.com/posts/CiTL4ihcADqfc6wPn/ek-emancipatory-knowledge-in-ea-effective-altruism"
+        "title": "GPT-6.2 Astra scores below chance on TASTE; GPT-6 Astra and Fable 5.2 near chance",
+        "url": "https://www.lesswrong.com/posts/4LpsoPeQTaFsZfC8H/gpt-6-2-astra-scores-below-chance-on-taste-gpt-6-astra-and"
       },
       {
-        "title": "How should we define \u201ccapabilities activities\u201d for the purpose of pacing?",
-        "url": "https://www.lesswrong.com/posts/Lxk79qD7DdRYv9Ri7/how-should-we-define-capabilities-activities-for-the-purpose"
+        "title": "The Ethics of Training Corrigible AIs",
+        "url": "https://www.lesswrong.com/posts/eeyWHFmkHfb59bgXQ/the-ethics-of-training-corrigible-ais"
       },
       {
-        "title": "The idiot's reductio",
-        "url": "https://www.lesswrong.com/posts/YgKhExegrhax5efrJ/the-idiot-s-reductio"
+        "title": "On exporting agency to Washington, DC",
+        "url": "https://www.lesswrong.com/posts/MHGgNaf6hTCP5NBz5/on-exporting-agency-to-washington-dc"
       },
       {
-        "title": "A lab employee's guide to raising concerns",
-        "url": "https://www.lesswrong.com/posts/JPwYH3hEfLhEDaNFp/a-lab-employee-s-guide-to-raising-concerns"
+        "title": "Baiting monitorable reward hacks",
+        "url": "https://www.lesswrong.com/posts/ujPKfLtpXbzyz7ayN/baiting-monitorable-reward-hacks"
       },
       {
-        "title": "The Natural Alliance of Everyone Else",
-        "url": "https://www.lesswrong.com/posts/FqbKvFFsK2quvrMF5/the-natural-alliance-of-everyone-else"
+        "title": "A question about sharing novel search tool (an \"epistemic linter\" of sorts)",
+        "url": "https://www.lesswrong.com/posts/8XPEpoiH3aZCqTKrg/a-question-about-sharing-novel-search-tool-an-epistemic-1"
       },
       {
-        "title": "Epoch's newly Bayesian ECI is sensitive to how 100% scores are clipped",
-        "url": "https://www.lesswrong.com/posts/XzhKeDjTFQTJKw2m8/epoch-s-newly-bayesian-eci-is-sensitive-to-how-100-scores"
+        "title": "Pacing AI via Compute Reallocation",
+        "url": "https://www.lesswrong.com/posts/dBEDh2WeZfhuiDnJ5/pacing-ai-via-compute-reallocation"
       }
     ]
   },
@@ -104,7 +104,48 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": []
+    "articles": [
+      {
+        "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+        "url": "https://arxiv.org/abs/2611.21682"
+      },
+      {
+        "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+        "url": "https://arxiv.org/abs/2611.21799"
+      },
+      {
+        "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+        "url": "https://arxiv.org/abs/2611.21827"
+      },
+      {
+        "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+        "url": "https://arxiv.org/abs/2611.21832"
+      },
+      {
+        "title": "Language Models Can Rewrite Their Own Weights",
+        "url": "https://arxiv.org/abs/2611.21885"
+      },
+      {
+        "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+        "url": "https://arxiv.org/abs/2611.21925"
+      },
+      {
+        "title": "SLED: Sensor SLicing from Edge to Datacenter",
+        "url": "https://arxiv.org/abs/2611.21937"
+      },
+      {
+        "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+        "url": "https://arxiv.org/abs/2611.21946"
+      },
+      {
+        "title": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
+        "url": "https://arxiv.org/abs/2611.21948"
+      },
+      {
+        "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
+        "url": "https://arxiv.org/abs/2611.21950"
+      }
+    ]
   },
   {
     "name": "Anthropic News",
@@ -121,6 +162,10 @@
       {
         "title": "Anthropic files S-1 with the SEC for proposed initial public offeringToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.",
         "url": "https://www.anthropic.com/news/news/s1-sec"
+      },
+      {
+        "title": "Anthropic prices initial public offering",
+        "url": "https://www.anthropic.com/news/news/anthropic-prices-initial-public-offering"
       },
       {
         "title": "Anthropic launches roadshow for proposed initial public offering",
@@ -145,10 +190,6 @@
       {
         "title": "Open call for guest investigators in the life sciences",
         "url": "https://www.anthropic.com/news/news/open-call-guest-investigators-life-sciences"
-      },
-      {
-        "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
-        "url": "https://www.anthropic.com/news/news/christopher-stubbs-joins-long-term-benefit-trust"
       }
     ]
   }
