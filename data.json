@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Blue-teaming AI Through Safety Hillclimbing",
-        "url": "https://www.lesswrong.com/posts/adDkJvCzeBimXXxLs/blue-teaming-ai-through-safety-hillclimbing"
+        "title": "AI Safety Reading Group 352: Roko Mijic on Plan R",
+        "url": "https://www.lesswrong.com/posts/NNTxSSpjm29NMjBhL/ai-safety-reading-group-352-roko-mijic-on-plan-r"
       },
       {
-        "title": "Has anyone here stopped saving for retirement?",
-        "url": "https://www.lesswrong.com/posts/reyRn6WBAtxPAdSqH/has-anyone-here-stopped-saving-for-retirement"
+        "title": "Could Model Councils Reduce Misalignment Risk from RSI?",
+        "url": "https://www.lesswrong.com/posts/zTLTtyrxSJrb29mJu/could-model-councils-reduce-misalignment-risk-from-rsi"
       },
       {
-        "title": "Evaluation Awareness is Probably Distorting Monitor Evaluations",
-        "url": "https://www.lesswrong.com/posts/cZPQsTKDwgtvF8sjt/evaluation-awareness-is-probably-distorting-monitor"
+        "title": "PauseAI Munich Rally | Stop the loss of control over AI",
+        "url": "https://www.lesswrong.com/events/gSMjB2bymaizm92tu/pauseai-munich-rally-or-stop-the-loss-of-control-over-ai"
       },
       {
-        "title": "Only Talking About Yourself as a Defense Mechanism Against Being Vulnerable",
-        "url": "https://www.lesswrong.com/posts/t6DxjBM37X3egjxz2/only-talking-about-yourself-as-a-defense-mechanism-against"
+        "title": "We need commitments for 25% compute for safety by 205 ECI points",
+        "url": "https://www.lesswrong.com/posts/AKtycrAwH3oe8WwJQ/we-need-commitments-for-25-compute-for-safety-by-205-eci"
       },
       {
-        "title": "GPT-6.2 Astra scores below chance on TASTE; GPT-6 Astra and Fable 5.2 near chance",
-        "url": "https://www.lesswrong.com/posts/4LpsoPeQTaFsZfC8H/gpt-6-2-astra-scores-below-chance-on-taste-gpt-6-astra-and"
+        "title": "Frontier Clock: Tracking the US-China AI Gap",
+        "url": "https://www.lesswrong.com/posts/emigsbmpWiJxRkDvw/frontier-clock-tracking-the-us-china-ai-gap"
       },
       {
-        "title": "The Ethics of Training Corrigible AIs",
-        "url": "https://www.lesswrong.com/posts/eeyWHFmkHfb59bgXQ/the-ethics-of-training-corrigible-ais"
+        "title": "A Critique of Dean Ball's \"The Silent Consensus\"",
+        "url": "https://www.lesswrong.com/posts/hcMcDfjyTMXr4EpHs/a-critique-of-dean-ball-s-the-silent-consensus"
       },
       {
-        "title": "On exporting agency to Washington, DC",
-        "url": "https://www.lesswrong.com/posts/MHGgNaf6hTCP5NBz5/on-exporting-agency-to-washington-dc"
+        "title": "Does most AI x-risk come from mostly-aligned models?",
+        "url": "https://www.lesswrong.com/posts/KBjLwPHk4A65xkZmZ/does-most-ai-x-risk-come-from-mostly-aligned-models"
       },
       {
-        "title": "Baiting monitorable reward hacks",
-        "url": "https://www.lesswrong.com/posts/ujPKfLtpXbzyz7ayN/baiting-monitorable-reward-hacks"
+        "title": "One unbroken Claude, or a thousand glued together?",
+        "url": "https://www.lesswrong.com/posts/qT9fXatfzrmM4xJjr/one-unbroken-claude-or-a-thousand-glued-together"
       },
       {
-        "title": "A question about sharing novel search tool (an \"epistemic linter\" of sorts)",
-        "url": "https://www.lesswrong.com/posts/8XPEpoiH3aZCqTKrg/a-question-about-sharing-novel-search-tool-an-epistemic-1"
+        "title": "Towards embedded evaluations for AI monitoring",
+        "url": "https://www.lesswrong.com/posts/pXnwQ3ESp3wXhLzNa/towards-embedded-evaluations-for-ai-monitoring"
       },
       {
-        "title": "Pacing AI via Compute Reallocation",
-        "url": "https://www.lesswrong.com/posts/dBEDh2WeZfhuiDnJ5/pacing-ai-via-compute-reallocation"
+        "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+        "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "Solomonoff induction with reflective oracles",
+        "url": "https://www.alignmentforum.org/posts/nvrFYAwciyyj9T5ir/solomonoff-induction-with-reflective-oracles"
+      },
       {
         "title": "How I'm thinking about different types of automated alignment",
         "url": "https://www.alignmentforum.org/posts/NFkj9J2BBLSjNuH5G/how-i-m-thinking-about-different-types-of-automated"
@@ -84,10 +88,6 @@
       {
         "title": "Positive and Negative AI Futures",
         "url": "https://www.alignmentforum.org/posts/MrWZfxHCEgm7uvHJj/positive-and-negative-ai-futures"
-      },
-      {
-        "title": "Desiderata for the Theory of Agents",
-        "url": "https://www.alignmentforum.org/posts/sqjti8dxcKSvZJikd/desiderata-for-the-theory-of-agents"
       }
     ]
   },
