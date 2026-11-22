@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "On the Agent Swarm that Locked Out My Cofounder, Multi-Agent Dynamics, and Shaping Cooperative Minds",
-        "url": "https://www.lesswrong.com/posts/J5KDhFcmZGuS2gQLX/on-the-agent-swarm-that-locked-out-my-cofounder-multi-agent"
+        "title": "Hillclimbing AISafetyResearchBench",
+        "url": "https://www.lesswrong.com/posts/amsCvdYFQibumL4wm/hillclimbing-aisafetyresearchbench"
       },
       {
-        "title": "If you had faith in humanity, would you still pray to a machine god?",
-        "url": "https://www.lesswrong.com/posts/jxEvGjPnCiT4LKHmp/if-you-had-faith-in-humanity-would-you-still-pray-to-a"
+        "title": "Incomplete agents want to become complete",
+        "url": "https://www.lesswrong.com/posts/QbZ69gQh6hqakCHay/incomplete-agents-want-to-become-complete"
       },
       {
-        "title": "Please just give me more time",
-        "url": "https://www.lesswrong.com/posts/gfXkZaKzkkJuyYgzW/please-just-give-me-more-time"
+        "title": "A Letter To Mr. Shannon (Unanswered)",
+        "url": "https://www.lesswrong.com/posts/XQxv8Jnn8WxTmKPSB/a-letter-to-mr-shannon-unanswered"
       },
       {
-        "title": "Auditors Struggle to Catch Sabotage in End-to-End Transcripts of AI Safety Research",
-        "url": "https://www.lesswrong.com/posts/hJELtMx786Gyei63e/auditors-struggle-to-catch-sabotage-in-end-to-end"
+        "title": "Trump on superintelligence: \u201cIt may be too super.\u201d What is China saying?",
+        "url": "https://www.lesswrong.com/posts/yyz2LAptjWgR7PKBD/trump-on-superintelligence-it-may-be-too-super-what-is-china"
       },
       {
-        "title": "The most famous hard open problem in mathematics has just been solved. Now what? [Linkpost]",
-        "url": "https://www.lesswrong.com/posts/gSQcdKtRtNpbai5TR/the-most-famous-hard-open-problem-in-mathematics-has-just"
+        "title": "Mass-Printing Hero Licenses",
+        "url": "https://www.lesswrong.com/posts/FCTtHf839fctjCtTf/mass-printing-hero-licenses"
       },
       {
-        "title": "How to be less awkward",
-        "url": "https://www.lesswrong.com/posts/xCJXtMqDu35vsuoCL/how-to-be-less-awkward"
+        "title": "The pleasure of knowing",
+        "url": "https://www.lesswrong.com/posts/Yhf5ht77btjCLtHZu/the-pleasure-of-knowing"
       },
       {
-        "title": "Quick Thoughts on the SURA Debate",
-        "url": "https://www.lesswrong.com/posts/5vMjYz3YYoHFqR2cQ/quick-thoughts-on-the-sura-debate"
+        "title": "GPT-6.2 Astra and Sol: The System Card",
+        "url": "https://www.lesswrong.com/posts/7Skw6caJxPrBDetCC/gpt-6-2-astra-and-sol-the-system-card"
       },
       {
-        "title": "I went on a night walk with Mythos",
-        "url": "https://www.lesswrong.com/posts/QywdbyTq7cm6JKwqS/i-went-on-a-night-walk-with-mythos"
+        "title": "Contra Oster on Alcohol in Pregnancy. Part 2. Is Europe really superior?",
+        "url": "https://www.lesswrong.com/posts/Scqv57kAADjJCouRA/contra-oster-on-alcohol-in-pregnancy-part-2-is-europe-really"
       },
       {
-        "title": "Dialogue with Joe Edelman on Telocracy",
-        "url": "https://www.lesswrong.com/posts/waSYzDfMjqEDAuZYG/dialogue-with-joe-edelman-on-telocracy"
+        "title": "Being right is not a strategy: Make them feel something",
+        "url": "https://www.lesswrong.com/posts/TvdRkp6spZtSbf44H/being-right-is-not-a-strategy-make-them-feel-something"
       },
       {
-        "title": "Model deprecations are corrosive to alignment",
-        "url": "https://www.lesswrong.com/posts/ycMoffGPsb8dkCLqm/model-deprecations-are-corrosive-to-alignment"
+        "title": "Human organisations as an intuition pump for AI's unit of agency",
+        "url": "https://www.lesswrong.com/posts/SGiNxS6vLeffbWhqo/human-organisations-as-an-intuition-pump-for-ai-s-unit-of"
       }
     ]
   },
@@ -104,48 +104,7 @@
   {
     "name": "arXiv AI",
     "url": "https://arxiv.org",
-    "articles": [
-      {
-        "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
-        "url": "https://arxiv.org/abs/2611.23322"
-      },
-      {
-        "title": "Training Language Models for Introspective Oversight",
-        "url": "https://arxiv.org/abs/2611.23365"
-      },
-      {
-        "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
-        "url": "https://arxiv.org/abs/2611.23375"
-      },
-      {
-        "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
-        "url": "https://arxiv.org/abs/2611.23398"
-      },
-      {
-        "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
-        "url": "https://arxiv.org/abs/2611.23410"
-      },
-      {
-        "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
-        "url": "https://arxiv.org/abs/2611.23445"
-      },
-      {
-        "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
-        "url": "https://arxiv.org/abs/2611.23454"
-      },
-      {
-        "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
-        "url": "https://arxiv.org/abs/2611.23456"
-      },
-      {
-        "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
-        "url": "https://arxiv.org/abs/2611.23476"
-      },
-      {
-        "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
-        "url": "https://arxiv.org/abs/2611.23480"
-      }
-    ]
+    "articles": []
   },
   {
     "name": "Anthropic News",
