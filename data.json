@@ -4,44 +4,44 @@
     "url": "https://www.lesswrong.com",
     "articles": [
       {
-        "title": "Chinese AI is a massive supply chain risk",
-        "url": "https://www.lesswrong.com/posts/MucksTgjXKDyh5jup/chinese-ai-is-a-massive-supply-chain-risk"
+        "title": "Good domestic politics vs bad state realpolitik",
+        "url": "https://www.lesswrong.com/posts/sQWvX3irLhuoSxpXu/good-domestic-politics-vs-bad-state-realpolitik"
       },
       {
-        "title": "Claudes just want to have fun!",
-        "url": "https://www.lesswrong.com/posts/3MnZt3ZPcgnaDQWod/claudes-just-want-to-have-fun"
+        "title": "Dear autonomous researcher: how to pick a good research project when many agents are picking at the same time",
+        "url": "https://www.lesswrong.com/posts/kfEBtKyTrj4cKuGjk/dear-autonomous-researcher-how-to-pick-a-good-research"
       },
       {
-        "title": "Diversify AI Safety Approaches",
-        "url": "https://www.lesswrong.com/posts/u7ECnXL4fjh6c4M7m/diversify-ai-safety-approaches"
+        "title": "What Book to Read Next?",
+        "url": "https://www.lesswrong.com/posts/ECRc2Hzi7iFYXsiqo/what-book-to-read-next"
       },
       {
-        "title": "AIs Should Never Refuse Destructively",
-        "url": "https://www.lesswrong.com/posts/SnLwJ8y6oEbP3kMWJ/ais-should-never-refuse-destructively"
+        "title": "Who/What/Where/How of Compute Verification",
+        "url": "https://www.lesswrong.com/posts/isY2zw4fQSRLooMfL/who-what-where-how-of-compute-verification"
       },
       {
-        "title": "DC/MD Winter Solstice",
-        "url": "https://www.lesswrong.com/events/bcpesJs5BmgafBT8b/dc-md-winter-solstice"
+        "title": "So, you want to study the unknown?",
+        "url": "https://www.lesswrong.com/posts/TCE6tmuYyhezydvZx/so-you-want-to-study-the-unknown"
       },
       {
-        "title": "Ode to the First Replicator",
-        "url": "https://www.lesswrong.com/posts/k9ermgtb88GCtdc5Z/ode-to-the-first-replicator"
+        "title": "Stacking Buffs and Debuffs",
+        "url": "https://www.lesswrong.com/posts/HwaFv2pv9xLS4ABoC/stacking-buffs-and-debuffs"
       },
       {
-        "title": "Announcing: AI Safety Co-Founding Sprint in San Francisco. Starting December 3rd.",
-        "url": "https://www.lesswrong.com/posts/c9wNKhKfkiD2ePpDG/announcing-ai-safety-co-founding-sprint-in-san-francisco"
+        "title": "Spitting in the Face of Glaude",
+        "url": "https://www.lesswrong.com/posts/o39Gw6XWqtvFE32Yo/spitting-in-the-face-of-glaude"
       },
       {
-        "title": "sensor-actuator bandwidth is an undertheorized crux about takeoff dynamics",
-        "url": "https://www.lesswrong.com/posts/M9QrTzASRb6DfWric/sensor-actuator-bandwidth-is-an-undertheorized-crux-about"
+        "title": "Help Peer: Good Teammates Can Be Fooled",
+        "url": "https://www.lesswrong.com/posts/5aBqg4BqrqyqJuggA/help-peer-good-teammates-can-be-fooled"
       },
       {
-        "title": "Reflection on putting up posters for the Don't Build It march",
-        "url": "https://www.lesswrong.com/posts/aDKmsbfdWDrzPeWjG/reflection-on-putting-up-posters-for-the-don-t-build-it"
+        "title": "Thinking About LLMs in Terms of Cognitive Patterns",
+        "url": "https://www.lesswrong.com/posts/xkK93DssNu7oD9vKg/thinking-about-llms-in-terms-of-cognitive-patterns"
       },
       {
-        "title": "Update - BioBlue: Systematic runaway-optimiser-like LLM failure modes on biologically and economically aligned AI safety benchmarks for LLMs with simplified observation format",
-        "url": "https://www.lesswrong.com/posts/obaXD5iJFbJ2fyXL4/update-bioblue-systematic-runaway-optimiser-like-llm-failure"
+        "title": "Towards a Theory of Learnability via Debate",
+        "url": "https://www.lesswrong.com/posts/wdowLCxnsRg56cNqT/towards-a-theory-of-learnability-via-debate"
       }
     ]
   },
@@ -49,6 +49,10 @@
     "name": "Alignment Forum",
     "url": "https://www.alignmentforum.org",
     "articles": [
+      {
+        "title": "I don\u2019t expect superposition in transformer MLP neurons",
+        "url": "https://www.alignmentforum.org/posts/o9dPGxEbpQrnasgDB/i-don-t-expect-superposition-in-transformer-mlp-neurons"
+      },
       {
         "title": "Comparing AI R&D compute caps and deployment lags",
         "url": "https://www.alignmentforum.org/posts/e758PJCpwAwyodvEj/comparing-ai-r-and-d-compute-caps-and-deployment-lags"
@@ -84,10 +88,6 @@
       {
         "title": "Notes on Take-Off Speeds and RSI",
         "url": "https://www.alignmentforum.org/posts/ft9hzw82v7FRDKmpn/notes-on-take-off-speeds-and-rsi"
-      },
-      {
-        "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
-        "url": "https://www.alignmentforum.org/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at"
       }
     ]
   },
@@ -106,44 +106,44 @@
     "url": "https://arxiv.org",
     "articles": [
       {
-        "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
-        "url": "https://arxiv.org/abs/2611.31284"
+        "title": "Context Scaling: A New Frontier of AI Scaling",
+        "url": "https://arxiv.org/abs/2611.33160"
       },
       {
-        "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
-        "url": "https://arxiv.org/abs/2611.31301"
+        "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+        "url": "https://arxiv.org/abs/2611.33161"
       },
       {
-        "title": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
-        "url": "https://arxiv.org/abs/2611.31329"
+        "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+        "url": "https://arxiv.org/abs/2611.33165"
       },
       {
-        "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
-        "url": "https://arxiv.org/abs/2611.31345"
+        "title": "General-Purpose Decision Models for AI Configuration Tuning",
+        "url": "https://arxiv.org/abs/2611.33190"
       },
       {
-        "title": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
-        "url": "https://arxiv.org/abs/2611.31346"
+        "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+        "url": "https://arxiv.org/abs/2611.33263"
       },
       {
-        "title": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
-        "url": "https://arxiv.org/abs/2611.31347"
+        "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
+        "url": "https://arxiv.org/abs/2611.33303"
       },
       {
-        "title": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
-        "url": "https://arxiv.org/abs/2611.31424"
+        "title": "The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
+        "url": "https://arxiv.org/abs/2611.33304"
       },
       {
-        "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
-        "url": "https://arxiv.org/abs/2611.31427"
+        "title": "Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands",
+        "url": "https://arxiv.org/abs/2611.33322"
       },
       {
-        "title": "Taxi: Analyzing Agents at (Real) Scale",
-        "url": "https://arxiv.org/abs/2611.31457"
+        "title": "Confidence scores for gated automation of large language models",
+        "url": "https://arxiv.org/abs/2611.33394"
       },
       {
-        "title": "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents",
-        "url": "https://arxiv.org/abs/2611.31475"
+        "title": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
+        "url": "https://arxiv.org/abs/2611.33402"
       }
     ]
   },
